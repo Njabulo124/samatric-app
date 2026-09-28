@@ -24,6 +24,7 @@ from pathlib import Path
 
 import psycopg
 from dotenv import load_dotenv
+from psycopg.types.json import Jsonb
 
 from pipeline.models import ApsScale, Course, ProspectusExtract
 from pipeline.validate import db_reference_errors, load_extract, part_files
@@ -135,14 +136,16 @@ def load(doc: ProspectusExtract, conn, prune: bool) -> dict:
         default_scale_id = upsert_scale(cur, rule.default_scale)
         rule_id = cur.execute(
             """
-            INSERT INTO aps_rules (university_id, intake_year, default_scale_id, subjects_counted, include_lo, notes)
-            VALUES (%s, %s, %s, %s, %s, %s)
+            INSERT INTO aps_rules (university_id, intake_year, default_scale_id, subjects_counted, include_lo,
+                                   must_count, notes)
+            VALUES (%s, %s, %s, %s, %s, %s, %s)
             ON CONFLICT (university_id, intake_year) DO UPDATE SET
                 default_scale_id = EXCLUDED.default_scale_id, subjects_counted = EXCLUDED.subjects_counted,
-                include_lo = EXCLUDED.include_lo, notes = EXCLUDED.notes
+                include_lo = EXCLUDED.include_lo, must_count = EXCLUDED.must_count, notes = EXCLUDED.notes
             RETURNING rule_id
             """,
-            (uni_id, year, default_scale_id, rule.subjects_counted, rule.include_lo, rule.notes),
+            (uni_id, year, default_scale_id, rule.subjects_counted, rule.include_lo,
+             Jsonb(rule.must_count), rule.notes),
         ).fetchone()[0]
         cur.execute("DELETE FROM aps_rule_subject_scales WHERE rule_id = %s", (rule_id,))
         for ss in rule.subject_scales:

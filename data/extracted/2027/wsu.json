@@ -59,6 +59,12 @@
     },
     "subjects_counted": 6,
     "include_lo": false,
+    "must_count": [
+      [
+        "English Home Language",
+        "English First Additional Language"
+      ]
+    ],
     "subject_scales": [],
     "notes": "Best 6 excl. LO. Category 1: max 2 languages (HL + FAL, English must be one). Category 2: best 4 other subjects excl. LO, must include subjects required by the qualification. Exception: B.Ed Foundation Phase adds LO as a 7th subject. Prospectus 2027 p.4-5."
   },

@@ -180,6 +180,15 @@ button, input, select { font: inherit; color: inherit; }
 .aps-item .aps-uni { font-weight: 700; }
 .aps-item details { grid-column: 2; font-size: var(--step--1); color: var(--ink-soft); }
 .aps-item summary { cursor: pointer; }
+.aps-note {
+  margin: 0.25rem 0 0;
+  padding: 0.6rem 0.75rem;
+  border-left: 3px solid var(--highlight);
+  background: var(--surface);
+  font-size: var(--step--1);
+  color: var(--ink-soft);
+  max-width: 60ch;
+}
 
 .tabs {
   display: flex;

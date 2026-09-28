@@ -213,18 +213,31 @@ async function check({ reveal = false } = {}) {
 /* ------------------------------------------------------------------ */
 /* Results                                                             */
 /* ------------------------------------------------------------------ */
+/** "English First Additional Language 55% = 4 (always counted), ..." */
+function working(counted, lockedLabel) {
+  return counted.map((c) => `${c.subject} ${c.mark}% = ${c.points}${c.locked ? ` (${lockedLabel})` : ''}`).join(', ');
+}
+
 function renderAps() {
   const { apsByUniversity } = state.response;
-  $('#aps-list').replaceChildren(...Object.entries(apsByUniversity).map(([uni, { aps, counted }]) => {
+  const { marks } = readSheet();
+  const extra = Object.keys(marks).filter((s) => s !== LO).length > 6;
+  const items = Object.entries(apsByUniversity).map(([uni, { aps, counted }]) => {
     const name = state.universities.get(uni)?.name ?? uni;
     return el('div', { class: 'aps-item' },
       el('span', { class: 'aps-value' }, aps),
       el('span', {}, 'APS at ', el('span', { class: 'aps-uni' }, name)),
       el('details', {},
         el('summary', {}, 'How this is worked out'),
-        el('p', {}, counted.map((c) => `${c.subject} ${c.mark}% = ${c.points}`).join(', '),
+        el('p', {}, working(counted, 'always counted'),
           '. Life Orientation is not counted unless the university says so.')));
-  }));
+  });
+  if (extra) {
+    items.push(el('p', { class: 'aps-note' },
+      'You have more than six subjects. Each course counts the subjects it requires first, then your best others, ',
+      'so a course\'s APS can be lower than the number above. Each course shows its own APS.'));
+  }
+  $('#aps-list').replaceChildren(...items);
 }
 
 function syncFacultyOptions() {
@@ -302,6 +315,12 @@ function courseItem(r) {
   }
   const closes = formatDate(uni?.applicationsClose);
   if (closes && r.status !== 'not_eligible') foot.push(el('span', { class: 'closes' }, `Applications close ${closes}`));
+  const uniAps = state.response.apsByUniversity[r.university]?.aps;
+  if (r.apsWorking && r.aps !== uniAps) {
+    foot.push(el('details', {}, el('summary', {}, 'How this course\'s APS is worked out'),
+      el('p', {}, working(r.apsWorking, 'required by this course'),
+        '. Required subjects are counted first, then your best other subjects.')));
+  }
   if (r.notes) foot.push(el('details', {}, el('summary', {}, 'Course notes'), el('p', {}, r.notes)));
 
   return el('li', { class: `course ${r.status}` },

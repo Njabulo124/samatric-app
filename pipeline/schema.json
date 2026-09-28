@@ -92,6 +92,17 @@
           "title": "Include Lo",
           "type": "boolean"
         },
+        "must_count": {
+          "default": [],
+          "items": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array"
+          },
+          "title": "Must Count",
+          "type": "array"
+        },
         "subject_scales": {
           "default": [],
           "items": {

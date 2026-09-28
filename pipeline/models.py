@@ -96,6 +96,9 @@ class ApsRule(StrictModel):
     default_scale: ApsScale
     subjects_counted: int = Field(default=6, ge=1, le=9)
     include_lo: bool = False
+    # Subjects always counted in the APS. Each slot lists alternatives (e.g. English HL or FAL);
+    # the learner's best subject per slot is counted first, then the best of the rest.
+    must_count: list[list[str]] = []
     subject_scales: list[SubjectScale] = []
     notes: Optional[str] = None
 

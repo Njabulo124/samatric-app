@@ -82,6 +82,7 @@ CREATE TABLE aps_rules (
     default_scale_id INT NOT NULL REFERENCES aps_scales(scale_id),
     subjects_counted SMALLINT NOT NULL DEFAULT 6 CHECK (subjects_counted BETWEEN 1 AND 9), -- best N subjects
     include_lo       BOOLEAN  NOT NULL DEFAULT FALSE,   -- is Life Orientation counted at all?
+    must_count       JSONB    NOT NULL DEFAULT '[]'::jsonb, -- slots always counted, e.g. [["English Home Language","English First Additional Language"]]
     notes            TEXT,
     UNIQUE (university_id, intake_year)
 );
