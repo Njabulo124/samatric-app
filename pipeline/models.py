@@ -121,7 +121,7 @@ class RequirementGroup(StrictModel):
 
 
 class Course(StrictModel):
-    name: str = Field(min_length=3)
+    name: str = Field(min_length=2)  # e.g. UJ's plain "BA"
     faculty: Optional[str] = None
     qualification_type: Literal[
         "higher_certificate", "diploma", "advanced_diploma", "bachelor", "other"

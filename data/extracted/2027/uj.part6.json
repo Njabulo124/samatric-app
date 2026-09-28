@@ -1,0 +1,319 @@
+[
+  {
+    "name": "Bachelor of Social Work",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 31,
+    "min_aps_maths_lit": 31,
+    "min_aps_tech_maths": 31,
+    "source_ref": "Prospectus 2027 p.74",
+    "notes": "Qual code B7025Q. Campus: APK. No mathematics requirement listed. [No maths requirement, so any maths subject is accepted at the same APS]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "BA",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 27,
+    "min_aps_maths_lit": 27,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.75",
+    "notes": "Qual code B7023Q. Campus: APK. No mathematics requirement listed. Technical Mathematics not accepted; where Mathematics is selected as a major, the Faculty of Science's minimum Grade 12 Mathematics requirement (4, 50%+) applies. Subjects taken outside Humanities must meet the home faculty's entry requirements (list: https://www.uj.ac.za/faculties/humanities/newBA).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "BA with specialisation in Language Practice",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 27,
+    "min_aps_maths_lit": 27,
+    "min_aps_tech_maths": 27,
+    "source_ref": "Prospectus 2027 p.75",
+    "notes": "Qual code B7026Q. Campus: APK. Mathematics not applicable. [No maths requirement, so any maths subject is accepted at the same APS]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "BA with specialisation in Politics, Economics and Technology",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 27,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.75",
+    "notes": "Qual code B7024Q. Campus: APK. Min APS stated '27 with Mathematics'. Technical Mathematics not accepted; Mathematical Literacy not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "BA in Community Development and Leadership",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 27,
+    "min_aps_maths_lit": 27,
+    "min_aps_tech_maths": 27,
+    "source_ref": "Prospectus 2027 p.75",
+    "notes": "Qual code B7015Q. Campus: SWC. Mathematics not applicable. Listed under Bachelor of Arts as 'COMMUNITY DEVELOPMENT AND LEADERSHIP'. [No maths requirement, so any maths subject is accepted at the same APS]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Extended BA with specialisation in Development Studies",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "Prospectus 2027 p.76",
+    "notes": "Qual code B7EX2Q. Campus: APK. Two routes: APS 24-26 with English 5 (60%+), OR APS 27 with English 4 (50%+); the English score determines the APS range. Interviews are conducted with individual applicants. No mathematics requirement listed. [Modelled as the APS 24 + English 60% route only; the APS 27 + English 50% route is not yet modelled]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Extended BA with specialisation in Linguistics",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "Prospectus 2027 p.76",
+    "notes": "Qual code B7EX3Q. Campus: APK. Two routes: APS 24-26 with English 5 (60%+), OR APS 27 with English 4 (50%+); the English score determines the APS range. Interviews are conducted with individual applicants. No mathematics requirement listed. [Modelled as the APS 24 + English 60% route only; the APS 27 + English 50% route is not yet modelled]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Extended BA with specialisation in Linguistics and Language Practice",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "Prospectus 2027 p.76",
+    "notes": "Qual code B7EX4Q. Campus: APK. Two routes: APS 24-26 with English 5 (60%+), OR APS 27 with English 4 (50%+); the English score determines the APS range. Interviews are conducted with individual applicants. No mathematics requirement listed. [Modelled as the APS 24 + English 60% route only; the APS 27 + English 50% route is not yet modelled]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Extended BA with specialisation in Strategic Communication",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "Prospectus 2027 p.76",
+    "notes": "Qual code B7EX5Q. Campus: APK. Two routes: APS 24-26 with English 5 (60%+), OR APS 27 with English 4 (50%+); the English score determines the APS range. Interviews are conducted with individual applicants. No mathematics requirement listed. [Modelled as the APS 24 + English 60% route only; the APS 27 + English 50% route is not yet modelled]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Public Relations and Communication",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 25,
+    "min_aps_maths_lit": 25,
+    "min_aps_tech_maths": 25,
+    "source_ref": "Prospectus 2027 p.76",
+    "notes": "Qual code D7002Q. Campus: APB. No mathematics requirement listed. [No maths requirement, so any maths subject is accepted at the same APS]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Extended Diploma in Public Relations and Communication",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "diploma",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "diploma",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "Prospectus 2027 p.76",
+    "notes": "Qual code D7EX2Q. Campus: APB. No mathematics requirement listed. [No maths requirement, so any maths subject is accepted at the same APS]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  }
+]
