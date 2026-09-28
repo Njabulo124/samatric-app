@@ -126,6 +126,8 @@ const STATUS_ORDER = { qualifies: 0, check: 1, close: 2, not_eligible: 3 };
 
 /**
  * Evaluate all courses. `rules` maps universityShortName -> APS rule (see aps.js).
+ * apsByUniversity uses only the university's must-count subjects; each course's APS also
+ * locks in that course's required subjects, so it can differ for learners with extra subjects.
  * Returns { apsByUniversity, results }, results sorted: qualifies, check, close, not eligible.
  */
 export function evaluateAll(courses, rules, marks) {
@@ -133,8 +135,12 @@ export function evaluateAll(courses, rules, marks) {
   for (const [uni, rule] of Object.entries(rules)) apsByUniversity[uni] = computeAps(marks, rule);
 
   const results = courses
-    .filter((c) => apsByUniversity[c.universityShortName])
-    .map((c) => evaluateCourse(c, marks, apsByUniversity[c.universityShortName].aps))
+    .filter((c) => rules[c.universityShortName])
+    .map((c) => {
+      const slots = c.requirements.map((g) => g.options.map((o) => o.subject));
+      const { aps, counted } = computeAps(marks, rules[c.universityShortName], slots);
+      return { ...evaluateCourse(c, marks, aps), apsWorking: counted };
+    })
     .sort(
       (a, b) =>
         STATUS_ORDER[a.status] - STATUS_ORDER[b.status] ||

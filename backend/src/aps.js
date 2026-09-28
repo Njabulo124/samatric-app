@@ -3,11 +3,18 @@
  *
  * A university rule looks like:
  *   {
- *     subjectsCounted: 6,          // best N subjects
+ *     subjectsCounted: 6,          // how many subjects make up the APS
  *     includeLo: false,            // is Life Orientation counted?
  *     defaultBands: [{ min, max, points }, ...],
- *     subjectBands: { "Life Orientation": [...] }   // optional per-subject scales
+ *     subjectBands: { "Life Orientation": [...] },   // optional per-subject scales
+ *     mustCount: [["English Home Language", "English First Additional Language"]]
  *   }
+ *
+ * mustCount and the course's own requirements are lists of "slots"; each slot is a list of
+ * alternative subjects. For each slot the learner's best matching subject is locked in first,
+ * then the remaining places are filled with the learner's best other subjects.
+ * A learner with exactly 6 non-LO subjects gets the same APS either way: all of them count.
+ *
  * Marks are { "Mathematics": 72, "English Home Language": 65, ... } in percent.
  */
 
@@ -19,20 +26,42 @@ export function pointsFor(mark, bands) {
   return band ? Number(band.points) : 0;
 }
 
+const byStrength = (a, b) => b.points - a.points || b.mark - a.mark;
+
 /**
  * Compute APS for a learner under one university's rule.
- * Returns { aps, counted: [{ subject, mark, points }] } so the UI can show the working.
+ * `courseSlots` are the course's requirement groups as lists of subject names (optional).
+ * Returns { aps, counted: [{ subject, mark, points, locked }] } so the UI can show the working.
  */
-export function computeAps(marks, rule) {
-  const scored = Object.entries(marks)
-    .filter(([subject]) => rule.includeLo || subject !== LIFE_ORIENTATION)
-    .map(([subject, mark]) => {
-      const bands = rule.subjectBands?.[subject] ?? rule.defaultBands;
-      return { subject, mark, points: pointsFor(mark, bands) };
-    })
-    .sort((a, b) => b.points - a.points || b.mark - a.mark);
+export function computeAps(marks, rule, courseSlots = []) {
+  const scored = new Map(
+    Object.entries(marks)
+      .filter(([subject]) => rule.includeLo || subject !== LIFE_ORIENTATION)
+      .map(([subject, mark]) => {
+        const bands = rule.subjectBands?.[subject] ?? rule.defaultBands;
+        return [subject, { subject, mark, points: pointsFor(mark, bands) }];
+      }),
+  );
 
-  const counted = scored.slice(0, rule.subjectsCounted);
+  const counted = [];
+  const take = (entry, locked) => {
+    counted.push({ ...entry, locked });
+    scored.delete(entry.subject);
+  };
+
+  // 1. Lock in the must-count slots (university rule first, then the course's requirements)
+  for (const slot of [...(rule.mustCount ?? []), ...courseSlots]) {
+    if (counted.length >= rule.subjectsCounted) break;
+    const best = slot.map((s) => scored.get(s)).filter(Boolean).sort(byStrength)[0];
+    if (best) take(best, true);
+  }
+
+  // 2. Fill the remaining places with the best of the rest
+  for (const entry of [...scored.values()].sort(byStrength)) {
+    if (counted.length >= rule.subjectsCounted) break;
+    take(entry, false);
+  }
+
   const aps = counted.reduce((sum, s) => sum + s.points, 0);
   return { aps, counted };
 }

@@ -68,3 +68,18 @@ export const SCIENCE_LEARNER = {
   Geography: 64,
   'Life Orientation': 90,
 };
+
+/** 9 subjects: English is the weakest, so plain "best 6" would drop it. */
+export const NINE_SUBJECT_LEARNER = {
+  'isiZulu Home Language': 85,
+  'Physical Sciences': 80,
+  'Life Sciences': 78,
+  Geography: 76,
+  Accounting: 74,
+  Mathematics: 72,
+  'Information Technology': 70,
+  'English First Additional Language': 55,
+  'Life Orientation': 90,
+};
+
+export const ENGLISH_SLOT = ['English Home Language', 'English First Additional Language'];

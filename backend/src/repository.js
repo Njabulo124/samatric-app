@@ -15,7 +15,7 @@ const BANDS_SQL = `
 /** APS rules for an intake year, keyed by university short name. */
 export async function loadRules(db, intakeYear, { universities } = {}) {
   const { rows } = await db.query(
-    `SELECT r.rule_id, r.default_scale_id, r.subjects_counted, r.include_lo, u.short_name
+    `SELECT r.rule_id, r.default_scale_id, r.subjects_counted, r.include_lo, r.must_count, u.short_name
      FROM aps_rules r JOIN universities u USING (university_id)
      WHERE r.intake_year = $1 AND u.is_active
        AND ($2::text[] IS NULL OR u.short_name = ANY($2))`,
@@ -34,6 +34,7 @@ export async function loadRules(db, intakeYear, { universities } = {}) {
     rules[r.short_name] = {
       subjectsCounted: r.subjects_counted,
       includeLo: r.include_lo,
+      mustCount: r.must_count ?? [],
       defaultBands,
       subjectBands,
     };
