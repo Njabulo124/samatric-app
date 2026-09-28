@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SAMATRIC: find courses you qualify for</title>
+  <meta name="description" content="Enter your matric marks and see which university courses you qualify for, and which are within reach.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%232446c8'/%3E%3Cpath d='M9 17l5 5 9-12' stroke='%23fff' stroke-width='3.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+</head>
+<body>
+  <header class="site-header">
+    <p class="brand">SAMATRIC</p>
+    <h1>Find courses your marks qualify you for</h1>
+    <p class="lede">Enter your latest marks. We work out your APS the way each university does and check every course's subject requirements.</p>
+  </header>
+
+  <main class="layout">
+    <!-- Marks sheet -->
+    <section class="sheet" aria-labelledby="sheet-title">
+      <h2 id="sheet-title">Your marks</h2>
+
+      <form id="marks-form" novalidate>
+        <div class="row row-fixed">
+          <label class="subject-field">
+            <span class="visually-hidden">English level</span>
+            <select id="english-level">
+              <option value="English Home Language">English Home Language</option>
+              <option value="English First Additional Language">English First Additional Language</option>
+            </select>
+          </label>
+          <label class="mark-field"><span class="visually-hidden">English mark</span>
+            <input id="english-mark" type="number" inputmode="numeric" min="0" max="100" placeholder="%" required>
+          </label>
+        </div>
+
+        <div class="row row-fixed">
+          <label class="subject-field">
+            <span class="visually-hidden">Maths subject</span>
+            <select id="maths-type">
+              <option value="Mathematics">Mathematics</option>
+              <option value="Mathematical Literacy">Mathematical Literacy</option>
+              <option value="Technical Mathematics">Technical Mathematics</option>
+            </select>
+          </label>
+          <label class="mark-field"><span class="visually-hidden">Maths mark</span>
+            <input id="maths-mark" type="number" inputmode="numeric" min="0" max="100" placeholder="%" required>
+          </label>
+        </div>
+
+        <div class="row row-fixed">
+          <span class="subject-field static">Life Orientation</span>
+          <label class="mark-field"><span class="visually-hidden">Life Orientation mark</span>
+            <input id="lo-mark" type="number" inputmode="numeric" min="0" max="100" placeholder="%">
+          </label>
+        </div>
+
+        <div id="other-rows"></div>
+
+        <button type="button" id="add-subject" class="btn-quiet">Add a subject</button>
+
+        <p id="form-errors" class="form-errors" role="alert" hidden></p>
+
+        <button type="submit" class="btn-primary">Check my courses</button>
+        <p class="hint">Your marks stay on this device. Change any mark after checking and the results update.</p>
+      </form>
+    </section>
+
+    <!-- Results -->
+    <section class="results" aria-labelledby="results-title">
+      <h2 id="results-title" class="visually-hidden">Results</h2>
+
+      <div id="empty-state" class="empty-state">
+        <p>Your results will appear here.</p>
+        <p class="muted">Start with English and maths, then add your other subjects.</p>
+      </div>
+
+      <div id="results-body" hidden>
+        <div id="aps-list" class="aps-list"></div>
+
+        <div class="tabs" role="tablist" aria-label="Filter by result">
+          <button role="tab" data-status="qualifies" aria-selected="true">You qualify <span class="count"></span></button>
+          <button role="tab" data-status="close" aria-selected="false">Within reach <span class="count"></span></button>
+          <button role="tab" data-status="check" aria-selected="false">Confirm with university <span class="count"></span></button>
+          <button role="tab" data-status="not_eligible" aria-selected="false">Not yet <span class="count"></span></button>
+        </div>
+
+        <div class="filters">
+          <label>University
+            <select id="filter-uni"><option value="">All</option></select>
+          </label>
+          <label>Faculty
+            <select id="filter-faculty"><option value="">All</option></select>
+          </label>
+          <label>Type
+            <select id="filter-type">
+              <option value="">All</option>
+              <option value="bachelor">Degrees</option>
+              <option value="diploma">Diplomas</option>
+              <option value="higher_certificate">Higher certificates</option>
+            </select>
+          </label>
+          <label class="search">Search
+            <input id="filter-search" type="search" placeholder="e.g. engineering">
+          </label>
+        </div>
+
+        <p id="result-count" class="result-count" aria-live="polite"></p>
+        <ol id="course-list" class="course-list"></ol>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Requirements come from each university's 2027 undergraduate prospectus. Always confirm on the university's website before applying.</p>
+  </footer>
+
+  <template id="row-template">
+    <div class="row row-other">
+      <label class="subject-field">
+        <span class="visually-hidden">Subject</span>
+        <select class="other-subject"></select>
+      </label>
+      <label class="mark-field"><span class="visually-hidden">Mark</span>
+        <input class="other-mark" type="number" inputmode="numeric" min="0" max="100" placeholder="%">
+      </label>
+      <button type="button" class="remove" aria-label="Remove subject">×</button>
+    </div>
+  </template>
+
+  <script src="app.js" type="module"></script>
+</body>
+</html>
