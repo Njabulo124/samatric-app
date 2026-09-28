@@ -1,0 +1,1272 @@
+[
+  {
+    "name": "Bachelor of Engineering (BEng) in Civil Engineering",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 32,
+    "source_ref": "Prospectus 2027 p.60",
+    "notes": "Qual code B6CS0Q. Campus: APK. Mathematical Literacy not accepted. Technical Science not accepted. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering (BEng) in Electrical and Electronic Engineering",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 32,
+    "source_ref": "Prospectus 2027 p.60",
+    "notes": "Qual code B6ES0Q. Campus: APK. Mathematical Literacy not accepted. Technical Science not accepted. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering (BEng) in Mechanical Engineering",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 32,
+    "source_ref": "Prospectus 2027 p.60",
+    "notes": "Qual code B6MS0Q. Campus: APK. Mathematical Literacy not accepted. Technical Science not accepted. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering Technology (BEngTech) in Chemical Engineering",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 30,
+    "source_ref": "Prospectus 2027 p.60",
+    "notes": "Qual code B6CE1Q. Campus: DFC. Mathematical Literacy not accepted. Technical Science not accepted. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering Technology (BEngTech) in Civil Engineering",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 28,
+    "source_ref": "Prospectus 2027 p.60",
+    "notes": "Qual code B6CV3Q. Campus: DFC. Mathematical Literacy not accepted. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Science",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering Technology (BEngTech) in Electrical Engineering",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 30,
+    "source_ref": "Prospectus 2027 p.60",
+    "notes": "Qual code B6EL1Q. Campus: DFC. Mathematical Literacy not accepted. Technical Science not accepted. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering Technology (BEngTech) in Extraction Metallurgy",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 30,
+    "source_ref": "Prospectus 2027 p.60",
+    "notes": "Qual code B6EXTQ. Campus: DFC. Mathematical Literacy not accepted. Technical Science not accepted. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering Technology (BEngTech) in Industrial Engineering",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 30,
+    "source_ref": "Prospectus 2027 p.60",
+    "notes": "Qual code B6IN2Q. Campus: DFC. Mathematical Literacy not accepted. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Science",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering Technology (BEngTech) in Mechanical Engineering",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 30,
+    "source_ref": "Prospectus 2027 p.60",
+    "notes": "Qual code B6MC2Q. Campus: DFC. Mathematical Literacy not accepted. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Science",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering Technology (BEngTech) in Mining Engineering",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 23,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 23,
+    "source_ref": "Prospectus 2027 p.60",
+    "notes": "Qual code B6MINQ. Campus: DFC. Mathematical Literacy not accepted. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Science",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering Technology (BEngTech) in Physical Metallurgy",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 30,
+    "source_ref": "Prospectus 2027 p.60",
+    "notes": "Qual code B6PY2Q. Campus: DFC. Mathematical Literacy not accepted. Technical Science not accepted. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Mine Surveying",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 23,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 23,
+    "source_ref": "Prospectus 2027 p.61",
+    "notes": "Qual code B6SU0Q. Campus: DFC. Mathematical Literacy not accepted. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Science",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Construction (BSc)",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 30,
+    "source_ref": "Prospectus 2027 p.61",
+    "notes": "Qual code B6CN0Q. Campus: DFC. Mathematical Literacy not accepted. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Science",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Urban and Regional Planning",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 27,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 27,
+    "source_ref": "Prospectus 2027 p.61",
+    "notes": "Qual code B6UP0Q. Campus: DFC. Mathematical Literacy not accepted. Physical Science / Technical Science not applicable. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Geography",
+        "options": [
+          {
+            "subject": "Geography",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Management Services",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 19,
+    "min_aps_maths_lit": 21,
+    "min_aps_tech_maths": 19,
+    "source_ref": "Prospectus 2027 p.62",
+    "notes": "Qual code D6MASQ. Campus: DFC. Min APS 19 is stated 'with Mathematics'; APS for Technical Mathematics not stated. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Operations Management",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 20,
+    "min_aps_maths_lit": 22,
+    "min_aps_tech_maths": 20,
+    "source_ref": "Prospectus 2027 p.62",
+    "notes": "Qual code D6OPMQ. Campus: DFC. Min APS 20 is stated 'with Mathematics'; APS for Technical Mathematics not stated. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Extended Bachelor of Science in Construction (BSc)",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "Prospectus 2027 p.63",
+    "notes": "Qual code B6SC0Q. Campus: DFC. Mathematical Literacy not accepted. Duration not stated for extended programmes. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Science",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Extended Bachelor of Engineering Technology (BEngTech) in Civil Engineering",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "Prospectus 2027 p.63",
+    "notes": "Qual code B6CX3Q. Campus: DFC. Mathematical Literacy not accepted. Duration not stated for extended programmes. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Science",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Extended Bachelor of Engineering Technology (BEngTech) in Electrical Engineering",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "Prospectus 2027 p.63",
+    "notes": "Qual code B6L1XQ. Campus: DFC. Mathematical Literacy not accepted. Technical Science not accepted. Duration not stated for extended programmes. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Extended Bachelor of Engineering Technology (BEngTech) in Extraction Metallurgy",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 22,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 22,
+    "source_ref": "Prospectus 2027 p.63",
+    "notes": "Qual code B6EX0Q. Campus: DFC. Mathematical Literacy not accepted. Technical Science not accepted. Duration not stated for extended programmes. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Extended Bachelor of Engineering Technology (BEngTech) in Industrial Engineering",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "source_ref": "Prospectus 2027 p.63",
+    "notes": "Qual code B6IX2Q. Campus: DFC. Mathematical Literacy not accepted. Duration not stated for extended programmes. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Science",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Extended Bachelor of Engineering Technology (BEngTech) in Mechanical Engineering",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "source_ref": "Prospectus 2027 p.63",
+    "notes": "Qual code B6MX2Q. Campus: DFC. Mathematical Literacy not accepted. Duration not stated for extended programmes. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Science",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Extended Bachelor of Engineering Technology (BEngTech) in Physical Metallurgy",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 22,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 22,
+    "source_ref": "Prospectus 2027 p.63",
+    "notes": "Qual code B6PX2Q. Campus: DFC. Mathematical Literacy not accepted. Technical Science not accepted. Duration not stated for extended programmes. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Extended Diploma in Management Services",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "diploma",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": 19,
+    "min_aps_maths_lit": 21,
+    "min_aps_tech_maths": 19,
+    "source_ref": "Prospectus 2027 p.63",
+    "notes": "Qual code D6MAEQ. Campus: DFC. Min APS 19 is stated 'with Mathematics'; APS for Technical Mathematics not stated. Duration not stated for extended programmes. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Extended Diploma in Operations Management",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "diploma",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": 20,
+    "min_aps_maths_lit": 22,
+    "min_aps_tech_maths": 20,
+    "source_ref": "Prospectus 2027 p.63",
+    "notes": "Qual code D6OPEQ. Campus: DFC. Min APS 20 is stated 'with Mathematics'; APS for Technical Mathematics not stated. Duration not stated for extended programmes. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  }
+]
