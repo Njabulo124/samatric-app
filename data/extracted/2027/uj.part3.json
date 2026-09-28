@@ -1,0 +1,605 @@
+[
+  {
+    "name": "BEd Degree in Foundation Phase Teaching",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "Prospectus 2027 p.54, 57",
+    "notes": "Qual code B5BFPQ. Campus: SWC. Grades R-3. Preliminary admission on final Grade 11 results; final admission on Grade 12 results. A Bachelor's endorsement does not guarantee admission. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "BEd Degree in Intermediate Phase Teaching",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "Prospectus 2027 p.54, 57",
+    "notes": "Qual code B5BITQ. Campus: SWC. Grades 4-7. Preliminary admission on final Grade 11 results; final admission on Grade 12 results. A Bachelor's endorsement does not guarantee admission. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) – Life Orientation (Psychology)",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "Prospectus 2027 p.54, 57",
+    "notes": "Qual code B5LOPQ. Campus: APK. No mathematics requirement listed. Preliminary admission on final Grade 11 results; final admission on Grade 12 results. A Bachelor's endorsement does not guarantee admission. [No maths requirement, so any maths subject is accepted at the same APS]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) – Accounting",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.54, 57",
+    "notes": "Qual code B5BSAQ. Campus: APK. Mathematical Literacy / Technical Mathematics not applicable. Preliminary admission on final Grade 11 results; final admission on Grade 12 results. A Bachelor's endorsement does not guarantee admission.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) – Business Management",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "Prospectus 2027 p.54, 57",
+    "notes": "Qual code B5BSBQ. Campus: APK. Preliminary admission on final Grade 11 results; final admission on Grade 12 results. A Bachelor's endorsement does not guarantee admission. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) – Economics",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.54, 57",
+    "notes": "Qual code B5BSEQ. Campus: APK. Mathematical Literacy / Technical Mathematics not applicable. Preliminary admission on final Grade 11 results; final admission on Grade 12 results. A Bachelor's endorsement does not guarantee admission.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) – English",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "Prospectus 2027 p.55, 57",
+    "notes": "Qual code B5LAEQ. Campus: APK. No mathematics requirement listed. Preliminary admission on final Grade 11 results; final admission on Grade 12 results. A Bachelor's endorsement does not guarantee admission. [No maths requirement, so any maths subject is accepted at the same APS]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) – Afrikaans",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "Prospectus 2027 p.55, 57",
+    "notes": "Qual code B5LAFQ. Campus: APK. No mathematics requirement listed. Preliminary admission on final Grade 11 results; final admission on Grade 12 results. A Bachelor's endorsement does not guarantee admission. [No maths requirement, so any maths subject is accepted at the same APS]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Afrikaans",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) – IsiZulu",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "Prospectus 2027 p.55, 57",
+    "notes": "Qual code B5LAZQ. Campus: APK. No mathematics requirement listed. Preliminary admission on final Grade 11 results; final admission on Grade 12 results. A Bachelor's endorsement does not guarantee admission. [No maths requirement, so any maths subject is accepted at the same APS]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "isiZulu",
+        "options": [
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) – Sepedi",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "Prospectus 2027 p.55, 57",
+    "notes": "Qual code B5LASQ. Campus: APK. No mathematics requirement listed. Preliminary admission on final Grade 11 results; final admission on Grade 12 results. A Bachelor's endorsement does not guarantee admission. [No maths requirement, so any maths subject is accepted at the same APS]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Sepedi",
+        "options": [
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) – Geography",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "Prospectus 2027 p.55, 57",
+    "notes": "Qual code B5SGEQ. Campus: APK. Table reads: Maths/Tech Maths 4 OR Maths Lit 6 OR Physical Science 3 OR Life Science 3, AND Geography 3. Preliminary admission on final Grade 11 results; final admission on Grade 12 results. A Bachelor's endorsement does not guarantee admission. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Science",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Geography",
+        "options": [
+          {
+            "subject": "Geography",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) – Life Sciences",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "Prospectus 2027 p.55, 57",
+    "notes": "Qual code B5SLSQ. Campus: APK. Preliminary admission on final Grade 11 results; final admission on Grade 12 results. A Bachelor's endorsement does not guarantee admission. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Science",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) – Mathematics",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "Prospectus 2027 p.55, 57",
+    "notes": "Qual code B5SMMQ. Campus: APK. Preliminary admission on final Grade 11 results; final admission on Grade 12 results. A Bachelor's endorsement does not guarantee admission. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "BEd Degree in Senior Phase and Further Education and Training (Grade 8-12) – Physical Science",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 28,
+    "source_ref": "Prospectus 2027 p.55, 57",
+    "notes": "Qual code B5SPSQ. Campus: APK. Mathematical Literacy not applicable. Preliminary admission on final Grade 11 results; final admission on Grade 12 results. A Bachelor's endorsement does not guarantee admission. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  }
+]

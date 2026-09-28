@@ -30,6 +30,7 @@ from pipeline.models import ProspectusExtract
 
 MATHS_LIT = "Mathematical Literacy"
 TECH_MATHS = "Technical Mathematics"
+MATHS_TYPES = {"Mathematics", MATHS_LIT, TECH_MATHS}
 
 
 # ---------------------------------------------------------------------------
@@ -131,12 +132,15 @@ def warnings_for(doc: ProspectusExtract) -> list[str]:
             warns.append(f"'{c.name}': min_aps is missing")
         if MATHS_LIT in subjects and c.min_aps_maths_lit is None:
             warns.append(f"'{c.name}': Maths Lit is in requirements but min_aps_maths_lit is NULL")
-        if c.min_aps_maths_lit is not None and MATHS_LIT not in subjects:
-            warns.append(f"'{c.name}': min_aps_maths_lit is set but no requirement mentions Maths Lit")
+        # A "maths group" is any requirement group offering a maths-type subject.
+        maths_groups = [{o.subject for o in g.options} for g in c.requirements
+                        if {o.subject for o in g.options} & MATHS_TYPES]
+        if c.min_aps_maths_lit is not None and any(MATHS_LIT not in g for g in maths_groups):
+            warns.append(f"'{c.name}': min_aps_maths_lit is set but a maths requirement excludes Maths Lit")
         if TECH_MATHS in subjects and c.min_aps_tech_maths is None:
             warns.append(f"'{c.name}': Tech Maths is in requirements but min_aps_tech_maths is NULL")
-        if c.min_aps_tech_maths is not None and TECH_MATHS not in subjects:
-            warns.append(f"'{c.name}': min_aps_tech_maths is set but no requirement mentions Tech Maths")
+        if c.min_aps_tech_maths is not None and any(TECH_MATHS not in g for g in maths_groups):
+            warns.append(f"'{c.name}': min_aps_tech_maths is set but a maths requirement excludes Tech Maths")
         if c.qualification_type == "bachelor" and c.nsc_pass_required not in (None, "bachelor"):
             warns.append(f"'{c.name}': bachelor degree but nsc_pass_required = '{c.nsc_pass_required}'")
         if c.faculty is None:
