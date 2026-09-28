@@ -1,0 +1,513 @@
+{
+  "intake_year": 2027,
+  "source_document": "UJ Undergraduate Prospectus 2027",
+  "university": {
+    "name": "University of Johannesburg",
+    "short_name": "UJ",
+    "institution_type": "comprehensive",
+    "province": "Gauteng",
+    "website_url": "https://www.uj.ac.za",
+    "application_url": "https://registration.uj.ac.za/pls/prodi41/gen.gw1pkg.gw1view",
+    "application_fee": 0
+  },
+  "application_periods": [
+    {
+      "label": "General",
+      "opens_on": null,
+      "closes_on": "2026-10-31",
+      "notes": "Applications open in April; close 31 October 2026 at 12:00. Student accommodation applications close the same date."
+    }
+  ],
+  "aps_rule": {
+    "default_scale": {
+      "name": "NSC standard 7-point"
+    },
+    "subjects_counted": 6,
+    "include_lo": false,
+    "subject_scales": [],
+    "notes": "Sum of achievement ratings of six subjects; Life Orientation not counted. Same scale applies to IEB/SACAI/ISC. Prospectus 2027 p.16."
+  },
+  "faculties": [
+    "Faculty of Art, Design and Architecture",
+    "College of Business and Economics",
+    "Faculty of Education",
+    "Faculty of Engineering and the Built Environment",
+    "Faculty of Health Sciences",
+    "Faculty of Humanities",
+    "Faculty of Law",
+    "Faculty of Science"
+  ],
+  "courses": [
+    {
+      "name": "B Arch (Architecture)",
+      "faculty": "Faculty of Art, Design and Architecture",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "Prospectus 2027 p.32, 37",
+      "notes": "Qual code B8BA3Q. Campus: APB. Mathematical Literacy and Technical Mathematics not accepted.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BA (Communication Design)",
+      "faculty": "Faculty of Art, Design and Architecture",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 25,
+      "min_aps_maths_lit": 26,
+      "min_aps_tech_maths": null,
+      "source_ref": "Prospectus 2027 p.32, 37",
+      "notes": "Qual code B8CD2Q. Campus: APB. Technical Mathematics not accepted.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BA (Digital Media Design)",
+      "faculty": "Faculty of Art, Design and Architecture",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 25,
+      "min_aps_maths_lit": 26,
+      "min_aps_tech_maths": null,
+      "source_ref": "Prospectus 2027 p.32, 37",
+      "notes": "Qual code B8DM3Q. Campus: APB. Technical Mathematics not accepted.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BA (Industrial Design)",
+      "faculty": "Faculty of Art, Design and Architecture",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 25,
+      "min_aps_maths_lit": 26,
+      "min_aps_tech_maths": null,
+      "source_ref": "Prospectus 2027 p.32, 37",
+      "notes": "Qual code B8ID1Q. Campus: APB. Technical Mathematics not accepted.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BA (Interior Design)",
+      "faculty": "Faculty of Art, Design and Architecture",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 25,
+      "min_aps_maths_lit": 26,
+      "min_aps_tech_maths": null,
+      "source_ref": "Prospectus 2027 p.33, 37",
+      "notes": "Qual code B8BA6Q. Campus: APB. Technical Mathematics not accepted.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BA (Fashion Design)",
+      "faculty": "Faculty of Art, Design and Architecture",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 25,
+      "min_aps_maths_lit": 26,
+      "min_aps_tech_maths": null,
+      "source_ref": "Prospectus 2027 p.33, 37",
+      "notes": "Qual code B8FD1Q. Campus: APB. Technical Mathematics not accepted.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BA (Visual Art)",
+      "faculty": "Faculty of Art, Design and Architecture",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 25,
+      "min_aps_maths_lit": 26,
+      "min_aps_tech_maths": 25,
+      "source_ref": "Prospectus 2027 p.33, 37",
+      "notes": "Qual code B8BA7Q. Campus: APB. Min APS 25 applies with Mathematics or Technical Mathematics. Maths/Maths Lit requirement may be exempted for international applicants provided university entrance requirements and APS remain intact.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Architecture",
+      "faculty": "Faculty of Art, Design and Architecture",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 25,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": 26,
+      "source_ref": "Prospectus 2027 p.34, 37",
+      "notes": "Qual code D8AT1Q. Campus: APB. Min APS 26 with Technical Mathematics. Mathematical Literacy not accepted.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Fashion Production",
+      "faculty": "Faculty of Art, Design and Architecture",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 22,
+      "min_aps_maths_lit": 23,
+      "min_aps_tech_maths": null,
+      "source_ref": "Prospectus 2027 p.34, 37",
+      "notes": "Qual code D8FP1Q. Campus: APB. Technical Mathematics not accepted.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Jewellery Design and Manufacture",
+      "faculty": "Faculty of Art, Design and Architecture",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 20,
+      "min_aps_maths_lit": 21,
+      "min_aps_tech_maths": 22,
+      "source_ref": "Prospectus 2027 p.34, 37",
+      "notes": "Qual code D8JD1Q. Campus: APB. Min APS 22 with Technical Mathematics.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ambiguities": [
+    {
+      "item": "schema.json",
+      "issue": "Not attached; only the prospectus PDF was uploaded",
+      "choice": "Followed the abridged shape in the prompt; not validated against the real schema"
+    },
+    {
+      "item": "Header placeholders",
+      "issue": "UNIVERSITY / INTAKE YEAR left as placeholders",
+      "choice": "University of Johannesburg (UJ), 2027 from the PDF"
+    },
+    {
+      "item": "application_periods.opens_on",
+      "issue": "Prospectus says only 'Applications open in April' (p.99), no day",
+      "choice": "null"
+    },
+    {
+      "item": "application_fee",
+      "issue": "No application fee charged for online or paper applications (p.14)",
+      "choice": "0"
+    },
+    {
+      "item": "institution_type / province",
+      "issue": "Not stated as fields; p.59 refers to UJ's 'comprehensive status'; province not stated explicitly",
+      "choice": "comprehensive; Gauteng"
+    },
+    {
+      "item": "APS scale",
+      "issue": "NSC levels map 1:1 to points (7 = 80-100%), identical to the standard scale; LO excluded (p.16)",
+      "choice": "Referenced 'NSC standard 7-point', subjects_counted 6, include_lo false"
+    },
+    {
+      "item": "nsc_pass_required (all)",
+      "issue": "FADA pages don't state endorsement per programme",
+      "choice": "Set from qualification type (degree = bachelor, diploma = diploma)"
+    },
+    {
+      "item": "FADA course names",
+      "issue": "Main tables use all-caps shorthand (e.g. 'B ARCHITECTURE', 'ARCHITECTURE')",
+      "choice": "Used the full names from the SC(a) table on p.37"
+    },
+    {
+      "item": "FADA Technical Mathematics APS",
+      "issue": "Separate min APS 'with Tech Maths' had no schema field",
+      "choice": "Moved into min_aps_tech_maths after schema update (patched)"
+    },
+    {
+      "item": "FADA diplomas p.34",
+      "issue": "Page is rotated; text-extracted column order is reversed",
+      "choice": "Cross-checked every value against the SC(a) table on p.37"
+    },
+    {
+      "item": "English (all FADA)",
+      "issue": "Footnote says English = Home Language or First Additional Language",
+      "choice": "One English group with HL and FAL options at the same %"
+    }
+  ]
+}
