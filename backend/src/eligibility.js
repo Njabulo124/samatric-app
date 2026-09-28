@@ -111,6 +111,8 @@ export function evaluateCourse(course, marks, aps) {
     name: course.name,
     university: course.universityShortName,
     faculty: course.faculty,
+    qualificationType: course.qualificationType,
+    isExtended: course.isExtended,
     status,
     aps,
     requiredAps: threshold,
