@@ -5,6 +5,9 @@ Usage:
     python -m pipeline.validate data/extracted/2027/wsu.json
     python -m pipeline.validate data/extracted/2027/wsu.json --no-db
 
+Part files next to the main file (wsu.part2.json, wsu.part3.json, ...) are
+JSON arrays of courses and get merged into the main file automatically.
+
 Layers:
     1. Structure  - pydantic model (types, ranges, duplicates, faculties)
     2. Reference  - subjects and existing scales must exist in Postgres
@@ -17,6 +20,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import re
 import sys
 from pathlib import Path
 
@@ -31,11 +35,39 @@ TECH_MATHS = "Technical Mathematics"
 # ---------------------------------------------------------------------------
 # Layer 1: structure
 # ---------------------------------------------------------------------------
-def load_extract(path: Path) -> tuple[ProspectusExtract | None, list[str]]:
+def part_files(path: Path) -> list[Path]:
+    """Sibling part files for a main file, e.g. uj.json -> uj.part2.json, uj.part3.json (numeric order)."""
+    def num(p: Path) -> int:
+        m = re.search(r"\.part(\d+)$", p.stem)
+        return int(m.group(1)) if m else 0
+    return sorted(path.parent.glob(f"{path.stem}.part*.json"), key=num)
+
+
+def load_raw(path: Path) -> tuple[dict | None, list[str], list[Path]]:
+    """Load a main file and merge its part files' course arrays into it."""
+    parts = part_files(path)
     try:
         raw = json.loads(path.read_text(encoding="utf-8"))
     except json.JSONDecodeError as e:
-        return None, [f"invalid JSON: {e}"]
+        return None, [f"{path.name}: invalid JSON: {e}"], parts
+    errors = []
+    for p in parts:
+        try:
+            extra = json.loads(p.read_text(encoding="utf-8"))
+        except json.JSONDecodeError as e:
+            errors.append(f"{p.name}: invalid JSON: {e}")
+            continue
+        if not isinstance(extra, list):
+            errors.append(f"{p.name}: part files must be a JSON array of courses")
+            continue
+        raw.setdefault("courses", []).extend(extra)
+    return raw, errors, parts
+
+
+def load_extract(path: Path) -> tuple[ProspectusExtract | None, list[str]]:
+    raw, errors, _ = load_raw(path)
+    if raw is None or errors:
+        return None, errors
     try:
         return ProspectusExtract.model_validate(raw), []
     except ValidationError as e:
@@ -128,6 +160,9 @@ def main() -> int:
         errors += db_reference_errors(doc)
 
     print(f"\n== {args.path} ==")
+    parts = part_files(args.path)
+    if parts:
+        print("merged parts:", ", ".join(p.name for p in parts))
     if doc is not None:
         groups = sum(len(c.requirements) for c in doc.courses)
         print(f"{doc.university.short_name} {doc.intake_year}: "

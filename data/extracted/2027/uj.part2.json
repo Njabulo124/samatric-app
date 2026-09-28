@@ -1,0 +1,1546 @@
+[
+  {
+    "name": "Bachelor in Accounting (CA)",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 33,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.40",
+    "notes": "Qual code B34CAQ. Campus: APK. Mathematical Literacy and Technical Mathematics not accepted. Chartered Accountant route.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor in Hospitality Management",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 26,
+    "source_ref": "Prospectus 2027 p.40",
+    "notes": "Qual code B34HNQ. Campus: APB. Min APS applies with Mathematics or Technical Mathematics.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor in Human Resource Management",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "Prospectus 2027 p.40",
+    "notes": "Qual code B34HRQ. Campus: APK. Min APS applies with Mathematics or Technical Mathematics.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor in Industrial Psychology",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.40",
+    "notes": "Qual code B34I7Q. Campus: APK. Technical Mathematics not accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor in Tourism Development and Management",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 26,
+    "source_ref": "Prospectus 2027 p.40",
+    "notes": "Qual code B34TDQ. Campus: APB. Min APS applies with Mathematics or Technical Mathematics.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Public Management and Governance",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 26,
+    "source_ref": "Prospectus 2027 p.41",
+    "notes": "Qual code B34PKQ / B34PSQ. Campus: APK / SWC. Min APS applies with Mathematics or Technical Mathematics.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Accounting",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.41-42",
+    "notes": "Qual code B34A5Q. Campus: APK. Mathematical Literacy and Technical Mathematics not accepted. Does not give direct access to the Postgraduate Diploma in Accounting Science; a bridging programme may be available.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Business Management",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "Prospectus 2027 p.41",
+    "notes": "Qual code B34BMQ. Campus: SWC. Mathematical Literacy not accepted. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Economics and Econometrics",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.41",
+    "notes": "Qual code B3N14Q. Campus: APK. Mathematical Literacy and Technical Mathematics not accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Entrepreneurial Management",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "Prospectus 2027 p.41",
+    "notes": "Qual code B1CEMQ. Campus: APK. Mathematical Literacy not accepted. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Finance",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.41",
+    "notes": "Qual code B34F5Q. Campus: APK. Mathematical Literacy and Technical Mathematics not accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Information Management",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": null,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.42",
+    "notes": "Qual code B34IMQ. Campus: APK. Prospectus gives only '28 with Mathematical Literacy'; no APS stated for Mathematics/Technical Mathematics.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Information Systems",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "Prospectus 2027 p.42",
+    "notes": "Qual code B1CISQ. Campus: APB. Mathematical Literacy not accepted. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Marketing Management",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "Prospectus 2027 p.42",
+    "notes": "Qual code B1CMMQ. Campus: APK. Mathematical Literacy not accepted. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Transport and Logistics Management",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 27,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 27,
+    "source_ref": "Prospectus 2027 p.42",
+    "notes": "Qual code B34TLQ. Campus: APK. Mathematical Literacy not accepted. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce Extended Degree in Accounting",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 25,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.43",
+    "notes": "Qual code B34AEQ. Campus: APK. Technical Mathematics not accepted. Only new first-time entering candidates (no previous higher-education enrolment) are considered. Does not give direct access to the Postgraduate Diploma in Accounting Science; a bridging programme may be available.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce Extended Degree in Business Management",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 25,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 25,
+    "source_ref": "Prospectus 2027 p.43",
+    "notes": "Qual code B34BEQ. Campus: APK. Min APS applies with Mathematics or Technical Mathematics. Only new first-time entering candidates (no previous higher-education enrolment) are considered.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce Extended Degree in Economics and Econometrics",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 25,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.43",
+    "notes": "Qual code B3NE4Q. Campus: APK. Technical Mathematics not accepted. Only new first-time entering candidates (no previous higher-education enrolment) are considered.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce Extended Degree in Finance",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 25,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.43",
+    "notes": "Qual code B34FEQ. Campus: APK. Technical Mathematics not accepted. Only new first-time entering candidates (no previous higher-education enrolment) are considered.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Accountancy",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 22,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 22,
+    "source_ref": "Prospectus 2027 p.44",
+    "notes": "Qual code D3A15Q. Campus: SWC. Min APS applies with Mathematics or Technical Mathematics. Students with a diploma endorsement who miss the specific requirements may access this via the Programme in Commercial Accounting (must complete it in the first year).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Business Information Technology",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 22,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 22,
+    "source_ref": "Prospectus 2027 p.44",
+    "notes": "Qual code DI1401. Campus: APB. Min APS applies with Mathematics or Technical Mathematics.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Financial Services Operations",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 22,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 22,
+    "source_ref": "Prospectus 2027 p.44",
+    "notes": "Qual code D34F9Q. Campus: SWC. Min APS applies with Mathematics or Technical Mathematics. Students with a diploma endorsement who miss the specific requirements may access this via the Programme in Commercial Accounting (must complete it in the first year).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Food and Beverage Operations",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 22,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 22,
+    "source_ref": "Prospectus 2027 p.44",
+    "notes": "Qual code D34FBQ. Campus: APB. Min APS applies with Mathematics or Technical Mathematics.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Logistics",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 24,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 24,
+    "source_ref": "Prospectus 2027 p.45",
+    "notes": "Qual code D34LGQ. Campus: APB. Min APS applies with Mathematics or Technical Mathematics.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Marketing",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 22,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 22,
+    "source_ref": "Prospectus 2027 p.45",
+    "notes": "Qual code D34MKQ. Campus: APB. Min APS applies with Mathematics or Technical Mathematics. Alternative access via UJ Higher Certificate in Marketing and Sales (completed in first year, 60%+ in English 1A/1B and Mathematics for Marketers 1A/1B); departmental selection applies.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in People Management",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 22,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 22,
+    "source_ref": "Prospectus 2027 p.45",
+    "notes": "Qual code D34P2Q. Campus: SWC. Min APS applies with Mathematics or Technical Mathematics.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Retail Business Management",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 22,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 22,
+    "source_ref": "Prospectus 2027 p.46",
+    "notes": "Qual code D34RMQ. Campus: APB. Min APS applies with Mathematics or Technical Mathematics. Alternative access via UJ Higher Certificate in Marketing and Sales (same conditions as Diploma in Marketing) or SLPs Retail Management (S3M01Q) / Introduction to Retail Management (MKT010).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Small Business Management",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 22,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 22,
+    "source_ref": "Prospectus 2027 p.46",
+    "notes": "Qual code D34SBQ. Campus: SWC. Min APS applies with Mathematics or Technical Mathematics. Applicants are recommended to show a desire to start their own business.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Tourism Management",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 22,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 22,
+    "source_ref": "Prospectus 2027 p.46",
+    "notes": "Qual code D34TMQ. Campus: APB. Min APS applies with Mathematics or Technical Mathematics.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Transportation Management",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 24,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 24,
+    "source_ref": "Prospectus 2027 p.46",
+    "notes": "Qual code D34TRQ. Campus: APB. Min APS applies with Mathematics or Technical Mathematics.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Extended Diploma in Logistics",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "diploma",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "diploma",
+    "min_aps": 22,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 22,
+    "source_ref": "Prospectus 2027 p.46",
+    "notes": "Qual code D34LEQ. Campus: APB. Min APS applies with Mathematics or Technical Mathematics. Only first-time (new) entering candidates are considered.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Extended Diploma in People Management",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "diploma",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "diploma",
+    "min_aps": 19,
+    "min_aps_maths_lit": 21,
+    "min_aps_tech_maths": 19,
+    "source_ref": "Prospectus 2027 p.46",
+    "notes": "Qual code D34PEQ. Campus: SWC. Min APS applies with Mathematics or Technical Mathematics. Only first-time (new) entering candidates are considered.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Extended Diploma in Small Business Management",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "diploma",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "diploma",
+    "min_aps": 19,
+    "min_aps_maths_lit": 21,
+    "min_aps_tech_maths": 19,
+    "source_ref": "Prospectus 2027 p.46",
+    "notes": "Qual code D34SEQ. Campus: SWC. Min APS applies with Mathematics or Technical Mathematics. Only first-time (new) entering candidates are considered. Applicants are recommended to show a desire to start their own business.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Extended Diploma in Transportation Management",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "diploma",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "diploma",
+    "min_aps": 22,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 22,
+    "source_ref": "Prospectus 2027 p.47",
+    "notes": "Qual code D34TEQ. Campus: APB. Min APS applies with Mathematics or Technical Mathematics. Only first-time (new) entering candidates are considered.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Accountancy",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.47",
+    "notes": "Qual code B34ACC. Campus: Online. Mathematical Literacy and Technical Mathematics not accepted. Online programme; apply via https://online.uj.ac.za.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Human Resource Management",
+    "faculty": "College of Business and Economics",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "Prospectus 2027 p.47",
+    "notes": "Qual code B34HRC. Campus: Online. Min APS applies with Mathematics or Technical Mathematics. Online programme; apply via https://online.uj.ac.za.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  }
+]
