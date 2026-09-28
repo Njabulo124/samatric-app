@@ -111,6 +111,7 @@ CREATE TABLE courses (
                        CHECK (nsc_pass_required IN ('bachelor', 'diploma', 'higher_certificate')),
     min_aps            SMALLINT CHECK (min_aps >= 0),    -- APS when learner takes Mathematics
     min_aps_maths_lit  SMALLINT CHECK (min_aps_maths_lit >= 0), -- NULL = Maths Lit not accepted
+    min_aps_tech_maths SMALLINT CHECK (min_aps_tech_maths >= 0), -- NULL = Technical Maths not accepted
     prospectus_year    SMALLINT NOT NULL,                -- intake year the data applies to
     source_ref         TEXT,                             -- prospectus page / URL for traceability
     notes              TEXT,

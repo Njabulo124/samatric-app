@@ -1,0 +1,536 @@
+{
+  "$defs": {
+    "Ambiguity": {
+      "additionalProperties": false,
+      "properties": {
+        "item": {
+          "title": "Item",
+          "type": "string"
+        },
+        "issue": {
+          "title": "Issue",
+          "type": "string"
+        },
+        "choice": {
+          "title": "Choice",
+          "type": "string"
+        }
+      },
+      "required": [
+        "item",
+        "issue",
+        "choice"
+      ],
+      "title": "Ambiguity",
+      "type": "object"
+    },
+    "ApplicationPeriod": {
+      "additionalProperties": false,
+      "properties": {
+        "label": {
+          "default": "General",
+          "title": "Label",
+          "type": "string"
+        },
+        "opens_on": {
+          "anyOf": [
+            {
+              "format": "date",
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Opens On"
+        },
+        "closes_on": {
+          "anyOf": [
+            {
+              "format": "date",
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Closes On"
+        },
+        "notes": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Notes"
+        }
+      },
+      "title": "ApplicationPeriod",
+      "type": "object"
+    },
+    "ApsRule": {
+      "additionalProperties": false,
+      "properties": {
+        "default_scale": {
+          "$ref": "#/$defs/ApsScale"
+        },
+        "subjects_counted": {
+          "default": 6,
+          "maximum": 9,
+          "minimum": 1,
+          "title": "Subjects Counted",
+          "type": "integer"
+        },
+        "include_lo": {
+          "default": false,
+          "title": "Include Lo",
+          "type": "boolean"
+        },
+        "subject_scales": {
+          "default": [],
+          "items": {
+            "$ref": "#/$defs/SubjectScale"
+          },
+          "title": "Subject Scales",
+          "type": "array"
+        },
+        "notes": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Notes"
+        }
+      },
+      "required": [
+        "default_scale"
+      ],
+      "title": "ApsRule",
+      "type": "object"
+    },
+    "ApsScale": {
+      "additionalProperties": false,
+      "description": "Either a reference to an existing scale (bands omitted) or a new scale (bands given).",
+      "properties": {
+        "name": {
+          "title": "Name",
+          "type": "string"
+        },
+        "bands": {
+          "anyOf": [
+            {
+              "items": {
+                "$ref": "#/$defs/ScaleBand"
+              },
+              "type": "array"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Bands"
+        }
+      },
+      "required": [
+        "name"
+      ],
+      "title": "ApsScale",
+      "type": "object"
+    },
+    "Course": {
+      "additionalProperties": false,
+      "properties": {
+        "name": {
+          "minLength": 3,
+          "title": "Name",
+          "type": "string"
+        },
+        "faculty": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Faculty"
+        },
+        "qualification_type": {
+          "enum": [
+            "higher_certificate",
+            "diploma",
+            "advanced_diploma",
+            "bachelor",
+            "other"
+          ],
+          "title": "Qualification Type",
+          "type": "string"
+        },
+        "is_extended": {
+          "default": false,
+          "title": "Is Extended",
+          "type": "boolean"
+        },
+        "duration_years": {
+          "anyOf": [
+            {
+              "exclusiveMinimum": 0,
+              "maximum": 10,
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Duration Years"
+        },
+        "nsc_pass_required": {
+          "anyOf": [
+            {
+              "enum": [
+                "bachelor",
+                "diploma",
+                "higher_certificate"
+              ],
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Nsc Pass Required"
+        },
+        "min_aps": {
+          "anyOf": [
+            {
+              "maximum": 60,
+              "minimum": 0,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Min Aps"
+        },
+        "min_aps_maths_lit": {
+          "anyOf": [
+            {
+              "maximum": 60,
+              "minimum": 0,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Min Aps Maths Lit"
+        },
+        "min_aps_tech_maths": {
+          "anyOf": [
+            {
+              "maximum": 60,
+              "minimum": 0,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Min Aps Tech Maths"
+        },
+        "source_ref": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Source Ref"
+        },
+        "notes": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Notes"
+        },
+        "requirements": {
+          "default": [],
+          "items": {
+            "$ref": "#/$defs/RequirementGroup"
+          },
+          "title": "Requirements",
+          "type": "array"
+        }
+      },
+      "required": [
+        "name",
+        "qualification_type"
+      ],
+      "title": "Course",
+      "type": "object"
+    },
+    "RequirementGroup": {
+      "additionalProperties": false,
+      "properties": {
+        "description": {
+          "title": "Description",
+          "type": "string"
+        },
+        "options": {
+          "items": {
+            "$ref": "#/$defs/RequirementOption"
+          },
+          "minItems": 1,
+          "title": "Options",
+          "type": "array"
+        }
+      },
+      "required": [
+        "description",
+        "options"
+      ],
+      "title": "RequirementGroup",
+      "type": "object"
+    },
+    "RequirementOption": {
+      "additionalProperties": false,
+      "properties": {
+        "subject": {
+          "title": "Subject",
+          "type": "string"
+        },
+        "min_percent": {
+          "maximum": 100,
+          "minimum": 0,
+          "title": "Min Percent",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "subject",
+        "min_percent"
+      ],
+      "title": "RequirementOption",
+      "type": "object"
+    },
+    "ScaleBand": {
+      "additionalProperties": false,
+      "properties": {
+        "min_mark": {
+          "maximum": 100,
+          "minimum": 0,
+          "title": "Min Mark",
+          "type": "integer"
+        },
+        "max_mark": {
+          "maximum": 100,
+          "minimum": 0,
+          "title": "Max Mark",
+          "type": "integer"
+        },
+        "points": {
+          "minimum": 0,
+          "title": "Points",
+          "type": "number"
+        }
+      },
+      "required": [
+        "min_mark",
+        "max_mark",
+        "points"
+      ],
+      "title": "ScaleBand",
+      "type": "object"
+    },
+    "SubjectScale": {
+      "additionalProperties": false,
+      "properties": {
+        "subject": {
+          "title": "Subject",
+          "type": "string"
+        },
+        "scale": {
+          "$ref": "#/$defs/ApsScale"
+        }
+      },
+      "required": [
+        "subject",
+        "scale"
+      ],
+      "title": "SubjectScale",
+      "type": "object"
+    },
+    "University": {
+      "additionalProperties": false,
+      "properties": {
+        "name": {
+          "minLength": 3,
+          "title": "Name",
+          "type": "string"
+        },
+        "short_name": {
+          "maxLength": 20,
+          "minLength": 2,
+          "title": "Short Name",
+          "type": "string"
+        },
+        "institution_type": {
+          "enum": [
+            "traditional",
+            "comprehensive",
+            "university_of_technology",
+            "tvet",
+            "private"
+          ],
+          "title": "Institution Type",
+          "type": "string"
+        },
+        "province": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Province"
+        },
+        "website_url": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Website Url"
+        },
+        "application_url": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Application Url"
+        },
+        "application_fee": {
+          "anyOf": [
+            {
+              "minimum": 0,
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Application Fee"
+        }
+      },
+      "required": [
+        "name",
+        "short_name",
+        "institution_type"
+      ],
+      "title": "University",
+      "type": "object"
+    }
+  },
+  "additionalProperties": false,
+  "properties": {
+    "intake_year": {
+      "maximum": 2100,
+      "minimum": 2020,
+      "title": "Intake Year",
+      "type": "integer"
+    },
+    "source_document": {
+      "title": "Source Document",
+      "type": "string"
+    },
+    "university": {
+      "$ref": "#/$defs/University"
+    },
+    "application_periods": {
+      "default": [],
+      "items": {
+        "$ref": "#/$defs/ApplicationPeriod"
+      },
+      "title": "Application Periods",
+      "type": "array"
+    },
+    "aps_rule": {
+      "$ref": "#/$defs/ApsRule"
+    },
+    "faculties": {
+      "default": [],
+      "items": {
+        "type": "string"
+      },
+      "title": "Faculties",
+      "type": "array"
+    },
+    "courses": {
+      "items": {
+        "$ref": "#/$defs/Course"
+      },
+      "minItems": 1,
+      "title": "Courses",
+      "type": "array"
+    },
+    "ambiguities": {
+      "default": [],
+      "items": {
+        "$ref": "#/$defs/Ambiguity"
+      },
+      "title": "Ambiguities",
+      "type": "array"
+    }
+  },
+  "required": [
+    "intake_year",
+    "source_document",
+    "university",
+    "aps_rule",
+    "courses"
+  ],
+  "title": "ProspectusExtract",
+  "type": "object"
+}
