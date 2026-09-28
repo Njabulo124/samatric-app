@@ -87,3 +87,41 @@ export async function loadCourses(db, intakeYear, { universities } = {}) {
     requirements: [...(groupsByCourse.get(c.course_id)?.values() ?? [])],
   }));
 }
+
+/** All subjects, for the marks-entry dropdown. */
+export async function loadSubjects(db) {
+  const { rows } = await db.query(
+    `SELECT name, subject_group AS "group", is_designated AS "isDesignated"
+     FROM subjects ORDER BY subject_group, name`,
+  );
+  return rows;
+}
+
+/** Universities that have data for the intake year, with application info. */
+export async function loadUniversities(db, intakeYear) {
+  const { rows } = await db.query(
+    `SELECT u.short_name AS "shortName", u.name, u.province, u.website_url AS "websiteUrl",
+            u.application_url AS "applicationUrl", u.application_fee::float AS "applicationFee",
+            (SELECT MIN(p.closes_on)::text FROM application_periods p
+              WHERE p.university_id = u.university_id AND p.intake_year = $1) AS "applicationsClose",
+            COUNT(c.course_id)::int AS "courseCount"
+     FROM universities u
+     JOIN courses c ON c.university_id = u.university_id AND c.prospectus_year = $1 AND c.is_active
+     WHERE u.is_active
+     GROUP BY u.university_id
+     ORDER BY u.name`,
+    [intakeYear],
+  );
+  return rows;
+}
+
+/** Everything the API needs, loaded once and cached by the caller. */
+export async function loadCatalog(db, intakeYear) {
+  const [subjects, universities, rules, courses] = await Promise.all([
+    loadSubjects(db),
+    loadUniversities(db, intakeYear),
+    loadRules(db, intakeYear),
+    loadCourses(db, intakeYear),
+  ]);
+  return { intakeYear, subjects, universities, rules, courses };
+}
