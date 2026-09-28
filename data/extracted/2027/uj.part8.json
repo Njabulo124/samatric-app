@@ -1,0 +1,3048 @@
+[
+  {
+    "name": "Bachelor of Science in Information Technology – Information Technology",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.86",
+    "notes": "Qual code B2I01Q. Campus: APK. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Information Technology – Computer Science and Informatics",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.86",
+    "notes": "Qual code B2I02Q. Campus: APK. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Information Technology – Computer Science and Informatics specialising in AI (Artificial Intelligence)",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 34,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.86",
+    "notes": "Qual code B2I04Q. Campus: APK. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Life and Environmental Sciences – Biochemistry and Botany",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.87",
+    "notes": "Qual code B2L10Q. Campus: APK. Mathematics shown as 5 (60%)/6 (70%): 6 required if Mathematics 1A is in the programme, 5 if Mathematics 1C; entry minimum used here. Physical Science shown as 4 (50%)/5 (60%): 5 required if Chemistry 1A and/or Physics 1A/1S are in the programme, 4 if Chemistry 1C/Physics G1/L1/Biology/Geology; entry minimum used here. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Life and Environmental Sciences – Botany and Chemistry",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.87",
+    "notes": "Qual code B2L11Q. Campus: APK. Physical Science shown as 4 (50%)/5 (60%): 5 required if Chemistry 1A and/or Physics 1A/1S are in the programme, 4 if Chemistry 1C/Physics G1/L1/Biology/Geology; entry minimum used here. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Life and Environmental Sciences – Botany and Zoology",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.87",
+    "notes": "Qual code B2L12Q. Campus: APK. Mathematics shown as 5 (60%)/6 (70%): 6 required if Mathematics 1A is in the programme, 5 if Mathematics 1C; entry minimum used here. Physical Science shown as 4 (50%)/5 (60%): 5 required if Chemistry 1A and/or Physics 1A/1S are in the programme, 4 if Chemistry 1C/Physics G1/L1/Biology/Geology; entry minimum used here. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Life and Environmental Sciences – Zoology and Biochemistry",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.87",
+    "notes": "Qual code B2L13Q. Campus: APK. Mathematics shown as 5 (60%)/6 (70%): 6 required if Mathematics 1A is in the programme, 5 if Mathematics 1C; entry minimum used here. Physical Science shown as 4 (50%)/5 (60%): 5 required if Chemistry 1A and/or Physics 1A/1S are in the programme, 4 if Chemistry 1C/Physics G1/L1/Biology/Geology; entry minimum used here. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Life and Environmental Sciences – Zoology and Chemistry",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.87",
+    "notes": "Qual code B2L14Q. Campus: APK. Physical Science shown as 4 (50%)/5 (60%): 5 required if Chemistry 1A and/or Physics 1A/1S are in the programme, 4 if Chemistry 1C/Physics G1/L1/Biology/Geology; entry minimum used here. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Life and Environmental Sciences – Zoology and Environmental Management",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.87",
+    "notes": "Qual code B2L15Q. Campus: APK. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Life and Environmental Sciences – Zoology and Geography",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.87",
+    "notes": "Qual code B2L16Q. Campus: APK. Mathematics shown as 5 (60%)/6 (70%): 6 required if Mathematics 1A is in the programme, 5 if Mathematics 1C; entry minimum used here. Physical Science shown as 4 (50%)/5 (60%): 5 required if Chemistry 1A and/or Physics 1A/1S are in the programme, 4 if Chemistry 1C/Physics G1/L1/Biology/Geology; entry minimum used here. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Life and Environmental Sciences – Zoology and Physiology",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.87",
+    "notes": "Qual code B2L17Q. Campus: APK. Mathematics shown as 5 (60%)/6 (70%): 6 required if Mathematics 1A is in the programme, 5 if Mathematics 1C; entry minimum used here. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Life and Environmental Sciences – Physiology and Biochemistry",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.87",
+    "notes": "Qual code B2L18Q. Campus: APK. Mathematics shown as 5 (60%)/6 (70%): 6 required if Mathematics 1A is in the programme, 5 if Mathematics 1C; entry minimum used here. Physical Science shown as 4 (50%)/5 (60%): 5 required if Chemistry 1A and/or Physics 1A/1S are in the programme, 4 if Chemistry 1C/Physics G1/L1/Biology/Geology; entry minimum used here. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Life and Environmental Sciences – Physiology and Psychology",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.87",
+    "notes": "Qual code B2L26Q. Campus: APK. Mathematics shown as 5 (60%)/6 (70%): 6 required if Mathematics 1A is in the programme, 5 if Mathematics 1C; entry minimum used here. Physical Science shown as 4 (50%)/5 (60%): 5 required if Chemistry 1A and/or Physics 1A/1S are in the programme, 4 if Chemistry 1C/Physics G1/L1/Biology/Geology; entry minimum used here. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Life and Environmental Sciences – Geography and Environmental Management",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.88",
+    "notes": "Qual code B2L20Q. Campus: APK. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Life and Environmental Sciences – Geology and Environmental Management",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.88",
+    "notes": "Qual code B2L24Q. Campus: APK. Physical Science shown as 4 (50%)/5 (60%): 5 required if Chemistry 1A and/or Physics 1A/1S are in the programme, 4 if Chemistry 1C/Physics G1/L1/Biology/Geology; entry minimum used here. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Life and Environmental Sciences – Geology and Geography",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.88",
+    "notes": "Qual code B2L25Q. Campus: APK. Physical Science shown as 4 (50%)/5 (60%): 5 required if Chemistry 1A and/or Physics 1A/1S are in the programme, 4 if Chemistry 1C/Physics G1/L1/Biology/Geology; entry minimum used here. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Mathematical Sciences – Applied Mathematics and Computer Science",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 31,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.89",
+    "notes": "Qual code B2M40Q. Campus: APK. Physical Science shown as 4 (50%)/5 (60%): 5 required if Chemistry 1A and/or Physics 1A/1S are in the programme, 4 if Chemistry 1C/Physics G1/L1/Biology/Geology; entry minimum used here. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Mathematical Sciences – Applied Mathematics and Mathematical Statistics",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 31,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.89",
+    "notes": "Qual code B2M41Q. Campus: APK. Physical Science shown as 4 (50%)/5 (60%): 5 required if Chemistry 1A and/or Physics 1A/1S are in the programme, 4 if Chemistry 1C/Physics G1/L1/Biology/Geology; entry minimum used here. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Mathematical Sciences – Applied Mathematics and Mathematics",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 31,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.89",
+    "notes": "Qual code B2M42Q. Campus: APK. Physical Science shown as 4 (50%)/5 (60%): 5 required if Chemistry 1A and/or Physics 1A/1S are in the programme, 4 if Chemistry 1C/Physics G1/L1/Biology/Geology; entry minimum used here. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Mathematical Sciences – Computational Science",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 33,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.89",
+    "notes": "Qual code B2M43Q. Campus: APK. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 80
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Mathematical Sciences – Mathematical Statistics and Computer Science",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 31,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.89",
+    "notes": "Qual code B2M44Q. Campus: APK. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Mathematical Sciences – Mathematics and Computer Science",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 31,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.89",
+    "notes": "Qual code B2M45Q. Campus: APK. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Mathematical Sciences – Mathematics and Informatics",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 31,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.89",
+    "notes": "Qual code B2M46Q. Campus: APK. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Mathematical Sciences – Mathematics and Mathematical Statistics",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 31,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.89",
+    "notes": "Qual code B2M47Q. Campus: APK. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Mathematical Sciences – Mathematics and Psychology",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 31,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.89",
+    "notes": "Qual code B2M54Q. Campus: APK. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Mathematical Sciences – Mathematics and Mathematical Statistics (with Financial Orientation)",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 33,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.89",
+    "notes": "Qual code B2M55Q. Campus: APK. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Mathematical Sciences – Mathematical Statistics and Economics (with Financial Orientation)",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 33,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.90",
+    "notes": "Qual code B2M56Q. Campus: APK. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Mathematical Sciences – Mathematics and Economics (with Financial Orientation)",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 33,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.90",
+    "notes": "Qual code B2M57Q. Campus: APK. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Mathematical Sciences – Actuarial Science",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 40,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.90",
+    "notes": "Qual code B2M52Q. Campus: APK. Offers exemption recommendations for ASSA subjects A111, A112, A113, A211, A212 and A213. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Physical Sciences – Biochemistry and Chemistry",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 31,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.90",
+    "notes": "Qual code B2P70Q. Campus: APK. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Physical Sciences – Chemistry and Mathematics",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 31,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.90",
+    "notes": "Qual code B2P71Q. Campus: APK. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Physical Sciences – Chemistry and Physics",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 31,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.90",
+    "notes": "Qual code B2P72Q. Campus: APK. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Physical Sciences – Geology and Chemistry",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 31,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.90",
+    "notes": "Qual code B2P81Q. Campus: APK. Physical Science shown as 4 (50%)/5 (60%): 5 required if Chemistry 1A and/or Physics 1A/1S are in the programme, 4 if Chemistry 1C/Physics G1/L1/Biology/Geology; entry minimum used here. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Physical Sciences – Geology and Mathematics",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 31,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.91",
+    "notes": "Qual code B2P82Q. Campus: APK. Physical Science shown as 4 (50%)/5 (60%): 5 required if Chemistry 1A and/or Physics 1A/1S are in the programme, 4 if Chemistry 1C/Physics G1/L1/Biology/Geology; entry minimum used here. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Physical Sciences – Geology and Physics",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 31,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.91",
+    "notes": "Qual code B2P83Q. Campus: APK. Physical Science shown as 4 (50%)/5 (60%): 5 required if Chemistry 1A and/or Physics 1A/1S are in the programme, 4 if Chemistry 1C/Physics G1/L1/Biology/Geology; entry minimum used here. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Physical Sciences – Physics and Applied Mathematics",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 31,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.91",
+    "notes": "Qual code B2P77Q. Campus: APK. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Physical Sciences – Physics and Mathematics",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 31,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.91",
+    "notes": "Qual code B2P78Q. Campus: APK. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Information Technology (Extended) – Computer Science and Informatics",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.91",
+    "notes": "Qual code B2E02Q. Campus: APK. Duration not stated for extended programmes. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Life and Environmental Sciences (Extended) – Biochemistry and Botany",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.91",
+    "notes": "Qual code B2E10Q. Campus: APK. Duration not stated for extended programmes. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Life and Environmental Sciences (Extended) – Botany and Chemistry",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.91",
+    "notes": "Qual code B2E11Q. Campus: APK. Duration not stated for extended programmes. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Life and Environmental Sciences (Extended) – Botany and Zoology",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.91",
+    "notes": "Qual code B2E12Q. Campus: APK. Duration not stated for extended programmes. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Life and Environmental Sciences (Extended) – Geography and Environmental Management",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.92",
+    "notes": "Qual code B2E13Q. Campus: APK. Duration not stated for extended programmes. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Life and Environmental Sciences (Extended) – Physiology and Biochemistry",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.92",
+    "notes": "Qual code B2E14Q. Campus: APK. Duration not stated for extended programmes. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Life and Environmental Sciences (Extended) – Physiology and Psychology",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.92",
+    "notes": "Qual code B2E22Q. Campus: APK. Duration not stated for extended programmes. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Life and Environmental Sciences (Extended) – Zoology and Biochemistry",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.92",
+    "notes": "Qual code B2E17Q. Campus: APK. Duration not stated for extended programmes. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Life and Environmental Sciences (Extended) – Zoology and Chemistry",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.92",
+    "notes": "Qual code B2E18Q. Campus: APK. Duration not stated for extended programmes. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Life and Environmental Sciences (Extended) – Zoology and Environmental Management",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.92",
+    "notes": "Qual code B2E19Q. Campus: APK. Duration not stated for extended programmes. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Life and Environmental Sciences (Extended) – Zoology and Geography",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.92",
+    "notes": "Qual code B2E20Q. Campus: APK. Duration not stated for extended programmes. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Mathematical Sciences (Extended) – Applied Mathematics and Computer Science",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.93",
+    "notes": "Qual code B2E40Q. Campus: APK. Duration not stated for extended programmes. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Mathematical Sciences (Extended) – Applied Mathematics and Mathematical Statistics",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.93",
+    "notes": "Qual code B2E41Q. Campus: APK. Duration not stated for extended programmes. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Mathematical Sciences (Extended) – Applied Mathematics and Mathematics",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.93",
+    "notes": "Qual code B2E42Q. Campus: APK. Duration not stated for extended programmes. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Mathematical Sciences (Extended) – Mathematical Statistics and Computer Science",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.93",
+    "notes": "Qual code B2E43Q. Campus: APK. Duration not stated for extended programmes. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Mathematical Sciences (Extended) – Mathematics and Computer Science",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.93",
+    "notes": "Qual code B2E44Q. Campus: APK. Duration not stated for extended programmes. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Mathematical Sciences (Extended) – Mathematics and Informatics",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.93",
+    "notes": "Qual code B2E45Q. Campus: APK. Duration not stated for extended programmes. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Mathematical Sciences (Extended) – Mathematics and Mathematical Statistics",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.93",
+    "notes": "Qual code B2E46Q. Campus: APK. Duration not stated for extended programmes. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Mathematical Sciences (Extended) – Mathematics and Psychology",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.93",
+    "notes": "Qual code B2E49Q. Campus: APK. Duration not stated for extended programmes. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Physical Sciences (Extended) – Biochemistry and Chemistry",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.94",
+    "notes": "Qual code B2E70Q. Campus: APK. Duration not stated for extended programmes. Physical Science 4 (50%+) required if Chemistry and/or Physics are in the programme. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Physical Sciences (Extended) – Chemistry and Mathematics",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.94",
+    "notes": "Qual code B2E71Q. Campus: APK. Duration not stated for extended programmes. Physical Science 4 (50%+) required if Chemistry and/or Physics are in the programme. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Physical Sciences (Extended) – Chemistry and Physics",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.94",
+    "notes": "Qual code B2E72Q. Campus: APK. Duration not stated for extended programmes. Physical Science 4 (50%+) required if Chemistry and/or Physics are in the programme. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Physical Sciences (Extended) – Physics and Applied Mathematics",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.94",
+    "notes": "Qual code B2E73Q. Campus: APK. Duration not stated for extended programmes. Physical Science 4 (50%+) required if Chemistry and/or Physics are in the programme. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Physical Sciences (Extended) – Physics and Mathematics",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.94",
+    "notes": "Qual code B2E74Q. Campus: APK. Duration not stated for extended programmes. Physical Science 4 (50%+) required if Chemistry and/or Physics are in the programme. Technical Mathematics and Technical Science not accepted for Science degrees; Mathematical Literacy not listed. The Faculty may not offer all major combinations in a given year. Requirements subject to change (www.uj.ac.za/Apply).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Analytical Chemistry (Extended)",
+    "faculty": "Faculty of Science",
+    "qualification_type": "diploma",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": 22,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 22,
+    "source_ref": "Prospectus 2027 p.95",
+    "notes": "Qual code D2ACXQ. Campus: DFC. Technical Mathematics accepted for Science diplomas; Technical Science not accepted; Mathematical Literacy not listed. Duration not stated for extended programmes. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Biotechnology (Extended)",
+    "faculty": "Faculty of Science",
+    "qualification_type": "diploma",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": 23,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 23,
+    "source_ref": "Prospectus 2027 p.95",
+    "notes": "Qual code D2BTEQ. Campus: DFC. Technical Mathematics accepted for Science diplomas; Technical Science not accepted; Mathematical Literacy not listed. Duration not stated for extended programmes. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Food Technology (Extended)",
+    "faculty": "Faculty of Science",
+    "qualification_type": "diploma",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": 22,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 22,
+    "source_ref": "Prospectus 2027 p.95",
+    "notes": "Qual code D2FTEQ. Campus: DFC. Technical Mathematics accepted for Science diplomas; Technical Science not accepted; Mathematical Literacy not listed. Duration not stated for extended programmes. [min_aps_tech_maths assumed equal to min_aps: Tech Maths accepted but no separate APS given]",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  }
+]
