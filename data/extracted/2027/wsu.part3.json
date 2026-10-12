@@ -1,0 +1,506 @@
+[
+  {
+    "name": "Diploma in Building Technology",
+    "faculty": "Faculty of Engineering, Built Environment & Information Technology",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "source_ref": "Prospectus 2027 p.13",
+    "notes": "Qual code W60001. Campus: Buffalo City / Butterworth. Technical Mathematics accepted with no separate APS (uses min_aps), but needs a higher percentage (60%). Mathematical Literacy not accepted.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Building Technology Extended Curriculum Programme (ECP)",
+    "faculty": "Faculty of Engineering, Built Environment & Information Technology",
+    "qualification_type": "diploma",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "diploma",
+    "min_aps": 22,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 22,
+    "source_ref": "Prospectus 2027 p.13",
+    "notes": "Qual code W60002. Campus: Buffalo City / Butterworth. Same as the main stream, except ONE of the three subjects may be one level below. Modelled as lowered floors for each subject plus 'at least 2 of the 3 at the full level'. Technical Mathematics accepted with no separate APS (uses min_aps). Mathematical Literacy not accepted.",
+    "requirements": [
+      {
+        "description": "English HL or FAL (one level below allowed)",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics (one level below allowed)",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Technical Sciences (one level below allowed)",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 30
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "At least 2 of English, Maths and Science at the full level",
+        "min_count": 2,
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Civil Engineering",
+    "faculty": "Faculty of Engineering, Built Environment & Information Technology",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.13",
+    "notes": "Qual code W60003. Campus: Buffalo City / Butterworth. Only Mathematics accepted. Leads to ECSA candidate engineering technician registration.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Civil Engineering Extended Curriculum Programme (ECP)",
+    "faculty": "Faculty of Engineering, Built Environment & Information Technology",
+    "qualification_type": "diploma",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "diploma",
+    "min_aps": 22,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.13",
+    "notes": "Qual code W60004. Campus: Buffalo City / Butterworth. Same as the main stream, except ONE of the three subjects may be at 3 (40%). Modelled as lowered floors for each subject plus 'at least 2 of the 3 at the full level'. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "English HL or FAL (one level below allowed)",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics (one level below allowed)",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences (one level below allowed)",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "At least 2 of English, Maths and Science at the full level",
+        "min_count": 2,
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Electrical Engineering",
+    "faculty": "Faculty of Engineering, Built Environment & Information Technology",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.13",
+    "notes": "Qual code W60005. Campus: Buffalo City. Only Mathematics accepted. Leads to ECSA candidate engineering technician registration.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Electrical Engineering Extended Curriculum Programme (ECP)",
+    "faculty": "Faculty of Engineering, Built Environment & Information Technology",
+    "qualification_type": "diploma",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "diploma",
+    "min_aps": 22,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.13",
+    "notes": "Qual code W60006. Campus: Buffalo City. Same as the main stream, except ONE of the three subjects may be at 3 (40%). Modelled as lowered floors for each subject plus 'at least 2 of the 3 at the full level'. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "English HL or FAL (one level below allowed)",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics (one level below allowed)",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences (one level below allowed)",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "At least 2 of English, Maths and Science at the full level",
+        "min_count": 2,
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Mechanical Engineering",
+    "faculty": "Faculty of Engineering, Built Environment & Information Technology",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "source_ref": "Prospectus 2027 p.14",
+    "notes": "Qual code W60007. Campus: Buffalo City. Technical Mathematics accepted with no separate APS (uses min_aps). Mathematical Literacy not accepted. Leads to ECSA candidate engineering technician registration.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Mechanical Engineering Extended Curriculum Programme (ECP)",
+    "faculty": "Faculty of Engineering, Built Environment & Information Technology",
+    "qualification_type": "diploma",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "diploma",
+    "min_aps": 22,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 22,
+    "source_ref": "Prospectus 2027 p.14",
+    "notes": "Qual code W60008. Campus: Buffalo City. Same as the main stream, except ONE of the three subjects may be at 3 (40%). Modelled as lowered floors for each subject plus 'at least 2 of the 3 at the full level'. Technical Mathematics accepted with no separate APS (uses min_aps). Mathematical Literacy not accepted.",
+    "requirements": [
+      {
+        "description": "English HL or FAL (one level below allowed)",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics (one level below allowed)",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Technical Sciences (one level below allowed)",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "At least 2 of English, Maths and Science at the full level",
+        "min_count": 2,
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  }
+]
