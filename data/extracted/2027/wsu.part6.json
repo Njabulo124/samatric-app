@@ -1,0 +1,662 @@
+[
+  {
+    "name": "Bachelor of Medical Sciences",
+    "faculty": "Faculty of Medicine & Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.23",
+    "notes": "Qual code W65001. Campus: Mthatha. Also requires 4 (50%) in any other subject not listed, excluding Life Orientation. Additional selection criteria apply at final selection (see faculty prospectus). Only Mathematics accepted. First year is shared with Natural Sciences; from year 2 students choose Physiology or Biochemistry.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Any other African Language (HL or FAL)",
+        "options": [
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Medicine in Clinical Practice",
+    "faculty": "Faculty of Medicine & Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.23",
+    "notes": "Qual code W65002. Campus: Mthatha. Also requires 4 (50%) in any other subject not listed, excluding Life Orientation. Additional selection criteria apply at final selection (see faculty prospectus). Only Mathematics accepted. Trains Clinical Associates.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Any other African Language (HL or FAL)",
+        "options": [
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Nursing",
+    "faculty": "Faculty of Medicine & Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.23",
+    "notes": "Qual code W65004. Campus: Mthatha. NQF 8, 480 credits. Also requires 4 (50%) in any other subject not listed, excluding Life Orientation. Additional selection criteria apply at final selection (see faculty prospectus). Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Any other African Language (HL or FAL)",
+        "options": [
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Health Sciences in Medical Orthotics and Prosthetics",
+    "faculty": "Faculty of Medicine & Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.23",
+    "notes": "Qual code W65005. Campus: Mthatha. NQF 8, 480 credits. Also requires 4 (50%) in any other subject not listed, excluding Life Orientation. Additional selection criteria apply at final selection (see faculty prospectus). Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Any other African Language (HL or FAL)",
+        "options": [
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Medicine and Bachelor of Surgery",
+    "faculty": "Faculty of Medicine & Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 6,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.23",
+    "notes": "Qual code W65006 (per the p.22 qualifications table; the p.23 requirements table mislabels it W65005). Campus: Mthatha. NQF 8, 720 credits. Also requires 5 (60%) in any other subject not listed, excluding Life Orientation. Additional selection criteria apply at final selection (see faculty prospectus). Only Mathematics accepted. PBL and community-based curriculum.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Any other African Language (HL or FAL)",
+        "options": [
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  }
+]
