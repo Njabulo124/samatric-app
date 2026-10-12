@@ -1,0 +1,605 @@
+[
+  {
+    "name": "Higher Certificate in Versatile Broadcasting",
+    "faculty": "Faculty of Management & Public Administration Sciences",
+    "qualification_type": "higher_certificate",
+    "is_extended": false,
+    "duration_years": 1,
+    "nsc_pass_required": "higher_certificate",
+    "min_aps": 18,
+    "min_aps_maths_lit": 18,
+    "min_aps_tech_maths": 18,
+    "source_ref": "Prospectus 2027 p.20",
+    "notes": "Qual code W61001. Campus: Buffalo City. NQF 5, 120 credits. Also requires 3 (40%) in any two additional subjects. No maths requirement, so any maths subject accepted (uses min_aps).",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Any other language (HL or FAL)",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Administrative Management",
+    "faculty": "Faculty of Management & Public Administration Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 21,
+    "min_aps_maths_lit": 21,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.20",
+    "notes": "Qual code W61002. Campus: Butterworth. Also requires 4 (50%) in any two additional subjects. Mathematical Literacy accepted with no separate APS (uses min_aps).",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 30
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Hospitality Management",
+    "faculty": "Faculty of Management & Public Administration Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 21,
+    "min_aps_maths_lit": 21,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.20",
+    "notes": "Qual code W61003. Campus: Butterworth. Also requires 3 (40%) in any three relevant school subjects (not specified). Mathematical Literacy accepted with no separate APS (uses min_aps).",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Human Resources Management",
+    "faculty": "Faculty of Management & Public Administration Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 21,
+    "min_aps_maths_lit": 21,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.20",
+    "notes": "Qual code W61004. Campus: Butterworth / Komani. Also requires 3 (40%) in any two school subjects. Mathematical Literacy accepted with no separate APS (uses min_aps).",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Human Resources Management Extended Curriculum Programme (ECP)",
+    "faculty": "Faculty of Management & Public Administration Sciences",
+    "qualification_type": "diploma",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "diploma",
+    "min_aps": 20,
+    "min_aps_maths_lit": 20,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.20",
+    "notes": "Qual code W61005. Campus: Butterworth / Komani. Also requires 3 (40%) in any two school subjects. Mathematical Literacy accepted with no separate APS (uses min_aps).",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 30
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Journalism",
+    "faculty": "Faculty of Management & Public Administration Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 21,
+    "min_aps_maths_lit": 21,
+    "min_aps_tech_maths": 21,
+    "source_ref": "Prospectus 2027 p.20",
+    "notes": "Qual code W61006. Campus: Buffalo City. Also requires 4 (50%) in any two additional subjects. No maths requirement, so any maths subject accepted (uses min_aps).",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Any other language (HL or FAL)",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Local Government Finance",
+    "faculty": "Faculty of Management & Public Administration Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 21,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.20",
+    "notes": "Qual code W61007. Campus: Butterworth / Komani. Mathematical Literacy not listed, so not accepted. Accounting is an alternative to Mathematics.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Accounting or Mathematics",
+        "options": [
+          {
+            "subject": "Accounting",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Local Government Finance Extended Curriculum Programme (ECP)",
+    "faculty": "Faculty of Management & Public Administration Sciences",
+    "qualification_type": "diploma",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "diploma",
+    "min_aps": 20,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.20",
+    "notes": "Qual code W61008. Campus: Butterworth / Komani. Mathematical Literacy not listed, so not accepted. Accounting is an alternative to Mathematics.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Accounting or Mathematics",
+        "options": [
+          {
+            "subject": "Accounting",
+            "min_percent": 30
+          },
+          {
+            "subject": "Mathematics",
+            "min_percent": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Management",
+    "faculty": "Faculty of Management & Public Administration Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 21,
+    "min_aps_maths_lit": 21,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.20",
+    "notes": "Qual code W61009. Campus: Butterworth. Mathematical Literacy accepted with no separate APS (uses min_aps). Accounting is an alternative to Mathematics/Maths Lit.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Accounting, Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Accounting",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Management Extended Curriculum Programme (ECP)",
+    "faculty": "Faculty of Management & Public Administration Sciences",
+    "qualification_type": "diploma",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "diploma",
+    "min_aps": 20,
+    "min_aps_maths_lit": 20,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.20",
+    "notes": "Qual code W61010. Campus: Butterworth. Mathematical Literacy accepted with no separate APS (uses min_aps). Accounting is an alternative to Mathematics/Maths Lit.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Accounting, Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Accounting",
+            "min_percent": 30
+          },
+          {
+            "subject": "Mathematics",
+            "min_percent": 30
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Marketing Management",
+    "faculty": "Faculty of Management & Public Administration Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 21,
+    "min_aps_maths_lit": 21,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.20",
+    "notes": "Qual code W61011. Campus: Butterworth. Also requires 3 (40%) in any other two subjects. Mathematical Literacy accepted with no separate APS (uses min_aps).",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  }
+]
