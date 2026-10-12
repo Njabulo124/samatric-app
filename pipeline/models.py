@@ -113,6 +113,9 @@ class RequirementOption(StrictModel):
 
 class RequirementGroup(StrictModel):
     description: str
+    # The group passes when at least min_count options are met (1 = any one option).
+    # e.g. "2 of Accounting / Business Studies / Economics" -> min_count 2 with three options.
+    min_count: int = Field(default=1, ge=1)
     options: list[RequirementOption] = Field(min_length=1)
 
     @model_validator(mode="after")
@@ -120,6 +123,8 @@ class RequirementGroup(StrictModel):
         names = [o.subject for o in self.options]
         if len(names) != len(set(names)):
             raise ValueError(f"group '{self.description}': duplicate subject in options")
+        if self.min_count > len(self.options):
+            raise ValueError(f"group '{self.description}': min_count {self.min_count} > {len(self.options)} options")
         return self
 
 
@@ -135,6 +140,8 @@ class Course(StrictModel):
     min_aps: Optional[int] = Field(default=None, ge=0, le=60)
     min_aps_maths_lit: Optional[int] = Field(default=None, ge=0, le=60)   # None = not accepted
     min_aps_tech_maths: Optional[int] = Field(default=None, ge=0, le=60)  # None = not accepted
+    # None = follow the university's APS rule; True = Life Orientation counted as an extra subject
+    include_lo: Optional[bool] = None
     source_ref: Optional[str] = None
     notes: Optional[str] = None
     requirements: list[RequirementGroup] = []

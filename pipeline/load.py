@@ -55,14 +55,14 @@ def upsert_scale(cur, scale: ApsScale) -> int:
 def requirement_signature(groups) -> tuple:
     """Order-independent fingerprint of a course's requirements, for change detection."""
     return tuple(sorted(
-        (desc, tuple(sorted(opts))) for desc, opts in groups
+        (desc, n, tuple(sorted(opts))) for desc, n, opts in groups
     ))
 
 
 def existing_requirements(cur, course_id: int) -> tuple:
     rows = cur.execute(
         """
-        SELECT g.group_id, g.description, s.name, o.min_percent
+        SELECT g.group_id, g.description, g.min_count, s.name, o.min_percent
         FROM requirement_groups g
         JOIN requirement_options o ON o.group_id = g.group_id
         JOIN subjects s ON s.subject_id = o.subject_id
@@ -70,15 +70,15 @@ def existing_requirements(cur, course_id: int) -> tuple:
         """,
         (course_id,),
     ).fetchall()
-    groups: dict[int, tuple[str, list]] = {}
-    for gid, desc, subj, pct in rows:
-        groups.setdefault(gid, (desc, []))[1].append((subj, pct))
+    groups: dict[int, tuple[str, int, list]] = {}
+    for gid, desc, n, subj, pct in rows:
+        groups.setdefault(gid, (desc, n, []))[2].append((subj, pct))
     return requirement_signature(groups.values())
 
 
 def new_requirements(course: Course) -> tuple:
     return requirement_signature(
-        (g.description, [(o.subject, o.min_percent) for o in g.options]) for g in course.requirements
+        (g.description, g.min_count, [(o.subject, o.min_percent) for o in g.options]) for g in course.requirements
     )
 
 
@@ -86,8 +86,8 @@ def write_requirements(cur, course_id: int, course: Course, subject_ids: dict[st
     cur.execute("DELETE FROM requirement_groups WHERE course_id = %s", (course_id,))
     for g in course.requirements:
         gid = cur.execute(
-            "INSERT INTO requirement_groups (course_id, description) VALUES (%s, %s) RETURNING group_id",
-            (course_id, g.description),
+            "INSERT INTO requirement_groups (course_id, description, min_count) VALUES (%s, %s, %s) RETURNING group_id",
+            (course_id, g.description, g.min_count),
         ).fetchone()[0]
         cur.executemany(
             "INSERT INTO requirement_options (group_id, subject_id, min_percent) VALUES (%s, %s, %s)",
@@ -166,7 +166,7 @@ def load(doc: ProspectusExtract, conn, prune: bool) -> dict:
         for c in doc.courses:
             values = (uni_id, faculty_ids.get(c.faculty), c.name, c.qualification_type, c.is_extended,
                       c.duration_years, c.nsc_pass_required, c.min_aps, c.min_aps_maths_lit,
-                      c.min_aps_tech_maths, year, c.source_ref, c.notes)
+                      c.min_aps_tech_maths, year, c.source_ref, c.notes, c.include_lo)
             existing = cur.execute(
                 "SELECT course_id FROM courses WHERE university_id = %s AND name = %s AND prospectus_year = %s",
                 (uni_id, c.name, year),
@@ -177,8 +177,8 @@ def load(doc: ProspectusExtract, conn, prune: bool) -> dict:
                     """
                     INSERT INTO courses (university_id, faculty_id, name, qualification_type, is_extended,
                         duration_years, nsc_pass_required, min_aps, min_aps_maths_lit, min_aps_tech_maths,
-                        prospectus_year, source_ref, notes)
-                    VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+                        prospectus_year, source_ref, notes, include_lo)
+                    VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
                     RETURNING course_id
                     """,
                     values,
@@ -193,13 +193,13 @@ def load(doc: ProspectusExtract, conn, prune: bool) -> dict:
                 """
                 UPDATE courses SET faculty_id = %s, qualification_type = %s, is_extended = %s,
                     duration_years = %s, nsc_pass_required = %s, min_aps = %s, min_aps_maths_lit = %s,
-                    min_aps_tech_maths = %s, source_ref = %s, notes = %s, is_active = TRUE
+                    min_aps_tech_maths = %s, source_ref = %s, notes = %s, include_lo = %s, is_active = TRUE
                 WHERE course_id = %s
                   AND (faculty_id, qualification_type, is_extended, duration_years, nsc_pass_required,
-                       min_aps, min_aps_maths_lit, min_aps_tech_maths, source_ref, notes, is_active)
+                       min_aps, min_aps_maths_lit, min_aps_tech_maths, source_ref, notes, include_lo, is_active)
                       IS DISTINCT FROM
                       (%s::int, %s::varchar, %s::bool, %s::numeric, %s::varchar,
-                       %s::smallint, %s::smallint, %s::smallint, %s::text, %s::text, TRUE)
+                       %s::smallint, %s::smallint, %s::smallint, %s::text, %s::text, %s::bool, TRUE)
                 RETURNING course_id
                 """,
                 values[1:2] + values[3:10] + values[11:] + (course_id,) + values[1:2] + values[3:10] + values[11:],

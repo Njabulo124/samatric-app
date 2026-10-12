@@ -39,17 +39,27 @@ function requiredAps(course, maths) {
 }
 
 /** Evaluate one requirement group against the learner's marks. */
+/**
+ * Evaluate one requirement group. The group passes when at least `minCount` options are met
+ * (default 1 = any one option). If it fails, `gaps` lists the cheapest way to pass: the
+ * nearest unmet options the learner has, one per option still needed. `missing` means the
+ * learner doesn't even take enough of the listed subjects.
+ */
 function evaluateGroup(group, marks) {
-  let best = null; // the option the learner is nearest to meeting
+  const needed = group.minCount ?? 1;
+  let met = 0;
+  const near = [];
   for (const opt of group.options) {
     if (!(opt.subject in marks)) continue;
     const shortfall = Math.max(0, opt.minPercent - marks[opt.subject]);
-    if (shortfall === 0) return { passed: true };
-    if (!best || shortfall < best.shortfall) {
-      best = { subject: opt.subject, need: opt.minPercent, has: marks[opt.subject], shortfall };
-    }
+    if (shortfall === 0) met += 1;
+    else near.push({ subject: opt.subject, need: opt.minPercent, has: marks[opt.subject], shortfall });
   }
-  return { passed: false, best }; // best === null: learner has none of the subjects
+  if (met >= needed) return { passed: true };
+  const stillNeeded = needed - met;
+  near.sort((a, b) => a.shortfall - b.shortfall);
+  if (near.length < stillNeeded) return { passed: false, missing: true, gaps: [] };
+  return { passed: false, missing: false, gaps: near.slice(0, stillNeeded) };
 }
 
 /** Evaluate a single course for a learner whose APS (for that university) is known. */
@@ -79,15 +89,19 @@ export function evaluateCourse(course, marks, aps) {
   for (const group of course.requirements) {
     const result = evaluateGroup(group, marks);
     if (result.passed) continue;
-    if (!result.best) {
+    if (result.missing) {
       blocked = true;
       gaps.missing.push(group.description);
-      const opts = group.options.map((o) => `${o.subject} ${o.minPercent}%`).join(' or ');
-      reasons.push(`Requires ${group.description}: ${opts}.`);
+      const opts = group.options.map((o) => `${o.subject} ${o.minPercent}%`);
+      const n = group.minCount ?? 1;
+      reasons.push(n > 1
+        ? `Requires ${group.description}: at least ${n} of ${opts.join(', ')}.`
+        : `Requires ${group.description}: ${opts.join(' or ')}.`);
     } else {
-      const { subject, need, has, shortfall } = result.best;
-      gaps.subjects.push({ group: group.description, subject, need, has, shortfall });
-      reasons.push(`${subject}: ${has}% is below the required ${need}% (need ${shortfall}% more).`);
+      for (const { subject, need, has, shortfall } of result.gaps) {
+        gaps.subjects.push({ group: group.description, subject, need, has, shortfall });
+        reasons.push(`${subject}: ${has}% is below the required ${need}% (need ${shortfall}% more).`);
+      }
     }
   }
 
@@ -122,6 +136,16 @@ export function evaluateCourse(course, marks, aps) {
   };
 }
 
+/**
+ * The APS rule for one course. A course can override Life Orientation: includeLo === true means
+ * LO is counted as an extra subject on top of the university's normal count (e.g. WSU B.Ed
+ * Foundation Phase counts LO as a 7th subject). null/undefined = the university's rule as is.
+ */
+export function courseRule(rule, course) {
+  if (course.includeLo !== true || rule.includeLo) return rule;
+  return { ...rule, includeLo: true, subjectsCounted: rule.subjectsCounted + 1 };
+}
+
 const STATUS_ORDER = { qualifies: 0, check: 1, close: 2, not_eligible: 3 };
 
 /**
@@ -137,8 +161,8 @@ export function evaluateAll(courses, rules, marks) {
   const results = courses
     .filter((c) => rules[c.universityShortName])
     .map((c) => {
-      const slots = c.requirements.map((g) => g.options.map((o) => o.subject));
-      const { aps, counted } = computeAps(marks, rules[c.universityShortName], slots);
+      const slots = c.requirements.map((g) => ({ subjects: g.options.map((o) => o.subject), count: g.minCount ?? 1 }));
+      const { aps, counted } = computeAps(marks, courseRule(rules[c.universityShortName], c), slots);
       return { ...evaluateCourse(c, marks, aps), apsWorking: counted };
     })
     .sort(

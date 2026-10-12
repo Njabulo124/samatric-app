@@ -1,0 +1,1154 @@
+[
+  {
+    "name": "Bachelor of Education in Foundation Phase Teaching",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.9",
+    "notes": "Qual code W62006. Campus: Mthatha/Komani. Life Orientation is a major requirement and is counted in the APS as a 7th subject for this programme (Category 3, p.5). Any other two additional subjects totalling 8 APS. Mathematical Literacy accepted with no separate APS (uses min_aps). Specialisation Grades R-3.",
+    "requirements": [
+      {
+        "description": "Life Orientation (major requirement)",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "isiXhosa Home Language",
+        "options": [
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 30
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ],
+    "include_lo": true
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase & FET Teaching (Creative Arts History)",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "Prospectus 2027 p.9",
+    "notes": "Qual code W62007. Campus: Mthatha. Any other three additional subjects totalling 8 APS. Applicants without Music at matric are subject to auditions and a Music Aptitude Test. No maths requirement, so any maths subject accepted (uses min_aps).",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Any other African Language (HL or FAL)",
+        "options": [
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "History",
+        "options": [
+          {
+            "subject": "History",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Music, Dance Studies, Dramatic Arts or Visual Arts",
+        "options": [
+          {
+            "subject": "Music",
+            "min_percent": 50
+          },
+          {
+            "subject": "Dance Studies",
+            "min_percent": 50
+          },
+          {
+            "subject": "Dramatic Arts",
+            "min_percent": 50
+          },
+          {
+            "subject": "Visual Arts",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase & FET Teaching (Creative Arts English)",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "Prospectus 2027 p.9",
+    "notes": "Qual code W62019. Campus: Mthatha. Also requires 4 (50%) for any other subject, plus any other three additional subjects totalling 7 APS. Applicants without Music at matric are subject to auditions and a Music Aptitude Test. No maths requirement, so any maths subject accepted (uses min_aps).",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Any other African Language (HL or FAL)",
+        "options": [
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Music, Dance Studies, Dramatic Arts or Visual Arts",
+        "options": [
+          {
+            "subject": "Music",
+            "min_percent": 50
+          },
+          {
+            "subject": "Dance Studies",
+            "min_percent": 50
+          },
+          {
+            "subject": "Dramatic Arts",
+            "min_percent": 50
+          },
+          {
+            "subject": "Visual Arts",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase & FET Teaching (Creative Arts English) Extended Curriculum Programme (ECP)",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 5,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 22,
+    "min_aps_maths_lit": 22,
+    "min_aps_tech_maths": 22,
+    "source_ref": "Prospectus 2027 p.9",
+    "notes": "Qual code W62023. Not listed in the p.8 qualifications table, so campus and duration are not stated; duration assumed 5 years (4-year degree + 1 ECP year). Also requires 4 (50%) for any other subject, plus any other three additional subjects totalling 7 points. Applicants without Music at matric are subject to auditions and a Music Aptitude Test. No maths requirement, so any maths subject accepted (uses min_aps). [VERIFY: duration and campus not in the p.8 table]",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Any other African Language (HL or FAL)",
+        "options": [
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Music, Dance Studies, Dramatic Arts or Visual Arts",
+        "options": [
+          {
+            "subject": "Music",
+            "min_percent": 40
+          },
+          {
+            "subject": "Dance Studies",
+            "min_percent": 40
+          },
+          {
+            "subject": "Dramatic Arts",
+            "min_percent": 40
+          },
+          {
+            "subject": "Visual Arts",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase & FET Teaching (Consumer & Management Science)",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.9",
+    "notes": "Qual code W62008. Campus: Mthatha. Any other two additional subjects totalling 10 points. Mathematical Literacy accepted with no separate APS (uses min_aps).",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Any other African Language (HL or FAL)",
+        "options": [
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 30
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Consumer Studies, Hospitality Studies or Tourism",
+        "options": [
+          {
+            "subject": "Consumer Studies",
+            "min_percent": 50
+          },
+          {
+            "subject": "Hospitality Studies",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tourism",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase & FET Teaching (Economic & Management Science)",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.9",
+    "notes": "Qual code W62009. Campus: Mthatha/Komani. Requires 4 (50%) in two of Accounting, Business Studies, Economics. Any other two additional subjects totalling 6 points. Mathematical Literacy accepted with no separate APS (uses min_aps).",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Any other African Language (HL or FAL)",
+        "options": [
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 30
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Two of Accounting, Business Studies, Economics",
+        "min_count": 2,
+        "options": [
+          {
+            "subject": "Accounting",
+            "min_percent": 50
+          },
+          {
+            "subject": "Business Studies",
+            "min_percent": 50
+          },
+          {
+            "subject": "Economics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase & FET Teaching (Humanities)",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "Prospectus 2027 p.9",
+    "notes": "Qual code W62010. Campus: Mthatha/Komani. Any other three additional subjects totalling 8 points. No maths requirement, so any maths subject accepted (uses min_aps).",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Any other African Language (HL or FAL)",
+        "options": [
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "History",
+        "options": [
+          {
+            "subject": "History",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Geography",
+        "options": [
+          {
+            "subject": "Geography",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase & FET Teaching (Languages)",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "Prospectus 2027 p.10",
+    "notes": "Qual code W62011. Campus: Mthatha/Komani. Also requires any other two subjects at 4 (50%), plus any other three additional subjects totalling 7 APS. No maths requirement, so any maths subject accepted (uses min_aps).",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "isiXhosa HL or FAL",
+        "options": [
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase & FET Teaching (Maths, Science & Technology)",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.10",
+    "notes": "Qual code W62012. Campus: Mthatha/Komani. Any other two additional subjects totalling 8 APS. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Any other African Language (HL or FAL)",
+        "options": [
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase & FET Teaching (Technical and Vocational Education)",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "Prospectus 2027 p.10",
+    "notes": "Qual code W62018. Campus: Mthatha. Requires any two technical subjects at 4 (50%) from the list. Civil/Electrical/Mechanical Technology include their specialisations. Any two additional subjects totalling 8 points. No standalone maths requirement, so any maths subject accepted (uses min_aps).",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Any other African Language (HL or FAL)",
+        "options": [
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Two technical subjects",
+        "min_count": 2,
+        "options": [
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Engineering Graphics and Design",
+            "min_percent": 50
+          },
+          {
+            "subject": "Civil Technology",
+            "min_percent": 50
+          },
+          {
+            "subject": "Electrical Technology",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mechanical Technology",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  }
+]

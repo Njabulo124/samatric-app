@@ -269,6 +269,18 @@
           "default": null,
           "title": "Min Aps Tech Maths"
         },
+        "include_lo": {
+          "anyOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Include Lo"
+        },
         "source_ref": {
           "anyOf": [
             {
@@ -315,6 +327,12 @@
         "description": {
           "title": "Description",
           "type": "string"
+        },
+        "min_count": {
+          "default": 1,
+          "minimum": 1,
+          "title": "Min Count",
+          "type": "integer"
         },
         "options": {
           "items": {

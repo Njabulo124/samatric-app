@@ -10,8 +10,10 @@
  *     mustCount: [["English Home Language", "English First Additional Language"]]
  *   }
  *
- * mustCount and the course's own requirements are lists of "slots"; each slot is a list of
- * alternative subjects. For each slot the learner's best matching subject is locked in first,
+ * mustCount and the course's own requirements are lists of "slots". A slot is either a list of
+ * alternative subjects, or { subjects, count } meaning "the best `count` of these" (for
+ * requirements like 2 of Accounting / Business Studies / Economics). Each slot's best matching
+ * subjects are locked in first,
  * then the remaining places are filled with the learner's best other subjects.
  * A learner with exactly 6 non-LO subjects gets the same APS either way: all of them count.
  *
@@ -30,7 +32,7 @@ const byStrength = (a, b) => b.points - a.points || b.mark - a.mark;
 
 /**
  * Compute APS for a learner under one university's rule.
- * `courseSlots` are the course's requirement groups as lists of subject names (optional).
+ * `courseSlots` are the course's requirement groups (see slot formats above, optional).
  * Returns { aps, counted: [{ subject, mark, points, locked }] } so the UI can show the working.
  */
 export function computeAps(marks, rule, courseSlots = []) {
@@ -51,9 +53,12 @@ export function computeAps(marks, rule, courseSlots = []) {
 
   // 1. Lock in the must-count slots (university rule first, then the course's requirements)
   for (const slot of [...(rule.mustCount ?? []), ...courseSlots]) {
-    if (counted.length >= rule.subjectsCounted) break;
-    const best = slot.map((s) => scored.get(s)).filter(Boolean).sort(byStrength)[0];
-    if (best) take(best, true);
+    const { subjects, count } = Array.isArray(slot) ? { subjects: slot, count: 1 } : slot;
+    const best = subjects.map((s) => scored.get(s)).filter(Boolean).sort(byStrength).slice(0, count);
+    for (const entry of best) {
+      if (counted.length >= rule.subjectsCounted) break;
+      take(entry, true);
+    }
   }
 
   // 2. Fill the remaining places with the best of the rest

@@ -113,6 +113,7 @@ CREATE TABLE courses (
     min_aps            SMALLINT CHECK (min_aps >= 0),    -- APS when learner takes Mathematics
     min_aps_maths_lit  SMALLINT CHECK (min_aps_maths_lit >= 0), -- NULL = Maths Lit not accepted
     min_aps_tech_maths SMALLINT CHECK (min_aps_tech_maths >= 0), -- NULL = Technical Maths not accepted
+    include_lo         BOOLEAN,                          -- NULL = university rule; TRUE = LO counted as an extra subject
     prospectus_year    SMALLINT NOT NULL,                -- intake year the data applies to
     source_ref         TEXT,                             -- prospectus page / URL for traceability
     notes              TEXT,
@@ -127,7 +128,8 @@ CREATE TABLE courses (
 CREATE TABLE requirement_groups (
     group_id    INT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
     course_id   INT NOT NULL REFERENCES courses(course_id) ON DELETE CASCADE,
-    description VARCHAR(150) NOT NULL
+    description VARCHAR(150) NOT NULL,
+    min_count   SMALLINT NOT NULL DEFAULT 1 CHECK (min_count >= 1)  -- "at least N of these options"
 );
 
 CREATE TABLE requirement_options (

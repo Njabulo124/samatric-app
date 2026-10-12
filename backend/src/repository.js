@@ -47,7 +47,7 @@ export async function loadCourses(db, intakeYear, { universities } = {}) {
   const uniParam = universities?.length ? universities : null;
   const { rows: courses } = await db.query(
     `SELECT c.course_id, c.name, u.short_name, f.name AS faculty, c.min_aps, c.min_aps_maths_lit,
-            c.min_aps_tech_maths, c.notes, c.qualification_type, c.is_extended
+            c.min_aps_tech_maths, c.notes, c.qualification_type, c.is_extended, c.include_lo
      FROM courses c
      JOIN universities u USING (university_id)
      LEFT JOIN faculties f USING (faculty_id)
@@ -56,7 +56,7 @@ export async function loadCourses(db, intakeYear, { universities } = {}) {
     [intakeYear, uniParam],
   );
   const { rows: opts } = await db.query(
-    `SELECT g.course_id, g.group_id, g.description, s.name AS subject, o.min_percent
+    `SELECT g.course_id, g.group_id, g.description, g.min_count, s.name AS subject, o.min_percent
      FROM requirement_groups g
      JOIN requirement_options o USING (group_id)
      JOIN subjects s USING (subject_id)
@@ -70,7 +70,7 @@ export async function loadCourses(db, intakeYear, { universities } = {}) {
   for (const o of opts) {
     if (!groupsByCourse.has(o.course_id)) groupsByCourse.set(o.course_id, new Map());
     const groups = groupsByCourse.get(o.course_id);
-    if (!groups.has(o.group_id)) groups.set(o.group_id, { description: o.description, options: [] });
+    if (!groups.has(o.group_id)) groups.set(o.group_id, { description: o.description, minCount: o.min_count, options: [] });
     groups.get(o.group_id).options.push({ subject: o.subject, minPercent: o.min_percent });
   }
 
@@ -84,6 +84,7 @@ export async function loadCourses(db, intakeYear, { universities } = {}) {
     minAps: c.min_aps,
     minApsMathsLit: c.min_aps_maths_lit,
     minApsTechMaths: c.min_aps_tech_maths,
+    includeLo: c.include_lo,
     notes: c.notes,
     requirements: [...(groupsByCourse.get(c.course_id)?.values() ?? [])],
   }));
