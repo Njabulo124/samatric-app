@@ -84,7 +84,7 @@ function scoreWord(word, idx) {
 
 /**
  * Search courses. Returns { total, results } where results are the course objects (sorted by
- * relevance, then university, then name). An empty query lists everything that passes the filters.
+ * relevance, then university, then normal before extended, then name). An empty query lists everything that passes the filters.
  */
 export function searchCourses(courses, {
   q = '', universities, qualificationType, faculty, limit = 50, offset = 0, universityNames = {},
@@ -114,6 +114,7 @@ export function searchCourses(courses, {
   scored.sort((a, b) =>
     b.score - a.score ||
     a.c.universityShortName.localeCompare(b.c.universityShortName) ||
+    Number(Boolean(a.c.isExtended)) - Number(Boolean(b.c.isExtended)) ||
     a.c.name.localeCompare(b.c.name));
 
   return {

@@ -150,10 +150,40 @@
       <h1 id="search-title">Search courses</h1>
       <p class="lede">Look up any course at any university, even if you don't qualify yet, and see exactly what it asks for.</p>
     </div>
-    <div class="coming">
-      <p>Course search is being built and arrives in the next update.</p>
-      <a class="btn-secondary" href="#check">Check my marks for now</a>
+    <div class="search-wrap">
+      <form id="search-form" class="search-form" role="search" novalidate>
+        <label class="search-box">
+          <span class="visually-hidden">Course name</span>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6"/><path d="M15 15l5 5"/></svg>
+          <input id="s-q" type="search" placeholder="Try nursing, BCom, law, teaching" autocomplete="off" enterkeyhint="search">
+        </label>
+        <div class="filters search-filters">
+          <label>University
+            <select id="s-uni"><option value="">All</option></select>
+          </label>
+          <label>Type
+            <select id="s-type">
+              <option value="">All</option>
+              <option value="bachelor">Degrees</option>
+              <option value="diploma">Diplomas</option>
+              <option value="higher_certificate">Higher certificates</option>
+            </select>
+          </label>
+          <label class="span-2">Faculty
+            <select id="s-faculty"><option value="">All</option></select>
+          </label>
+        </div>
+      </form>
+      <p id="s-marks-hint" class="s-hint" hidden>Enter your marks under <a href="#check">Check my marks</a> to see which of these you qualify for.</p>
+      <p id="s-count" class="result-count" aria-live="polite"></p>
+      <ol id="s-list" class="s-list"></ol>
+      <button type="button" id="s-more" class="btn-quiet" hidden>Show more courses</button>
     </div>
+  </section>
+
+  <!-- ============ Course page ============ -->
+  <section class="view" data-view="course" aria-live="polite" hidden>
+    <div id="course-detail" class="detail"></div>
   </section>
 
   <!-- ============ Improve ============ -->
