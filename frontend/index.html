@@ -3,7 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>SAMATRIC: find courses you qualify for</title>
+  <title>SAMATRIC</title>
+  <meta name="theme-color" content="#2446c8">
   <meta name="description" content="Enter your matric marks and see which university courses you qualify for, and which are within reach.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -12,13 +13,37 @@
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%232446c8'/%3E%3Cpath d='M9 17l5 5 9-12' stroke='%23fff' stroke-width='3.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
 </head>
 <body>
-  <header class="site-header">
-    <p class="brand">SAMATRIC</p>
-    <h1>Find courses your marks qualify you for</h1>
-    <p class="lede">Enter your latest marks. We work out your APS the way each university does and check every course's subject requirements.</p>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="topbar">
+    <a class="brand" href="#check">SAMATRIC</a>
+    <nav class="hub-nav" aria-label="Main">
+      <a href="#check" data-view="check">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>
+        <span>Check my marks</span>
+      </a>
+      <a href="#search" data-view="search">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6"/><path d="M15 15l5 5"/></svg>
+        <span>Search courses</span>
+      </a>
+      <a href="#improve" data-view="improve">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 18l6-6 4 4 6-8"/><path d="M15 8h5v5"/></svg>
+        <span>Improve</span>
+      </a>
+    </nav>
+    <button type="button" id="theme-toggle" class="theme-toggle" aria-label="Switch to dark mode">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z"/></svg>
+    </button>
   </header>
 
-  <main class="layout">
+  <main id="main">
+  <!-- ============ Check my marks ============ -->
+  <section class="view" data-view="check" aria-labelledby="check-title">
+  <div class="view-head">
+    <h1 id="check-title">Find courses your marks qualify you for</h1>
+    <p class="lede">Enter your latest marks. We work out your APS the way each university does and check every course's subject requirements. No account needed.</p>
+  </div>
+
+  <div class="layout">
     <!-- Marks sheet -->
     <section class="sheet" aria-labelledby="sheet-title">
       <h2 id="sheet-title">Your marks</h2>
@@ -65,7 +90,7 @@
         <p id="form-errors" class="form-errors" role="alert" hidden></p>
 
         <button type="submit" class="btn-primary">Check my courses</button>
-        <p class="hint">Your marks stay on this device. Change any mark after checking and the results update.</p>
+        <p class="hint">Your marks are saved on this device only. Change any mark after checking and the results update.</p>
       </form>
     </section>
 
@@ -79,12 +104,16 @@
       </div>
 
       <div id="results-body" hidden>
-        <div id="aps-list" class="aps-list"></div>
+        <h2 class="block-title">Your APS per university</h2>
+        <div id="uni-cards" class="uni-cards"></div>
+        <p id="aps-note" class="aps-note" hidden></p>
+
+        <h2 class="block-title">Courses</h2>
 
         <div class="tabs" role="tablist" aria-label="Filter by result">
           <button role="tab" data-status="qualifies" aria-selected="true">You qualify <span class="count"></span></button>
-          <button role="tab" data-status="close" aria-selected="false">Within reach <span class="count"></span></button>
-          <button role="tab" data-status="check" aria-selected="false">Confirm with university <span class="count"></span></button>
+          <button role="tab" data-status="close" aria-selected="false">Almost there <span class="count"></span></button>
+          <button role="tab" data-status="check" aria-selected="false">Check with university <span class="count"></span></button>
           <button role="tab" data-status="not_eligible" aria-selected="false">Not yet <span class="count"></span></button>
         </div>
 
@@ -112,6 +141,32 @@
         <ol id="course-list" class="course-list"></ol>
       </div>
     </section>
+  </div>
+  </section>
+
+  <!-- ============ Search courses ============ -->
+  <section class="view" data-view="search" aria-labelledby="search-title" hidden>
+    <div class="view-head">
+      <h1 id="search-title">Search courses</h1>
+      <p class="lede">Look up any course at any university, even if you don't qualify yet, and see exactly what it asks for.</p>
+    </div>
+    <div class="coming">
+      <p>Course search is being built and arrives in the next update.</p>
+      <a class="btn-secondary" href="#check">Check my marks for now</a>
+    </div>
+  </section>
+
+  <!-- ============ Improve ============ -->
+  <section class="view" data-view="improve" aria-labelledby="improve-title" hidden>
+    <div class="view-head">
+      <h1 id="improve-title">Improve your chances</h1>
+      <p class="lede">Choose the courses you want. We show which marks to raise, and by how much, to get in.</p>
+    </div>
+    <div class="coming">
+      <p>Improvement tips arrive after course search.</p>
+      <a class="btn-secondary" href="#check">Check my marks for now</a>
+    </div>
+  </section>
   </main>
 
   <footer class="site-footer">

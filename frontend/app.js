@@ -1,5 +1,6 @@
 /**
- * SAMATRIC frontend: marks sheet + results. Talks to the API on the same origin.
+ * SAMATRIC frontend: a small hub with three views (check, search, improve), switched by the
+ * URL hash (#check, #search, #improve). Talks to the API on the same origin. No build step.
  */
 const API = '/api';
 const STORAGE_KEY = 'samatric.marks.v1';
@@ -14,10 +15,12 @@ const GROUP_LABELS = {
 };
 const STATUS_TEXT = {
   qualifies: 'courses you qualify for',
-  close: 'courses within reach',
-  check: 'courses to confirm with the university',
+  close: 'courses you are close to',
+  check: 'courses to check with the university',
   not_eligible: 'courses you don\'t qualify for yet',
 };
+const VIEWS = ['check', 'search', 'improve'];
+const THEME_KEY = 'samatric.theme';
 
 const $ = (sel) => document.querySelector(sel);
 const state = {
@@ -218,26 +221,54 @@ function working(counted, lockedLabel) {
   return counted.map((c) => `${c.subject} ${c.mark}% = ${c.points}${c.locked ? ` (${lockedLabel})` : ''}`).join(', ');
 }
 
-function renderAps() {
-  const { apsByUniversity } = state.response;
-  const { marks } = readSheet();
-  const extra = Object.keys(marks).filter((s) => s !== LO).length > 6;
-  const items = Object.entries(apsByUniversity).map(([uni, { aps, counted }]) => {
-    const name = state.universities.get(uni)?.name ?? uni;
-    return el('div', { class: 'aps-item' },
-      el('span', { class: 'aps-value' }, aps),
-      el('span', {}, 'APS at ', el('span', { class: 'aps-uni' }, name)),
+function countBy(results, uni, status) {
+  return results.filter((r) => r.university === uni && r.status === status).length;
+}
+
+function plural(n, word) { return `${n} ${word}${n === 1 ? '' : 's'}`; }
+
+/** One card per university: APS, how many courses fit, and how to apply. */
+function renderUniCards() {
+  const { apsByUniversity, results } = state.response;
+  const cards = Object.entries(apsByUniversity).map(([code, { aps, counted }]) => {
+    const uni = state.universities.get(code);
+    const yes = countBy(results, code, 'qualifies');
+    const close = countBy(results, code, 'close');
+    const closes = formatDate(uni?.applicationsClose);
+    const show = el('button', { type: 'button', class: 'link-button' }, `Show ${code} courses`);
+    show.addEventListener('click', () => {
+      $('#filter-uni').value = code;
+      syncFacultyOptions();
+      renderList();
+      $('#course-list').scrollIntoView({ block: 'start', behavior: 'auto' });
+    });
+    return el('article', { class: 'uni-card' },
+      el('div', { class: 'uni-card-top' },
+        el('h3', {}, uni?.name ?? code),
+        el('p', { class: 'uni-aps' }, el('strong', {}, aps), el('span', {}, 'your APS'))),
+      el('p', { class: 'uni-counts' },
+        el('span', { class: 'n-yes' }, plural(yes, 'course')), ' you qualify for',
+        close ? [', ', el('span', { class: 'n-close' }, `${close} more`), ' almost there'] : null),
+      el('p', { class: 'uni-closes' }, closes
+        ? `Applications close ${closes}`
+        : 'Closing date: check the university website'),
+      el('div', { class: 'uni-actions' },
+        uni?.applicationUrl
+          ? el('a', { class: 'btn-apply', href: uni.applicationUrl, target: '_blank', rel: 'noopener' }, `Apply to ${code}`)
+          : null,
+        show),
       el('details', {},
-        el('summary', {}, 'How this is worked out'),
+        el('summary', {}, 'How your APS is worked out'),
         el('p', {}, working(counted, 'always counted'),
           '. Life Orientation is not counted unless the university says so.')));
   });
-  if (extra) {
-    items.push(el('p', { class: 'aps-note' },
-      'You have more than six subjects. Each course counts the subjects it requires first, then your best others, ',
-      'so a course\'s APS can be lower than the number above. Each course shows its own APS.'));
-  }
-  $('#aps-list').replaceChildren(...items);
+  $('#uni-cards').replaceChildren(...cards);
+
+  const { marks } = readSheet();
+  const extra = Object.keys(marks).filter((s) => s !== LO).length > 6;
+  $('#aps-note').hidden = !extra;
+  $('#aps-note').textContent = 'You have more than six subjects. Each course counts the subjects it requires first, '
+    + 'then your best others, so a course can show a different APS from the one above.';
 }
 
 function syncFacultyOptions() {
@@ -280,13 +311,13 @@ function gapRulers(r) {
   if (r.gaps.aps > 0) {
     const max = Math.max(42, r.requiredAps);
     items.push(el('div', {},
-      el('div', { class: 'gap-label' }, el('span', {}, `APS: you have ${r.aps}, this course needs ${r.requiredAps}`),
-        el('b', {}, `${r.gaps.aps} to go`)),
+      el('div', { class: 'gap-label' }, el('span', {}, `APS: you have ${r.aps}, need ${r.requiredAps}`),
+        el('b', {}, `${r.gaps.aps} ${r.gaps.aps === 1 ? 'point' : 'points'} to go`)),
       ruler(r.aps, r.requiredAps, max)));
   }
   for (const g of r.gaps.subjects) {
     items.push(el('div', {},
-      el('div', { class: 'gap-label' }, el('span', {}, `${g.subject}: you have ${g.has}%, this course needs ${g.need}%`),
+      el('div', { class: 'gap-label' }, el('span', {}, `${g.subject}: you have ${g.has}%, need ${g.need}%`),
         el('b', {}, `${g.shortfall}% to go`)),
       ruler(g.has, g.need, 100)));
   }
@@ -349,15 +380,58 @@ function renderList() {
 function renderResults() {
   $('#empty-state').hidden = true;
   $('#results-body').hidden = false;
-  renderAps();
+  renderUniCards();
   syncFacultyOptions();
   renderList();
+}
+
+/* ------------------------------------------------------------------ */
+/* Hub navigation and theme                                            */
+/* ------------------------------------------------------------------ */
+function currentView() {
+  const name = location.hash.replace('#', '').split('/')[0];
+  return VIEWS.includes(name) ? name : 'check';
+}
+
+function showView() {
+  const name = currentView();
+  for (const v of document.querySelectorAll('.view')) v.hidden = v.dataset.view !== name;
+  for (const a of document.querySelectorAll('.hub-nav a')) {
+    if (a.dataset.view === name) a.setAttribute('aria-current', 'page');
+    else a.removeAttribute('aria-current');
+  }
+  document.title = { check: 'Check my marks', search: 'Search courses', improve: 'Improve' }[name] + ' | SAMATRIC';
+}
+
+function applyTheme(theme) {
+  if (theme) document.documentElement.dataset.theme = theme;
+  else delete document.documentElement.dataset.theme;
+  const dark = theme ? theme === 'dark' : window.matchMedia('(prefers-color-scheme: dark)').matches;
+  $('#theme-toggle').setAttribute('aria-label', dark ? 'Switch to light mode' : 'Switch to dark mode');
+}
+
+function initTheme() {
+  let saved = null;
+  try { saved = localStorage.getItem(THEME_KEY); } catch { /* storage blocked */ }
+  applyTheme(saved);
+  $('#theme-toggle').addEventListener('click', () => {
+    const dark = document.documentElement.dataset.theme
+      ? document.documentElement.dataset.theme === 'dark'
+      : window.matchMedia('(prefers-color-scheme: dark)').matches;
+    const next = dark ? 'light' : 'dark';
+    try { localStorage.setItem(THEME_KEY, next); } catch { /* storage blocked */ }
+    applyTheme(next);
+  });
 }
 
 /* ------------------------------------------------------------------ */
 /* Start                                                               */
 /* ------------------------------------------------------------------ */
 async function init() {
+  initTheme();
+  showView();
+  window.addEventListener('hashchange', () => { showView(); window.scrollTo(0, 0); });
+
   try {
     const [subjects, universities] = await Promise.all([api('/subjects'), api('/universities')]);
     state.subjects = subjects;
