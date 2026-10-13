@@ -32,20 +32,19 @@ export function mathsType(marks) {
 }
 
 /** The APS threshold that applies to this learner's maths subject. */
-function requiredAps(course, maths) {
+export function requiredAps(course, maths) {
   if (maths === MATHS_LIT) return course.minApsMathsLit;
   if (maths === TECH_MATHS) return course.minApsTechMaths;
   return course.minAps;
 }
 
-/** Evaluate one requirement group against the learner's marks. */
 /**
  * Evaluate one requirement group. The group passes when at least `minCount` options are met
  * (default 1 = any one option). If it fails, `gaps` lists the cheapest way to pass: the
  * nearest unmet options the learner has, one per option still needed. `missing` means the
  * learner doesn't even take enough of the listed subjects.
  */
-function evaluateGroup(group, marks) {
+export function evaluateGroup(group, marks) {
   const needed = group.minCount ?? 1;
   let met = 0;
   const near = [];

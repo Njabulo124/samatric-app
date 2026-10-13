@@ -70,6 +70,8 @@ npm start          # http://localhost:5000
 backend/        Express API + eligibility engine
   src/aps.js          APS calculation
   src/eligibility.js  Qualifies / close / not eligible logic
+  src/search.js       Course search (abbreviations like BCom, LLB, IT)
+  src/improve.js      Improvement plans: smallest mark increases to qualify
   src/repository.js   Loads the catalog from Postgres
   src/app.js          API routes
   src/cli/check.js    Check a marks file from the terminal
@@ -113,6 +115,10 @@ scripts/        One-off data fixes
 | GET | `/api/subjects` | All NSC subjects (for the marks form) |
 | GET | `/api/universities` | Universities with application link, fee, closing date and number of courses |
 | POST | `/api/eligibility` | APS per university and a result for each course |
+| GET | `/api/courses?q=nursing&uni=UJ,WSU&type=bachelor` | Search every course, whether or not the learner qualifies |
+| GET | `/api/courses/facets` | Faculties and qualification types for search filters |
+| GET | `/api/courses/:id` | One course with its university's application link and APS rule |
+| POST | `/api/improve` | What to improve to get into chosen courses: `{ marks, courseIds: [12, 40] }` |
 
 ```json
 POST /api/eligibility

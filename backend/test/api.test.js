@@ -89,3 +89,40 @@ test('unknown API route is a JSON 404', async () => {
   assert.equal(res.status, 404);
   assert.equal((await res.json()).error, 'Not found.');
 });
+
+// ---------------------------------------------------------------- search + improve API
+test('GET /api/courses searches and attaches university details', async () => {
+  const body = await (await fetch(`${base}/api/courses?q=commerce`)).json();
+  assert.equal(body.total, 1);
+  assert.equal(body.results[0].universityName, 'Walter Sisulu University');
+});
+
+test('GET /api/courses/:id returns the course with the APS rule', async () => {
+  const res = await fetch(`${base}/api/courses/${BENG_CIVIL.courseId}`);
+  assert.equal(res.status, 200);
+  const body = await res.json();
+  assert.equal(body.name, BENG_CIVIL.name);
+  assert.equal(body.apsRule.subjectsCounted, 6);
+  assert.equal((await fetch(`${base}/api/courses/99999`)).status, 404);
+});
+
+test('POST /api/improve returns a plan per course', async () => {
+  const res = await fetch(`${base}/api/improve`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ marks: SCIENCE_LEARNER, courseIds: [BENG_CIVIL.courseId, 99999] }),
+  });
+  assert.equal(res.status, 200);
+  const body = await res.json();
+  assert.equal(body.plans.length, 1);
+  assert.deepEqual(body.notFound, [99999]);
+});
+
+test('POST /api/improve rejects missing courseIds', async () => {
+  const res = await fetch(`${base}/api/improve`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ marks: SCIENCE_LEARNER }),
+  });
+  assert.equal(res.status, 400);
+});
