@@ -27,7 +27,7 @@
       </a>
       <a href="#improve" data-view="improve">
         <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 18l6-6 4 4 6-8"/><path d="M15 8h5v5"/></svg>
-        <span>Improve</span>
+        <span>Improve <span id="saved-count" class="nav-count" hidden></span></span>
       </a>
     </nav>
     <button type="button" id="theme-toggle" class="theme-toggle" aria-label="Switch to dark mode">
@@ -190,12 +190,9 @@
   <section class="view" data-view="improve" aria-labelledby="improve-title" hidden>
     <div class="view-head">
       <h1 id="improve-title">Improve your chances</h1>
-      <p class="lede">Choose the courses you want. We show which marks to raise, and by how much, to get in.</p>
+      <p class="lede">Save the courses you want. We show which marks to raise, and by how much, to get into each one.</p>
     </div>
-    <div class="coming">
-      <p>Improvement tips arrive after course search.</p>
-      <a class="btn-secondary" href="#check">Check my marks for now</a>
-    </div>
+    <div id="improve-body" class="improve-wrap"></div>
   </section>
   </main>
 

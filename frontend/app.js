@@ -28,6 +28,8 @@ const QUAL_LABEL = {
   higher_certificate: 'Higher certificate', other: 'Other',
 };
 const PAGE_SIZE = 30;
+const SAVED_KEY = 'samatric.saved.v1';
+const MAX_SAVED = 20;
 const THEME_KEY = 'samatric.theme';
 
 const $ = (sel) => document.querySelector(sel);
@@ -363,6 +365,7 @@ function courseItem(r) {
       el('p', {}, working(r.apsWorking, 'required by this course'),
         '. Required subjects are counted first, then your best other subjects.')));
   }
+  foot.push(saveButton(r.courseId, r.name));
   if (r.notes) foot.push(el('details', {}, el('summary', {}, 'Course notes'), el('p', {}, r.notes)));
 
   return el('li', { class: `course ${r.status}` },
@@ -395,6 +398,7 @@ function renderResults() {
   syncFacultyOptions();
   renderList();
   if (search.ready) renderSearch();
+  if (currentView() === 'improve') renderImprove();
 }
 
 /* ------------------------------------------------------------------ */
@@ -425,7 +429,8 @@ function qualText(c) {
 
 function searchRow(c) {
   const r = resultFor(c.courseId);
-  return el('li', {},
+  return el('li', { class: 's-item' },
+    saveButton(c.courseId, c.name),
     el('a', { class: 's-row', href: `#course/${c.courseId}` },
       el('span', { class: 's-main' },
         el('span', { class: 's-name' }, c.name),
@@ -595,7 +600,7 @@ async function openCourse(id) {
 
   box.replaceChildren(
     el('a', { class: 'back', href: '#search' }, 'Back to search'),
-    el('h1', {}, c.name),
+    el('div', { class: 'detail-title' }, el('h1', {}, c.name), saveButton(c.courseId, c.name)),
     el('p', { class: 'detail-meta' }, [c.universityName, c.faculty].filter(Boolean).join(', ')),
     el('p', { class: 'detail-qual' }, qualText(c)),
 
@@ -636,6 +641,173 @@ async function openCourse(id) {
 }
 
 /* ------------------------------------------------------------------ */
+/* Saved courses ("My courses")                                        */
+/* ------------------------------------------------------------------ */
+function loadSaved() {
+  try {
+    const ids = JSON.parse(localStorage.getItem(SAVED_KEY));
+    return Array.isArray(ids) ? ids.filter(Number.isInteger).slice(0, MAX_SAVED) : [];
+  } catch { return []; }
+}
+let saved = [];
+
+function storeSaved() {
+  try { localStorage.setItem(SAVED_KEY, JSON.stringify(saved)); } catch { /* storage blocked */ }
+  for (const b of document.querySelectorAll('.save-btn')) syncSaveButton(b);
+  const n = saved.length;
+  const badge = $('#saved-count');
+  badge.textContent = n;
+  badge.hidden = n === 0;
+}
+
+const isSaved = (id) => saved.includes(id);
+
+function syncSaveButton(btn) {
+  const on = isSaved(Number(btn.dataset.id));
+  btn.setAttribute('aria-pressed', String(on));
+  btn.querySelector('.save-label').textContent = on ? 'Saved' : 'Save';
+}
+
+function toggleSaved(id) {
+  if (isSaved(id)) saved = saved.filter((x) => x !== id);
+  else if (saved.length >= MAX_SAVED) { alert(`You can save up to ${MAX_SAVED} courses. Remove one first.`); return; }
+  else saved = [...saved, id];
+  storeSaved();
+  if (currentView() === 'improve') renderImprove();
+}
+
+function saveButton(courseId, name) {
+  const btn = el('button', { type: 'button', class: 'save-btn', 'data-id': courseId, 'aria-label': `Save ${name}` },
+    svgStar(), el('span', { class: 'save-label' }, 'Save'));
+  btn.addEventListener('click', (e) => { e.preventDefault(); e.stopPropagation(); toggleSaved(courseId); });
+  syncSaveButton(btn);
+  return btn;
+}
+
+function svgStar() {
+  const ns = 'http://www.w3.org/2000/svg';
+  const svg = document.createElementNS(ns, 'svg');
+  svg.setAttribute('viewBox', '0 0 24 24');
+  svg.setAttribute('aria-hidden', 'true');
+  const path = document.createElementNS(ns, 'path');
+  path.setAttribute('d', 'M12 3.5l2.6 5.3 5.9.9-4.25 4.1 1 5.85L12 16.9l-5.25 2.75 1-5.85L3.5 9.7l5.9-.9z');
+  svg.append(path);
+  return svg;
+}
+
+/* ------------------------------------------------------------------ */
+/* Improve                                                             */
+/* ------------------------------------------------------------------ */
+/**
+ * One plan that gets the learner into every saved course they can reach: for each subject,
+ * the highest mark any single course needs. Raising a mark never lowers an APS, so meeting
+ * the highest target meets all of them.
+ */
+function combinedPlan(plans) {
+  const bySubject = new Map();
+  for (const p of plans) {
+    if (!p.reachable) continue;
+    for (const ch of p.changes) {
+      const cur = bySubject.get(ch.subject) ?? { subject: ch.subject, from: ch.from, to: ch.from, courses: [] };
+      cur.to = Math.max(cur.to, ch.to);
+      cur.courses.push(p.name);
+      bySubject.set(ch.subject, cur);
+    }
+  }
+  return [...bySubject.values()]
+    .map((x) => ({ ...x, increase: x.to - x.from }))
+    .sort((a, b) => b.courses.length - a.courses.length || a.increase - b.increase);
+}
+
+let improveSeq = 0;
+async function renderImprove() {
+  const box = $('#improve-body');
+  const seq = ++improveSeq;
+  if (!saved.length) {
+    box.replaceChildren(el('div', { class: 'empty-state' },
+      el('p', {}, el('strong', {}, 'No saved courses yet.')),
+      el('p', { class: 'muted' }, 'Open any course and tap Save. Saved courses show up here with what to improve for each one.'),
+      el('a', { class: 'btn-secondary', href: '#search' }, 'Search courses')));
+    return;
+  }
+
+  const { marks, errors } = readSheet();
+  const hasMarks = !errors.length && Object.keys(marks).length > 0;
+  let plans = null;
+  let courses = null;
+  try {
+    if (hasMarks) {
+      plans = (await api('/improve', {
+        method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ marks, courseIds: saved }),
+      })).plans;
+    } else {
+      courses = await Promise.all(saved.map((id) => api(`/courses/${id}`).catch(() => null)));
+    }
+  } catch (err) {
+    box.replaceChildren(el('p', { class: 'form-errors' }, err.message));
+    return;
+  }
+  if (seq !== improveSeq) return;
+
+  if (!hasMarks) {
+    box.replaceChildren(
+      el('p', { class: 's-hint' }, 'Enter your marks under ', el('a', { href: '#check' }, 'Check my marks'),
+        ' to see what to improve for each course.'),
+      el('h2', { class: 'block-title' }, `My courses (${saved.length})`),
+      el('ol', { class: 'my-courses' }, courses.filter(Boolean).map((c) => el('li', { class: 'my-course' },
+        el('div', { class: 'my-course-head' },
+          el('h3', {}, el('a', { href: `#course/${c.courseId}` }, c.name)),
+          saveButton(c.courseId, c.name)),
+        el('p', { class: 'meta' }, `${c.universityName}. ${apsNeededText(c)}`)))));
+    return;
+  }
+
+  const unis = state.universities;
+  const reachable = plans.filter((p) => p.reachable && p.changes.length);
+  const already = plans.filter((p) => p.status === 'qualifies');
+  const focus = combinedPlan(plans);
+
+  const summary = el('section', { class: 'focus' },
+    el('h2', {}, 'Your focus'),
+    el('p', { class: 'focus-tally' },
+      el('span', { class: 'n-yes' }, `${already.length} of ${plans.length}`), ' saved courses you already qualify for',
+      reachable.length ? [', ', el('span', { class: 'n-close' }, `${reachable.length}`), ' you can reach with better marks'] : null,
+      '.'),
+    focus.length
+      ? [
+        el('p', {}, 'Raise these marks to get into every saved course you can reach:'),
+        el('ol', { class: 'focus-list' }, focus.map((f) => el('li', {},
+          el('div', { class: 'focus-row' },
+            el('span', { class: 'focus-subject' }, f.subject),
+            el('span', { class: 'focus-marks' }, `${f.from}% to ${f.to}%`, el('b', {}, ` +${f.increase}%`))),
+          el('div', { class: 'focus-why muted' },
+            f.courses.length === 1 ? `Helps with ${f.courses[0]}` : `Helps with ${f.courses.length} of your courses`),
+          ruler(f.from, f.to, 100)))),
+      ]
+      : el('p', { class: 'muted' }, already.length === plans.length
+        ? 'You qualify for all your saved courses. Apply before the closing dates.'
+        : 'None of your other saved courses can be reached by raising marks alone. See each course below.'));
+
+  const list = el('ol', { class: 'my-courses' }, plans.map((p) => {
+    const uni = unis.get(p.university);
+    return el('li', { class: `my-course ${p.status}` },
+      el('div', { class: 'my-course-head' },
+        el('h3', {}, el('a', { href: `#course/${p.courseId}` }, p.name)),
+        saveButton(p.courseId, p.name)),
+      el('p', { class: 'meta' }, statusBadge(p.status), ` ${uni?.name ?? p.university}. `,
+        p.requiredAps == null ? `Your APS ${p.currentAps}` : `Your APS ${p.currentAps}, needs ${p.requiredAps}`),
+      el('p', { class: 'my-course-plan' }, p.summary),
+      p.reachable && p.changes.length
+        ? el('ul', { class: 'plan-list' }, p.changes.map((ch) =>
+          el('li', {}, el('b', {}, ch.subject), ` ${ch.from}% to ${ch.to}%`)))
+        : null);
+  }));
+
+  box.replaceChildren(summary, el('h2', { class: 'block-title' }, `My courses (${saved.length})`), list);
+}
+
+/* ------------------------------------------------------------------ */
 /* Hub navigation and theme                                            */
 /* ------------------------------------------------------------------ */
 function currentView() {
@@ -655,6 +827,7 @@ function showView() {
   if (!state.ready) return;
   if (name === 'search') openSearch();
   if (name === 'course') openCourse(Number(location.hash.split('/')[1]));
+  if (name === 'improve') renderImprove();
 }
 
 function applyTheme(theme) {
@@ -683,6 +856,8 @@ function initTheme() {
 /* ------------------------------------------------------------------ */
 async function init() {
   initTheme();
+  saved = loadSaved();
+  storeSaved();
   showView();
   window.addEventListener('hashchange', () => { showView(); window.scrollTo(0, 0); });
 
