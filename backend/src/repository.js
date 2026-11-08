@@ -108,8 +108,11 @@ export async function loadUniversities(db, intakeYear) {
   const { rows } = await db.query(
     `SELECT u.short_name AS "shortName", u.name, u.province, u.website_url AS "websiteUrl",
             u.application_url AS "applicationUrl", u.application_fee::float AS "applicationFee",
-            (SELECT MIN(p.closes_on)::text FROM application_periods p
-              WHERE p.university_id = u.university_id AND p.intake_year = $1) AS "applicationsClose",
+            -- The general closing date; faculty-specific dates (e.g. Vet Science) only if there is no general one
+            (SELECT p.closes_on::text FROM application_periods p
+              WHERE p.university_id = u.university_id AND p.intake_year = $1 AND p.closes_on IS NOT NULL
+              ORDER BY (p.label = 'General') DESC, p.closes_on
+              LIMIT 1) AS "applicationsClose",
             COUNT(c.course_id)::int AS "courseCount"
      FROM universities u
      JOIN courses c ON c.university_id = u.university_id AND c.prospectus_year = $1 AND c.is_active

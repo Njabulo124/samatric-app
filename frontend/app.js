@@ -234,6 +234,28 @@ function working(counted, lockedLabel) {
   return counted.map((c) => `${c.subject} ${c.mark}% = ${c.points}${c.locked ? ` (${lockedLabel})` : ''}`).join(', ');
 }
 
+/** True when an ISO date (YYYY-MM-DD) is before today on this device. */
+function isPast(iso) {
+  if (!iso) return false;
+  const today = new Date();
+  const local = `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`;
+  return iso < local;
+}
+
+/** Closing-date sentence and apply-button label for a university. */
+function applyInfo(code, iso) {
+  const date = formatDate(iso);
+  if (!date) return { text: 'Closing date: check the university website', button: `Apply to ${code}` };
+  if (isPast(iso)) {
+    return {
+      text: `${state.intakeYear ?? ''} applications closed on ${date}. Check the website for next year's dates.`.trim(),
+      button: `${code} applications page`,
+      closed: true,
+    };
+  }
+  return { text: `Applications close ${date}`, button: `Apply to ${code}` };
+}
+
 function countBy(results, uni, status) {
   return results.filter((r) => r.university === uni && r.status === status).length;
 }
@@ -247,7 +269,7 @@ function renderUniCards() {
     const uni = state.universities.get(code);
     const yes = countBy(results, code, 'qualifies');
     const close = countBy(results, code, 'close');
-    const closes = formatDate(uni?.applicationsClose);
+    const info = applyInfo(code, uni?.applicationsClose);
     const show = el('button', { type: 'button', class: 'link-button' }, `Show ${code} courses`);
     show.addEventListener('click', () => {
       $('#filter-uni').value = code;
@@ -262,12 +284,10 @@ function renderUniCards() {
       el('p', { class: 'uni-counts' },
         el('span', { class: 'n-yes' }, plural(yes, 'course')), ' you qualify for',
         close ? [', ', el('span', { class: 'n-close' }, `${close} more`), ' almost there'] : null),
-      el('p', { class: 'uni-closes' }, closes
-        ? `Applications close ${closes}`
-        : 'Closing date: check the university website'),
+      el('p', { class: `uni-closes${info.closed ? ' closed' : ''}` }, info.text),
       el('div', { class: 'uni-actions' },
         uni?.applicationUrl
-          ? el('a', { class: 'btn-apply', href: uni.applicationUrl, target: '_blank', rel: 'noopener' }, `Apply to ${code}`)
+          ? el('a', { class: info.closed ? 'btn-secondary' : 'btn-apply', href: uni.applicationUrl, target: '_blank', rel: 'noopener' }, info.button)
           : null,
         show),
       el('details', {},
@@ -354,11 +374,13 @@ function courseItem(r) {
   else if (r.reasons.length) body.push(el('ul', { class: 'reasons' }, r.reasons.map((x) => el('li', {}, x))));
 
   const foot = [];
+  const info = applyInfo(r.university, uni?.applicationsClose);
   if (uni?.applicationUrl && r.status !== 'not_eligible') {
-    foot.push(el('a', { class: 'apply', href: uni.applicationUrl, target: '_blank', rel: 'noopener' }, `Apply to ${uni.shortName}`));
+    foot.push(el('a', { class: 'apply', href: uni.applicationUrl, target: '_blank', rel: 'noopener' }, info.button));
   }
-  const closes = formatDate(uni?.applicationsClose);
-  if (closes && r.status !== 'not_eligible') foot.push(el('span', { class: 'closes' }, `Applications close ${closes}`));
+  if (uni?.applicationsClose && r.status !== 'not_eligible') {
+    foot.push(el('span', { class: `closes${info.closed ? ' closed' : ''}` }, info.closed ? `Closed ${formatDate(uni.applicationsClose)}` : info.text));
+  }
   const uniAps = state.response.apsByUniversity[r.university]?.aps;
   if (r.apsWorking && r.aps !== uniAps) {
     foot.push(el('details', {}, el('summary', {}, 'How this course\'s APS is worked out'),
@@ -596,7 +618,7 @@ async function openCourse(id) {
   document.title = `${c.name} | SAMATRIC`;
   const r = resultFor(c.courseId);
   const plan = r && r.status !== 'qualifies' ? await improveFor(c.courseId) : null;
-  const closes = formatDate(c.applicationsClose);
+  const info = applyInfo(c.universityShortName, c.applicationsClose);
 
   box.replaceChildren(
     el('a', { class: 'back', href: '#search' }, 'Back to search'),
@@ -630,8 +652,8 @@ async function openCourse(id) {
 
     el('section', { class: 'apply-box' },
       el('h2', {}, `Apply to ${c.universityShortName}`),
-      el('p', {}, closes ? `Applications close ${closes}.` : 'Check the closing date on the university website.'),
-      c.applicationUrl ? el('a', { class: 'btn-apply', href: c.applicationUrl, target: '_blank', rel: 'noopener' }, `Apply to ${c.universityShortName}`) : null),
+      el('p', {}, `${info.text}.`.replace('..', '.')),
+      c.applicationUrl ? el('a', { class: info.closed ? 'btn-secondary' : 'btn-apply', href: c.applicationUrl, target: '_blank', rel: 'noopener' }, info.button) : null),
 
     el('p', { class: 'muted small source' },
       `Source: ${c.universityShortName} undergraduate prospectus ${state.intakeYear ?? ''}${c.sourceRef ? `, ${c.sourceRef.replace(/^Prospectus \d{4} /, '')}` : ''}. Always confirm with the university before applying.`),
