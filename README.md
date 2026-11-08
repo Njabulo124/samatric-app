@@ -21,6 +21,7 @@ A learner enters their matric marks once. The app then:
 | Walter Sisulu University (WSU) | 68 | WSU Undergraduate Prospectus 2027 |
 | University of Pretoria (UP) | 120 | UP Undergraduate Prospectus 2027 |
 | Tshwane University of Technology (TUT) | 124 | TUT First Year Course Information 2027 |
+| University of Fort Hare (UFH) | 52 | UFH Undergraduate Study Guide 2027 |
 
 ---
 
@@ -138,7 +139,7 @@ From the terminal: `npm run check -- samples/strong-science.json --uni WSU --sho
 
 - [x] Eligibility engine with per-university APS rules
 - [x] Prospectus pipeline with validation and change detection
-- [x] UJ, WSU, UP and TUT 2027 data (491 courses)
+- [x] UJ, TUT, UP, WSU and UFH 2027 data (543 courses)
 - [ ] Clearer, learner-friendly UI that works well on phones
 - [ ] More universities
 - [ ] NSC pass-type check (Bachelor / Diploma / Higher Certificate)

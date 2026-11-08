@@ -1,0 +1,1299 @@
+[
+  {
+    "name": "Bachelor of Arts",
+    "faculty": "Faculty of Social Sciences and Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 27,
+    "min_aps_maths_lit": 27,
+    "min_aps_tech_maths": 27,
+    "source_ref": "Study Guide 2027 p.2",
+    "notes": "Prog code 30000 (SAQA 115408). 'Another Language' = any SA language other than English, HL or FAL. Plus 4 other subjects: 1 at level 3 (40%) and 3 at level 4 (50%). Selection strictly on merit; ties decided by an aptitude test. No Mathematics requirement; any maths type accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Another Language",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "South African Sign Language Home Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts (Extended Programme)",
+    "faculty": "Faculty of Social Sciences and Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "Study Guide 2027 p.2",
+    "notes": "Prog code 30040 (SAQA 115408). 'Another Language' = any SA language other than English, HL or FAL. Plus 4 other subjects: 1 at level 2 (30%) and 3 at level 4 (50%). Extended programme: one more year than mainstream; must register for Academic Practices and Reasoning (APR) in first year. Selection strictly on merit; ties decided by an aptitude test. No Mathematics requirement; any maths type accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Another Language",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "South African Sign Language Home Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Fine Art",
+    "faculty": "Faculty of Social Sciences and Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 27,
+    "min_aps_maths_lit": 27,
+    "min_aps_tech_maths": 27,
+    "source_ref": "Study Guide 2027 p.2",
+    "notes": "Prog code 30100 (SAQA 3799). 'Another Language' = any SA language other than English, HL or FAL. Plus 4 other subjects: 1 at level 3 (40%) and 3 at level 4 (50%). Selection strictly on merit; ties decided by an aptitude test. No Mathematics requirement; any maths type accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Another Language",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "South African Sign Language Home Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Library and Information Science",
+    "faculty": "Faculty of Social Sciences and Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 27,
+    "min_aps_maths_lit": 27,
+    "min_aps_tech_maths": 27,
+    "source_ref": "Study Guide 2027 p.2",
+    "notes": "Prog code 32000 (SAQA 96531). 'Another Language' = any SA language other than English, HL or FAL. Plus 4 other subjects: 1 at level 3 (40%) and 3 at level 4 (50%). Selection strictly on merit; ties decided by an aptitude test. No Mathematics requirement; any maths type accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Another Language",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "South African Sign Language Home Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Music",
+    "faculty": "Faculty of Social Sciences and Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 27,
+    "min_aps_maths_lit": 27,
+    "min_aps_tech_maths": 27,
+    "source_ref": "Study Guide 2027 p.2",
+    "notes": "Prog code 30003 (SAQA 116486). 'Another Language' = any SA language other than English, HL or FAL. Plus 4 other subjects: 1 at level 3 (40%) and 3 at level 4 (50%). Selection strictly on merit; ties decided by an aptitude test. No Mathematics requirement; any maths type accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Another Language",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "South African Sign Language Home Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Social Science",
+    "faculty": "Faculty of Social Sciences and Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 27,
+    "min_aps_maths_lit": 27,
+    "min_aps_tech_maths": 27,
+    "source_ref": "Study Guide 2027 p.2",
+    "notes": "Prog code 30002 (SAQA 3923). 'Another Language' = any SA language other than English, HL or FAL. Plus 4 other subjects: 1 at level 3 (40%) and 3 at level 4 (50%). Selection strictly on merit; ties decided by an aptitude test. No Mathematics requirement; any maths type accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Another Language",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "South African Sign Language Home Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Social Science (Extended Programme)",
+    "faculty": "Faculty of Social Sciences and Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "Study Guide 2027 p.2",
+    "notes": "Prog code 30041 (SAQA 3926). 'Another Language' = any SA language other than English, HL or FAL. Plus 4 other subjects: 1 at level 2 (30%) and 3 at level 4 (50%). Extended programme: one more year than mainstream; must register for Academic Practices and Reasoning (APR) in first year. Selection strictly on merit; ties decided by an aptitude test. No Mathematics requirement; any maths type accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Another Language",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "South African Sign Language Home Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Social Science in Communication",
+    "faculty": "Faculty of Social Sciences and Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 27,
+    "min_aps_maths_lit": 27,
+    "min_aps_tech_maths": 27,
+    "source_ref": "Study Guide 2027 p.2",
+    "notes": "Prog code 30201 (SAQA 3957). 'Another Language' = any SA language other than English, HL or FAL. Plus 4 other subjects: 1 at level 3 (40%) and 3 at level 4 (50%). Selection strictly on merit; ties decided by an aptitude test. No Mathematics requirement; any maths type accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Another Language",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "South African Sign Language Home Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Social Work",
+    "faculty": "Faculty of Social Sciences and Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 27,
+    "min_aps_maths_lit": 27,
+    "min_aps_tech_maths": 27,
+    "source_ref": "Study Guide 2027 p.2",
+    "notes": "Prog code 33002 (SAQA 96466). 'Another Language' = any SA language other than English, HL or FAL. Plus 4 other subjects: 1 at level 3 (40%) and 3 at level 4 (50%). Selection strictly on merit; ties decided by an aptitude test. No Mathematics requirement; any maths type accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Another Language",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "South African Sign Language Home Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Philosophy, Politics and Law",
+    "faculty": "Faculty of Social Sciences and Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 27,
+    "min_aps_maths_lit": 27,
+    "min_aps_tech_maths": 27,
+    "source_ref": "Study Guide 2027 p.2",
+    "notes": "Prog code 30006 (SAQA 111455). 'Another Language' = any SA language other than English, HL or FAL. Plus 4 other subjects: 1 at level 3 (40%) and 3 at level 4 (50%). Selection strictly on merit; ties decided by an aptitude test. No Mathematics requirement; any maths type accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Another Language",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "South African Sign Language Home Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Fine Art",
+    "faculty": "Faculty of Social Sciences and Humanities",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 22,
+    "min_aps_maths_lit": 22,
+    "min_aps_tech_maths": 22,
+    "source_ref": "Study Guide 2027 p.2",
+    "notes": "Prog code 35000 (SAQA 4019). Also needs Level 3 (40%) or higher in four 20-credit NSC subjects and Level 2 (30%) or higher in one 20-credit NSC subject. Selection strictly on merit; ties decided by an aptitude test. No Mathematics requirement; any maths type accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  }
+]
