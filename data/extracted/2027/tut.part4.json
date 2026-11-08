@@ -1,0 +1,1088 @@
+[
+  {
+    "name": "Bachelor of Education in Foundation Phase Teaching",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 25,
+    "min_aps_maths_lit": 25,
+    "min_aps_tech_maths": null,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.7",
+    "notes": "Campus: Soshanguve Campus. Campus column lists: Soshanguve North. NOT ENCODED: also requires a home language offered in the programme at level 5 (60%) and a first additional language at level 4 (50%); the brochure does not list which languages are offered. Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Intermediate Phase Teaching",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 25,
+    "min_aps_maths_lit": 25,
+    "min_aps_tech_maths": null,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.7",
+    "notes": "Campus: Soshanguve Campus. Campus column lists: Soshanguve North. NOT ENCODED: also requires any other home language offered in the programme at level 4 (50%), and one of these combinations at level 4 (50%): Life Sciences AND Physical Sciences, OR History AND Geography. The schema cannot express paired subjects. Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and Further Education and Training Teaching (Specialisation in Agriculture)",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.7",
+    "notes": "Campus: Soshanguve Campus. Campus column lists: Soshanguve North.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Agricultural Sciences or Life Sciences",
+        "options": [
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Agricultural Technology or Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Agricultural Technology",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and Further Education and Training Teaching (Specialisation in Consumer Sciences)",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.7",
+    "notes": "Campus: Soshanguve Campus. Campus column lists: Soshanguve North.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Consumer Studies or Hospitality Studies or Tourism",
+        "options": [
+          {
+            "subject": "Consumer Studies",
+            "min_percent": 50
+          },
+          {
+            "subject": "Hospitality Studies",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tourism",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and Further Education and Training Teaching (Specialisation in Economic and Management Sciences)",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.7",
+    "notes": "Campus: Soshanguve Campus. Campus column lists: Soshanguve North.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Accounting or Business Studies or Economics",
+        "options": [
+          {
+            "subject": "Accounting",
+            "min_percent": 50
+          },
+          {
+            "subject": "Business Studies",
+            "min_percent": 50
+          },
+          {
+            "subject": "Economics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and Further Education and Training Teaching (Specialisation in Information Technology)",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.7",
+    "notes": "Campus: Soshanguve Campus. Campus column lists: Soshanguve North. Mathematical Literacy not listed.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics or Information Technology",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Information Technology",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and Further Education and Training Teaching (Specialisation in Mathematics)",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.7",
+    "notes": "Campus: Soshanguve Campus. Campus column lists: Soshanguve North. Brochure: 'Mathematics and Life Sciences or Mathematics and Physical Sciences'. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and Further Education and Training Teaching (Specialisation in Physical Education)",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.7",
+    "notes": "Campus: Soshanguve Campus. Campus column lists: Soshanguve North.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and Further Education and Training Teaching (Specialisation in Sciences)",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.7",
+    "notes": "Campus: Soshanguve Campus. Campus column lists: Soshanguve North. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and Further Education and Training Teaching (Specialisation in Technology)",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.7",
+    "notes": "Campus: Soshanguve Campus. Campus column lists: Soshanguve North. Brochure lists 'Mathematics or Technical Mathematics and/or Civil Technology (Civil Service/Construction/Woodworking) and/or Electrical Technology (Digital Systems/Electronics/Power Systems) and/or Mechanical Technology (Automotive/Fitting and Machining/Welding and Metal Work) and/or Engineering Graphics and Design and/or Physical Sciences or Technical Sciences' at level 4. The and/or wording is ambiguous; encoded as any one at 50%. Mathematical Literacy not listed.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics, Technical Mathematics or a technology subject",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Civil Technology",
+            "min_percent": 50
+          },
+          {
+            "subject": "Electrical Technology",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mechanical Technology",
+            "min_percent": 50
+          },
+          {
+            "subject": "Engineering Graphics and Design",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Adult and Community Education and Training (Specialisation in Civil Technology)",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 22,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 22,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.8",
+    "notes": "Campus: Soshanguve Campus. Campus column lists: Soshanguve North. Mathematical Literacy not listed. NOT ENCODED: 'Additional language' at level 3 (40%) is also required.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Engineering Graphics and Design or Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Engineering Graphics and Design",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Civil Technology or Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Civil Technology",
+            "min_percent": 40
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Adult and Community Education and Training (Specialisation in Consumer Sciences)",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 22,
+    "min_aps_maths_lit": 22,
+    "min_aps_tech_maths": 22,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.8",
+    "notes": "Campus: Soshanguve Campus. Campus column lists: Soshanguve North. NOT ENCODED: 'Additional language' at level 3 (40%) is also required.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Adult and Community Education and Training (Specialisation in Electrical and Mechanical)",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 22,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 22,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.8",
+    "notes": "Campus: Soshanguve Campus. Campus column lists: Soshanguve North. Mathematical Literacy not listed. NOT ENCODED: 'Additional language' at level 3 (40%) is also required.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Correctional and Rehabilitation Studies",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 20,
+    "min_aps_maths_lit": 20,
+    "min_aps_tech_maths": null,
+    "closes_on": "2026-06-15",
+    "source_ref": "TUT First Year Course Information 2027 p.8",
+    "notes": "Campus: Soshanguve Campus. Campus column lists: Soshanguve South. Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Integrated Communication",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 20,
+    "min_aps_maths_lit": 21,
+    "min_aps_tech_maths": 20,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.8",
+    "notes": "Campus: Soshanguve Campus. Campus column lists: Soshanguve North. APS 20 with Mathematics, Technical Mathematics or Mathematics N3; APS 21 with Mathematical Literacy. Preference given to applicants with English at level 5 or more. Mathematics N3 also accepted (APS 20).",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Journalism",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.8",
+    "notes": "Campus: Soshanguve Campus. Campus column lists: Soshanguve North. No Mathematics requirement stated. Recommended subjects: Geography, History, a third language or any art-related subject.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Language Practice",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 20,
+    "min_aps_maths_lit": 20,
+    "min_aps_tech_maths": 20,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.9",
+    "notes": "Campus: Soshanguve Campus. Campus column lists: Soshanguve South. NOT ENCODED: also requires any other official South African language offered in the programme at level 5 (60%). Recommended/offered languages listed: Afrikaans, Sepedi, Setswana, IsiZulu, Tshivenda or Xitsonga. No Mathematics requirement stated.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Law",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 20,
+    "min_aps_maths_lit": 20,
+    "min_aps_tech_maths": 20,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.9",
+    "notes": "Campus: Soshanguve Campus. Campus column lists: Soshanguve South, Mbombela. No Mathematics requirement stated.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Legal Support",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 20,
+    "min_aps_maths_lit": 20,
+    "min_aps_tech_maths": 20,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.9",
+    "notes": "Campus: Soshanguve Campus. Campus column lists: Soshanguve South. NOT ENCODED: also requires any other additional language at level 3 (40%). No Mathematics requirement stated.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Policing",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 20,
+    "min_aps_maths_lit": 20,
+    "min_aps_tech_maths": 20,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.9",
+    "notes": "Campus: Soshanguve Campus. Campus column lists: Soshanguve South. School-leaver route (NSC in or after 2008). A separate route exists for people employed in law enforcement (NQF 5/6 qualification, 5 years' experience).",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Public Affairs (Admin of State)",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 20,
+    "min_aps_maths_lit": 20,
+    "min_aps_tech_maths": null,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.9",
+    "notes": "Campus: Soshanguve Campus. Campus column lists: Soshanguve South, Mbombela, Polokwane. Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Public Affairs (Local Government)",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 20,
+    "min_aps_maths_lit": 20,
+    "min_aps_tech_maths": null,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.9",
+    "notes": "Campus: Soshanguve Campus. Campus column lists: Soshanguve South, Mbombela, Polokwane. Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Traffic Safety and Municipal Police Management",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 20,
+    "min_aps_maths_lit": 20,
+    "min_aps_tech_maths": 20,
+    "closes_on": "2026-06-15",
+    "source_ref": "TUT First Year Course Information 2027 p.10",
+    "notes": "Campus: Soshanguve Campus. Campus column lists: Soshanguve South, Polokwane. School-leaver route (NSC in or after 2008). A separate route exists for people employed in law enforcement (NQF 5/6 qualification, 5 years' experience).",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  }
+]
