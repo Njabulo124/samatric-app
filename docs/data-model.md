@@ -11,7 +11,7 @@
 | `aps_scales` / `aps_scale_bands` | Mark → points tables (e.g. NSC 7-point, WSU 8-point) |
 | `aps_rules` | How one university calculates APS for one intake year |
 | `aps_rule_subject_scales` | A different scale for a specific subject (e.g. LO) |
-| `courses` | One row per programme per prospectus year, with minimum APS values |
+| `courses` | One row per programme per prospectus year, with minimum APS values and an optional own closing date |
 | `requirement_groups` | Subject requirements for a course, grouped |
 | `requirement_options` | The subjects (and minimum %) inside a group |
 | `users` / `user_marks` | Reserved for learner accounts later |
@@ -124,6 +124,7 @@ The course above is shortened (the real one also has English and African-languag
 | Field | Allowed values |
 |---|---|
 | `qualification_type` | `higher_certificate`, `diploma`, `advanced_diploma`, `bachelor`, `other` |
+| `closes_on` (course, optional) | `YYYY-MM-DD`: the programme's own closing date (e.g. every TUT programme). Leave out to use the faculty's or the general date. |
 | `nsc_pass_required` | `bachelor`, `diploma`, `higher_certificate`, or null |
 | `institution_type` | `traditional`, `comprehensive`, `university_of_technology`, `tvet`, `private` |
 

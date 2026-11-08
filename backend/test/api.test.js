@@ -134,3 +134,10 @@ test('closesFor prefers the faculty\'s own closing date', async () => {
   assert.equal(closesFor(uni, 'Faculty of Law'), '2026-06-30');
   assert.equal(closesFor(undefined, 'x'), null);
 });
+
+test('closesFor: a course\'s own date beats faculty and general dates', async () => {
+  const { closesFor } = await import('../src/app.js');
+  const uni = { applicationsClose: '2026-09-30', periods: [{ label: 'Faculty of Science', closesOn: '2026-07-31' }] };
+  assert.equal(closesFor(uni, 'Faculty of Science', '2026-06-15'), '2026-06-15');
+  assert.equal(closesFor(uni, 'Faculty of Science', null), '2026-07-31');
+});

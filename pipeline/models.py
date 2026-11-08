@@ -142,6 +142,8 @@ class Course(StrictModel):
     min_aps_tech_maths: Optional[int] = Field(default=None, ge=0, le=60)  # None = not accepted
     # None = follow the university's APS rule; True = Life Orientation counted as an extra subject
     include_lo: Optional[bool] = None
+    # This programme's own application closing date; None = faculty or general date applies
+    closes_on: Optional[date] = None
     source_ref: Optional[str] = None
     notes: Optional[str] = None
     requirements: list[RequirementGroup] = []

@@ -374,7 +374,7 @@ function courseItem(r) {
   else if (r.reasons.length) body.push(el('ul', { class: 'reasons' }, r.reasons.map((x) => el('li', {}, x))));
 
   const foot = [];
-  const closes = uni?.periods?.find((p) => p.label === r.faculty)?.closesOn ?? uni?.applicationsClose;
+  const closes = r.closesOn ?? uni?.periods?.find((p) => p.label === r.faculty)?.closesOn ?? uni?.applicationsClose;
   const info = applyInfo(r.university, closes);
   if (uni?.applicationUrl && r.status !== 'not_eligible') {
     foot.push(el('a', { class: 'apply', href: uni.applicationUrl, target: '_blank', rel: 'noopener' }, info.button));

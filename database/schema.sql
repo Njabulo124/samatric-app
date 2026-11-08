@@ -114,6 +114,7 @@ CREATE TABLE courses (
     min_aps_maths_lit  SMALLINT CHECK (min_aps_maths_lit >= 0), -- NULL = Maths Lit not accepted
     min_aps_tech_maths SMALLINT CHECK (min_aps_tech_maths >= 0), -- NULL = Technical Maths not accepted
     include_lo         BOOLEAN,                          -- NULL = university rule; TRUE = LO counted as an extra subject
+    closes_on          DATE,                             -- NULL = faculty or general closing date applies
     prospectus_year    SMALLINT NOT NULL,                -- intake year the data applies to
     source_ref         TEXT,                             -- prospectus page / URL for traceability
     notes              TEXT,

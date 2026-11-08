@@ -48,7 +48,8 @@ export async function loadCourses(db, intakeYear, { universities } = {}) {
   const { rows: courses } = await db.query(
     `SELECT c.course_id, c.name, u.short_name, f.name AS faculty, c.min_aps, c.min_aps_maths_lit,
             c.min_aps_tech_maths, c.notes, c.qualification_type, c.is_extended, c.include_lo,
-            c.duration_years::float AS duration_years, c.nsc_pass_required, c.source_ref
+            c.duration_years::float AS duration_years, c.nsc_pass_required, c.source_ref,
+            c.closes_on::text AS closes_on
      FROM courses c
      JOIN universities u USING (university_id)
      LEFT JOIN faculties f USING (faculty_id)
@@ -89,6 +90,7 @@ export async function loadCourses(db, intakeYear, { universities } = {}) {
     durationYears: c.duration_years,
     nscPassRequired: c.nsc_pass_required,
     sourceRef: c.source_ref,
+    closesOn: c.closes_on,
     notes: c.notes,
     requirements: [...(groupsByCourse.get(c.course_id)?.values() ?? [])],
   }));

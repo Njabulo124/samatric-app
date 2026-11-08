@@ -44,6 +44,7 @@ Run any migrations you don't have yet, in number order. They're all safe to re-r
 psql -U postgres -d samatric -f database/migrations/001_add_min_aps_tech_maths.sql
 psql -U postgres -d samatric -f database/migrations/002_add_aps_must_count.sql
 psql -U postgres -d samatric -f database/migrations/003_min_count_and_course_lo.sql
+psql -U postgres -d samatric -f database/migrations/004_course_closes_on.sql
 ```
 
 ### Start over

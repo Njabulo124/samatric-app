@@ -132,6 +132,7 @@ export function evaluateCourse(course, marks, aps) {
     reasons,
     gaps,
     notes: course.notes,
+    closesOn: course.closesOn ?? null,
   };
 }
 
