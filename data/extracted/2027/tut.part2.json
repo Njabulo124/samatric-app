@@ -1,0 +1,344 @@
+[
+  {
+    "name": "Diploma in Accounting",
+    "faculty": "Faculty of Economics and Finance",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 22,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 22,
+    "closes_on": "2026-09-30",
+    "source_ref": "TUT First Year Course Information 2027 p.4",
+    "notes": "Campus: GaRankuwa Campus. Also offered at: Mbombela, Polokwane. APS 22 with Accounting, Mathematics or Technical Mathematics; APS 24 with Mathematical Literacy.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Accounting or Mathematics or Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Accounting",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Economics",
+    "faculty": "Faculty of Economics and Finance",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 22,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 22,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.4",
+    "notes": "Campus: GaRankuwa Campus. APS 22 with Mathematics or Technical Mathematics; APS 24 with Mathematical Literacy. Accounting is not an alternative for this programme.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Financial Management",
+    "faculty": "Faculty of Economics and Finance",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 22,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 22,
+    "closes_on": "2026-09-30",
+    "source_ref": "TUT First Year Course Information 2027 p.4",
+    "notes": "Campus: GaRankuwa Campus. Also offered at: Mbombela, Polokwane. APS 22 with Accounting, Mathematics or Technical Mathematics; APS 24 with Mathematical Literacy.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Accounting or Mathematics or Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Accounting",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Financial Planning",
+    "faculty": "Faculty of Economics and Finance",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 22,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 22,
+    "closes_on": "2026-09-30",
+    "source_ref": "TUT First Year Course Information 2027 p.4",
+    "notes": "Campus: GaRankuwa Campus. APS 22 with Accounting, Mathematics or Technical Mathematics; APS 24 with Mathematical Literacy.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Accounting or Mathematics or Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Accounting",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Internal Auditing",
+    "faculty": "Faculty of Economics and Finance",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 22,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 22,
+    "closes_on": "2026-09-30",
+    "source_ref": "TUT First Year Course Information 2027 p.4",
+    "notes": "Campus: GaRankuwa Campus. Also offered at: Mbombela, Polokwane. APS 22 with Accounting, Mathematics or Technical Mathematics; APS 24 with Mathematical Literacy.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Accounting or Mathematics or Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Accounting",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Public Finance",
+    "faculty": "Faculty of Economics and Finance",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 22,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 22,
+    "closes_on": "2026-09-30",
+    "source_ref": "TUT First Year Course Information 2027 p.4",
+    "notes": "Campus: GaRankuwa Campus. Also offered at: Mbombela, Polokwane. Accounting must be at level 4 (Mathematics/Technical Mathematics level 3). APS 22 with Mathematics or Technical Mathematics; APS 23 with Accounting (no schema field for this, so a learner using Accounting needs APS 23); APS 24 with Mathematical Literacy.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Accounting or Mathematics or Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Accounting",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Higher Certificate in Accounting",
+    "faculty": "Faculty of Economics and Finance",
+    "qualification_type": "higher_certificate",
+    "is_extended": false,
+    "duration_years": 1,
+    "nsc_pass_required": "higher_certificate",
+    "min_aps": 22,
+    "min_aps_maths_lit": 23,
+    "min_aps_tech_maths": 22,
+    "closes_on": "2026-09-30",
+    "source_ref": "TUT First Year Course Information 2027 p.4",
+    "notes": "Campus: GaRankuwa Campus. APS 22 with Mathematics or Technical Mathematics; APS 23 with Mathematical Literacy.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  }
+]
