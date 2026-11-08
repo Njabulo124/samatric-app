@@ -1,0 +1,658 @@
+{
+  "intake_year": 2027,
+  "source_document": "UP Undergraduate Prospectus 2027 (NSC/IEB applicants)",
+  "university": {
+    "name": "University of Pretoria",
+    "short_name": "UP",
+    "institution_type": "traditional",
+    "province": "Gauteng",
+    "website_url": "https://www.up.ac.za",
+    "application_url": "https://www.up.ac.za/apply",
+    "application_fee": 300
+  },
+  "application_periods": [
+    {
+      "label": "Faculty of Veterinary Science",
+      "opens_on": "2026-04-01",
+      "closes_on": "2026-05-31",
+      "notes": "Veterinary Science closes a month earlier than other faculties."
+    },
+    {
+      "label": "General",
+      "opens_on": "2026-04-01",
+      "closes_on": "2026-06-30",
+      "notes": "All other faculties."
+    }
+  ],
+  "aps_rule": {
+    "default_scale": {
+      "name": "NSC standard 7-point"
+    },
+    "subjects_counted": 6,
+    "include_lo": false,
+    "must_count": [],
+    "subject_scales": [],
+    "notes": "NSC 1-7 scale, six recognised 20-credit subjects, Life Orientation excluded, maximum APS 42. Programme tables set their own English and other subject levels. Prospectus 2027, APS section."
+  },
+  "faculties": [
+    "Faculty of Economic and Management Sciences",
+    "Faculty of Education",
+    "Faculty of Engineering, Built Environment and Information Technology",
+    "Faculty of Health Sciences",
+    "Faculty of Humanities",
+    "Faculty of Law",
+    "Faculty of Natural and Agricultural Sciences",
+    "Faculty of Theology and Religion",
+    "Faculty of Veterinary Science"
+  ],
+  "courses": [
+    {
+      "name": "Bachelor of Administration specialising in Public Administration and International Relations",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 28,
+      "min_aps_maths_lit": 28,
+      "min_aps_tech_maths": null,
+      "source_ref": "UP Prospectus 2027 p.7",
+      "notes": "Mathematics 3 (40%) or Mathematical Literacy 4 (50%); same APS (28) stated for both.",
+      "requirements": [
+        {
+          "description": "English HL or FAL",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Accounting Sciences",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 34,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UP Prospectus 2027 p.7",
+      "notes": "Accounting is not a school subject requirement. Only Mathematics accepted.",
+      "requirements": [
+        {
+          "description": "English HL or FAL",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce specialising in Investment Management",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 34,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UP Prospectus 2027 p.7",
+      "notes": "Accounting is not a school subject requirement. Only Mathematics accepted.",
+      "requirements": [
+        {
+          "description": "English HL or FAL",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce specialising in Financial Management Sciences",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 32,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UP Prospectus 2027 p.7",
+      "notes": "Accounting is not a school subject requirement. Only Mathematics accepted.",
+      "requirements": [
+        {
+          "description": "English HL or FAL",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce specialising in Econometrics",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 32,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UP Prospectus 2027 p.7",
+      "notes": "Accounting is not a school subject requirement. Only Mathematics accepted.",
+      "requirements": [
+        {
+          "description": "English HL or FAL",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce specialising in Economics",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 32,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UP Prospectus 2027 p.7",
+      "notes": "Accounting is not a school subject requirement. Only Mathematics accepted.",
+      "requirements": [
+        {
+          "description": "English HL or FAL",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce specialising in Law",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 32,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UP Prospectus 2027 p.7",
+      "notes": "Accounting is not a school subject requirement. Only Mathematics accepted.",
+      "requirements": [
+        {
+          "description": "English HL or FAL",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce specialising in Statistics and Data Science",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 32,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UP Prospectus 2027 p.7",
+      "notes": "Accounting is not a school subject requirement. Only Mathematics accepted.",
+      "requirements": [
+        {
+          "description": "English HL or FAL",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce specialising in Information Systems",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UP Prospectus 2027 p.7",
+      "notes": "Accounting is not a school subject requirement. Only Mathematics accepted.",
+      "requirements": [
+        {
+          "description": "English HL or FAL",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce specialising in Agribusiness Management",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UP Prospectus 2027 p.7",
+      "notes": "Accounting is not a school subject requirement. Only Mathematics accepted.",
+      "requirements": [
+        {
+          "description": "English HL or FAL",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce specialising in Business Management",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UP Prospectus 2027 p.7",
+      "notes": "Accounting is not a school subject requirement. Only Mathematics accepted.",
+      "requirements": [
+        {
+          "description": "English HL or FAL",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce specialising in Supply Chain Management",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UP Prospectus 2027 p.7",
+      "notes": "Accounting is not a school subject requirement. Only Mathematics accepted.",
+      "requirements": [
+        {
+          "description": "English HL or FAL",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce specialising in Marketing Management",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UP Prospectus 2027 p.7",
+      "notes": "Accounting is not a school subject requirement. Only Mathematics accepted.",
+      "requirements": [
+        {
+          "description": "English HL or FAL",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce specialising in Human Resource Management",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UP Prospectus 2027 p.7",
+      "notes": "Accounting is not a school subject requirement. Only Mathematics accepted.",
+      "requirements": [
+        {
+          "description": "English HL or FAL",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UP Prospectus 2027 p.8",
+      "notes": "Accounting is not a school subject requirement. Only Mathematics accepted.",
+      "requirements": [
+        {
+          "description": "English HL or FAL",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce (4-year programme)",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 26,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UP Prospectus 2027 p.8",
+      "notes": "Selection programme: additional selection criteria communicated by the Faculty. Mapped as extended (4-year) programme. Accounting is not a school subject requirement. Only Mathematics accepted.",
+      "requirements": [
+        {
+          "description": "English HL or FAL",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ambiguities": [
+    {
+      "item": "University",
+      "issue": "Application fee is not stated in the prospectus",
+      "choice": "300 (R300, as published for 2027). Verify on up.ac.za."
+    },
+    {
+      "item": "Application URL",
+      "issue": "Prospectus gives www.up.ac.za/apply",
+      "choice": "https://www.up.ac.za/apply. Check it in an incognito window."
+    }
+  ]
+}
