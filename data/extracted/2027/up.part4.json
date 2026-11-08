@@ -1,0 +1,470 @@
+[
+  {
+    "name": "Bachelor of Dental Surgery (BChD)",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 5,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 35,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.11",
+    "notes": "School of Dentistry. Selection programme: ranked by Merit Point Score (MPS) on final Grade 11 results; no fixed cut-offs. Places reserved per category (Designated Group / Open). Conditional offer stays valid if final NSC MPS is not more than 5 points below Grade 11 MPS. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Oral Hygiene",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 25,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.11",
+    "notes": "School of Dentistry. Selection programme: ranked by Merit Point Score (MPS) on final Grade 11 results; no fixed cut-offs. Places reserved per category (Designated Group / Open). Conditional offer stays valid if final NSC MPS is not more than 5 points below Grade 11 MPS. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Dietetics",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.11",
+    "notes": "School of Healthcare Sciences. Selection programme: ranked by Merit Point Score (MPS) on final Grade 11 results; no fixed cut-offs. Places reserved per category (Designated Group / Open). Conditional offer stays valid if final NSC MPS is not more than 5 points below Grade 11 MPS. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Nursing Science",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.11",
+    "notes": "School of Healthcare Sciences. Selection programme: ranked by Merit Point Score (MPS) on final Grade 11 results; no fixed cut-offs. Places reserved per category (Designated Group / Open). Conditional offer stays valid if final NSC MPS is not more than 5 points below Grade 11 MPS. Only Mathematics accepted. Requires Life Sciences (not Physical Sciences).",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Occupational Therapy",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.11",
+    "notes": "School of Healthcare Sciences. Selection programme: ranked by Merit Point Score (MPS) on final Grade 11 results; no fixed cut-offs. Places reserved per category (Designated Group / Open). Conditional offer stays valid if final NSC MPS is not more than 5 points below Grade 11 MPS. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Physiotherapy",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.11",
+    "notes": "School of Healthcare Sciences. Selection programme: ranked by Merit Point Score (MPS) on final Grade 11 results; no fixed cut-offs. Places reserved per category (Designated Group / Open). Conditional offer stays valid if final NSC MPS is not more than 5 points below Grade 11 MPS. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Radiography in Diagnostics",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.11",
+    "notes": "School of Healthcare Sciences. Selection programme: ranked by Merit Point Score (MPS) on final Grade 11 results; no fixed cut-offs. Places reserved per category (Designated Group / Open). Conditional offer stays valid if final NSC MPS is not more than 5 points below Grade 11 MPS. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Clinical Medical Practice (BCMP)",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.11",
+    "notes": "School of Medicine. Selection programme: ranked by Merit Point Score (MPS) on final Grade 11 results; no fixed cut-offs. Places reserved per category (Designated Group / Open). Conditional offer stays valid if final NSC MPS is not more than 5 points below Grade 11 MPS. Only Mathematics accepted. Selection also uses the Biographical Information Form.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Life Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Medicine and Surgery (MBChB)",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 6,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 35,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.11",
+    "notes": "School of Medicine. Selection programme: ranked by Merit Point Score (MPS) on final Grade 11 results; no fixed cut-offs. Places reserved per category (Designated Group / Open). Conditional offer stays valid if final NSC MPS is not more than 5 points below Grade 11 MPS. Only Mathematics accepted. Applicants from countries that have their own medical schools cannot apply.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Sports Science",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.11",
+    "notes": "School of Medicine. Selection programme: ranked by Merit Point Score (MPS) on final Grade 11 results; no fixed cut-offs. Places reserved per category (Designated Group / Open). Conditional offer stays valid if final NSC MPS is not more than 5 points below Grade 11 MPS. Only Mathematics accepted. Honours in Sport Science or Biokinetics needed to qualify as sports scientist or biokineticist.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Life Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  }
+]
