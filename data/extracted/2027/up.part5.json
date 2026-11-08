@@ -1,0 +1,579 @@
+[
+  {
+    "name": "Bachelor of Arts in Speech-Language Pathology",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.12",
+    "notes": "Selection based on academic achievement; only 50 students admitted. Conditional selection starts in August. First year is the same for Audiology and Speech-Language Pathology. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Audiology",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.12",
+    "notes": "Selection based on academic achievement; only 50 students admitted. Conditional selection starts in August. First year is the same for Audiology and Speech-Language Pathology. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Information Design",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UP Prospectus 2027 p.12",
+    "notes": "Conditional admission with APS 30 on Grade 11 results. Online portfolio must be submitted to the Information Design division by 30 June; applications without a portfolio are not considered. Final admission confirmed with APS of at least 28 in Grade 12. No Mathematics requirement stated.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UP Prospectus 2027 p.12",
+    "notes": "Conditional admission with APS 30 on Grade 11 results; final admission confirmed with APS of at least 28 in Grade 12 final results. No Mathematics requirement stated.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Social Work",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UP Prospectus 2027 p.12",
+    "notes": "Conditional admission with APS 30 on Grade 11 results; final admission confirmed with APS of at least 28 in Grade 12 final results. No Mathematics requirement stated. Departmental selection at end of first year (may include aptitude test and interview): 60% average for first-year social work modules and 60% weighted average for the other required modules. Must complete Form 30 (National Child Protection Register).",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts specialising in Law",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 34,
+    "min_aps_maths_lit": 34,
+    "min_aps_tech_maths": 34,
+    "source_ref": "UP Prospectus 2027 p.12",
+    "notes": "No Mathematics requirement stated. Becoming a lawyer requires this degree plus a Bachelor of Laws (LLB).",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts specialising in Languages",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UP Prospectus 2027 p.12",
+    "notes": "Conditional admission with APS 30 on Grade 11 results; final admission confirmed with APS of at least 28 in Grade 12 final results. No Mathematics requirement stated.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Social Science specialising in Industrial Sociology and Labour Studies",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UP Prospectus 2027 p.12",
+    "notes": "Conditional admission with APS 30 on Grade 11 results; final admission confirmed with APS of at least 28 in Grade 12 final results. No Mathematics requirement stated.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Social Science in Heritage and Cultural Sciences",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UP Prospectus 2027 p.12",
+    "notes": "Conditional admission with APS 30 on Grade 11 results; final admission confirmed with APS of at least 28 in Grade 12 final results. No Mathematics requirement stated. Option: Heritage and Cultural Tourism. Possible name change to: Bachelor of Social Science specialising in Heritage and Cultural Tourism.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts specialising in Philosophy, Politics and Economics",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.13",
+    "notes": "Only Mathematics accepted. Applicants with APS 32, Mathematics 4 and English 5 may be admitted to another degree, take STC 110 and STC 122 in first year, and then apply for internal transfer to BA (PPE) in second year.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Political Science specialising in International Studies",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UP Prospectus 2027 p.13",
+    "notes": "Conditional admission with APS 30 on Grade 11 results; final admission confirmed with APS of at least 28 in Grade 12 final results. No Mathematics requirement stated.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Political Science specialising in Political Studies",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UP Prospectus 2027 p.13",
+    "notes": "Conditional admission with APS 30 on Grade 11 results; final admission confirmed with APS of at least 28 in Grade 12 final results. No Mathematics requirement stated.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Fine Arts",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UP Prospectus 2027 p.13",
+    "notes": "Conditional admission with APS 30 on Grade 11 results; final admission confirmed with APS of at least 28 in Grade 12 final results. No Mathematics requirement stated. Admissions in July, September and ad hoc. A4 portfolio plus UP competency test (conceptualisation test, drawing, interview, A4 portfolio) required; at least 60% in each component.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Fine Arts (5-year programme)",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 5,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "UP Prospectus 2027 p.13",
+    "notes": "Five-year programme; mapped as extended. No Mathematics requirement stated. Admissions in July, September and ad hoc. A4 portfolio plus UP competency test (conceptualisation test, drawing, interview, A4 portfolio) required; at least 50% in each component.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts specialising in Visual Studies",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UP Prospectus 2027 p.13",
+    "notes": "Conditional admission with APS 30 on Grade 11 results; final admission confirmed with APS of at least 28 in Grade 12 final results. No Mathematics requirement stated.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Music",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UP Prospectus 2027 p.13",
+    "notes": "Music 4 (50–59%) OR Grade VII Practical and Grade V Theory (Unisa/Royal Schools/Trinity) or comparable standard; the non-NSC alternative is not encoded, so learners without NSC Music need manual checking. Audition required: ~15-minute video performance (three works from different style periods, at least 60%) and online theory test (at least 60%). Conditional admission with APS 30 on Grade 11; final APS at least 28. Admissions in July, September and ad hoc. No Mathematics requirement stated.",
+    "requirements": [
+      {
+        "description": "Music",
+        "options": [
+          {
+            "subject": "Music",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Music (5-year programme)",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 5,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "UP Prospectus 2027 p.13",
+    "notes": "Five-year programme; mapped as extended. Music 4 (50–59%) OR Grade V Practical and Grade III Theory (Unisa/Royal Schools/Trinity) or comparable standard; the non-NSC alternative is not encoded. Audition required: ~10-minute video performance (at least 50%) and online theory test (at least 50%); applicants also write an assessment. If admitted, may not be considered for any other degree in the Faculty except the Bachelor of Music. No Mathematics requirement stated.",
+    "requirements": [
+      {
+        "description": "Music",
+        "options": [
+          {
+            "subject": "Music",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Drama",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UP Prospectus 2027 p.13",
+    "notes": "Conditional admission with APS 30 on Grade 11 results; final admission confirmed with APS of at least 28 in Grade 12 final results. No Mathematics requirement stated. Admissions in August and ad hoc.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Drama (4-year programme)",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "UP Prospectus 2027 p.13",
+    "notes": "Four-year programme with a foundation first year; mapped as extended. Audition process must be passed. Applicants meeting 3-year criteria must apply for that programme. Admissions in August and ad hoc. No Mathematics requirement stated.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  }
+]
