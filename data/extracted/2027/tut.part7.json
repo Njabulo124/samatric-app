@@ -1,0 +1,1688 @@
+[
+  {
+    "name": "Diploma in Animal Sciences",
+    "faculty": "Faculty of Science",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 19,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 19,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.14",
+    "notes": "Campus: Pretoria Campus. Mathematical Literacy not accepted. Recommended subjects: Agricultural Sciences and Life Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Crop Production",
+    "faculty": "Faculty of Science",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 19,
+    "min_aps_maths_lit": 20,
+    "min_aps_tech_maths": 19,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.14",
+    "notes": "Campus: Pretoria Campus. APS 19 with Mathematics or Technical Mathematics; APS 20 with Mathematical Literacy. Recommended subjects: Agricultural subjects, Life Sciences and/or Physical Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Equine Science",
+    "faculty": "Faculty of Science",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 19,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 19,
+    "closes_on": "2026-09-30",
+    "source_ref": "TUT First Year Course Information 2027 p.14",
+    "notes": "Campus: Pretoria Campus. Mathematical Literacy not accepted. Recommended subjects: Agricultural Sciences and Life Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Horticulture",
+    "faculty": "Faculty of Science",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 25,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 25,
+    "closes_on": "2026-09-30",
+    "source_ref": "TUT First Year Course Information 2027 p.14",
+    "notes": "Campus: Pretoria Campus. APS 25 with Mathematics or Technical Mathematics; APS 26 with Mathematical Literacy.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Landscape Technology",
+    "faculty": "Faculty of Science",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 25,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 25,
+    "closes_on": "2026-09-30",
+    "source_ref": "TUT First Year Course Information 2027 p.14",
+    "notes": "Campus: Pretoria Campus. APS 25 with Mathematics or Technical Mathematics; APS 26 with Mathematical Literacy.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Nature Conservation",
+    "faculty": "Faculty of Science",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 24,
+    "min_aps_maths_lit": 25,
+    "min_aps_tech_maths": 24,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.14",
+    "notes": "Campus: Pretoria Campus. APS 24 with Mathematics or Technical Mathematics; APS 25 with Mathematical Literacy. Recommended subjects: Agricultural Sciences, Geography, Life Sciences, Physical Sciences or Technical Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Wildlife Management",
+    "faculty": "Faculty of Science",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 24,
+    "min_aps_maths_lit": 25,
+    "min_aps_tech_maths": 24,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.14",
+    "notes": "Campus: Pretoria Campus. APS 24 with Mathematics or Technical Mathematics; APS 25 with Mathematical Literacy. Recommended subjects: Agricultural Sciences, Geography, Life Sciences, Physical Sciences or Technical Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Higher Certificate in Forestry Management",
+    "faculty": "Faculty of Science",
+    "qualification_type": "higher_certificate",
+    "is_extended": false,
+    "duration_years": 2,
+    "nsc_pass_required": "higher_certificate",
+    "min_aps": 18,
+    "min_aps_maths_lit": 21,
+    "min_aps_tech_maths": 18,
+    "closes_on": "2026-09-30",
+    "source_ref": "TUT First Year Course Information 2027 p.15",
+    "notes": "Campus: Mbombela Campus (only). APS 18 with Mathematics or Technical Mathematics; APS 21 with Mathematical Literacy. Offered only at Mbombela Campus. Minimum duration 2 years.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Environmental Health",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.15",
+    "notes": "Campus: Pretoria Campus. Mathematical Literacy not accepted. NOT ENCODED: two other subjects at level 4 (50%) also required.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Nursing",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 27,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 27,
+    "closes_on": "2026-06-15",
+    "source_ref": "TUT First Year Course Information 2027 p.15",
+    "notes": "Campus: Pretoria Campus. Mathematical Literacy not accepted.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Pharmacy",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "closes_on": "2026-06-15",
+    "source_ref": "TUT First Year Course Information 2027 p.15",
+    "notes": "Campus: Arcadia Campus. Mathematical Literacy not accepted. NOT ENCODED: two other subjects at level 4 (50%) also required.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Radiography in Diagnostics",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "closes_on": "2026-06-15",
+    "source_ref": "TUT First Year Course Information 2027 p.15",
+    "notes": "Campus: Arcadia Campus. Mathematical Literacy not accepted.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Health Sciences in Biokinetics",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.15",
+    "notes": "Campus: Pretoria Campus. Mathematical Literacy not accepted.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Health Sciences in Clinical Technology",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.15",
+    "notes": "Campus: Arcadia Campus. Mathematical Literacy not accepted.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Health Sciences in Medical Laboratory Science",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "closes_on": "2026-06-15",
+    "source_ref": "TUT First Year Course Information 2027 p.15",
+    "notes": "Campus: Arcadia Campus. Mathematical Literacy not accepted.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Health Sciences in Medical Orthotics and Prosthetics",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "closes_on": "2026-06-15",
+    "source_ref": "TUT First Year Course Information 2027 p.15",
+    "notes": "Campus: Pretoria Campus. Mathematical Literacy not accepted.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Health Sciences in Veterinary Technology",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.15",
+    "notes": "Campus: Arcadia Campus. Mathematical Literacy not accepted.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Agricultural Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Kinesiology and Coaching Science",
+    "faculty": "Faculty of Science",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.16",
+    "notes": "Campus: Pretoria Campus.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Somatic Therapy",
+    "faculty": "Faculty of Science",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 22,
+    "min_aps_maths_lit": 23,
+    "min_aps_tech_maths": 22,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.16",
+    "notes": "Campus: Arcadia Campus. APS 22 with Mathematics or Technical Mathematics; APS 23 with Mathematical Literacy.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Higher Certificate in Dental Assisting",
+    "faculty": "Faculty of Science",
+    "qualification_type": "higher_certificate",
+    "is_extended": false,
+    "duration_years": 1,
+    "nsc_pass_required": "higher_certificate",
+    "min_aps": 20,
+    "min_aps_maths_lit": 20,
+    "min_aps_tech_maths": null,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.16",
+    "notes": "Campus: Pretoria Campus. Technical Mathematics not listed. NOT ENCODED: 'any other additional subjects' at level 3 (40%).",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Industrial Chemistry",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.16",
+    "notes": "Campus: Arcadia Campus. Only Mathematics and Physical Sciences accepted (no technical alternatives listed).",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Analytical Chemistry",
+    "faculty": "Faculty of Science",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 21,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 21,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.16",
+    "notes": "Campus: Arcadia Campus. Mathematical Literacy not accepted.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Biotechnology",
+    "faculty": "Faculty of Science",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.16",
+    "notes": "Campus: Arcadia Campus. Mathematical Literacy not accepted.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Environmental Sciences",
+    "faculty": "Faculty of Science",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "closes_on": "2026-09-30",
+    "source_ref": "TUT First Year Course Information 2027 p.16",
+    "notes": "Campus: Arcadia Campus. Mathematical Literacy not accepted. Recommended subjects: Geography and Life Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Food Technology",
+    "faculty": "Faculty of Science",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "closes_on": "2026-09-30",
+    "source_ref": "TUT First Year Course Information 2027 p.17",
+    "notes": "Campus: Arcadia Campus. Mathematical Literacy not accepted.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Geology",
+    "faculty": "Faculty of Science",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 21,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 21,
+    "closes_on": "2026-07-31",
+    "source_ref": "TUT First Year Course Information 2027 p.17",
+    "notes": "Campus: Arcadia Campus. Mathematical Literacy not accepted. Recommended subjects: Computer Applications Technology, Geography and/or Information Technology.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Industrial Physics",
+    "faculty": "Faculty of Science",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 21,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 21,
+    "closes_on": "2026-09-30",
+    "source_ref": "TUT First Year Course Information 2027 p.17",
+    "notes": "Campus: Arcadia Campus. Mathematical Literacy not accepted.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Water Science and Technology",
+    "faculty": "Faculty of Science",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 21,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 21,
+    "closes_on": "2026-09-30",
+    "source_ref": "TUT First Year Course Information 2027 p.17",
+    "notes": "Campus: Arcadia Campus. Mathematical Literacy not accepted. Recommended subject: Life Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Higher Certificate in Resource and Waste Management",
+    "faculty": "Faculty of Science",
+    "qualification_type": "higher_certificate",
+    "is_extended": false,
+    "duration_years": 1,
+    "nsc_pass_required": "higher_certificate",
+    "min_aps": 18,
+    "min_aps_maths_lit": 21,
+    "min_aps_tech_maths": 18,
+    "closes_on": "2026-09-30",
+    "source_ref": "TUT First Year Course Information 2027 p.17",
+    "notes": "Campus: Arcadia Campus. APS 18 with Mathematics or Technical Mathematics; APS 21 with Mathematical Literacy.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Higher Certificate in Water Treatment",
+    "faculty": "Faculty of Science",
+    "qualification_type": "higher_certificate",
+    "is_extended": false,
+    "duration_years": 1,
+    "nsc_pass_required": "higher_certificate",
+    "min_aps": 18,
+    "min_aps_maths_lit": 21,
+    "min_aps_tech_maths": 18,
+    "closes_on": "2026-09-30",
+    "source_ref": "TUT First Year Course Information 2027 p.17",
+    "notes": "Campus: Arcadia Campus. APS 18 with Mathematics or Technical Mathematics; APS 21 with Mathematical Literacy.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  }
+]
