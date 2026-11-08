@@ -1,0 +1,506 @@
+{
+  "intake_year": 2027,
+  "source_document": "UFH Undergraduate Study Guide 2027",
+  "university": {
+    "name": "University of Fort Hare",
+    "short_name": "UFH",
+    "institution_type": "traditional",
+    "province": "Eastern Cape",
+    "website_url": "https://www.ufh.ac.za",
+    "application_url": "https://www.ufh.ac.za/apply/apply-undergraduate",
+    "application_fee": 120
+  },
+  "application_periods": [
+    {
+      "label": "General",
+      "opens_on": "2026-05-01",
+      "closes_on": "2026-10-31",
+      "notes": "Undergraduate applications. Fee paid online via PayGate."
+    }
+  ],
+  "aps_rule": {
+    "default_scale": {
+      "name": "NSC standard 7-point"
+    },
+    "subjects_counted": 7,
+    "include_lo": true,
+    "must_count": [
+      [
+        "English Home Language",
+        "English First Additional Language"
+      ],
+      [
+        "Life Orientation"
+      ]
+    ],
+    "subject_scales": [
+      {
+        "subject": "Life Orientation",
+        "scale": {
+          "name": "UFH Life Orientation (capped at 4)",
+          "bands": [
+            {
+              "min_mark": 50,
+              "max_mark": 100,
+              "points": 4
+            },
+            {
+              "min_mark": 40,
+              "max_mark": 49,
+              "points": 3
+            },
+            {
+              "min_mark": 30,
+              "max_mark": 39,
+              "points": 2
+            },
+            {
+              "min_mark": 0,
+              "max_mark": 29,
+              "points": 1
+            }
+          ]
+        }
+      }
+    ],
+    "notes": "Seven subjects including Life Orientation; LO capped at level 4 (4 points) for APS. Most programmes also require LO at level 4 (50%). Study Guide 2027."
+  },
+  "faculties": [
+    "Faculty of Education",
+    "Faculty of Health Sciences",
+    "Faculty of Law",
+    "Faculty of Management and Commerce",
+    "Faculty of Science and Agriculture",
+    "Faculty of Social Sciences and Humanities"
+  ],
+  "courses": [
+    {
+      "name": "Bachelor of Education Senior and FET Phase (Agriculture specialisation)",
+      "faculty": "Faculty of Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 28,
+      "min_aps_maths_lit": 29,
+      "min_aps_tech_maths": null,
+      "source_ref": "Study Guide 2027 p.1",
+      "notes": "Prog code 500491 (SAQA 112523). Min APS 28 (29 with Mathematical Literacy). Plus 2 other subjects at level 4 (50%). Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Agricultural Sciences",
+          "options": [
+            {
+              "subject": "Agricultural Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Life Orientation",
+          "options": [
+            {
+              "subject": "Life Orientation",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education Senior and FET Phase (Commerce specialisation)",
+      "faculty": "Faculty of Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 27,
+      "min_aps_maths_lit": 28,
+      "min_aps_tech_maths": null,
+      "source_ref": "Study Guide 2027 p.1",
+      "notes": "Prog code 500492 (SAQA 112523). Min APS 28 (27 with Mathematics). Guide lists 'Business management' (mapped to Business Studies). Plus 2 other subjects at level 4 (50%). Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Two of Accounting, Economics, Business Studies",
+          "min_count": 2,
+          "options": [
+            {
+              "subject": "Accounting",
+              "min_percent": 50
+            },
+            {
+              "subject": "Economics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Business Studies",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Life Orientation",
+          "options": [
+            {
+              "subject": "Life Orientation",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education Senior and FET Phase (Science specialisation)",
+      "faculty": "Faculty of Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 28,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "Study Guide 2027 p.1",
+      "notes": "Prog code 500493 (SAQA 112523). Guide lists 'Computer science' (mapped to Information Technology). Plus 3 other subjects at level 4 (50%). Mathematical Literacy and Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences, Life Sciences, Geography or Information Technology",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Geography",
+              "min_percent": 50
+            },
+            {
+              "subject": "Information Technology",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Life Orientation",
+          "options": [
+            {
+              "subject": "Life Orientation",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education Senior and FET Phase (Social Science specialisation)",
+      "faculty": "Faculty of Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 28,
+      "min_aps_maths_lit": 28,
+      "min_aps_tech_maths": 28,
+      "source_ref": "Study Guide 2027 p.1",
+      "notes": "Prog code 500494 (SAQA 112523). No Mathematics requirement, so Maths Lit/Tech Maths APS set to min APS. Plus 3 other subjects at level 4 (50%).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "isiXhosa or Afrikaans",
+          "options": [
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "History or Geography",
+          "options": [
+            {
+              "subject": "History",
+              "min_percent": 50
+            },
+            {
+              "subject": "Geography",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Life Orientation",
+          "options": [
+            {
+              "subject": "Life Orientation",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Foundation Phase Teaching",
+      "faculty": "Faculty of Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 28,
+      "min_aps_maths_lit": 29,
+      "min_aps_tech_maths": null,
+      "source_ref": "Study Guide 2027 p.1",
+      "notes": "Prog code 50045 (SAQA 103090). Min APS 28 (29 with Mathematical Literacy). Plus 3 other subjects at level 4 (50%). Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "isiXhosa or Afrikaans",
+          "options": [
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Life Orientation",
+          "options": [
+            {
+              "subject": "Life Orientation",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Intermediate Phase Teaching",
+      "faculty": "Faculty of Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 28,
+      "min_aps_maths_lit": 29,
+      "min_aps_tech_maths": null,
+      "source_ref": "Study Guide 2027 p.1",
+      "notes": "Prog code 50046 (SAQA 99690). Min APS 28 (29 with Mathematical Literacy). Plus 3 other subjects at level 4 (50%). Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "isiXhosa or Afrikaans",
+          "options": [
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Life Orientation",
+          "options": [
+            {
+              "subject": "Life Orientation",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ambiguities": [
+    {
+      "item": "APS",
+      "issue": "Guide states the LO cap under Management & Commerce ('for all degrees'); programme tables list 7 items incl. LO for all faculties",
+      "choice": "7 subjects incl. LO capped at 4, university-wide"
+    },
+    {
+      "item": "Application URL",
+      "issue": "Portal reached from ufh.ac.za/apply",
+      "choice": "Check it in an incognito window"
+    }
+  ]
+}
