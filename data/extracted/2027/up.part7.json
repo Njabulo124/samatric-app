@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Bachelor of Laws (LLB)",
+    "faculty": "Faculty of Law",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 35,
+    "min_aps_maths_lit": 35,
+    "min_aps_tech_maths": 35,
+    "source_ref": "UP Prospectus 2027 p.14",
+    "notes": "No Mathematics requirement stated. Conditional admission to available places; Faculty aims for at least 50% of first-year class from designated groups. If places remain after the closing date, NSC applicants with APS 38+ and English level 6 may still be conditionally admitted by the Admissions Committee. Apply as early as possible from 1 April.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 70
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  }
+]
