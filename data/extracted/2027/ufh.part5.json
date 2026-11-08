@@ -1,0 +1,1372 @@
+[
+  {
+    "name": "Bachelor of Science",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Guide 2027 p.2",
+    "notes": "Prog code 40000 (SAQA 19236). Streams: Botany and Entomology (40008), Botany and Microbiology (40009), Chemistry and Botany (40011), Chemistry Single Major (40012), Chemistry and Geology (40013), Computer Science and Applied Mathematics (40014), Computer Science and Physics (40015), Computer Science and Statistics (40016), Geography and Geology (40017), Geography and GIS (40018), GIS and Computer Science (40020), Geology and GIS (40022), Geology and Physics (40023), Mathematics and Physics (40024), Mathematics and Computer Science (40025), Mathematics and Chemistry (40026), Microbiology and Zoology (40027), Mathematical Statistics and Mathematics (40028), Statistics and Geology (40029), Entomology and Microbiology (40032), GIS and Entomology (40034), GIS and Zoology (40033), Applied Mathematics and Mathematics (40035), Applied Mathematics and Statistics (40036), Applied Mathematics and Physics (40037), Biochemistry and Microbiology (40039), Biochemistry and Chemistry (40040), Biochemistry and Computer Science (40041), Botany and Zoology (40042), Chemistry and Physics (40043). Plus 2 other subjects at level 4 (50%). Mathematical Literacy and Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences, Geography, Agricultural Sciences or Information Technology",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Geography",
+            "min_percent": 50
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Information Technology",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Extended Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 27,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Guide 2027 p.2",
+    "notes": "Prog code 40400 (SAQA 19236). Maths AND Physical Sciences: Level 3 in one and Level 4 in the other (encoded as both at 40% plus one of them at 50%). Plus 2 other subjects at level 4 (50%). Mathematical Literacy and Technical Mathematics not listed. Extended programme: may also be considered with Level 3 in any other subject except LO, if the rest are at Level 4 or above. Takes one more year than mainstream.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Physical Sciences at Level 4",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences, Geography, Agricultural Sciences or Information Technology",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Geography",
+            "min_percent": 50
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Information Technology",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Agriculture in Soil Science",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Guide 2027 p.2",
+    "notes": "Prog code 71522 (SAQA 100997). Plus 2 other subjects at level 4 (50%). Mathematical Literacy and Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences, Geography, Agricultural Sciences or Information Technology",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Geography",
+            "min_percent": 50
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Information Technology",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Agriculture in Soil Science (Extended Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 27,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Guide 2027 p.2",
+    "notes": "Prog code 71422 (SAQA 100997). Maths AND Physical Sciences: Level 3 in one and Level 4 in the other (encoded as both at 40% plus one of them at 50%). Plus 2 other subjects at level 4 (50%). Mathematical Literacy and Technical Mathematics not listed. Extended programme: may also be considered with Level 3 in any other subject except LO, if the rest are at Level 4 or above. Takes one more year than mainstream.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Physical Sciences at Level 4",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences, Geography, Agricultural Sciences or Information Technology",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Geography",
+            "min_percent": 50
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Information Technology",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Agriculture in Horticulture",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Guide 2027 p.2",
+    "notes": "Prog code 71523 (SAQA 100998). Plus 2 other subjects at level 4 (50%). Mathematical Literacy and Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences, Geography, Agricultural Sciences or Information Technology",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Geography",
+            "min_percent": 50
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Information Technology",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Agriculture in Horticulture (Extended Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 27,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Guide 2027 p.2",
+    "notes": "Prog code 71423 (SAQA 100998). Maths AND Physical Sciences: Level 3 in one and Level 4 in the other (encoded as both at 40% plus one of them at 50%). Plus 2 other subjects at level 4 (50%). Mathematical Literacy and Technical Mathematics not listed. Extended programme: may also be considered with Level 3 in any other subject except LO, if the rest are at Level 4 or above. Takes one more year than mainstream.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Physical Sciences at Level 4",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences, Geography, Agricultural Sciences or Information Technology",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Geography",
+            "min_percent": 50
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Information Technology",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Agriculture in Crops",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Guide 2027 p.2",
+    "notes": "Prog code 71524 (SAQA 101000). Plus 2 other subjects at level 4 (50%). Mathematical Literacy and Technical Mathematics not listed. English level blank in guide for mainstream (50% used).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences, Geography, Agricultural Sciences or Information Technology",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Geography",
+            "min_percent": 50
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Information Technology",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Agriculture in Crops (Extended Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 27,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Guide 2027 p.2",
+    "notes": "Prog code 71424 (SAQA 101000). Maths AND Physical Sciences: Level 3 in one and Level 4 in the other (encoded as both at 40% plus one of them at 50%). Plus 2 other subjects at level 4 (50%). Mathematical Literacy and Technical Mathematics not listed. Extended programme: may also be considered with Level 3 in any other subject except LO, if the rest are at Level 4 or above. Takes one more year than mainstream.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Physical Sciences at Level 4",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences, Geography, Agricultural Sciences or Information Technology",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Geography",
+            "min_percent": 50
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Information Technology",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Agriculture in Animal Production",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Guide 2027 p.2",
+    "notes": "Prog code 71525 (SAQA 100996). Plus 2 other subjects at level 4 (50%). Mathematical Literacy and Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences, Geography, Agricultural Sciences or Information Technology",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Geography",
+            "min_percent": 50
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Information Technology",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Agriculture in Animal Production (Extended Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 27,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Guide 2027 p.2",
+    "notes": "Prog code 71425 (SAQA 100996). Maths AND Physical Sciences: Level 3 in one and Level 4 in the other (encoded as both at 40% plus one of them at 50%). Plus 2 other subjects at level 4 (50%). Mathematical Literacy and Technical Mathematics not listed. Extended programme: may also be considered with Level 3 in any other subject except LO, if the rest are at Level 4 or above. Takes one more year than mainstream.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Physical Sciences at Level 4",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences, Geography, Agricultural Sciences or Information Technology",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Geography",
+            "min_percent": 50
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Information Technology",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Agriculture in Pasture Science",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Guide 2027 p.2",
+    "notes": "Prog code 71526 (SAQA 100999). Plus 2 other subjects at level 4 (50%). Mathematical Literacy and Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences, Geography, Agricultural Sciences or Information Technology",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Geography",
+            "min_percent": 50
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Information Technology",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Agriculture in Pasture Science (Extended Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 27,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Guide 2027 p.2",
+    "notes": "Prog code 71426 (SAQA 100999). Maths AND Physical Sciences: Level 3 in one and Level 4 in the other (encoded as both at 40% plus one of them at 50%). Plus 2 other subjects at level 4 (50%). Mathematical Literacy and Technical Mathematics not listed. Extended programme: may also be considered with Level 3 in any other subject except LO, if the rest are at Level 4 or above. Takes one more year than mainstream.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Physical Sciences at Level 4",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences, Geography, Agricultural Sciences or Information Technology",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Geography",
+            "min_percent": 50
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Information Technology",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Agriculture in Agricultural Economics",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Guide 2027 p.2",
+    "notes": "Prog code 71521 (SAQA 100995). Plus 2 other subjects at level 4 (50%). Mathematical Literacy and Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Agricultural Sciences, Geography or Information Technology",
+        "options": [
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Geography",
+            "min_percent": 50
+          },
+          {
+            "subject": "Information Technology",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Agriculture in Agricultural Economics (Extended Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 27,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Guide 2027 p.2",
+    "notes": "Prog code 71421 (SAQA 100995). Plus 2 other subjects at level 4 (50%). Mathematical Literacy and Technical Mathematics not listed. Extended programme: may also be considered with Level 3 in any other subject except LO, if the rest are at Level 4 or above. Takes one more year than mainstream.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Agricultural Sciences, Geography or Information Technology",
+        "options": [
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Geography",
+            "min_percent": 50
+          },
+          {
+            "subject": "Information Technology",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Agriculture",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 29,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Guide 2027 p.2",
+    "notes": "Prog code 70001 (SAQA 3393). Min APS 28 (29 with Mathematical Literacy). Plus 3 other subjects at level 4 (50%). Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Agricultural Sciences",
+        "options": [
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Agriculture (Extended Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 27,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Guide 2027 p.2",
+    "notes": "Prog code 70401 (SAQA 3393). Min APS 27 (28 with Mathematical Literacy). Plus 3 other subjects at level 4 (50%). Technical Mathematics not listed. Extended programme: may also be considered with Level 3 in any other subject except LO, if the rest are at Level 4 or above. Takes one more year than mainstream.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Agricultural Sciences",
+        "options": [
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Agriculture in Agricultural Extension",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 29,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Guide 2027 p.2",
+    "notes": "Prog code 70002 (SAQA 100994). Min APS 28 (29 with Mathematical Literacy). Plus 3 other subjects at level 4 (50%). Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Agricultural Sciences",
+        "options": [
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Agriculture in Agricultural Extension (Extended Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 27,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Guide 2027 p.2",
+    "notes": "Prog code 70402 (SAQA 100994). Min APS 27 (28 with Mathematical Literacy). Plus 3 other subjects at level 4 (50%). Technical Mathematics not listed. Extended programme: may also be considered with Level 3 in any other subject except LO, if the rest are at Level 4 or above. Takes one more year than mainstream.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Agricultural Sciences",
+        "options": [
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  }
+]
