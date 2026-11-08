@@ -126,3 +126,11 @@ test('POST /api/improve rejects missing courseIds', async () => {
   });
   assert.equal(res.status, 400);
 });
+
+test('closesFor prefers the faculty\'s own closing date', async () => {
+  const { closesFor } = await import('../src/app.js');
+  const uni = { applicationsClose: '2026-06-30', periods: [{ label: 'Faculty of Veterinary Science', closesOn: '2026-05-31' }] };
+  assert.equal(closesFor(uni, 'Faculty of Veterinary Science'), '2026-05-31');
+  assert.equal(closesFor(uni, 'Faculty of Law'), '2026-06-30');
+  assert.equal(closesFor(undefined, 'x'), null);
+});

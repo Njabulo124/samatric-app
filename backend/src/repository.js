@@ -113,6 +113,10 @@ export async function loadUniversities(db, intakeYear) {
               WHERE p.university_id = u.university_id AND p.intake_year = $1 AND p.closes_on IS NOT NULL
               ORDER BY (p.label = 'General') DESC, p.closes_on
               LIMIT 1) AS "applicationsClose",
+            -- Every period, so a course can use its own faculty's closing date
+            COALESCE((SELECT json_agg(json_build_object('label', p.label, 'closesOn', p.closes_on::text) ORDER BY p.closes_on)
+              FROM application_periods p
+              WHERE p.university_id = u.university_id AND p.intake_year = $1), '[]'::json) AS "periods",
             COUNT(c.course_id)::int AS "courseCount"
      FROM universities u
      JOIN courses c ON c.university_id = u.university_id AND c.prospectus_year = $1 AND c.is_active

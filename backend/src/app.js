@@ -14,13 +14,18 @@ import { improvePlan } from './improve.js';
 
 const MAX_PLAN_COURSES = 20;
 
+/** A faculty's own closing date if the university lists one (e.g. Vet Science), else the general date. */
+export function closesFor(uni, faculty) {
+  return uni?.periods?.find((p) => p.label === faculty)?.closesOn ?? uni?.applicationsClose ?? null;
+}
+
 /** A course as the API returns it, with its university's application details attached. */
 function courseView(course, uni) {
   return {
     ...course,
     universityName: uni?.name ?? null,
     applicationUrl: uni?.applicationUrl ?? null,
-    applicationsClose: uni?.applicationsClose ?? null,
+    applicationsClose: closesFor(uni, course.faculty),
   };
 }
 

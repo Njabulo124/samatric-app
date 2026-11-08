@@ -374,12 +374,13 @@ function courseItem(r) {
   else if (r.reasons.length) body.push(el('ul', { class: 'reasons' }, r.reasons.map((x) => el('li', {}, x))));
 
   const foot = [];
-  const info = applyInfo(r.university, uni?.applicationsClose);
+  const closes = uni?.periods?.find((p) => p.label === r.faculty)?.closesOn ?? uni?.applicationsClose;
+  const info = applyInfo(r.university, closes);
   if (uni?.applicationUrl && r.status !== 'not_eligible') {
     foot.push(el('a', { class: 'apply', href: uni.applicationUrl, target: '_blank', rel: 'noopener' }, info.button));
   }
-  if (uni?.applicationsClose && r.status !== 'not_eligible') {
-    foot.push(el('span', { class: `closes${info.closed ? ' closed' : ''}` }, info.closed ? `Closed ${formatDate(uni.applicationsClose)}` : info.text));
+  if (closes && r.status !== 'not_eligible') {
+    foot.push(el('span', { class: `closes${info.closed ? ' closed' : ''}` }, info.closed ? `Closed ${formatDate(closes)}` : info.text));
   }
   const uniAps = state.response.apsByUniversity[r.university]?.aps;
   if (r.apsWorking && r.aps !== uniAps) {

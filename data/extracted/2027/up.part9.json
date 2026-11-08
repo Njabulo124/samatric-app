@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Bachelor of Veterinary Science",
+    "faculty": "Faculty of Veterinary Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 6,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 35,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.19",
+    "notes": "Closing date 31 May (earlier than other faculties). Selection by Merit Point Score within categories; may include interviews or additional tests. School leavers conditionally selected on Grade 11 results; place lost if final NSC fails minimum requirements or final MPS is more than 5% below Grade 11 score. Applicants must not have registered at any higher education institution. Only Mathematics accepted (Maths Lit and Technical Maths not considered). Suggested second choices: BSc Zoology or BSc Agriculture in Animal Science.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Veterinary Nursing",
+    "faculty": "Faculty of Veterinary Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.19",
+    "notes": "Closing date 31 May (earlier than other faculties). Selection by Merit Point Score within categories; may include interviews or additional tests. School leavers conditionally selected on Grade 11 results; place lost if final NSC fails minimum requirements or final MPS is more than 5% below Grade 11 score. Applicants must not have registered at any higher education institution. Only Mathematics accepted (Maths Lit and Technical Maths not considered). Transfer from Veterinary Nursing to Veterinary Science is not allowed.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Life Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  }
+]
