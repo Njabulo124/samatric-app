@@ -1,0 +1,506 @@
+[
+  {
+    "name": "Diploma in Computer Science",
+    "faculty": "Faculty of Information and Communication Technology",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 26,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 26,
+    "closes_on": "2026-09-30",
+    "source_ref": "TUT First Year Course Information 2027 p.11",
+    "notes": "Campus: Soshanguve Campus. Campus column lists: Soshanguve South, eMalahleni, Polokwane. APS 26 with Mathematics or Technical Mathematics; APS 28 with Mathematical Literacy. Recommended subject: Information Technology.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Computer Science (Extended)",
+    "faculty": "Faculty of Information and Communication Technology",
+    "qualification_type": "diploma",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "diploma",
+    "min_aps": 23,
+    "min_aps_maths_lit": 25,
+    "min_aps_tech_maths": 23,
+    "closes_on": "2026-09-30",
+    "source_ref": "TUT First Year Course Information 2027 p.11",
+    "notes": "Campus: Soshanguve Campus. Campus column lists: Soshanguve South, eMalahleni, Polokwane. APS 23 with Mathematics or Technical Mathematics; APS 25 with Mathematical Literacy. Extended programme. Recommended subject: Information Technology.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Computer Systems Engineering",
+    "faculty": "Faculty of Information and Communication Technology",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "closes_on": "2026-09-30",
+    "source_ref": "TUT First Year Course Information 2027 p.11",
+    "notes": "Campus: Soshanguve Campus. Campus column lists: Soshanguve South. Mathematical Literacy not accepted.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Computer Systems Engineering (Extended)",
+    "faculty": "Faculty of Information and Communication Technology",
+    "qualification_type": "diploma",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "diploma",
+    "min_aps": 23,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 23,
+    "closes_on": "2026-09-30",
+    "source_ref": "TUT First Year Course Information 2027 p.11",
+    "notes": "Campus: Soshanguve Campus. Campus column lists: Soshanguve South. Extended programme. Mathematical Literacy not accepted.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Informatics",
+    "faculty": "Faculty of Information and Communication Technology",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 26,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 26,
+    "closes_on": "2026-09-30",
+    "source_ref": "TUT First Year Course Information 2027 p.11",
+    "notes": "Campus: Soshanguve Campus. Campus column lists: Soshanguve South. APS 26 with Mathematics or Technical Mathematics; APS 28 with Mathematical Literacy.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Informatics (Extended)",
+    "faculty": "Faculty of Information and Communication Technology",
+    "qualification_type": "diploma",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "diploma",
+    "min_aps": 23,
+    "min_aps_maths_lit": 25,
+    "min_aps_tech_maths": 23,
+    "closes_on": "2026-09-30",
+    "source_ref": "TUT First Year Course Information 2027 p.11",
+    "notes": "Campus: Soshanguve Campus. Campus column lists: Soshanguve South. APS 23 with Mathematics or Technical Mathematics; APS 25 with Mathematical Literacy. Extended programme.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Information Technology",
+    "faculty": "Faculty of Information and Communication Technology",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 26,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 26,
+    "closes_on": "2026-09-30",
+    "source_ref": "TUT First Year Course Information 2027 p.11",
+    "notes": "Campus: Soshanguve Campus. Campus column lists: Soshanguve South. APS 26 with Mathematics or Technical Mathematics; APS 28 with Mathematical Literacy.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 80
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Information Technology (Extended)",
+    "faculty": "Faculty of Information and Communication Technology",
+    "qualification_type": "diploma",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "diploma",
+    "min_aps": 23,
+    "min_aps_maths_lit": 25,
+    "min_aps_tech_maths": 23,
+    "closes_on": "2026-09-30",
+    "source_ref": "TUT First Year Course Information 2027 p.11",
+    "notes": "Campus: Soshanguve Campus. Campus column lists: Soshanguve South. APS 23 with Mathematics or Technical Mathematics; APS 25 with Mathematical Literacy. Extended programme.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Multimedia Computing",
+    "faculty": "Faculty of Information and Communication Technology",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 26,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 26,
+    "closes_on": "2026-09-30",
+    "source_ref": "TUT First Year Course Information 2027 p.11",
+    "notes": "Campus: Soshanguve Campus. Campus column lists: Soshanguve South. APS 26 with Mathematics or Technical Mathematics; APS 28 with Mathematical Literacy. Recommended subject: Information Technology.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Multimedia Computing (Extended)",
+    "faculty": "Faculty of Information and Communication Technology",
+    "qualification_type": "diploma",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "diploma",
+    "min_aps": 23,
+    "min_aps_maths_lit": 25,
+    "min_aps_tech_maths": 23,
+    "closes_on": "2026-09-30",
+    "source_ref": "TUT First Year Course Information 2027 p.11",
+    "notes": "Campus: Soshanguve Campus. Campus column lists: Soshanguve South. APS 23 with Mathematics or Technical Mathematics; APS 25 with Mathematical Literacy. Extended programme. Recommended subject: Information Technology.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  }
+]
