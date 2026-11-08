@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Bachelor of Laws",
+    "faculty": "Faculty of Law",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "Study Guide 2027 p.1",
+    "notes": "Prog code 21525 (SAQA 15577). Single min APS 30 for all maths types. Plus 4 other subjects at level 4 (50%).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Laws (Extended Programme)",
+    "faculty": "Faculty of Law",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 5,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "Study Guide 2027 p.1",
+    "notes": "Prog code 21526 (SAQA 15577). APS column says '(28 with ML or TM)'; no separate APS printed for Mathematics, so 28 used for all. Plus 4 other subjects at level 4 (50%).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 30
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Law",
+    "faculty": "Faculty of Law",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 29,
+    "min_aps_tech_maths": 29,
+    "source_ref": "Study Guide 2027 p.1",
+    "notes": "Prog code 21527 (SAQA 15573). Min APS 28 (29 with Mathematical Literacy or Technical Mathematics). Plus 4 other subjects at level 4 (50%).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  }
+]
