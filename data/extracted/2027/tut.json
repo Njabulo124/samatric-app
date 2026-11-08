@@ -1,0 +1,463 @@
+{
+  "intake_year": 2027,
+  "source_document": "TUT First Year Course Information 2027",
+  "university": {
+    "name": "Tshwane University of Technology",
+    "short_name": "TUT",
+    "institution_type": "university_of_technology",
+    "province": "Gauteng",
+    "website_url": "https://www.tut.ac.za",
+    "application_url": "https://www.tut.ac.za/study-at-tut",
+    "application_fee": 240
+  },
+  "application_periods": [
+    {
+      "label": "General",
+      "opens_on": "2026-04-01",
+      "closes_on": "2026-09-30",
+      "notes": "Programmes close on 15 June, 31 July or 30 September; each course carries its own date. Programmes can close early once full."
+    }
+  ],
+  "aps_rule": {
+    "default_scale": {
+      "name": "TUT NSC 7-point (level 1 = 0)",
+      "bands": [
+        {
+          "min_mark": 80,
+          "max_mark": 100,
+          "points": 7
+        },
+        {
+          "min_mark": 70,
+          "max_mark": 79,
+          "points": 6
+        },
+        {
+          "min_mark": 60,
+          "max_mark": 69,
+          "points": 5
+        },
+        {
+          "min_mark": 50,
+          "max_mark": 59,
+          "points": 4
+        },
+        {
+          "min_mark": 40,
+          "max_mark": 49,
+          "points": 3
+        },
+        {
+          "min_mark": 30,
+          "max_mark": 39,
+          "points": 2
+        },
+        {
+          "min_mark": 0,
+          "max_mark": 29,
+          "points": 0
+        }
+      ]
+    },
+    "subjects_counted": 6,
+    "include_lo": false,
+    "must_count": [],
+    "subject_scales": [],
+    "notes": "Best six subjects. Life Orientation and any subject at achievement level 1 are not counted (level 1 = 0 points). Prospectus 2027, admission requirements."
+  },
+  "faculties": [
+    "Faculty of Arts and Design",
+    "Faculty of Economics and Finance",
+    "Faculty of Engineering and the Built Environment",
+    "Faculty of Humanities",
+    "Faculty of Information and Communication Technology",
+    "Faculty of Management Sciences",
+    "Faculty of Science"
+  ],
+  "courses": [
+    {
+      "name": "Diploma in Commercial Photography",
+      "faculty": "Faculty of Arts and Design",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 22,
+      "min_aps_maths_lit": 22,
+      "min_aps_tech_maths": 22,
+      "source_ref": "TUT First Year Course Information 2027 p.3",
+      "notes": "Campus: Arts Campus. No Mathematics requirement stated.",
+      "requirements": [
+        {
+          "description": "English HL or FAL",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        }
+      ],
+      "closes_on": "2026-07-31"
+    },
+    {
+      "name": "Diploma in Fashion Design and Technology",
+      "faculty": "Faculty of Arts and Design",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 20,
+      "min_aps_maths_lit": 20,
+      "min_aps_tech_maths": 20,
+      "source_ref": "TUT First Year Course Information 2027 p.3",
+      "notes": "Campus: Arts Campus. No Mathematics requirement stated.",
+      "requirements": [
+        {
+          "description": "English HL or FAL",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        }
+      ],
+      "closes_on": "2026-07-31"
+    },
+    {
+      "name": "Diploma in Fine and Applied Arts",
+      "faculty": "Faculty of Arts and Design",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 20,
+      "min_aps_maths_lit": 20,
+      "min_aps_tech_maths": 20,
+      "source_ref": "TUT First Year Course Information 2027 p.3",
+      "notes": "Campus: Arts Campus. No Mathematics requirement stated.",
+      "requirements": [
+        {
+          "description": "English HL or FAL",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        }
+      ],
+      "closes_on": "2026-07-31"
+    },
+    {
+      "name": "Diploma in Integrated Communication Design",
+      "faculty": "Faculty of Arts and Design",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 24,
+      "min_aps_maths_lit": 24,
+      "min_aps_tech_maths": 24,
+      "source_ref": "TUT First Year Course Information 2027 p.3",
+      "notes": "Campus: Arts Campus. No Mathematics requirement stated.",
+      "requirements": [
+        {
+          "description": "English HL or FAL",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ],
+      "closes_on": "2026-07-31"
+    },
+    {
+      "name": "Diploma in Interior Design",
+      "faculty": "Faculty of Arts and Design",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 22,
+      "min_aps_maths_lit": 22,
+      "min_aps_tech_maths": 22,
+      "source_ref": "TUT First Year Course Information 2027 p.3",
+      "notes": "Campus: Arts Campus. No Mathematics requirement stated. Recommended subjects: Civil Technology, Design Studies, Engineering Graphics and Design, and Visual Arts.",
+      "requirements": [
+        {
+          "description": "English HL or FAL",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ],
+      "closes_on": "2026-07-31"
+    },
+    {
+      "name": "Diploma in Jewellery Design and Manufacture",
+      "faculty": "Faculty of Arts and Design",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 20,
+      "min_aps_maths_lit": 20,
+      "min_aps_tech_maths": 20,
+      "source_ref": "TUT First Year Course Information 2027 p.3",
+      "notes": "Campus: Arts Campus. No Mathematics requirement stated.",
+      "requirements": [
+        {
+          "description": "English HL or FAL",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        }
+      ],
+      "closes_on": "2026-07-31"
+    },
+    {
+      "name": "Diploma in Motion Picture Production",
+      "faculty": "Faculty of Arts and Design",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 22,
+      "min_aps_maths_lit": 22,
+      "min_aps_tech_maths": 22,
+      "source_ref": "TUT First Year Course Information 2027 p.3",
+      "notes": "Campus: Arts Campus. No Mathematics requirement stated.",
+      "requirements": [
+        {
+          "description": "English HL or FAL",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ],
+      "closes_on": "2026-07-31"
+    },
+    {
+      "name": "Diploma in Performing Arts (Dance)",
+      "faculty": "Faculty of Arts and Design",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 20,
+      "min_aps_maths_lit": 20,
+      "min_aps_tech_maths": 20,
+      "source_ref": "TUT First Year Course Information 2027 p.3",
+      "notes": "Campus: Arts Campus. No Mathematics requirement stated.",
+      "requirements": [
+        {
+          "description": "English HL or FAL",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ],
+      "closes_on": "2026-07-31"
+    },
+    {
+      "name": "Diploma in Performing Arts (Jazz Music)",
+      "faculty": "Faculty of Arts and Design",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 20,
+      "min_aps_maths_lit": 20,
+      "min_aps_tech_maths": 20,
+      "source_ref": "TUT First Year Course Information 2027 p.3",
+      "notes": "Campus: Arts Campus. No Mathematics requirement stated.",
+      "requirements": [
+        {
+          "description": "English HL or FAL",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ],
+      "closes_on": "2026-07-31"
+    },
+    {
+      "name": "Diploma in Performing Arts (Opera)",
+      "faculty": "Faculty of Arts and Design",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 20,
+      "min_aps_maths_lit": 20,
+      "min_aps_tech_maths": 20,
+      "source_ref": "TUT First Year Course Information 2027 p.3",
+      "notes": "Campus: Arts Campus. No Mathematics requirement stated.",
+      "requirements": [
+        {
+          "description": "English HL or FAL",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ],
+      "closes_on": "2026-07-31"
+    },
+    {
+      "name": "Diploma in Performing Arts (Technical Theatre and Design)",
+      "faculty": "Faculty of Arts and Design",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 20,
+      "min_aps_maths_lit": 20,
+      "min_aps_tech_maths": 20,
+      "source_ref": "TUT First Year Course Information 2027 p.3",
+      "notes": "Campus: Arts Campus. No Mathematics requirement stated.",
+      "requirements": [
+        {
+          "description": "English HL or FAL",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ],
+      "closes_on": "2026-07-31"
+    },
+    {
+      "name": "Diploma in Performing Arts (Theatre Arts and Performance)",
+      "faculty": "Faculty of Arts and Design",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 20,
+      "min_aps_maths_lit": 20,
+      "min_aps_tech_maths": 20,
+      "source_ref": "TUT First Year Course Information 2027 p.3",
+      "notes": "Campus: Arts Campus. No Mathematics requirement stated.",
+      "requirements": [
+        {
+          "description": "English HL or FAL",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ],
+      "closes_on": "2026-07-31"
+    },
+    {
+      "name": "Higher Certificate in Music",
+      "faculty": "Faculty of Arts and Design",
+      "qualification_type": "higher_certificate",
+      "is_extended": false,
+      "duration_years": 1,
+      "nsc_pass_required": "higher_certificate",
+      "min_aps": 18,
+      "min_aps_maths_lit": 18,
+      "min_aps_tech_maths": 18,
+      "source_ref": "TUT First Year Course Information 2027 p.3",
+      "notes": "Campus: Arts Campus. No Mathematics requirement stated.",
+      "requirements": [
+        {
+          "description": "English HL or FAL",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        }
+      ],
+      "closes_on": "2026-07-31"
+    }
+  ],
+  "ambiguities": [
+    {
+      "item": "Application URL",
+      "issue": "Prospectus says apply at www.tut.ac.za",
+      "choice": "https://www.tut.ac.za/study-at-tut. Check it in an incognito window."
+    }
+  ]
+}
