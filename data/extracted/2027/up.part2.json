@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Bachelor of Education in Early Childhood Care and Education",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "UP Prospectus 2027 p.8",
+    "notes": "No Mathematics requirement stated. Police clearance certificate recommended to enrol.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Foundation Phase Teaching (Grade R to Grade 3)",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "UP Prospectus 2027 p.8",
+    "notes": "No Mathematics requirement stated. Police clearance certificate recommended to enrol. Foundation Phase modules in English, Afrikaans and an Indigenous African language are offered in language-specific classes.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Intermediate Phase Teaching (Grades 4 to 6)",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "UP Prospectus 2027 p.8",
+    "notes": "No Mathematics requirement stated. Police clearance certificate recommended to enrol.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and Further Education and Training Teaching (Grades 7 to 12)",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "UP Prospectus 2027 p.8",
+    "notes": "No Mathematics requirement stated. Police clearance certificate recommended to enrol. Elective modules in Physical Sciences or Life Sciences additionally require Physical Sciences or Life Sciences at level 5 (60%) and Mathematics at level 5 (60%); not encoded as programme requirements because they only apply to those electives.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Higher Certificate in Sports Sciences",
+    "faculty": "Faculty of Education",
+    "qualification_type": "higher_certificate",
+    "is_extended": false,
+    "duration_years": 1,
+    "nsc_pass_required": "higher_certificate",
+    "min_aps": 20,
+    "min_aps_maths_lit": 20,
+    "min_aps_tech_maths": 20,
+    "source_ref": "UP Prospectus 2027 p.8",
+    "notes": "Selection programme: applicants considered by Student Administration on academic requirements, then by sports codes in consultation with TuksSport; preference to applicants nominated by an official UP sports club. Diploma endorsement applicants may be considered. No Mathematics requirement stated. Completing it with a cumulative weighted average of at least 70% (excluding JRC 150 Sports Practical) can lead to the BEd Senior Phase and FET (Human Movement Studies and Sports Management).",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Higher Certificate in Sports Sciences (Online)",
+    "faculty": "Faculty of Education",
+    "qualification_type": "higher_certificate",
+    "is_extended": false,
+    "duration_years": 2,
+    "nsc_pass_required": "higher_certificate",
+    "min_aps": 20,
+    "min_aps_maths_lit": 20,
+    "min_aps_tech_maths": 20,
+    "source_ref": "UP Prospectus 2027 p.8",
+    "notes": "Selection programme: applicants considered by Student Administration on academic requirements, then by sports codes in consultation with TuksSport; preference to applicants nominated by an official UP sports club. Diploma endorsement applicants may be considered. No Mathematics requirement stated. Online programme: students need at least part-time access to schools, sports clubs and/or accredited training facilities relevant to their specialisation. Completing it with a cumulative weighted average of at least 70% (excluding JRC 180 Sports Practical) can lead to the BEd Senior Phase and FET (Human Movement Studies and Sports Management).",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  }
+]
