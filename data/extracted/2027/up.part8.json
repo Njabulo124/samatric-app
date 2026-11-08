@@ -1,0 +1,1871 @@
+[
+  {
+    "name": "Bachelor of Science in Agriculture in Agricultural Economics in Agribusiness Management",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.15",
+    "notes": "Only Mathematics accepted. Cambridge candidates must have both Physics and Chemistry at the level required for NSC Physical Sciences. Agricultural and Food Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Agriculture in Animal Science",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.15",
+    "notes": "Only Mathematics accepted. Cambridge candidates must have both Physics and Chemistry at the level required for NSC Physical Sciences. Agricultural and Food Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Agriculture in Applied Plant and Soil Sciences",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.15",
+    "notes": "Only Mathematics accepted. Cambridge candidates must have both Physics and Chemistry at the level required for NSC Physical Sciences. Agricultural and Food Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Agriculture in Plant Pathology",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.15",
+    "notes": "Only Mathematics accepted. Cambridge candidates must have both Physics and Chemistry at the level required for NSC Physical Sciences. Agricultural and Food Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Food Management (Option: Culinary Science)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.15",
+    "notes": "Only Mathematics accepted. Cambridge candidates must have both Physics and Chemistry at the level required for NSC Physical Sciences. Agricultural and Food Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Food Management (Option: Nutritional Science)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.15",
+    "notes": "Only Mathematics accepted. Cambridge candidates must have both Physics and Chemistry at the level required for NSC Physical Sciences. Agricultural and Food Sciences. Interfaculty programme between Natural and Agricultural Sciences and Health Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Food Science",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.15",
+    "notes": "Only Mathematics accepted. Cambridge candidates must have both Physics and Chemistry at the level required for NSC Physical Sciences. Agricultural and Food Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Biochemistry",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.16",
+    "notes": "Only Mathematics accepted. Cambridge candidates must have both Physics and Chemistry at the level required for NSC Physical Sciences. Biological Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Biotechnology",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.16",
+    "notes": "Only Mathematics accepted. Cambridge candidates must have both Physics and Chemistry at the level required for NSC Physical Sciences. Biological Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Ecology",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.16",
+    "notes": "Only Mathematics accepted. Cambridge candidates must have both Physics and Chemistry at the level required for NSC Physical Sciences. Biological Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Entomology",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.16",
+    "notes": "Only Mathematics accepted. Cambridge candidates must have both Physics and Chemistry at the level required for NSC Physical Sciences. Biological Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Genetics",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.16",
+    "notes": "Only Mathematics accepted. Cambridge candidates must have both Physics and Chemistry at the level required for NSC Physical Sciences. Biological Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Human Genetics",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.16",
+    "notes": "Only Mathematics accepted. Cambridge candidates must have both Physics and Chemistry at the level required for NSC Physical Sciences. Biological Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Human Physiology",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.16",
+    "notes": "Only Mathematics accepted. Cambridge candidates must have both Physics and Chemistry at the level required for NSC Physical Sciences. Biological Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Human Physiology, Genetics and Psychology",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.16",
+    "notes": "Only Mathematics accepted. Cambridge candidates must have both Physics and Chemistry at the level required for NSC Physical Sciences. Biological Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Medical Sciences",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.16",
+    "notes": "Only Mathematics accepted. Cambridge candidates must have both Physics and Chemistry at the level required for NSC Physical Sciences. Biological Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Microbiology",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.16",
+    "notes": "Only Mathematics accepted. Cambridge candidates must have both Physics and Chemistry at the level required for NSC Physical Sciences. Biological Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Plant Science",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.16",
+    "notes": "Only Mathematics accepted. Cambridge candidates must have both Physics and Chemistry at the level required for NSC Physical Sciences. Biological Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Zoology",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.16",
+    "notes": "Only Mathematics accepted. Cambridge candidates must have both Physics and Chemistry at the level required for NSC Physical Sciences. Biological Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Consumer Science specialising in Clothing Retail Management",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.17",
+    "notes": "Only Mathematics accepted. Consumer Science. No Physical Sciences requirement.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Consumer Science specialising in Food Management",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.17",
+    "notes": "Only Mathematics accepted. Consumer Science. No Physical Sciences requirement.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Actuarial and Financial Mathematics",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 36,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.17",
+    "notes": "Only Mathematics accepted. Mathematical Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Mathematics",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 34,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.17",
+    "notes": "Only Mathematics accepted. Mathematical Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Applied Mathematics",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 34,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.17",
+    "notes": "Only Mathematics accepted. Mathematical Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Mathematical Statistics",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 34,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.17",
+    "notes": "Only Mathematics accepted. Mathematical Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Chemistry",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 34,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.17",
+    "notes": "Only Mathematics accepted. Cambridge candidates must have both Physics and Chemistry at the level required for NSC Physical Sciences. Physical Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Environmental and Engineering Geology",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 34,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.17",
+    "notes": "Only Mathematics accepted. Cambridge candidates must have both Physics and Chemistry at the level required for NSC Physical Sciences. Physical Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Geography (Option: Geography and Environmental Science)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 34,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.17",
+    "notes": "Only Mathematics accepted. Cambridge candidates must have both Physics and Chemistry at the level required for NSC Physical Sciences. Physical Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Geoinformatics",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 34,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.18",
+    "notes": "Only Mathematics accepted. Cambridge candidates must have both Physics and Chemistry at the level required for NSC Physical Sciences. Physical Sciences. Endorsed by the South African Geomatics Council.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Geology",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 34,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.18",
+    "notes": "Only Mathematics accepted. Cambridge candidates must have both Physics and Chemistry at the level required for NSC Physical Sciences. Physical Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Meteorology",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 34,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.18",
+    "notes": "Only Mathematics accepted. Cambridge candidates must have both Physics and Chemistry at the level required for NSC Physical Sciences. Physical Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Physics",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 34,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.18",
+    "notes": "Only Mathematics accepted. Cambridge candidates must have both Physics and Chemistry at the level required for NSC Physical Sciences. Physical Sciences.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Mathematics (4-year programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.18",
+    "notes": "Only Mathematics accepted. Extended programme with slightly lower requirements for students who may benefit from additional academic support. Requirements stated as percentages. Preference to students from quintile 1–4 schools; maximum 30 students per programme; only students who completed school in the last two years and have not studied at a tertiary institution. Transfer to a 4-year BEng after first year needs 70% in Mathematics and Physical Sciences and 65% in Languages. Physical Sciences N/A.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 58
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 58
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 65
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Chemistry (4-year programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.18",
+    "notes": "Only Mathematics accepted. Cambridge candidates must have both Physics and Chemistry at the level required for NSC Physical Sciences. Extended programme with slightly lower requirements for students who may benefit from additional academic support. Requirements stated as percentages. Preference to students from quintile 1–4 schools; maximum 30 students per programme; only students who completed school in the last two years and have not studied at a tertiary institution. Transfer to a 4-year BEng after first year needs 70% in Mathematics and Physical Sciences and 65% in Languages.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 58
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 58
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 58
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 58
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Geoinformatics (4-year programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.18",
+    "notes": "Only Mathematics accepted. Cambridge candidates must have both Physics and Chemistry at the level required for NSC Physical Sciences. Extended programme with slightly lower requirements for students who may benefit from additional academic support. Requirements stated as percentages. Preference to students from quintile 1–4 schools; maximum 30 students per programme; only students who completed school in the last two years and have not studied at a tertiary institution. Transfer to a 4-year BEng after first year needs 70% in Mathematics and Physical Sciences and 65% in Languages.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 58
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 58
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 58
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 58
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Geology (4-year programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.18",
+    "notes": "Only Mathematics accepted. Cambridge candidates must have both Physics and Chemistry at the level required for NSC Physical Sciences. Extended programme with slightly lower requirements for students who may benefit from additional academic support. Requirements stated as percentages. Preference to students from quintile 1–4 schools; maximum 30 students per programme; only students who completed school in the last two years and have not studied at a tertiary institution. Transfer to a 4-year BEng after first year needs 70% in Mathematics and Physical Sciences and 65% in Languages.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 58
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 58
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 58
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 58
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Meteorology (4-year programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.18",
+    "notes": "Only Mathematics accepted. Cambridge candidates must have both Physics and Chemistry at the level required for NSC Physical Sciences. Extended programme with slightly lower requirements for students who may benefit from additional academic support. Requirements stated as percentages. Preference to students from quintile 1–4 schools; maximum 30 students per programme; only students who completed school in the last two years and have not studied at a tertiary institution. Transfer to a 4-year BEng after first year needs 70% in Mathematics and Physical Sciences and 65% in Languages.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 58
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 58
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 58
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 58
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Physics (4-year programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.18",
+    "notes": "Only Mathematics accepted. Cambridge candidates must have both Physics and Chemistry at the level required for NSC Physical Sciences. Extended programme with slightly lower requirements for students who may benefit from additional academic support. Requirements stated as percentages. Preference to students from quintile 1–4 schools; maximum 30 students per programme; only students who completed school in the last two years and have not studied at a tertiary institution. Transfer to a 4-year BEng after first year needs 70% in Mathematics and Physical Sciences and 65% in Languages.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 58
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 58
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 58
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 58
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Agriculture in Applied Plant and Soil Sciences (5-year programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 5,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.18",
+    "notes": "Only Mathematics accepted. Cambridge candidates must have both Physics and Chemistry at the level required for NSC Physical Sciences. Extended programme with slightly lower requirements for students who may benefit from additional academic support. Requirements stated as percentages. Preference to students from quintile 1–4 schools; maximum 30 students per programme; only students who completed school in the last two years and have not studied at a tertiary institution. Transfer to a 4-year BEng after first year needs 70% in Mathematics and Physical Sciences and 65% in Languages. Duration inferred: the prospectus groups 'Agriculture' programmes as 5-year and other BSc programmes as 4-year.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 58
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 58
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 58
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 58
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Agriculture in Plant Pathology (5-year programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 5,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.18",
+    "notes": "Only Mathematics accepted. Cambridge candidates must have both Physics and Chemistry at the level required for NSC Physical Sciences. Extended programme with slightly lower requirements for students who may benefit from additional academic support. Requirements stated as percentages. Preference to students from quintile 1–4 schools; maximum 30 students per programme; only students who completed school in the last two years and have not studied at a tertiary institution. Transfer to a 4-year BEng after first year needs 70% in Mathematics and Physical Sciences and 65% in Languages. Duration inferred: the prospectus groups 'Agriculture' programmes as 5-year and other BSc programmes as 4-year.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 58
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 58
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 58
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 58
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Ecology (4-year programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.18",
+    "notes": "Only Mathematics accepted. Cambridge candidates must have both Physics and Chemistry at the level required for NSC Physical Sciences. Extended programme with slightly lower requirements for students who may benefit from additional academic support. Requirements stated as percentages. Preference to students from quintile 1–4 schools; maximum 30 students per programme; only students who completed school in the last two years and have not studied at a tertiary institution. Transfer to a 4-year BEng after first year needs 70% in Mathematics and Physical Sciences and 65% in Languages. Duration inferred: the prospectus groups 'Agriculture' programmes as 5-year and other BSc programmes as 4-year.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 58
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 58
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 58
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 58
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Human Physiology (4-year programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UP Prospectus 2027 p.18",
+    "notes": "Only Mathematics accepted. Cambridge candidates must have both Physics and Chemistry at the level required for NSC Physical Sciences. Extended programme with slightly lower requirements for students who may benefit from additional academic support. Requirements stated as percentages. Preference to students from quintile 1–4 schools; maximum 30 students per programme; only students who completed school in the last two years and have not studied at a tertiary institution. Transfer to a 4-year BEng after first year needs 70% in Mathematics and Physical Sciences and 65% in Languages. Duration inferred: the prospectus groups 'Agriculture' programmes as 5-year and other BSc programmes as 4-year.",
+    "requirements": [
+      {
+        "description": "English HL or FAL",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 58
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 58
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 58
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 58
+          }
+        ]
+      }
+    ]
+  }
+]
