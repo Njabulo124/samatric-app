@@ -1,0 +1,626 @@
+[
+  {
+    "name": "Bachelor of Applied Science in Biotechnology",
+    "faculty": "Faculty of Applied Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.26-27",
+    "notes": "Qual code BSBTC1. CAO code DU-D-BBT. Campus: Steve Biko. Minimum 28 points (excl. LO). Also requires one recognised 20-credit subject at Level 4 (G7 rule). Duration from 'upon completion of the first three years'. Mathematical Literacy and Technical Mathematics not listed. Limited places; applicants ranked by points.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Applied Science in Food Science and Technology",
+    "faculty": "Faculty of Applied Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.27-29",
+    "notes": "Qual code BSFST1. CAO code DU-D-BFS. Campus: Steve Biko. Minimum 28 points (excl. LO). Also requires one recognised 20-credit subject at Level 4 (G7 rule). Mathematical Literacy and Technical Mathematics not listed. Limited places; applicants ranked by points.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Applied Science in Industrial Chemistry",
+    "faculty": "Faculty of Applied Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.29-30",
+    "notes": "Qual code BASIC1. CAO code DU-D-BSY. Campus: Steve Biko. No minimum APS stated. Also requires two recognised 20-credit subjects at Level 4 (G7 rule). Duration not stated. Mathematical Literacy and Technical Mathematics not listed. Limited places; applicants ranked by points.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Sport Science and Management",
+    "faculty": "Faculty of Applied Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.30-31",
+    "notes": "Qual code BASSM1. CAO code DU-D-SSM. Campus: ML Sultan. Minimum 28 points (excl. LO). Also requires three recognised 20-credit subjects at Level 4 (G7 rule). Full-time. Mathematical Literacy and Technical Mathematics not listed. Limited places; applicants ranked by points. Sports Science (where offered at school) is also accepted in place of the science subject.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Life Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Applied Science in Textile Science",
+    "faculty": "Faculty of Applied Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.32-33",
+    "notes": "Qual code BASTX1. CAO code DU-D-ATT. Campus: Steve Biko. Called 'Textile Technology' in the contents page. No minimum APS stated. Also requires two recognised 20-credit subjects at Level 4 (G7 rule). Interview required. Mathematical Literacy and Technical Mathematics not listed. Limited places; applicants ranked by points.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Analytical Chemistry",
+    "faculty": "Faculty of Applied Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.33-35",
+    "notes": "Qual code DIACH1. CAO code DU-D-CH3. Campus: Steve Biko. No minimum APS stated. Also requires two recognised 20-credit subjects at Level 3 (G7 rule). If oversubscribed, ranked on Physical Sciences and Mathematics results. Includes a nine-month Work Integrated Learning component. Duration not stated. Mathematical Literacy and Technical Mathematics not listed. Limited places; applicants ranked by points.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Clothing Management",
+    "faculty": "Faculty of Applied Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.35-37",
+    "notes": "Qual code DICLM1. CAO code DU-D-CLM. Campus: Steve Biko. No minimum APS stated. 26+ points 'highly recommended' for shortlisting (not a minimum). No Mathematics requirement (numeracy important). Also requires three more recognised 20-credit subjects at Level 3 (max one additional language) plus one recognised subject (G7 rule). Selection: DUT SATAP English Literacy test and an industry numeracy assessment, plus an interview; weighting 40% academic average (excl. LO), 40% placement tests, 20% interview. Industry experience advantageous. Duration not stated. Limited places; applicants ranked by points.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Consumer Sciences in Food and Nutrition",
+    "faculty": "Faculty of Applied Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.37-39",
+    "notes": "Qual code DICSF1. CAO code DU-D-DFN. Campus: Steve Biko. No minimum APS stated. Mathematical Literacy accepted (Level 4); no separate APS. Technical Mathematics not listed. The table's OR-list is read as two groups (Maths or Maths Lit; plus one of Accounting, Business Studies, Consumer Studies, Life Sciences or Physical Sciences at Level 3); layout is ambiguous. Also requires three 20-credit subjects at Level 3. Applicants must pass suitability and selection tests; hepatitis vaccination required on registration. Duration not stated. Limited places; applicants ranked by points.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Accounting, Business Studies, Consumer Studies, Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Accounting",
+            "min_percent": 40
+          },
+          {
+            "subject": "Business Studies",
+            "min_percent": 40
+          },
+          {
+            "subject": "Consumer Studies",
+            "min_percent": 40
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Nautical Studies (Sea Going)",
+    "faculty": "Faculty of Applied Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.39-41",
+    "notes": "Qual code DINAU1. CAO code DU-D-NS3. Campus: Steve Biko. No minimum APS stated. Also requires two recognised 20-credit subjects at Level 3 (G7 rule). Alternative entry with an N4 certificate in appropriate subjects plus English Level 4. SAMSA eyesight test after a firm offer. South African Navy route requires its own physical/medical standards. Duration not stated. Mathematical Literacy and Technical Mathematics not listed. Limited places; applicants ranked by points.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Shipping and Logistics (Shore-based)",
+    "faculty": "Faculty of Applied Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.41-42",
+    "notes": "Qual code DISHL1. CAO code DU-D-SL3. Campus: Steve Biko. No minimum APS stated. Also requires a 'Business, Commerce or Management subject' at Level 4 (not specified further) and two recognised 20-credit subjects at Level 3 (G7 rule). Alternative entry: recognised Maritime/Shipping NQF 4+ qualification (60% in all subjects) plus NSC English Level 4 and Mathematics Level 3. Selection on subject achievement and the SATAP English and numeracy test. Duration not stated. Mathematical Literacy and Technical Mathematics not listed. Limited places; applicants ranked by points.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Sustainable Horticulture and Landscaping",
+    "faculty": "Faculty of Applied Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.42-44",
+    "notes": "Qual code DISLD1. CAO code DU-D-SHL. Campus: ML Sultan. No minimum APS stated. Mathematical Literacy accepted (Level 4); no separate APS. Technical Mathematics not listed. Life Sciences 'or recognised equivalent'. Also requires two recognised 20-credit subjects at Level 3 (G7 rule). Preference to applicants with practical horticultural experience or an agricultural/horticultural background. Third year: six months practical learning plus six months industry project. Limited places; applicants ranked by points.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Higher Certificate in Applied Sciences",
+    "faculty": "Faculty of Applied Sciences",
+    "qualification_type": "higher_certificate",
+    "is_extended": false,
+    "duration_years": 1,
+    "nsc_pass_required": "diploma",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.44-45",
+    "notes": "Qual code HCIAS1. CAO code DU-D-HAS. Campus: Steve Biko. Requires diploma entry (NSC). No minimum APS stated. Technical Mathematics with Technical Sciences accepted (Level 3); no separate APS. Mathematical Literacy not accepted. For applicants to Engineering/Applied Sciences who meet all requirements except Mathematics and Physical Sciences. Alternative entry: N4 with Engineering Maths and Engineering Science (50%) plus English Level 4. Limited places; applicants ranked by points.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Higher Certificate in Sport Management Science",
+    "faculty": "Faculty of Applied Sciences",
+    "qualification_type": "higher_certificate",
+    "is_extended": false,
+    "duration_years": 1,
+    "nsc_pass_required": "higher_certificate",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "Study Opportunities 2027 p.46-47",
+    "notes": "Qual code HCSMS1. CAO code DU-D-SMS. Campus: ML Sultan. Minimum 24 points (excl. LO). Full-time. Mathematics is one of four options in a single 'one of' group, so Mathematical Literacy / Technical Mathematics applicants qualify through Life Sciences, Physical Sciences or Sports Science (APS set to the same 24). Limited places; applicants ranked by points. Sports Science (where offered at school) is also accepted in place of the science subject.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences, Mathematics or Physical Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  }
+]

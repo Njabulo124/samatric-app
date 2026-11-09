@@ -133,7 +133,8 @@ def warnings_for(doc: ProspectusExtract) -> list[str]:
             warns.append(f"'{c.name}': no subject requirements")
         if c.min_aps is None:
             warns.append(f"'{c.name}': min_aps is missing")
-        if MATHS_LIT in subjects and c.min_aps_maths_lit is None:
+        no_aps = c.min_aps is None and c.min_aps_maths_lit is None and c.min_aps_tech_maths is None
+        if MATHS_LIT in subjects and c.min_aps_maths_lit is None and not no_aps:
             warns.append(f"'{c.name}': Maths Lit is in requirements but min_aps_maths_lit is NULL")
         # A "maths group" is a single-choice requirement group offering a maths-type subject.
         # ("2 of these technical subjects" groups aren't a maths requirement, so they're skipped.)
@@ -141,7 +142,7 @@ def warnings_for(doc: ProspectusExtract) -> list[str]:
                         if g.min_count == 1 and {o.subject for o in g.options} & MATHS_TYPES]
         if c.min_aps_maths_lit is not None and any(MATHS_LIT not in g for g in maths_groups):
             warns.append(f"'{c.name}': min_aps_maths_lit is set but a maths requirement excludes Maths Lit")
-        if TECH_MATHS in subjects and c.min_aps_tech_maths is None:
+        if TECH_MATHS in subjects and c.min_aps_tech_maths is None and not no_aps:
             warns.append(f"'{c.name}': Tech Maths is in requirements but min_aps_tech_maths is NULL")
         if c.min_aps_tech_maths is not None and any(TECH_MATHS not in g for g in maths_groups):
             warns.append(f"'{c.name}': min_aps_tech_maths is set but a maths requirement excludes Tech Maths")
