@@ -1,0 +1,692 @@
+[
+  {
+    "name": "Diploma in Catering Management",
+    "faculty": "Faculty of Management Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.133-134",
+    "notes": "Qual code DICTM1. CAO code DU-D-CKM. Campus: Ritson (Hotel School, Block D). No minimum APS stated. Accounting (Level 3) is stated as compulsory, although the table lists Mathematics OR Mathematical Literacy OR Accounting; modelled as Accounting plus Maths/Maths Lit. Level 2 (30%) Mathematics accepted, below the usual Level 3 minimum. Mathematical Literacy accepted (Level 3); same APS. Also requires two recognised 20-credit subjects at Level 3. Suitability test, then possible interview. Preference for catering/hospitality/management subjects, industry experience or CATHSSETA/NQF 4 qualifications. Hepatitis A vaccination (primary and booster) required; uniform, kitchen toolkit and texts at the learner's cost. Technical Mathematics not listed. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Accounting",
+        "options": [
+          {
+            "subject": "Accounting",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 30
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Ecotourism",
+    "faculty": "Faculty of Management Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 25,
+    "min_aps_maths_lit": 25,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.134-136",
+    "notes": "Qual code DPECT2. CAO code DU-P-ET3. Campus: Riverside (Pietermaritzburg). Minimum 25 points (excl. LO). Mathematical Literacy accepted (Level 5); same APS. Also requires two recognised 20-credit subjects at Level 3. Preference for CATHSSETA units or a relevant NQF 4 certificate; ranking system if oversubscribed. Substantial time spent in industry. Technical Mathematics not listed. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Agricultural Sciences, Life Sciences or Geography",
+        "options": [
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Geography",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Hospitality Management",
+    "faculty": "Faculty of Management Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.136-138",
+    "notes": "Qual code DIHSP1. CAO code DU-D-HPM. Campus: Ritson (Hotel School, Block D). No minimum APS stated. Level 2 (30%) Mathematics accepted, below the usual Level 3 minimum. Mathematical Literacy accepted (Level 3); same APS. Also requires three recognised 20-credit subjects at Level 3. Interview for everyone meeting minimums. Preference for Business Studies, Economics or hospitality subjects and industry experience. Two years at the Hotel School plus one year of Work Integrated Learning. Hepatitis A vaccination required; uniform and kitchen toolkit at the learner's cost. Technical Mathematics not listed. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics, Mathematical Literacy or Accounting",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 30
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 40
+          },
+          {
+            "subject": "Accounting",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Management Sciences: Business Administration",
+    "faculty": "Faculty of Management Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 25,
+    "min_aps_maths_lit": 25,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.138-140",
+    "notes": "Qual codes DIMBS2 (Durban), DIMBA2 (PMB). CAO codes DU-D-MN3 (Durban), DU-P-MN3 (PMB). Campus: ML Sultan (Durban), Riverside (Pietermaritzburg). Minimum 25 points (excl. LO). Mathematical Literacy accepted (Level 4); same APS. Also requires two 20-credit subjects at Level 3 (max one language) plus one recognised subject (G7 rule). Applications ranked from highest points; June/trial applicants may get conditional offers; preference to learners from designated groups. Technical Mathematics not listed. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Management Sciences: Business Administration (Extended Curriculum Programme)",
+    "faculty": "Faculty of Management Sciences",
+    "qualification_type": "diploma",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": 25,
+    "min_aps_maths_lit": 25,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.138-140",
+    "notes": "Qual code DPMBA1. CAO code DU-P-MB5. Campus: Riverside (Pietermaritzburg only). No separate entry criteria printed; assumed same as the mainstream diploma. Duration not stated. Minimum 25 points (excl. LO). Mathematical Literacy accepted (Level 4); same APS. Also requires two 20-credit subjects at Level 3 (max one language) plus one recognised subject (G7 rule). Applications ranked from highest points; June/trial applicants may get conditional offers; preference to learners from designated groups. Technical Mathematics not listed. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Management Sciences: Business Law",
+    "faculty": "Faculty of Management Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 25,
+    "min_aps_maths_lit": 25,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.140-141",
+    "notes": "Qual code DIMBL2. CAO code DU-D-BL3. Campus: ML Sultan (Durban). Minimum 25 points (excl. LO). Mathematical Literacy accepted (Level 4); same APS. Also requires two 20-credit subjects at Level 3 (max one language) plus one recognised subject (G7 rule). Applications ranked from highest points; June/trial applicants may get conditional offers; preference to learners from designated groups. Technical Mathematics not listed. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Management Sciences: Human Resources Management",
+    "faculty": "Faculty of Management Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 25,
+    "min_aps_maths_lit": 25,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.141-144",
+    "notes": "Qual codes DIMHR2 (Durban), DIMHM2 (PMB). CAO codes DU-D-HR3 (Durban), DU-P-HR3 (PMB). Campus: ML Sultan (Durban), Riverside (Pietermaritzburg). Offered full-time or part-time (only full-time CAO codes printed). Minimum 25 points (excl. LO). Mathematical Literacy accepted (Level 4); same APS. Also requires two 20-credit subjects at Level 3 (max one language) plus one recognised subject (G7 rule). Applications ranked from highest points; June/trial applicants may get conditional offers; preference to learners from designated groups. Technical Mathematics not listed. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Management Sciences: Marketing",
+    "faculty": "Faculty of Management Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 25,
+    "min_aps_maths_lit": 25,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.144-146",
+    "notes": "Qual code DIMMK2. CAO code DU-D-MK3. Campus: ML Sultan (Durban). Minimum 25 points (excl. LO). Mathematical Literacy accepted (Level 4); same APS. Also requires two 20-credit subjects at Level 3 (max one language) plus one recognised subject (G7 rule). Applications ranked from highest points; June/trial applicants may get conditional offers; preference to learners from designated groups. Technical Mathematics not listed. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Management Sciences: Operations Management",
+    "faculty": "Faculty of Management Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 25,
+    "min_aps_maths_lit": 25,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.146-147",
+    "notes": "Qual code DIMOR2. CAO codes DU-D-PD3 (full-time), DU-D-PDY (part-time). Campus: ML Sultan (Durban). Offered full-time or part-time. Minimum 25 points (excl. LO). Mathematical Literacy accepted (Level 4); same APS. Also requires two 20-credit subjects at Level 3 (max one language) plus one recognised subject (G7 rule). Applications ranked from highest points; Grade 11 / mid-year Grade 12 applicants may get conditional offers; preference to learners from designated groups. Technical Mathematics not listed. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Management Sciences: Public Relations and Communication Management",
+    "faculty": "Faculty of Management Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 25,
+    "min_aps_maths_lit": 25,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.147-149",
+    "notes": "Qual codes DIMPR2 (Durban), DIMPC2 (PMB). CAO codes DU-D-MP3 (Durban), DU-P-MP3 (PMB). Campus: ML Sultan (Durban), Riverside (Pietermaritzburg). Only applicants who ranked this programme as choice 1, 2 or 3 are considered. Includes work-based learning. Minimum 25 points (excl. LO). Mathematical Literacy accepted (Level 4); same APS. Also requires two 20-credit subjects at Level 3 (max one language) plus one recognised subject (G7 rule). Applications ranked from highest points; June/trial applicants may get conditional offers; preference to learners from designated groups. Technical Mathematics not listed. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Management Sciences: Retail Management",
+    "faculty": "Faculty of Management Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 25,
+    "min_aps_maths_lit": 25,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.149-151",
+    "notes": "Qual code DIMRM2. CAO code DU-D-RB3. Campus: ML Sultan (Durban). Retail partners offer scholarships to good candidates. Minimum 25 points (excl. LO). Mathematical Literacy accepted (Level 4); same APS. Also requires two 20-credit subjects at Level 3 (max one language) plus one recognised subject (G7 rule). Applications ranked from highest points; June/trial applicants may get conditional offers; preference to learners from designated groups. Technical Mathematics not listed. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Public Administration: Disaster and Risk Management",
+    "faculty": "Faculty of Management Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 25,
+    "min_aps_maths_lit": 25,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.151-154",
+    "notes": "Qual code DIPAR1. CAO code DU-D-RM3. Campus: ML Sultan (Durban) only. Minimum 25 points (excl. LO). Mathematical Literacy accepted (Level 4); same APS. Also requires recognised 20-credit subjects as per G7 rule. Specialisations share one entry table. Technical Mathematics not listed. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Public Administration: Local Government",
+    "faculty": "Faculty of Management Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 25,
+    "min_aps_maths_lit": 25,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.151-154",
+    "notes": "Qual code DIPAL1. CAO code DU-D-GV3. Campus: ML Sultan (Durban) only. Minimum 25 points (excl. LO). Mathematical Literacy accepted (Level 4); same APS. Also requires recognised 20-credit subjects as per G7 rule. Specialisations share one entry table. Technical Mathematics not listed. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Public Administration: Public Management",
+    "faculty": "Faculty of Management Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 25,
+    "min_aps_maths_lit": 25,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.151-154",
+    "notes": "Qual codes DIPAP1 (Durban), DIPPM1 (PMB). CAO codes DU-D-PM3 (Durban), DU-P-PM3 (PMB). Campus: ML Sultan (Durban), Riverside (Pietermaritzburg). Minimum 25 points (excl. LO). Mathematical Literacy accepted (Level 4); same APS. Also requires recognised 20-credit subjects as per G7 rule. Specialisations share one entry table. Technical Mathematics not listed. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Public Administration: Supply Chain Management",
+    "faculty": "Faculty of Management Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 25,
+    "min_aps_maths_lit": 25,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.151-154",
+    "notes": "Qual codes DIPAS1 (Durban), DIPSC1 (PMB). CAO codes DU-D-SC3 (Durban), DU-P-SC3 (PMB). Campus: ML Sultan (Durban), Riverside (Pietermaritzburg). Minimum 25 points (excl. LO). Mathematical Literacy accepted (Level 4); same APS. Also requires recognised 20-credit subjects as per G7 rule. Specialisations share one entry table. Technical Mathematics not listed. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Tourism",
+    "faculty": "Faculty of Management Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.154-155",
+    "notes": "Qual code DITRS1. CAO code DU-D-DTM. Campus: Ritson (Block D, Durban). Minimum 26 points (excl. LO). Level 2 (30%) Mathematics accepted, below the usual Level 3 minimum. Mathematical Literacy accepted (Level 3); same APS (26). Also requires recognised 20-credit subjects as per G7 rule. Preference for tourism/hospitality/food industry experience or relevant TVET/CATHSSETA/NQF 4 qualifications; ranking system if oversubscribed. Substantial time spent in industry. Technical Mathematics not listed. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics, Mathematical Literacy or Accounting",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 30
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 40
+          },
+          {
+            "subject": "Accounting",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  }
+]
