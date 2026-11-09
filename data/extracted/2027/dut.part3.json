@@ -1,0 +1,747 @@
+[
+  {
+    "name": "Bachelor of Applied Arts in Commercial Photography",
+    "faculty": "Faculty of Arts and Design",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.49-50",
+    "notes": "Qual code BACPHI. CAO code DU-D-COP. Campus: ML Sultan (full-time, Durban only). No minimum APS stated. No Mathematics requirement. Also requires four recognised 20-credit subjects at Level 4. Departmental requirements: a comprehensive photographic-knowledge test and a portfolio of 3 photographs (Landscape, Documentary, Social, Architecture, Wildlife or Advertising). Duration not stated. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Applied Arts in Screen Arts and Technology",
+    "faculty": "Faculty of Arts and Design",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.51-54",
+    "notes": "Qual code BASAT1. CAO code DU-C-SAT. Campus: City. Full-time. No minimum APS stated. Applicants also need at least 36 points on a weighted scale: x3 for Art, Dramatic Arts, EGD, Information Technology, Mathematics, Music, Physical Sciences, Visual Arts; x2 for Advanced Programme Maths, Business Studies, CAT, Consumer Studies, Electrical Technology, English, Geography, History, Life Sciences, Mechanical Technology, Tourism; other subjects (excl. LO) scored normally. No Mathematics requirement. Also requires four recognised 20-credit subjects at Level 4. Interview required. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Design in Visual Communication Design",
+    "faculty": "Faculty of Arts and Design",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.54-55",
+    "notes": "Qual code BDVCD1. CAO code DU-C-BDV. Campus: City. Graphic Design. No minimum APS stated. No Mathematics requirement. Also requires four 20-credit subjects at Level 4 (max one language). Entrance/aptitude test, portfolio of recent art/design work and interview; bring the portfolio and CAO number to the aptitude test (do not send to CAO). Duration not stated. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and FET Teaching (Economics and Management Sciences)",
+    "faculty": "Faculty of Arts and Design",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "Study Opportunities 2027 p.56-57",
+    "notes": "Qual code BEDMS2. CAO code DU-I-EDE. Campus: Indumiso (Pietermaritzburg). School of Education. Four-year full-time professional teaching degree. Minimum 28 points (excl. LO). No Mathematics requirement. Also requires three recognised 20-credit subjects at Level 4. Alternative entry: N6 with English Level 3 plus 60% in Cost & Management Accounting and Financial Management. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Accounting",
+        "options": [
+          {
+            "subject": "Accounting",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and FET Teaching (Natural Sciences)",
+    "faculty": "Faculty of Arts and Design",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.57-58",
+    "notes": "Qual code BEDNS2. CAO code DU-I-EDN. Campus: Indumiso (Pietermaritzburg). School of Education. Four-year full-time professional teaching degree. Minimum 28 points (excl. LO). Also requires two recognised 20-credit subjects at Level 4. Mathematical Literacy and Technical Mathematics not listed. Alternative entry: N6 with 60% in English, Mathematics and a science subject. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Life Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and FET Teaching (Languages)",
+    "faculty": "Faculty of Arts and Design",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "Study Opportunities 2027 p.58-59",
+    "notes": "Qual code BEDLN2. CAO code DU-I-EDL. Campus: Indumiso (Pietermaritzburg). School of Education. Four-year full-time professional teaching degree. Minimum 28 points (excl. LO). No Mathematics requirement. isiZulu/isiXhosa level not specified as Home or First Additional Language. Also requires three recognised 20-credit subjects at Level 4. Alternative entry: N6 with 60% in English and isiZulu/isiXhosa, plus NSC English Level 3. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "isiZulu or isiXhosa",
+        "options": [
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and FET Teaching (Civil Technology)",
+    "faculty": "Faculty of Arts and Design",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "Study Opportunities 2027 p.59-60",
+    "notes": "Qual code BEDTE2 (Technology). CAO code DU-I-ECT. Campus: Indumiso (Pietermaritzburg). School of Education. Four-year full-time professional teaching degree. Minimum 28 points (excl. LO). Also requires three recognised 20-credit subjects at Level 4. Alternative entry: N6 with 60% in Communication in English and Civil Technology. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics, Technical Mathematics, Technical Sciences or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and FET Teaching (Electrical Technology)",
+    "faculty": "Faculty of Arts and Design",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 28,
+    "source_ref": "Study Opportunities 2027 p.59-60",
+    "notes": "Qual code BEDTE2 (Technology). CAO code DU-I-EET. Campus: Indumiso (Pietermaritzburg). School of Education. Four-year full-time professional teaching degree. Minimum 28 points (excl. LO). Mathematical Literacy not listed. Also requires three recognised 20-credit subjects at Level 4. Alternative entry: N6 with 60% in Communication in English and Electrical Technology. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics, Technical Mathematics, Technical Sciences or Electrical Technology",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Electrical Technology",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and FET Teaching (Mechanical Technology)",
+    "faculty": "Faculty of Arts and Design",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "Study Opportunities 2027 p.60-61",
+    "notes": "Qual code BEDTE2 (Technology). CAO code DU-I-EMT. Campus: Indumiso (Pietermaritzburg). School of Education. Four-year full-time professional teaching degree. Minimum 28 points (excl. LO). Also requires three recognised 20-credit subjects at Level 4. Alternative entry: N6 with 60% in Communication in English, a maths/science subject and Mechanical Technology. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics, Technical Mathematics, Technical Sciences, Physical Sciences, Mechanical Technology or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mechanical Technology",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Journalism",
+    "faculty": "Faculty of Arts and Design",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.61-63",
+    "notes": "Qual code BAJRN1. CAO code DU-C-BJO. Campus: City. No minimum APS stated. No Mathematics requirement. Also requires another official language at Level 4 and three recognised 20-credit subjects at Level 4. Selection test, then interview if successful. Applicants aged 23+ considered via mature age exemption. Journalists must be able to drive. Duration not stated. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Drama",
+    "faculty": "Faculty of Arts and Design",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": 22,
+    "min_aps_maths_lit": 22,
+    "min_aps_tech_maths": 22,
+    "source_ref": "Study Opportunities 2027 p.63-65",
+    "notes": "Qual code DIDRM2. CAO code DU-D-DR3. Campus: Ritson. Table states 22+ points; text also says a minimum of 24 points calculated as four subjects at Level 4, two at Level 3 and one at Level 2. No Mathematics requirement. Also requires a second language at Level 3 and three recognised 20-credit subjects at Level 3. Two audition rounds: online video audition (submit by 30 September), then on-campus audition with SATAP English assessment for the top ~200-220; offers go to the top 50. Weekend/evening rehearsals required. Duration not stated. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Fashion Design",
+    "faculty": "Faculty of Arts and Design",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 20,
+    "min_aps_maths_lit": 20,
+    "min_aps_tech_maths": 20,
+    "source_ref": "Study Opportunities 2027 p.65-68",
+    "notes": "Qual code DIFSHI. CAO code DU-B-DIF. Campus: Brickfield (Overport, Durban). Minimum 20 points. No Mathematics requirement. Mathematical Literacy and Visual Arts or EGD recommended, not required. Also requires three 20-credit subjects at Level 3 (max one language) plus one recognised subject (G7 rule). Shortlisted applicants complete a departmental entrance test (drawing, design, writing, numeracy) and submit a portfolio of at least 10 fashion/art pieces at an interview (no electronic portfolios). Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Fashion Design (Extended Curriculum Programme)",
+    "faculty": "Faculty of Arts and Design",
+    "qualification_type": "diploma",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "diploma",
+    "min_aps": 20,
+    "min_aps_maths_lit": 20,
+    "min_aps_tech_maths": 20,
+    "source_ref": "Study Opportunities 2027 p.65-68",
+    "notes": "Qual code DIFDF1. Listed only by qualification code (no separate CAO code or entry criteria); assumed same requirements as the mainstream diploma. Campus: Brickfield (Overport, Durban). Minimum 20 points. No Mathematics requirement. Mathematical Literacy and Visual Arts or EGD recommended, not required. Also requires three 20-credit subjects at Level 3 (max one language) plus one recognised subject (G7 rule). Shortlisted applicants complete a departmental entrance test (drawing, design, writing, numeracy) and submit a portfolio of at least 10 fashion/art pieces at an interview (no electronic portfolios). Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Fine Art",
+    "faculty": "Faculty of Arts and Design",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.68-69",
+    "notes": "Qual code DIFAR1. CAO code DUCDFA. Campus: City (studio subjects also at ML Sultan for Sculpture and Ceramics). No minimum APS stated. No Mathematics requirement. Also requires four 20-credit subjects at Level 3 (max one language). Interview with a portfolio of at least 20 life drawings and a mirror self-portrait, plus a 40-minute visual-comprehension test. Art as a subject is an advantage. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Fine Art (Extended Curriculum Programme)",
+    "faculty": "Faculty of Arts and Design",
+    "qualification_type": "diploma",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "diploma",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.68-69",
+    "notes": "Qual code DIFAF1. Listed only by qualification code (no separate CAO code or entry criteria); assumed same requirements as the mainstream diploma. Campus: City (studio subjects also at ML Sultan for Sculpture and Ceramics). No minimum APS stated. No Mathematics requirement. Also requires four 20-credit subjects at Level 3 (max one language). Interview with a portfolio of at least 20 life drawings and a mirror self-portrait, plus a 40-minute visual-comprehension test. Art as a subject is an advantage. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Interior Design",
+    "faculty": "Faculty of Arts and Design",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.70-71",
+    "notes": "Qual code DIIND1. CAO code DUCID3. Campus: City. No minimum APS stated. No Mathematics requirement. Also requires four 20-credit subjects at Level 3 (max one language). Only 1st- or 2nd-choice CAO applicants considered. Portfolio of drawings (incl. technical drawings if taught), personal interview, drawing test and written questionnaire. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Interior Design (Extended Curriculum Programme)",
+    "faculty": "Faculty of Arts and Design",
+    "qualification_type": "diploma",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "diploma",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.70-71",
+    "notes": "Qual code DIIDE1. Listed only by qualification code (no separate CAO code or entry criteria); assumed same requirements as the mainstream diploma. Campus: City. No minimum APS stated. No Mathematics requirement. Also requires four 20-credit subjects at Level 3 (max one language). Only 1st- or 2nd-choice CAO applicants considered. Portfolio of drawings (incl. technical drawings if taught), personal interview, drawing test and written questionnaire. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Jewellery Design and Manufacture",
+    "faculty": "Faculty of Arts and Design",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.71-73",
+    "notes": "Qual code DIJDM1. CAO code DU-C-DJM. Campus: City. No minimum APS stated. No Mathematics requirement. Visual Arts or EGD recommended, not required. Also requires four 20-credit subjects at Level 3 (max one language). Portfolio of artwork, programme selection test and personal interview (held October-December 2026). Students supply their own hand tools and art materials. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Jewellery Design and Manufacture (Extended Curriculum Programme)",
+    "faculty": "Faculty of Arts and Design",
+    "qualification_type": "diploma",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "diploma",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.71-73",
+    "notes": "Qual code DIJDF1. Listed only by qualification code (no separate CAO code or entry criteria); assumed same requirements as the mainstream diploma. Campus: City. No minimum APS stated. No Mathematics requirement. Visual Arts or EGD recommended, not required. Also requires four 20-credit subjects at Level 3 (max one language). Portfolio of artwork, programme selection test and personal interview (held October-December 2026). Students supply their own hand tools and art materials. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Language Practice",
+    "faculty": "Faculty of Arts and Design",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.73-75",
+    "notes": "Qual code DILPR2. CAO code DU-D-DLP. Campus: ML Sultan. No minimum APS stated. No Mathematics requirement. Also requires three recognised 20-credit subjects at Level 3. Must achieve a 60% aggregate across a language proficiency test and interviews in the first and second languages. Duration not stated. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "isiZulu or isiXhosa",
+        "options": [
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Higher Certificate in Performing Arts Technology",
+    "faculty": "Faculty of Arts and Design",
+    "qualification_type": "higher_certificate",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "higher_certificate",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.75-77",
+    "notes": "Qual code HCPAT1. CAO code DU-D-HP2. Campus: Ritson. No minimum APS stated. Mathematical Literacy accepted (Level 3); no separate APS. Technical Mathematics not listed. Also requires three recognised 20-credit subjects at Level 3 (max one additional language, excl. LO). All qualifying applicants invited to an online interview (missed interviews not rescheduled); only 15 places, offered to the top 15 scorers. Duration not stated. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  }
+]
