@@ -1,0 +1,784 @@
+[
+  {
+    "name": "Bachelor of Audiology",
+    "faculty": "College of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.22, 97-98",
+    "notes": "CAO code KN-W-BPA. School of Health Sciences. Campus: Westville. Selection on merit: NSC applicants (current Grade 12 or NSC within the last two years, no tertiary study) fill 70% of places; max 4% international. Compulsory clinical placements outside Durban (possibly rural KZN, up to a year or longer) at the student's own cost for travel and accommodation. No late applications. APS range 48-30 (excl. LO). 2026. Only first to third choices considered. Mathematical Literacy not accepted. Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ],
+    "closes_on": "2026-09-30"
+  },
+  {
+    "name": "Bachelor of Speech-Language Therapy",
+    "faculty": "College of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.22, 97-98",
+    "notes": "CAO code KN-W-BPB. School of Health Sciences. Campus: Westville. Selection on merit: NSC applicants (current Grade 12 or NSC within the last two years, no tertiary study) fill 70% of places; max 4% international. Compulsory clinical placements outside Durban (possibly rural KZN, up to a year or longer) at the student's own cost for travel and accommodation. No late applications. APS range 48-30 (excl. LO). 2026. Only first to third choices considered. Mathematical Literacy not accepted. Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ],
+    "closes_on": "2026-09-30"
+  },
+  {
+    "name": "Bachelor of Dental Therapy",
+    "faculty": "College of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.22, 97, 99",
+    "notes": "CAO code KN-W-BDT. School of Health Sciences. Campus: Westville. Selection on merit: NSC applicants (current Grade 12 or NSC within the last two years, no tertiary study) fill 70% of places; max 4% international. Compulsory clinical placements outside Durban (possibly rural KZN, up to a year or longer) at the student's own cost for travel and accommodation. No late applications. APS range 48-30 (excl. LO). 2026. Only first to third choices considered. Mathematical Literacy not accepted. Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      }
+    ],
+    "closes_on": "2026-09-30"
+  },
+  {
+    "name": "Bachelor of Medical Science in Innovation and Entrepreneurship",
+    "faculty": "College of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.22",
+    "notes": "CAO code KN-W-BMS-IE. Campus: Westville. School not named (listed only in the p.22 table; no detail page). APS range 48-30 (excl. LO) read from the table layout. Life Orientation not listed in the table. Only first to third choices considered. Mathematical Literacy not accepted. Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Occupational Therapy",
+    "faculty": "College of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.22, 97, 100",
+    "notes": "CAO code KN-W-BOT. School of Health Sciences. Campus: Westville. Selection on merit: NSC applicants (current Grade 12 or NSC within the last two years, no tertiary study) fill 70% of places; max 4% international. Compulsory clinical placements outside Durban (possibly rural KZN, up to a year or longer) at the student's own cost for travel and accommodation. No late applications. APS range 48-30 (excl. LO). 2026. Only first to third choices considered. Mathematical Literacy not accepted. Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ],
+    "closes_on": "2026-09-30"
+  },
+  {
+    "name": "Bachelor of Optometry",
+    "faculty": "College of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 33,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.22, 97, 101",
+    "notes": "CAO code KN-W-BOP. School of Health Sciences. Campus: Westville. Selection on merit: NSC applicants (current Grade 12 or NSC within the last two years, no tertiary study) fill 70% of places; max 4% international. Compulsory clinical placements outside Durban (possibly rural KZN, up to a year or longer) at the student's own cost for travel and accommodation. No late applications. APS range 48-33 (excl. LO). 2026. Only first to third choices considered. Mathematical Literacy not accepted. Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ],
+    "closes_on": "2026-09-30"
+  },
+  {
+    "name": "Bachelor of Oral Hygiene",
+    "faculty": "College of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.22, 97, 99",
+    "notes": "CAO code KN-W-BON. School of Health Sciences. Campus: Westville. Selection on merit: NSC applicants (current Grade 12 or NSC within the last two years, no tertiary study) fill 70% of places; max 4% international. Compulsory clinical placements outside Durban (possibly rural KZN, up to a year or longer) at the student's own cost for travel and accommodation. No late applications. APS range 48-30 (excl. LO). 2026. Only first to third choices considered. Mathematical Literacy not accepted. Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      }
+    ],
+    "closes_on": "2026-09-30"
+  },
+  {
+    "name": "Bachelor of Pharmacy",
+    "faculty": "College of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 33,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.22, 97, 102",
+    "notes": "CAO code KN-W-BPR. School of Health Sciences. Campus: Westville. Selection on merit: NSC applicants (current Grade 12 or NSC within the last two years, no tertiary study) fill 70% of places; max 4% international. Compulsory clinical placements outside Durban (possibly rural KZN, up to a year or longer) at the student's own cost for travel and accommodation. No late applications. APS range 48-33 (excl. LO). 2026. Only first to third choices considered. Mathematical Literacy not accepted. Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ],
+    "closes_on": "2026-09-30"
+  },
+  {
+    "name": "Bachelor of Physiotherapy",
+    "faculty": "College of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.22, 97, 102",
+    "notes": "CAO code KN-W-BPH. School of Health Sciences. Campus: Westville. Selection on merit: NSC applicants (current Grade 12 or NSC within the last two years, no tertiary study) fill 70% of places; max 4% international. Compulsory clinical placements outside Durban (possibly rural KZN, up to a year or longer) at the student's own cost for travel and accommodation. No late applications. APS range 48-30 (excl. LO). 2026. Only first to third choices considered. Mathematical Literacy not accepted. Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ],
+    "closes_on": "2026-09-30"
+  },
+  {
+    "name": "Bachelor of Science in Dietetics and Human Nutrition",
+    "faculty": "College of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.22, 102",
+    "notes": "CAO code KN-P-BSD. Campus: Pietermaritzburg only. APS range 48-28 (excl. LO); APS from the p.22 table (not stated on p.102). 2026. Compulsory clinical placements outside Durban at the student's own cost. No late applications. Mathematical Literacy not accepted. Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Agricultural Sciences, Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ],
+    "closes_on": "2026-09-30"
+  },
+  {
+    "name": "Bachelor of Sport Science",
+    "faculty": "College of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.22, 97, 102-103",
+    "notes": "CAO code KN-W-BRT. School of Health Sciences. Campus: Westville. Selection on merit: NSC applicants (current Grade 12 or NSC within the last two years, no tertiary study) fill 70% of places; max 4% international. Compulsory clinical placements outside Durban (possibly rural KZN, up to a year or longer) at the student's own cost for travel and accommodation. No late applications. APS range 48-30 (excl. LO). 2026. Selection on Grade 12 results; preference to applicants with a keen interest in sport, rehabilitation, high performance and community leisure; criteria may be adjusted for transformation goals. Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 40
+          }
+        ]
+      }
+    ],
+    "closes_on": "2026-09-30"
+  },
+  {
+    "name": "Bachelor of Nursing",
+    "faculty": "College of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.22, 94",
+    "notes": "CAO code KN-H-BN1. Campus: Howard College. School of Nursing and Public Health. APS 30 (excl. LO). 2026. Only first-choice applications considered. Leads to registration as general nurse, psychiatric nurse, midwife and community health nurse. International applicants need USAf evaluation (full matric exemption), FWMP letter, SANC registration, and passport/study permit or refugee status. Compulsory clinical placements outside Durban at the student's own cost. No late applications. Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 40
+          }
+        ]
+      }
+    ],
+    "closes_on": "2026-09-30"
+  },
+  {
+    "name": "Bachelor of Medicine and Bachelor of Surgery (MBChB)",
+    "faculty": "College of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 6,
+    "nsc_pass_required": "bachelor",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.22, 94-96",
+    "closes_on": "2026-06-30",
+    "notes": "CAO code KN-M-MBC. Campus: Medical School (Nelson R. Mandela School of Medicine). APS not used (p.22 lists 'N/A'): minimum 60% in each of Mathematics, Physical Sciences, Life Sciences and English, with a 65% aggregate; ranked on the average of six subjects (incl. those four and two languages, excl. LO; Maths Paper 3 not substituted). Only current-year Grade 12 candidates considered in the NSC category; upgraded matric results not accepted. Pre-selection: 70% of Grade 12 seats allocated on Grade 11 final and Grade 12 mid-year results; final places depend on maintaining performance in the final exams. Places subject to target groups set by the College Board. Mature applicants with a year or more of a Science/Health Science degree with outstanding results considered. SADC applicants from countries without a medical school apply via their ministries. School of Tomorrow examination not eligible. Closing date 30 June 2026; no late applications. Mathematical Literacy not accepted. Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  }
+]
