@@ -1,0 +1,2001 @@
+[
+  {
+    "name": "Bachelor of Science in Engineering (Agricultural Engineering)",
+    "faculty": "College of Agriculture, Engineering and Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 33,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.20, 82-85",
+    "notes": "CAO code KN-P-BEA. Campus: Pietermaritzburg. Year 1 at Pietermaritzburg, year 2 at Howard College, years 3-4 at Pietermaritzburg. Also called Agricultural (Bioresources) Engineering. School of Engineering. APS range 48-33 (excl. LO). Mathematics and Physical Sciences must be passed at Level 5 with at least 65% (stated explicitly, above the normal Level 5 band). APS from five designated subjects plus a sixth, excl. LO. ECSA-accredited. Vacation practical experience required. Quintile 1-2 applicants not meeting direct entry may be considered for the Engineering Access Programme. Mathematical Literacy not accepted. Technical Mathematics not listed. NBT not required.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 65
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 65
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Engineering (Chemical Engineering)",
+    "faculty": "College of Agriculture, Engineering and Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 33,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.20, 82-85",
+    "notes": "CAO code KN-H-BEC. Campus: Howard College. Howard College only. School of Engineering. APS range 48-33 (excl. LO). Mathematics and Physical Sciences must be passed at Level 5 with at least 65% (stated explicitly, above the normal Level 5 band). APS from five designated subjects plus a sixth, excl. LO. ECSA-accredited. Vacation practical experience required. Quintile 1-2 applicants not meeting direct entry may be considered for the Engineering Access Programme. Mathematical Literacy not accepted. Technical Mathematics not listed. NBT not required.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 65
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 65
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Engineering (Civil Engineering)",
+    "faculty": "College of Agriculture, Engineering and Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 33,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.20, 82-85",
+    "notes": "CAO codes KN-H-BEV / KN-P-BEV. Campus: Howard College, Pietermaritzburg. For all disciplines except Chemical, first year may be done at Pietermaritzburg, but years 2-4 must be completed at Howard College. School of Engineering. APS range 48-33 (excl. LO). Mathematics and Physical Sciences must be passed at Level 5 with at least 65% (stated explicitly, above the normal Level 5 band). APS from five designated subjects plus a sixth, excl. LO. ECSA-accredited. Vacation practical experience required. Quintile 1-2 applicants not meeting direct entry may be considered for the Engineering Access Programme. Mathematical Literacy not accepted. Technical Mathematics not listed. NBT not required.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 65
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 65
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Engineering (Computer Engineering)",
+    "faculty": "College of Agriculture, Engineering and Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 33,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.20, 82-85",
+    "notes": "CAO codes KN-H-BEK / KN-P-BEK. Campus: Howard College, Pietermaritzburg. For all disciplines except Chemical, first year may be done at Pietermaritzburg, but years 2-4 must be completed at Howard College. School of Engineering. APS range 48-33 (excl. LO). Mathematics and Physical Sciences must be passed at Level 5 with at least 65% (stated explicitly, above the normal Level 5 band). APS from five designated subjects plus a sixth, excl. LO. ECSA-accredited. Vacation practical experience required. Quintile 1-2 applicants not meeting direct entry may be considered for the Engineering Access Programme. Mathematical Literacy not accepted. Technical Mathematics not listed. NBT not required.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 65
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 65
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Engineering (Electrical Engineering)",
+    "faculty": "College of Agriculture, Engineering and Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 33,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.20, 82-85",
+    "notes": "CAO codes KN-H-BEE / KN-P-BEE. Campus: Howard College, Pietermaritzburg. For all disciplines except Chemical, first year may be done at Pietermaritzburg, but years 2-4 must be completed at Howard College. School of Engineering. APS range 48-33 (excl. LO). Mathematics and Physical Sciences must be passed at Level 5 with at least 65% (stated explicitly, above the normal Level 5 band). APS from five designated subjects plus a sixth, excl. LO. ECSA-accredited. Vacation practical experience required. Quintile 1-2 applicants not meeting direct entry may be considered for the Engineering Access Programme. Mathematical Literacy not accepted. Technical Mathematics not listed. NBT not required.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 65
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 65
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Engineering (Electronic Engineering)",
+    "faculty": "College of Agriculture, Engineering and Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 33,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.20, 82-85",
+    "notes": "CAO codes KN-H-BEF / KN-P-BEF. Campus: Howard College, Pietermaritzburg. For all disciplines except Chemical, first year may be done at Pietermaritzburg, but years 2-4 must be completed at Howard College. School of Engineering. APS range 48-33 (excl. LO). Mathematics and Physical Sciences must be passed at Level 5 with at least 65% (stated explicitly, above the normal Level 5 band). APS from five designated subjects plus a sixth, excl. LO. ECSA-accredited. Vacation practical experience required. Quintile 1-2 applicants not meeting direct entry may be considered for the Engineering Access Programme. Mathematical Literacy not accepted. Technical Mathematics not listed. NBT not required.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 65
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 65
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Engineering (Mechanical Engineering)",
+    "faculty": "College of Agriculture, Engineering and Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 33,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.20, 82-85",
+    "notes": "CAO codes KN-H-BEM / KN-P-BEM. Campus: Howard College, Pietermaritzburg. For all disciplines except Chemical, first year may be done at Pietermaritzburg, but years 2-4 must be completed at Howard College. School of Engineering. APS range 48-33 (excl. LO). Mathematics and Physical Sciences must be passed at Level 5 with at least 65% (stated explicitly, above the normal Level 5 band). APS from five designated subjects plus a sixth, excl. LO. ECSA-accredited. Vacation practical experience required. Quintile 1-2 applicants not meeting direct entry may be considered for the Engineering Access Programme. Mathematical Literacy not accepted. Technical Mathematics not listed. NBT not required.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 65
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 65
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Land Surveying",
+    "faculty": "College of Agriculture, Engineering and Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 33,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.20, 82, 87",
+    "notes": "CAO code KN-H-BSL. Campus: Howard College only. School of Engineering. Professional degree towards registration as a land surveyor (geomatics). APS range 48-33 (excl. LO). Mathematics and Physical Sciences must be passed at Level 5 with at least 65% (stated explicitly, above the normal Level 5 band). APS from five designated subjects plus a sixth, excl. LO. ECSA-accredited. Vacation practical experience required. Quintile 1-2 applicants not meeting direct entry may be considered for the Engineering Access Programme. Mathematical Literacy not accepted. Technical Mathematics not listed. NBT not required.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 65
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 65
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Architectural Studies",
+    "faculty": "College of Agriculture, Engineering and Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.20, 81-82",
+    "notes": "CAO code KN-H-BAR. Campus: Howard College. APS range 48-30 (excl. LO). Also requires Level 5 (60%) in one of: any language (HL or FAL), Business Studies, Consumer Studies, Dramatic Arts, Economics, Geography, History, Information Technology, Life Sciences, Music, Religion Studies, Visual Arts. Applicants must submit a portfolio of creative work, write an essay and complete a questionnaire; selection influenced by these. 2026. Graduates with 60%+ in final-year majors may proceed to postgraduate Architecture. p.107 also lists this under the College of Humanities. Mathematical Literacy not accepted. Technical Mathematics not listed. NBT not required.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      }
+    ],
+    "closes_on": "2026-09-30"
+  },
+  {
+    "name": "Bachelor of Science in Agriculture (Agricultural Economics)",
+    "faculty": "College of Agriculture, Engineering and Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.20-21, 88, 90",
+    "notes": "CAO code KN-P-SAE. Economics (Level 4) can replace the science subject. Campus: Pietermaritzburg (BSc Agric offered only at Pietermaritzburg). APS 28 (excl. LO) per p.88 rule 1a; p.20 table shows range 48-28. Capacity constraints: meeting the minimum does not guarantee a place; priority to higher achievement and punctual applications. Mathematical Literacy not accepted. Technical Mathematics not listed. NBT not required.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Agricultural Sciences, Economics, Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Economics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Agriculture (Agricultural Plant Sciences)",
+    "faculty": "College of Agriculture, Engineering and Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.20-21, 88, 90",
+    "notes": "CAO code KN-P-SAP. Specialisations: Crop Science; Horticultural Science & Plant Breeding. p.90 code list is garbled (shows KN-P-BSA for Crop Science); code taken from p.20 table. Campus: Pietermaritzburg (BSc Agric offered only at Pietermaritzburg). APS 28 (excl. LO) per p.88 rule 1a; p.20 table shows range 48-28. Capacity constraints: meeting the minimum does not guarantee a place; priority to higher achievement and punctual applications. Mathematical Literacy not accepted. Technical Mathematics not listed. NBT not required.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Agricultural Sciences, Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Agriculture (Agribusiness)",
+    "faculty": "College of Agriculture, Engineering and Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.20-21, 88, 90",
+    "notes": "CAO code KN-P-BSB. Specialisations in Animal Science, Crop Science, Horticultural Science and Wildlife Management Science. Campus: Pietermaritzburg (BSc Agric offered only at Pietermaritzburg). APS 28 (excl. LO) per p.88 rule 1a; p.20 table shows range 48-28. Capacity constraints: meeting the minimum does not guarantee a place; priority to higher achievement and punctual applications. Mathematical Literacy not accepted. Technical Mathematics not listed. NBT not required.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Agricultural Sciences, Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Agriculture (Plant Pathology)",
+    "faculty": "College of Agriculture, Engineering and Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.20-21, 88, 90",
+    "notes": "CAO code KN-P-BSP. p.90 lists KN-P-BSA; code taken from p.20 table. Campus: Pietermaritzburg (BSc Agric offered only at Pietermaritzburg). APS 28 (excl. LO) per p.88 rule 1a; p.20 table shows range 48-28. Capacity constraints: meeting the minimum does not guarantee a place; priority to higher achievement and punctual applications. Mathematical Literacy not accepted. Technical Mathematics not listed. NBT not required.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Agricultural Sciences, Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Agriculture (Soil Science)",
+    "faculty": "College of Agriculture, Engineering and Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.20-21, 88, 90",
+    "notes": "CAO code KN-P-BS1. p.90 lists KN-P-BSA; code taken from p.21 table. Campus: Pietermaritzburg (BSc Agric offered only at Pietermaritzburg). APS 28 (excl. LO) per p.88 rule 1a; p.20 table shows range 48-28. Capacity constraints: meeting the minimum does not guarantee a place; priority to higher achievement and punctual applications. Mathematical Literacy not accepted. Technical Mathematics not listed. NBT not required.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Agricultural Sciences, Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Agriculture (Animal and Poultry Science)",
+    "faculty": "College of Agriculture, Engineering and Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.20-21, 88, 90",
+    "notes": "CAO code KN-P-SAA. Campus: Pietermaritzburg (BSc Agric offered only at Pietermaritzburg). APS 28 (excl. LO) per p.88 rule 1a; p.20 table shows range 48-28. Capacity constraints: meeting the minimum does not guarantee a place; priority to higher achievement and punctual applications. Mathematical Literacy not accepted. Technical Mathematics not listed. NBT not required.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Agricultural Sciences, Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Agricultural Management",
+    "faculty": "College of Agriculture, Engineering and Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.20, 88-89",
+    "notes": "CAO code KN-P-BAQ. Campus: Pietermaritzburg only. APS 28 (excl. LO) per p.88; p.20 table range 48-28. Economics (Level 4) can replace the science subject. Capacity constraints: meeting the minimum does not guarantee a place; priority to higher achievement and punctual applications. Mathematical Literacy not accepted. Technical Mathematics not listed. NBT not required.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Agricultural Sciences, Economics, Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Economics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Agriculture",
+    "faculty": "College of Agriculture, Engineering and Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.88-89",
+    "notes": "CAO code KN-P-BAG (p.88); p.89 lists KN-P-BAC. Campus: Cedara College only (p.89). Not listed in the p.20-21 table. Aimed at development programme/project managers; not the same as the BSc in Agriculture. Capacity constraints: meeting the minimum does not guarantee a place; priority to higher achievement and punctual applications. Mathematical Literacy not accepted. Technical Mathematics not listed. NBT not required.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Agricultural Sciences, Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Stream LES: Life and Earth Sciences)",
+    "faculty": "College of Agriculture, Engineering and Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.21, 86, 88-89",
+    "notes": "CAO codes KN-P-BS2 / KN-W-BS2. Campus: Pietermaritzburg, Westville. Two majors from the Life and Earth Sciences (e.g. Biochemistry, Biology, Genetics, Microbiology); majors vary by campus (p.86). APS 28 (excl. LO) per p.88 rule 1a (Maths Level 4); p.21 table range 48-28. Capacity constraints: meeting the minimum does not guarantee a place; priority to higher achievement and punctual applications. Mathematical Literacy not accepted. Technical Mathematics not listed. NBT not required.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Agricultural Sciences, Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Stream M: Mathematics)",
+    "faculty": "College of Agriculture, Engineering and Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.21, 86, 88-89",
+    "notes": "CAO codes KN-P-BS3 / KN-W-BS3. Campus: Pietermaritzburg, Westville. For majors with more Mathematics (Mathematics, Statistics, Physics, Computer Science, etc.); majors vary by campus (p.86). APS 30 (excl. LO) per p.88 rule 1b (Maths Level 5 for mathematical majors); p.21 table range 48-30. Capacity constraints: meeting the minimum does not guarantee a place; priority to higher achievement and punctual applications. Mathematical Literacy not accepted. Technical Mathematics not listed. NBT not required.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Agricultural Sciences, Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Geographic Information Systems and Earth Observation",
+    "faculty": "College of Agriculture, Engineering and Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.21, 86, 88-89",
+    "notes": "CAO code KN-P-GEO. Campus: Pietermaritzburg. Not listed on p.86. APS 30 (excl. LO) per p.88 rule 1b (Maths Level 5 for mathematical majors); p.21 table range 48-30. Capacity constraints: meeting the minimum does not guarantee a place; priority to higher achievement and punctual applications. Mathematical Literacy not accepted. Technical Mathematics not listed. NBT not required.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Agricultural Sciences, Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Applied Chemistry",
+    "faculty": "College of Agriculture, Engineering and Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.21, 86, 88-89",
+    "notes": "CAO code KN-W-BSR. Campus: Westville. APS 28 (excl. LO) per p.88 rule 1a (Maths Level 4); p.21 table range 48-28. Capacity constraints: meeting the minimum does not guarantee a place; priority to higher achievement and punctual applications. Mathematical Literacy not accepted. Technical Mathematics not listed. NBT not required.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Agricultural Sciences, Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Chemistry and Chemical Technology",
+    "faculty": "College of Agriculture, Engineering and Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.21, 86, 88-89",
+    "notes": "CAO code KN-P-SIK. Campus: Pietermaritzburg. APS 28 (excl. LO) per p.88 rule 1a (Maths Level 4); p.21 table range 48-28. Capacity constraints: meeting the minimum does not guarantee a place; priority to higher achievement and punctual applications. Mathematical Literacy not accepted. Technical Mathematics not listed. NBT not required.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Agricultural Sciences, Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Computer Science and Information Technology",
+    "faculty": "College of Agriculture, Engineering and Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.21, 86, 88-89",
+    "notes": "CAO codes KN-P-BSU / KN-W-BSU. Campus: Pietermaritzburg, Westville. APS 30 (excl. LO) per p.88 rule 1b (Maths Level 5 for mathematical majors); p.21 table range 48-30. Capacity constraints: meeting the minimum does not guarantee a place; priority to higher achievement and punctual applications. Mathematical Literacy not accepted. Technical Mathematics not listed. NBT not required.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Agricultural Sciences, Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Crop and Horticultural Science",
+    "faculty": "College of Agriculture, Engineering and Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.21, 86, 88-89",
+    "notes": "CAO code KN-P-SIH. Campus: Pietermaritzburg. APS read from the p.21 table layout (row has no requirement text of its own). APS 28 (excl. LO) per p.88 rule 1a (Maths Level 4); p.21 table range 48-28. Capacity constraints: meeting the minimum does not guarantee a place; priority to higher achievement and punctual applications. Mathematical Literacy not accepted. Technical Mathematics not listed. NBT not required.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Agricultural Sciences, Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Environmental Science",
+    "faculty": "College of Agriculture, Engineering and Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.21, 86, 88-89",
+    "notes": "CAO codes KN-P-BSS / KN-W-BSS. Campus: Pietermaritzburg, Westville. APS 28 (excl. LO) per p.88 rule 1a (Maths Level 4); p.21 table range 48-28. Capacity constraints: meeting the minimum does not guarantee a place; priority to higher achievement and punctual applications. Mathematical Literacy not accepted. Technical Mathematics not listed. NBT not required.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Agricultural Sciences, Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Environmental Science (Grassland Science)",
+    "faculty": "College of Agriculture, Engineering and Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.86, 88",
+    "notes": "CAO code KN-P-BES. Campus: Pietermaritzburg. Listed on p.86 and p.88 but not in the p.20-21 table. APS 28 (excl. LO) per p.88 rule 1a (Maths Level 4); p.21 table range 48-28. Capacity constraints: meeting the minimum does not guarantee a place; priority to higher achievement and punctual applications. Mathematical Literacy not accepted. Technical Mathematics not listed. NBT not required.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Agricultural Sciences, Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Environmental and Earth Science",
+    "faculty": "College of Agriculture, Engineering and Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.21, 86, 88-89",
+    "notes": "CAO code KN-P-EES. Campus: Pietermaritzburg. APS 28 (excl. LO) per p.88 rule 1a (Maths Level 4); p.21 table range 48-28. Capacity constraints: meeting the minimum does not guarantee a place; priority to higher achievement and punctual applications. Mathematical Literacy not accepted. Technical Mathematics not listed. NBT not required.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Agricultural Sciences, Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Geological Science",
+    "faculty": "College of Agriculture, Engineering and Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.21, 86, 88-89",
+    "notes": "CAO code KN-W-BSG. Campus: Westville only. Geological Sciences offered only at Westville. APS 28 (excl. LO) per p.88 rule 1a (Maths Level 4); p.21 table range 48-28. Capacity constraints: meeting the minimum does not guarantee a place; priority to higher achievement and punctual applications. Mathematical Literacy not accepted. Technical Mathematics not listed. NBT not required.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Agricultural Sciences, Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Marine Biology",
+    "faculty": "College of Agriculture, Engineering and Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.21, 86, 88-89",
+    "notes": "CAO code KN-W-BSM. Campus: Westville. APS 28 (excl. LO) per p.88 rule 1a (Maths Level 4); p.21 table range 48-28. Capacity constraints: meeting the minimum does not guarantee a place; priority to higher achievement and punctual applications. Mathematical Literacy not accepted. Technical Mathematics not listed. NBT not required.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Agricultural Sciences, Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Biological Sciences",
+    "faculty": "College of Agriculture, Engineering and Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.86, 88-89",
+    "notes": "CAO codes KN-P-BSN / KN-W-BSN. Campus: Pietermaritzburg, Westville. Listed on p.86 only (not in the p.20-21 table); Maths Level 4 assumed as it is not asterisked. APS 28 (excl. LO) per p.88 rule 1a (Maths Level 4); p.21 table range 48-28. Capacity constraints: meeting the minimum does not guarantee a place; priority to higher achievement and punctual applications. Mathematical Literacy not accepted. Technical Mathematics not listed. NBT not required.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Agricultural Sciences, Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Industrial and Applied Biotechnology",
+    "faculty": "College of Agriculture, Engineering and Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.86, 88-89",
+    "notes": "CAO code KN-P-SII. Campus: Pietermaritzburg. Listed on p.86 only (not in the p.20-21 table); Maths Level 4 assumed as it is not asterisked. APS 28 (excl. LO) per p.88 rule 1a (Maths Level 4); p.21 table range 48-28. Capacity constraints: meeting the minimum does not guarantee a place; priority to higher achievement and punctual applications. Mathematical Literacy not accepted. Technical Mathematics not listed. NBT not required.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Agricultural Sciences, Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented Programme (BSc4)",
+    "faculty": "College of Agriculture, Engineering and Science",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.21, 30, 88",
+    "notes": "CAO codes KN-P-BS4 / KN-W-BS4. Campus: Pietermaritzburg, Westville. Four-year BSc with extended support; first year spread over two years. Only Quintile 1-2 schools considered. Not open to anyone who has attended a university/tertiary institution for a complete semester. No financial aid available. Mathematical Literacy not accepted. Technical Mathematics not listed. NBT not required.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Agricultural Sciences, Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 40
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Engineering Access Programme",
+    "faculty": "College of Agriculture, Engineering and Science",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 5,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.21, 29-30",
+    "notes": "CAO code KN-H-UNT. Campus: Howard College. School of Engineering. Alternative route into the BSc Eng for applicants from disadvantaged backgrounds; Quintile 1-2 schools considered until places are filled. Aptitude testing/interview may be used. Very limited bursaries; applicants may apply to sponsoring companies. Not open to anyone who has attended a university/tertiary institution for a complete semester. Mathematical Literacy not accepted. Technical Mathematics not listed. NBT not required.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  }
+]
