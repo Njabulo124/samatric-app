@@ -16,7 +16,7 @@
  */
 import { computeAps, LIFE_ORIENTATION } from './aps.js';
 import {
-  courseRule, evaluateCourse, evaluateGroup, mathsType, requiredAps, MATHEMATICS, MATHS_LIT, TECH_MATHS,
+  courseRule, evaluateCourse, evaluateGroup, mathsType, noApsAtAll, requiredAps, MATHEMATICS, MATHS_LIT, TECH_MATHS,
 } from './eligibility.js';
 
 const MAX_STEPS = 60;
@@ -46,7 +46,7 @@ export function improvePlan(course, universityRule, marks) {
   const blockers = [];
 
   // Maths type not accepted: better marks won't help.
-  if (threshold == null && (maths === MATHS_LIT || maths === TECH_MATHS)) {
+  if (threshold == null && (maths === MATHS_LIT || maths === TECH_MATHS) && !noApsAtAll(course)) {
     const accepted = [MATHEMATICS, course.minApsMathsLit != null && MATHS_LIT, course.minApsTechMaths != null && TECH_MATHS]
       .filter(Boolean);
     blockers.push({

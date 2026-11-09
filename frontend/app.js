@@ -270,6 +270,14 @@ function renderUniCards() {
     const yes = countBy(results, code, 'qualifies');
     const close = countBy(results, code, 'close');
     const info = applyInfo(code, uni?.applicationsClose);
+    // General date passed, but a faculty is still open (e.g. DUT extended Applied Sciences and Engineering)
+    const stillOpen = (uni?.periods ?? []).filter((p) => p.closesOn && !isPast(p.closesOn));
+    if (info.closed && stillOpen.length) {
+      const last = stillOpen.reduce((m, p) => (p.closesOn > m.closesOn ? p : m));
+      info.text = `Most programmes closed on ${formatDate(uni.applicationsClose)}. Some are still open until ${formatDate(last.closesOn)}.`;
+      info.button = `Apply to ${code}`;
+      info.closed = false;
+    }
     const show = el('button', { type: 'button', class: 'link-button' }, `Show ${code} courses`);
     show.addEventListener('click', () => {
       $('#filter-uni').value = code;

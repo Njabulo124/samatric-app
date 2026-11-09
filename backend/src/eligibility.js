@@ -31,6 +31,11 @@ export function mathsType(marks) {
   return [MATHEMATICS, TECH_MATHS, MATHS_LIT].find((s) => s in marks) ?? null;
 }
 
+/** True when the prospectus gives no APS for any maths type. */
+export function noApsAtAll(course) {
+  return course.minAps == null && course.minApsMathsLit == null && course.minApsTechMaths == null;
+}
+
 /** The APS threshold that applies to this learner's maths subject. */
 export function requiredAps(course, maths) {
   if (maths === MATHS_LIT) return course.minApsMathsLit;
@@ -72,7 +77,10 @@ export function evaluateCourse(course, marks, aps) {
   // 1. APS threshold for this maths subject
   const threshold = requiredAps(course, maths);
   if (threshold == null) {
-    if (maths === MATHEMATICS || maths === null) {
+    // No APS printed for this maths type. It only means "not accepted" when the course does give an
+    // APS for Mathematics; if the prospectus gives no APS at all (e.g. many DUT diplomas), we can't tell,
+    // so every learner gets CHECK and the subject requirements decide whether their maths is allowed.
+    if (maths === MATHEMATICS || maths === null || noApsAtAll(course)) {
       check = true;
       reasons.push('The prospectus does not state a minimum APS for this course; confirm with the university.');
     } else {

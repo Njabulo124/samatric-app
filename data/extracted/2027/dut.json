@@ -1,0 +1,733 @@
+{
+  "intake_year": 2027,
+  "source_document": "DUT Study Opportunities 2027",
+  "university": {
+    "name": "Durban University of Technology",
+    "short_name": "DUT",
+    "institution_type": "university_of_technology",
+    "province": "KwaZulu-Natal",
+    "website_url": "https://www.dut.ac.za",
+    "application_url": "https://www.cao.ac.za",
+    "application_fee": 250
+  },
+  "application_periods": [
+    {
+      "label": "General",
+      "opens_on": "2026-03-01",
+      "closes_on": "2026-09-30",
+      "notes": "First-time undergraduates apply through CAO (www.cao.ac.za)."
+    },
+    {
+      "label": "Faculty of Applied Sciences",
+      "opens_on": "2026-03-01",
+      "closes_on": "2026-11-30",
+      "notes": "Extended by DUT (announced October 2026)."
+    },
+    {
+      "label": "Faculty of Engineering and the Built Environment",
+      "opens_on": "2026-03-01",
+      "closes_on": "2026-12-31",
+      "notes": "Extended by DUT (announced October 2026)."
+    }
+  ],
+  "aps_rule": {
+    "default_scale": {
+      "name": "NSC standard 7-point"
+    },
+    "subjects_counted": 6,
+    "include_lo": false,
+    "must_count": [],
+    "subject_scales": [],
+    "notes": "NSC levels of achievement for the top six subjects, excluding Life Orientation (not a 20-credit subject). Some programmes also consider applicants in a lower 'testing band'. Study Opportunities 2027."
+  },
+  "faculties": [
+    "Faculty of Accounting and Informatics",
+    "Faculty of Applied Sciences",
+    "Faculty of Arts and Design",
+    "Faculty of Engineering and the Built Environment",
+    "Faculty of Health Sciences",
+    "Faculty of Management Sciences"
+  ],
+  "courses": [
+    {
+      "name": "Accounting Bridging Course",
+      "faculty": "Faculty of Accounting and Informatics",
+      "qualification_type": "other",
+      "is_extended": false,
+      "duration_years": 1,
+      "nsc_pass_required": "diploma",
+      "min_aps": 20,
+      "min_aps_maths_lit": 20,
+      "min_aps_tech_maths": null,
+      "source_ref": "Study Opportunities 2027 p.6",
+      "notes": "Qual code SCACBC. CAO code DUDABR. Campus: Ritson (Durban). Requires an NSC with diploma entry; minimum 20 points excl. LO. Not NSFAS funded (registration, tuition, materials and residence paid by the student). Passing four subjects of this course gives an alternative entry route into the Diploma in Accounting. Technical Mathematics not listed. Limited places; applicants ranked by points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Accounting, Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Accounting",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Information and Communication Technology",
+      "faculty": "Faculty of Accounting and Informatics",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": null,
+      "nsc_pass_required": "bachelor",
+      "min_aps": null,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "Study Opportunities 2027 p.7-8",
+      "notes": "Qual code BINCT1. CAO code DU-D-BIT. Campus: Ritson (Durban). No minimum APS stated. Also requires Level 4 in at least one other designated 20-credit subject, plus two more recognised 20-credit subjects at Level 4. Duration not stated. Mathematical Literacy not accepted. Technical Mathematics not listed. Limited places; applicants ranked by points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Information and Communication Technology: Internet of Things",
+      "faculty": "Faculty of Accounting and Informatics",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": null,
+      "nsc_pass_required": "bachelor",
+      "min_aps": null,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "Study Opportunities 2027 p.8-9",
+      "notes": "Qual code BICIOT. CAO code DU-D-IOT. Campus: Ritson (Durban). No minimum APS stated. Also requires two more recognised 20-credit subjects at Level 4. Duration not stated. Mathematical Literacy not accepted. Technical Mathematics not listed. Limited places; applicants ranked by points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences or Information Technology",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Information Technology",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Accounting",
+      "faculty": "Faculty of Accounting and Informatics",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 26,
+      "min_aps_maths_lit": 26,
+      "min_aps_tech_maths": null,
+      "source_ref": "Study Opportunities 2027 p.9-11",
+      "notes": "Qual codes DIACC1 (Durban), DIACTI (PMB). CAO codes DU-D-DAT (Durban), DU-P-DAT (PMB). Campus: Ritson (Durban), Riverside (Pietermaritzburg). Applicants with 26+ points go to the three-year programme; 24-25 points are placed on the 4-year ECP. Also requires two more 20-credit subjects at Level 3 plus one recognised 20-credit subject (G7 rule). Alternative entry: pass four subjects of the DUT Accounting Bridging Course. Selection in order of merit and may include an interview. Leads towards SAIPA membership. Technical Mathematics not listed. Limited places; applicants ranked by points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics, Mathematical Literacy or Accounting",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            },
+            {
+              "subject": "Accounting",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Accounting (Extended Curriculum Programme)",
+      "faculty": "Faculty of Accounting and Informatics",
+      "qualification_type": "diploma",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "diploma",
+      "min_aps": 24,
+      "min_aps_maths_lit": 24,
+      "min_aps_tech_maths": null,
+      "source_ref": "Study Opportunities 2027 p.9-11",
+      "notes": "Qual codes DIACCF (Durban), DIACCP (PMB). CAO codes DU-D-DA4 (Durban), DU-P-DA4 (PMB). Campus: Ritson (Durban), Riverside (Pietermaritzburg). Applicants with 24-25 points are placed here; 26+ go to the three-year programme. Same subject requirements as the mainstream diploma. Selection in order of merit and may include an interview. Technical Mathematics not listed. Limited places; applicants ranked by points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics, Mathematical Literacy or Accounting",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            },
+            {
+              "subject": "Accounting",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Business and Information Management",
+      "faculty": "Faculty of Accounting and Informatics",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": null,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "Study Opportunities 2027 p.11-13",
+      "notes": "Qual codes DIBIM1 (Durban), DIBSM1 (PMB). CAO codes DU-D-BI3 (Durban), DU-P-B13 (PMB). Campus: Ritson (Durban), Riverside (Pietermaritzburg). No minimum APS stated. Mathematical Literacy accepted (Level 4); no separate APS. Also requires a pass (Level 3) in four 20-credit subjects (max one language, excl. LO). Compulsory 4-month Work Integrated Learning in third year (separate fee). Duration inferred from third-year WIL. At-risk applicants may be placed on the ECP. Technical Mathematics not listed. Limited places; applicants ranked by points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Business and Information Management (Extended Curriculum Programme)",
+      "faculty": "Faculty of Accounting and Informatics",
+      "qualification_type": "diploma",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "diploma",
+      "min_aps": null,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "Study Opportunities 2027 p.11-13",
+      "notes": "Qual code DIBIF1. CAO code DU-D-BI4. Campus: Ritson (Durban only). No minimum APS stated. Mathematical Literacy accepted (Level 4); no separate APS. Same subject requirements as the mainstream diploma; applicants who meet minimums but whose points put them at risk may be placed here. Technical Mathematics not listed. Limited places; applicants ranked by points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in ICT: Applications Development",
+      "faculty": "Faculty of Accounting and Informatics",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": null,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "Study Opportunities 2027 p.14-16",
+      "notes": "Qual codes DIIADI (Durban), DICTAD (PMB). CAO codes DU-D-APD (Durban), DU-I-APD (PMB). Campus: Ritson (Durban), Indumiso (Pietermaritzburg). No minimum APS stated. Mathematical Literacy accepted (Level 6); no separate APS. Also requires two 20-credit subjects at Level 3 (max one language) plus one recognised 20-credit subject (G7 rule). Technical Mathematics not listed. Limited places; applicants ranked by points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in ICT: Applications Development (Extended Curriculum Programme)",
+      "faculty": "Faculty of Accounting and Informatics",
+      "qualification_type": "diploma",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "diploma",
+      "min_aps": null,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "Study Opportunities 2027 p.14-16",
+      "notes": "Qual code DIIAF1. CAO code DU-D-APF. Campus: Ritson (Durban only). Listed as the 4-year Foundation / Extended Curriculum Programme. No minimum APS stated. Mathematical Literacy accepted (Level 6); no separate APS. Same subject requirements as the mainstream diploma. Technical Mathematics not listed. Limited places; applicants ranked by points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in ICT: Business Analysis",
+      "faculty": "Faculty of Accounting and Informatics",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": null,
+      "nsc_pass_required": "diploma",
+      "min_aps": null,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "Study Opportunities 2027 p.16-18",
+      "notes": "Qual codes DIIBA1 (Durban), DICTBA (PMB). CAO codes DU-D-BUA (Durban), DU-I-BUA (PMB). Campus: Ritson (Durban), Indumiso (Pietermaritzburg). No minimum APS stated. Mathematical Literacy accepted (Level 6); no separate APS. Also requires two 20-credit subjects at Level 3 (max one language, excl. LO) plus one recognised 20-credit subject (G7 rule). Department of IS may also rank on academic merit and/or work experience. Duration not stated. Technical Mathematics not listed. Limited places; applicants ranked by points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Internal Auditing",
+      "faculty": "Faculty of Accounting and Informatics",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": null,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "Study Opportunities 2027 p.18-19",
+      "notes": "Qual code DIIAU1. CAO code DU-D-DIA. Campus: Ritson (Durban). Two NSC routes: (A) English, Mathematics Level 4, two 20-credit subjects at Level 3 plus one recognised 20-credit subject; OR (B) English, Mathematics Level 3 or Mathematical Literacy Level 5, AND Accounting Level 4, one 20-credit subject at Level 3 plus one recognised subject. Requirements list route A; Mathematical Literacy accepted only via route B (no separate APS). Points from English plus the next five best subjects. Ranked by combined score; may include an interview. No minimum APS stated. At-risk applicants may be placed on the ECP. Leads towards IIA membership. Technical Mathematics not listed. Limited places; applicants ranked by points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Internal Auditing (Extended Curriculum Programme)",
+      "faculty": "Faculty of Accounting and Informatics",
+      "qualification_type": "diploma",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "diploma",
+      "min_aps": null,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "Study Opportunities 2027 p.18-19",
+      "notes": "Qual code DIAUF1. CAO code DU-D-DI4. Campus: Ritson (Durban only). Two NSC routes: (A) English, Mathematics Level 4, two 20-credit subjects at Level 3 plus one recognised 20-credit subject; OR (B) English, Mathematics Level 3 or Mathematical Literacy Level 5, AND Accounting Level 4, one 20-credit subject at Level 3 plus one recognised subject. Requirements list route A; Mathematical Literacy accepted only via route B (no separate APS). Points from English plus the next five best subjects. Ranked by combined score; may include an interview. No minimum APS stated. Technical Mathematics not listed. Limited places; applicants ranked by points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Library and Information Studies",
+      "faculty": "Faculty of Accounting and Informatics",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": null,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "Study Opportunities 2027 p.20-21",
+      "notes": "Qual code DILIS1. CAO code DUDLS3. Campus: Ritson (Durban). No minimum APS stated. Mathematical Literacy accepted (Level 4); no separate APS. Also requires four 20-credit subjects at Level 3 (max one language). Applicants must pass an English test and an aptitude test, followed by a one-on-one interview. Technical Mathematics not listed. Limited places; applicants ranked by points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Management Accounting",
+      "faculty": "Faculty of Accounting and Informatics",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": null,
+      "nsc_pass_required": "diploma",
+      "min_aps": null,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "Study Opportunities 2027 p.21-23",
+      "notes": "Qual codes DIMAC1 (Durban), DMACC1 (PMB). CAO codes DUDMAC (Durban), DUPMAC (PMB). Campus: Ritson (Durban), Riverside (Pietermaritzburg). CIMA-endorsed. No minimum APS stated. Two NSC routes: (A) English plus Mathematics Level 3 or Accounting Level 4, and three 20-credit subjects at Level 3; OR (B) English, Mathematical Literacy Level 5 AND Accounting Level 4, and two 20-credit subjects at Level 3. Mathematical Literacy accepted only via route B (no separate APS). Selection in order of merit and may include an interview; at-risk applicants may be placed on an extended programme (none listed for this diploma). Duration not stated. Technical Mathematics not listed. Limited places; applicants ranked by points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Accounting",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Accounting",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Taxation",
+      "faculty": "Faculty of Accounting and Informatics",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": null,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "Study Opportunities 2027 p.23-24",
+      "notes": "Qual code DITAXI. CAO code DU-D-DTA. Campus: Ritson (Durban). Also requires two 20-credit subjects at Level 3 (excl. LO, max one language) plus one recognised 20-credit subject (G7 rule). Points from English plus the next five best subjects. No minimum APS stated. Mathematical Literacy accepted (Level 5); no separate APS. Selection in order of merit and may include an interview. At-risk applicants may be placed on the ECP. Leads towards SAIPA membership. Technical Mathematics not listed. Limited places; applicants ranked by points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics, Mathematical Literacy or Accounting",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            },
+            {
+              "subject": "Accounting",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Taxation (Extended Curriculum Programme)",
+      "faculty": "Faculty of Accounting and Informatics",
+      "qualification_type": "diploma",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "diploma",
+      "min_aps": null,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "Study Opportunities 2027 p.23-24",
+      "notes": "Qual code DITAFI. CAO code DU-D-DT6. Campus: Ritson (Durban only). Also requires two 20-credit subjects at Level 3 (excl. LO, max one language) plus one recognised 20-credit subject (G7 rule). Points from English plus the next five best subjects. No minimum APS stated. Mathematical Literacy accepted (Level 5); no separate APS. Selection in order of merit and may include an interview. Technical Mathematics not listed. Limited places; applicants ranked by points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics, Mathematical Literacy or Accounting",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            },
+            {
+              "subject": "Accounting",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ambiguities": [
+    {
+      "item": "Closing dates",
+      "issue": "Applied Sciences (30 Nov) and Engineering & Built Environment (31 Dec) were extended in October 2026",
+      "choice": "Faculty-level periods; check cao.ac.za for programmes that have filled up"
+    }
+  ]
+}
