@@ -1,0 +1,676 @@
+[
+  {
+    "name": "Bachelor of Engineering Technology in Chemical Engineering",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.79-81",
+    "notes": "Qual code BNCME1. CAO code DU-D-ECH. Campus: Steve Biko. No minimum APS stated. Technical Mathematics (Level 5) and Technical Sciences (Level 5) accepted; no separate APS. Mathematical Literacy not accepted. Also requires two recognised 20-credit subjects at Level 4. Ranked on the sum of Mathematics and Physical Sciences marks (minimum combined 100%). Technical Drawing and/or Computer Studies recommended. Alternative entry: NQF 6 Diploma in Engineering (credit transfer possible). Alternative entry for Bachelor-pass applicants missing the Maths/Science requirement: N4 Mathematics and Engineering Science plus Engineering Drawing and Chemical Engineering Fundamentals (50%, max two sittings). Duration not stated. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering Technology in Civil Engineering",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.81-83",
+    "notes": "Qual code BNCVL1. CAO code DU-D-BNC. Campus: Steve Biko. No minimum APS stated. Technical Mathematics (Level 5) and Technical Sciences (Level 5) accepted; no separate APS. Mathematical Literacy not accepted. Also requires two recognised 20-credit subjects at Level 4. Ranked on the sum of Mathematics and Physical Sciences marks (minimum combined 120%). Only 1st and 2nd choice CAO applicants considered. Alternative entry: NQF 6 Diploma in Engineering (credit transfer possible). Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering Technology in Electronic Engineering",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.83-85",
+    "notes": "Qual code BNELC1. CAO code DU-D-BGL. Campus: Steve Biko. Entry table is headed 'Electrical Engineering'. No minimum APS stated. The table lists Technical Mathematics/Technical Sciences (Level 5), but the notes state that Mathematical Literacy, Technical Mathematics and Technical Sciences are NOT accepted as substitutes for Mathematics/Physical Sciences; the notes are followed here. Also requires two recognised 20-credit subjects at Level 4. Ranked on the sum of Mathematics and Physical Sciences marks (minimum combined 100%). Alternative entry for Bachelor-pass applicants missing the Maths/Science requirement: N4 Mathematics and Engineering Science plus any two of Industrial Electronics/Electronics, Digital/Logic Systems, Electrotechnics (50%, same sitting). Duration not stated. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering Technology in Industrial Engineering",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.85-87",
+    "notes": "Qual code BNIND1. CAO code DU-D-BIE. Campus: Steve Biko. No minimum APS stated. Technical Mathematics (Level 5) and Technical Sciences (Level 5) accepted; no separate APS. Mathematical Literacy not accepted. Also requires two recognised 20-credit subjects at Level 4. Ranked on the sum of Mathematics and Physical Sciences marks (minimum combined 100%). Alternative entry: NQF 6 Diploma in Engineering (credit transfer possible). Alternative entry for Bachelor-pass applicants missing the Maths/Science requirement: N4 Mathematics and Engineering Science plus any two of Mechanotechnics, Engineering Drawing, Electrotechnics (50%, same sitting). Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering Technology in Mechanical Engineering",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.87-89",
+    "notes": "Qual code BNMCH1. CAO code DU-D-BGM. Campus: Steve Biko. No minimum APS stated. Technical Mathematics (Level 5) and Technical Sciences (Level 5) accepted; no separate APS. Mathematical Literacy not accepted. Also requires two recognised 20-credit subjects at Level 4. Ranked on the sum of Mathematics and Physical Sciences marks (minimum combined 100%). Final selection at the HOD's discretion (class size, equity, etc.). Alternative entry: NQF 6 Diploma in Engineering (credit transfer possible). Alternative entry for Bachelor-pass applicants missing the Maths/Science requirement: N4 Mathematics and Engineering Science plus any two of Mechanotechnics, Engineering Drawing, Electrotechnics (50%, same sitting). Duration not stated. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering Technology in Power Engineering",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.89-91",
+    "notes": "Qual code BNPWE1. CAO code DU-D-BGH. Campus: Steve Biko. No minimum APS stated. Technical Mathematics (Level 5) and Technical Sciences (Level 5) accepted; no separate APS. Mathematical Literacy not accepted. Also requires two recognised 20-credit subjects at Level 4. Ranked on the sum of Mathematics and Physical Sciences marks (minimum combined 100%). Where oversubscribed, selection on English, Mathematics and Physical Sciences; final selection at the HOD's discretion. Alternative entry: NQF 6 Diploma in Engineering (credit transfer possible). Alternative entry for Bachelor-pass applicants missing the Maths/Science requirement: N4 Mathematics and Engineering Science plus any two of Industrial Electronics/Electronics, Engineering Drawing, Electrotechnics, Digital/Logic Systems, Industrial Instruments (50%, same sitting). Duration not stated. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of the Built Environment in Architecture",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.91-93",
+    "notes": "Qual code BBARC1. CAO code DU-D-BAT. Campus: Steve Biko. No minimum APS stated. Mathematical Literacy not accepted; Technical Mathematics not listed. Also requires three recognised 20-credit subjects at Level 4. Recommended (not required): Technology, History, Art, Technical Drawing, Geography, Physics. Top 300 applicants write a selection test; offers ranked on weighted test results plus Mathematics (trial or final). Preference to applicants with Architecture at DUT as 1st choice. Leads to registration as a candidate architectural technologist (SACAP). Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of the Built Environment in Construction Studies",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.93-94",
+    "notes": "Qual code BBCST1. CAO code DU-D-BBU. Campus: Steve Biko. No minimum APS stated. Technical Mathematics (Level 5) and Technical Sciences (Level 5) accepted; no separate APS. Mathematical Literacy not accepted. Also requires two recognised 20-credit subjects at Level 4. Ranked on the sum of Mathematics and Physical Sciences marks (minimum combined 100%). Alternative entry: cognate NQF 6 Diploma (credit transfer possible) or National N Diploma (no credit transfer). Alternative entry for Bachelor-pass applicants missing the Maths/Science requirement: N4 Mathematics and Engineering Science (60%, max two sittings). Duration not stated. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of the Built Environment in Geomatics",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.94-96",
+    "notes": "Qual code BBGMT1. CAO code DU-D-BBE. Campus: Steve Biko. No minimum APS stated. Technical Mathematics (Level 5) and Technical Sciences (Level 5) accepted; no separate APS. Mathematical Literacy not accepted. Also requires two recognised 20-credit subjects at Level 4 (max one language). Ranked on the sum of Mathematics and Physical Sciences marks (minimum combined 100%). Only 1st to 4th choice CAO applicants considered. Alternative entry: NQF 6 Diploma in Engineering (credit transfer possible). Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of the Built Environment in Urban and Regional Planning",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.96-98",
+    "notes": "Qual code BBURP1. CAO code DU-D-BUR. Campus: Steve Biko. No minimum APS stated. Mathematical Literacy and Technical Mathematics not listed. Also requires any TWO of Geography, History, Life Sciences or Physical Sciences at Level 4 (no equivalents), plus one other 20-credit subject (not a language) at Level 4. Placement test required. 33 modules over 3 years full-time. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Any two of Geography, History, Life Sciences or Physical Sciences",
+        "min_count": 2,
+        "options": [
+          {
+            "subject": "Geography",
+            "min_percent": 50
+          },
+          {
+            "subject": "History",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Engineering Technology in Civil Engineering",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.98-100",
+    "notes": "Qual code DICVE1. CAO code DU-I-DNC. Campus: Indumiso (Pietermaritzburg). No minimum APS stated. Technical Mathematics (Level 5) and Technical Sciences (Level 5) accepted; no separate APS. Mathematical Literacy not accepted. Also requires two recognised 20-credit subjects at Level 4. Only 1st and 2nd choice CAO applicants considered. Alternative entry for diploma-pass applicants missing the Maths/Science requirement: N4 passes at 50% in four relevant subjects incl. Mathematics and Engineering Science, or a cognate NQF 4 qualification. Duration not stated. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Built Environment in Construction Studies",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.100-102",
+    "notes": "Qual code DIBES1. CAO code DU-I-DBE. Campus: Indumiso (Pietermaritzburg). No minimum APS stated. Technical Mathematics (Level 5) and Technical Sciences (Level 5) accepted; no separate APS. Mathematical Literacy not accepted. Also requires two recognised 20-credit subjects at Level 4. Alternative entry for diploma-pass applicants: N4 Mathematics and Engineering Science plus Building and Structural Construction or Building and Structural Surveying (60%, max two sittings). Duration not stated. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Pulp and Paper Technology",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.102-104",
+    "notes": "Qual code DIPPT1. CAO code DU-D-DPP. Campus: Steve Biko. No minimum APS stated. Mathematical Literacy and Technical Mathematics not listed. Also requires two recognised 20-credit subjects at Level 3. 30 months theory plus 6 months industrial training. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  }
+]
