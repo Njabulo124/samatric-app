@@ -1,0 +1,846 @@
+[
+  {
+    "name": "Bachelor of Child and Youth Care",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.106-108",
+    "notes": "Qual code BCCYC3. CAO code DU-D-CYC. Campus: Ritson (full-time, Durban). No minimum APS stated. No Mathematics requirement. Also requires three 20-credit subjects at Level 4 (max one language) plus one recognised subject (G7 rule). Interview and entrance assessment; proof of at least 20 hours of voluntary work or employment with children, youth, families or communities must be presented at the interview. Only 1st, 2nd or 3rd choice applicants considered. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Health Sciences in Chiropractic",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.108-110",
+    "closes_on": "2026-08-15",
+    "notes": "Qual code BACHR1. CAO code DUDCHI. Campus: Ritson. No minimum APS stated. Also requires two 20-credit subjects (max one language). Mathematical Literacy and Technical Mathematics not listed. Applicants must be over 17 and physically fit; shortlisting on Grade 11/12 subject profile, then interviews (usually September/October). First preference to applicants with both Physical Sciences and Life Sciences. Programme is 4 years BHSc plus 1 year MHSc (both required for internship registration), then a year of internship. Prospectus closing date: 15 August 2026. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Health Sciences in Clinical Technology",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.110-112",
+    "notes": "Qual code BHCLT1. CAO code DU-D-DCT. Campus: ML Sultan. No minimum APS stated. Applicants with 25+ points stand a greater chance (not a minimum). Also requires two 20-credit subjects at Level 3 (max one language). Mathematical Literacy not accepted; Technical Mathematics not listed. Industrial knowledge expected; interviews and possibly a Selection Committee and/or aptitude test. Ranking uses matric results and ranking the programme as 1st or 2nd choice. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Health Sciences in Emergency Medical Care",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.112-114",
+    "notes": "Qual code BHEMC3. CAO code DUDHS4. Campus: Ritson. Minimum 30 points. Also requires two 20-credit subjects at Level 4 (max one language). Mathematical Literacy and Technical Mathematics not listed. Must pass departmental medical, physical and environmental fitness evaluations. Accepted applicants must obtain a driver's licence by the end of first year. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Health Sciences in Environmental Health",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.114-115",
+    "notes": "Qual code BHEVH2. CAO code DUDEVH. Campus: Ritson. No minimum APS stated. English is listed as compulsory but no level is printed; set to the DUT minimum for degree entry (Level 3). Also requires two 20-credit subjects (max one language). Mathematical Literacy and Technical Mathematics not listed. Interview and assessment test. 4 years over 8 semesters. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Health Sciences in Homoeopathy",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.115-117",
+    "notes": "Qual code BHHOM1. CAO code DUDHM4. Campus: Ritson. No minimum APS stated. English is listed as compulsory but no level is printed; set to the DUT minimum for degree entry (Level 3). Also requires two 20-credit subjects (max one language). Mathematical Literacy and Technical Mathematics not listed. Interview at predetermined times; an assignment must be submitted before the interview. First preference to applicants with both Physical Sciences and Life Sciences. Duration unclear: the page says the programme extends over five years, but also '3 years of study plus 1 year of internship'; graduates then enrol for the MHSc Homoeopathy to practise. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Health Sciences in Homoeopathy (Extended Curriculum Programme)",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.115-117",
+    "notes": "Qual code BHHMF2. Listed only by qualification code (no separate CAO code or entry criteria); assumed same requirements as the mainstream degree. Code says '4-Year Extended Curriculum Programme', while the text says the extended curriculum stretches over six years. Campus: Ritson. No minimum APS stated. English is listed as compulsory but no level is printed; set to the DUT minimum for degree entry (Level 3). Also requires two 20-credit subjects (max one language). Mathematical Literacy and Technical Mathematics not listed. Interview at predetermined times; an assignment must be submitted before the interview. First preference to applicants with both Physical Sciences and Life Sciences. Duration unclear: the page says the programme extends over five years, but also '3 years of study plus 1 year of internship'; graduates then enrol for the MHSc Homoeopathy to practise. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Health Sciences in Medical Laboratory Science",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.117-119",
+    "notes": "Qual code BHMLS1. CAO code DUDBLS. Campus: ML Sultan. No minimum APS stated. Applicants with more than 25 points improve their chances (not a minimum). Also requires two 20-credit subjects at Level 3 (max one language). Mathematical Literacy and Technical Mathematics not listed. Some knowledge of the profession expected; interview; shortlisting on Grade 12 June and/or final results. Includes 6 months (3rd year) and 12 months (4th year) of work-integrated learning. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Health Sciences in Medical Orthotics and Prosthetics",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.119-121",
+    "notes": "Qual code BHMOP4. CAO code DUDHSP. Campus: Steve Biko, Ritson and Wentworth Hospital. No minimum APS stated (minimum point score as determined from time to time). Also requires two 20-credit subjects at Level 4 (max one language). Mathematical Literacy and Technical Mathematics not listed. Top applicants write a placement test and attend an interview; the 30 highest-ranked are admitted. At least 8 hours of voluntary service in a prosthetic/orthotic setting encouraged (voluntary practice report submitted with application). Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Health Sciences in Diagnostic Radiography",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.121-126",
+    "closes_on": "2026-08-31",
+    "notes": "Qual code BHDRD1. CAO code DU-D-RAD. Only considered if placed as 1st, 2nd or 3rd choice. Campus: Ritson. Department of Radiography. Minimum 28 points (initial selection on Grade 12 June or trial results). Also requires one recognised 20-credit subject at Level 4. Mathematical Literacy and Technical Mathematics not listed. Minimum age 18 by end of December 2026; must be physically fit (compulsory medical in first week). May require an entrance test, visits to clinical training centres, at least 8 hours in the discipline (letter from HOD), placement testing and an interview. Must register with the HPCSA throughout training; one year of compulsory community service after graduating. Duration not stated. Prospectus closing date: 31 August 2026. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Health Sciences in Diagnostic Sonography",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.121-126",
+    "closes_on": "2026-08-31",
+    "notes": "Qual code BHDSN1. CAO code DU-D-RAS. Only considered if placed as 1st choice. Campus: Ritson. Department of Radiography. Minimum 28 points (initial selection on Grade 12 June or trial results). Also requires one recognised 20-credit subject at Level 4. Mathematical Literacy and Technical Mathematics not listed. Minimum age 18 by end of December 2026; must be physically fit (compulsory medical in first week). May require an entrance test, visits to clinical training centres, at least 8 hours in the discipline (letter from HOD), placement testing and an interview. Must register with the HPCSA throughout training; one year of compulsory community service after graduating. Duration not stated. Prospectus closing date: 31 August 2026. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Health Sciences in Radiotherapy",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.121-126",
+    "closes_on": "2026-08-31",
+    "notes": "Qual code BHRDT1. CAO code DU-D-RTO. Also described as Radiotherapy and Oncology. Only considered if placed as 1st choice. Campus: Ritson. Department of Radiography. Minimum 28 points (initial selection on Grade 12 June or trial results). Also requires one recognised 20-credit subject at Level 4. Mathematical Literacy and Technical Mathematics not listed. Minimum age 18 by end of December 2026; must be physically fit (compulsory medical in first week). May require an entrance test, visits to clinical training centres, at least 8 hours in the discipline (letter from HOD), placement testing and an interview. Must register with the HPCSA throughout training; one year of compulsory community service after graduating. Duration not stated. Prospectus closing date: 31 August 2026. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Nursing",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.126-128",
+    "notes": "Qual code BCHNSG. CAO code DU-I-BN1. Campus: Indumiso (Pietermaritzburg). Minimum 28 points (excl. LO). Mathematical Literacy accepted (Level 6); Technical Mathematics not listed. Also requires two 20-credit subjects at Level 4 (max one additional language). SATAP test and interview complement NSC results; priority to latest matriculants with no previous study history. Qualifies as general nurse and midwife; graduates sign a contract to practise in South Africa for four years after graduation (incl. community service). Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics, Mathematical Literacy or Physical Sciences",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Somatology",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.128-129",
+    "notes": "Qual code DISOMI. CAO code DUDST3. Campus: Ritson. No minimum APS stated. Mathematical Literacy accepted (Level 5); no separate APS. Technical Mathematics not listed. Table is headed 'NSC Degree Entry' although this is a diploma. Also requires two 20-credit subjects at Level 3 (max one language). Medical report (clean bill of health) and an entrance test later in the application year. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Somatology (Extended Curriculum Programme)",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "diploma",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "diploma",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.128-129",
+    "notes": "Qual code DISMF1. Listed only by qualification code (no separate CAO code); for applicants who do not fulfil all admission requirements for success. First year is completed over two years, then students move to second year of the diploma. Campus: Ritson. No minimum APS stated. Mathematical Literacy accepted (Level 5); no separate APS. Technical Mathematics not listed. Table is headed 'NSC Degree Entry' although this is a diploma. Also requires two 20-credit subjects at Level 3 (max one language). Medical report (clean bill of health) and an entrance test later in the application year. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Higher Certificate in Dental Assisting",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "higher_certificate",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "higher_certificate",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Study Opportunities 2027 p.129-131",
+    "notes": "Qual code HCDNA1. CAO code DU-D-HDA. Campus: ML Sultan. No minimum APS stated. Mathematical Literacy accepted (Level 5); no separate APS. Technical Mathematics not listed. Table is headed 'NSC Degree Entry' although this is a higher certificate. Also requires two 20-credit subjects at Level 3 (max one language). Interviews (early November) and entrance tests; selection made after interviews. Students register with the HPCSA as student dental assistants. Duration not stated. Limited places.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Life Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  }
+]
