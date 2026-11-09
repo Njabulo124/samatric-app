@@ -1,0 +1,568 @@
+[
+  {
+    "name": "Bachelor of Education (Foundation Phase)",
+    "faculty": "College of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.23, 106, 109",
+    "notes": "CAO code KN-E-BFP. Campus: Edgewood. School of Education. APS range 48-28 (excl. LO); minimum 28 does not guarantee acceptance. NCV Level 4 applicants with Bachelor endorsement may apply (pass in LO, 50% English, Level 4 Maths or Level 5 Maths Lit, Level 3 in two other subjects). Foundation and Intermediate Phase students are expected to study English and isiZulu. Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "isiZulu",
+        "options": [
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education (Intermediate Phase)",
+    "faculty": "College of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.23, 106, 109",
+    "notes": "CAO code KN-E-BIP. Campus: Edgewood. School of Education. APS range 48-28 (excl. LO); minimum 28 does not guarantee acceptance. NCV Level 4 applicants with Bachelor endorsement may apply (pass in LO, 50% English, Level 4 Maths or Level 5 Maths Lit, Level 3 in two other subjects). p.23 table requires Level 5 (60%) in any two of: Mathematics, Mathematical Literacy, Technology, Life Sciences, Physical Sciences. p.106 states Mathematics Level 4 / Mathematical Literacy Level 5 (used for the maths group). Foundation and Intermediate Phase students are expected to study English and isiZulu. Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education (Senior Phase and Further Education and Training)",
+    "faculty": "College of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.23, 106, 109",
+    "notes": "CAO codes KN-E-BSN / KN-E-FET. Campus: Edgewood. School of Education. APS range 48-28 (excl. LO); minimum 28 does not guarantee acceptance. NCV Level 4 applicants with Bachelor endorsement may apply (pass in LO, 50% English, Level 4 Maths or Level 5 Maths Lit, Level 3 in two other subjects). Also requires Level 5 (60%) in any two NSC subjects relevant to the teaching package selected. No mathematics requirement listed. Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts (General Studies)",
+    "faculty": "College of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.23, 108, 113",
+    "notes": "CAO codes KN-H-BA2 / KN-P-BA2. Campus: Howard College, Pietermaritzburg. APS range 48-28 (excl. LO). Also requires Level 5 (60%) in one of: any language (HL or FAL), Business Studies, Consumer Studies, Dramatic Arts, Economics, Geography, History, Information Technology, Life Sciences, Mathematics/Mathematical Literacy, Music, Religion Studies, Visual Arts. Selection: meeting the minimum APS does not guarantee acceptance. APS 30 required to take any Law modules (e.g. Legal Studies major). Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Music",
+    "faculty": "College of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.23, 111",
+    "notes": "CAO code KN-H-BAM (p.23); p.111 lists KN-H-BAMUSC. Campus: Howard College. Auditions required. Majors: Performance, Theory and Composition, or Research. No mathematics requirement listed. Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Music Foundation",
+    "faculty": "College of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 22,
+    "min_aps_maths_lit": 22,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.23, 31",
+    "notes": "CAO code KN-H-BMX (p.23); p.31 lists KN-H-BAMUS4. Campus: Howard College. Auditions required. Foundation year (128 foundation credits) then BA in Music; minimum four years in total. Preference to Quintile 1-3 schools; other applicants considered if they have no previous formal musical training and show exceptional potential. No mathematics requirement listed. Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Social Science (General Studies)",
+    "faculty": "College of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.23, 108, 113",
+    "notes": "CAO codes KN-H-SO2 / KN-P-SO2. Campus: Howard College, Pietermaritzburg. APS range 48-28 (excl. LO). Also requires Level 5 (60%) in one of: any language (HL or FAL), Business Studies, Consumer Studies, Dramatic Arts, Economics, Geography, History, Information Technology, Life Sciences, Mathematics/Mathematical Literacy, Music, Religion Studies, Visual Arts. Selection: meeting the minimum APS does not guarantee acceptance. APS 30 required to take any Law modules. Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Social Science in Geography and Environmental Management",
+    "faculty": "College of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.23, 108-109",
+    "notes": "CAO codes KN-H-SGE / KN-P-SGE. Campus: Howard College, Pietermaritzburg. APS range 48-28 (excl. LO). Also requires Level 5 (60%) in one of: any language (HL or FAL), Business Studies, Consumer Studies, Dramatic Arts, Economics, Geography, History, Information Technology, Life Sciences, Mathematics/Mathematical Literacy, Music, Religion Studies, Visual Arts. Mathematics and Geography at Grade 12 highly recommended (not required). Selection: meeting the minimum APS does not guarantee acceptance. Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Social Science in Housing",
+    "faculty": "College of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.23, 110-111",
+    "notes": "CAO code KN-H-SOR. Campus: Howard College. School of Built Environment and Development Studies. APS range 48-28 (excl. LO). Table text reads 'NSC-Deg with Eng and, Maths L4' (garbled); LO 4 included from the College's general entrance rule (p.108). Mathematical Literacy not listed. Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Social Work",
+    "faculty": "College of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.23, 112",
+    "notes": "CAO code KN-H-BSX. Campus: Howard College. APS range 48-28 (excl. LO); or 30 Matriculation points. Limited space: 28/30 points do not guarantee acceptance. Mature Age Exemption applicants may be admitted. Also requires Level 5 (60%) in one of: any language (HL or FAL), Business Studies, Consumer Studies, Dramatic Arts, Economics, Geography, History, Information Technology, Life Sciences, Mathematics/Mathematical Literacy, Music, Religion Studies, Visual Arts. Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts (Philosophy, Politics and Law)",
+    "faculty": "College of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.24, 108, 111",
+    "notes": "CAO codes KN-H-ABP / KN-P-ABP. Campus: Howard College, Pietermaritzburg. APS range 48-30 (excl. LO). Also requires Level 5 (60%) in one of: any language (HL or FAL), Business Studies, Consumer Studies, Dramatic Arts, Economics, Geography, History, Information Technology, Life Sciences, Mathematics/Mathematical Literacy, Music, Religion Studies, Visual Arts. Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts (Visual Art)",
+    "faculty": "College of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.24, 108, 112",
+    "notes": "CAO code KN-P-AAV. Campus: Pietermaritzburg. APS range 48-28 (excl. LO). Also requires Level 5 (60%) in one of: any language (HL or FAL), Business Studies, Consumer Studies, Dramatic Arts, Economics, Geography, History, Information Technology, Life Sciences, Mathematics/Mathematical Literacy, Music, Religion Studies, Visual Arts. Grade 12 Art not required; introductory courses available. Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Social Science (Government, Business and Ethics)",
+    "faculty": "College of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.24, 108-109",
+    "notes": "CAO code KN-P-SOG. Campus: Pietermaritzburg. APS 28 per the College's general rule (p.108); p.24 table layout is ambiguous between 48-30 and 48-28. Also requires Level 5 (60%) in one of: any language (HL or FAL), Business Studies, Consumer Studies, Dramatic Arts, Economics, Geography, History, Information Technology, Life Sciences, Mathematics/Mathematical Literacy, Music, Religion Studies, Visual Arts. Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Social Science Extended Curriculum",
+    "faculty": "College of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 20,
+    "min_aps_maths_lit": 20,
+    "min_aps_tech_maths": null,
+    "source_ref": "Prospectus 2027 p.24, 30, 108",
+    "notes": "CAO codes KN-H-SO4 / KN-P-SO4. Campus: Howard College, Pietermaritzburg. For applicants from disadvantaged contexts with APS 20-27 (or 24-31 Matric points); only Quintile 1-2 schools considered. Not open to anyone who has attended a university/tertiary institution for a complete semester. Leads to a BSocSc degree. No mathematics requirement listed. Technical Mathematics not listed.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  }
+]
