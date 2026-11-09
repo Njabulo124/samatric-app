@@ -1,0 +1,556 @@
+{
+  "intake_year": 2027,
+  "source_document": "UKZN Undergraduate Prospectus 2027",
+  "university": {
+    "name": "University of KwaZulu-Natal",
+    "short_name": "UKZN",
+    "institution_type": "traditional",
+    "province": "KwaZulu-Natal",
+    "website_url": "https://www.ukzn.ac.za",
+    "application_url": "https://www.cao.ac.za",
+    "application_fee": 250
+  },
+  "application_periods": [
+    {
+      "label": "General",
+      "opens_on": null,
+      "closes_on": "2026-09-30",
+      "notes": "First-time South African undergraduates apply through CAO (www.cao.ac.za). Medicine closes 30 June 2026 (set per course)."
+    }
+  ],
+  "aps_rule": {
+    "default_scale": {
+      "name": "UKZN 8-point (90-100% = 8)",
+      "bands": [
+        {
+          "min_mark": 90,
+          "max_mark": 100,
+          "points": 8
+        },
+        {
+          "min_mark": 80,
+          "max_mark": 89,
+          "points": 7
+        },
+        {
+          "min_mark": 70,
+          "max_mark": 79,
+          "points": 6
+        },
+        {
+          "min_mark": 60,
+          "max_mark": 69,
+          "points": 5
+        },
+        {
+          "min_mark": 50,
+          "max_mark": 59,
+          "points": 4
+        },
+        {
+          "min_mark": 40,
+          "max_mark": 49,
+          "points": 3
+        },
+        {
+          "min_mark": 30,
+          "max_mark": 39,
+          "points": 2
+        },
+        {
+          "min_mark": 0,
+          "max_mark": 29,
+          "points": 1
+        }
+      ]
+    },
+    "subjects_counted": 6,
+    "include_lo": false,
+    "must_count": [],
+    "subject_scales": [],
+    "notes": "Performance levels 1-8 for six subjects excluding Life Orientation; 90-100% earns 8. Subjects required for the programme must be included. No bonus for extra subjects. Source: applications.ukzn.ac.za undergraduate selection procedure; Study@UKZN brochure."
+  },
+  "faculties": [
+    "College of Agriculture, Engineering and Science",
+    "College of Health Sciences",
+    "College of Humanities",
+    "College of Law and Management Studies"
+  ],
+  "courses": [
+    {
+      "name": "Bachelor of Laws (LLB)",
+      "faculty": "College of Law and Management Studies",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 32,
+      "min_aps_maths_lit": 32,
+      "min_aps_tech_maths": null,
+      "source_ref": "Prospectus 2027 p.24, 118",
+      "notes": "CAO codes KN-H-BL1 / KN-P-BL1. Campus: Howard College, Pietermaritzburg. Full-time. School of Law. APS range 48-32 (excl. LO). Alternative route: complete a BA/BSocSc with a law major (or any Bachelor's) and apply with a 60% average and no failed modules, subject to places available. Technical Mathematics not listed. UKZN does not use NBT results.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 70
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Life Orientation",
+          "options": [
+            {
+              "subject": "Life Orientation",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Laws (LLB) (Part-time)",
+      "faculty": "College of Law and Management Studies",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 6,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 32,
+      "min_aps_maths_lit": 32,
+      "min_aps_tech_maths": null,
+      "source_ref": "Prospectus 2027 p.24, 118",
+      "notes": "CAO code KN-H-BLZ. Campus: Howard College. Part-time over 12 semesters. School of Law. APS range 48-32 (excl. LO). Alternative route: complete a BA/BSocSc with a law major (or any Bachelor's) and apply with a 60% average and no failed modules, subject to places available. Technical Mathematics not listed. UKZN does not use NBT results.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 70
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Life Orientation",
+          "options": [
+            {
+              "subject": "Life Orientation",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Administration",
+      "faculty": "College of Law and Management Studies",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 26,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "Prospectus 2027 p.24, 120",
+      "notes": "CAO code KN-W-BAD. Campus: Westville. APS range 48-26 (excl. LO). Early selection: APS 32 with English and LO at Level 4 and Maths Level 3. Specialisations: Human Resource Management, Management, Public Administration. Mathematical Literacy and Technical Mathematics not listed. UKZN does not use NBT results.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Life Orientation",
+          "options": [
+            {
+              "subject": "Life Orientation",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Business Administration",
+      "faculty": "College of Law and Management Studies",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 26,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "Prospectus 2027 p.24, 121",
+      "notes": "CAO codes KN-P-BBA / KN-W-BBA. Campus: Pietermaritzburg, Westville. Evening classes only; no funding offered. Three- to four-year qualification (table lists 3 yrs). APS range 48-26 (excl. LO). Applicants not meeting BBA criteria may be considered for the CBA with NSC-Deg, Maths 2 (no Maths Literacy), English and LO 4 and 24 APS. Mathematical Literacy and Technical Mathematics not accepted/listed. UKZN does not use NBT results.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Life Orientation",
+          "options": [
+            {
+              "subject": "Life Orientation",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce (General)",
+      "faculty": "College of Law and Management Studies",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "Prospectus 2027 p.24, 121",
+      "notes": "CAO codes KN-P-BC1 / KN-W-BC1. Campus: Pietermaritzburg, Westville. APS range 48-30 (excl. LO); 'subject to changes'. Early selection: APS 35 with English, LO and Mathematics at Level 5. Specialisations: Economics, Finance, Human Resource Management, Information Systems, Management, Marketing, Supply Chain Management. LO 4 from the p.24 table (not repeated on p.121). Mathematical Literacy and Technical Mathematics not listed. UKZN does not use NBT results.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Life Orientation",
+          "options": [
+            {
+              "subject": "Life Orientation",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Accounting",
+      "faculty": "College of Law and Management Studies",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 32,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "Prospectus 2027 p.24, 122",
+      "notes": "CAO codes KN-P-BCN / KN-W-BCN. Campus: Pietermaritzburg, Westville. APS range 48-32 (excl. LO); 'subject to changes'. Early selection: APS 35 with English, LO and Mathematics at Level 5. LO 4 from the p.24 table (not repeated on p.122). Mathematical Literacy and Technical Mathematics not listed. UKZN does not use NBT results.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Life Orientation",
+          "options": [
+            {
+              "subject": "Life Orientation",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Business Science in Finance",
+      "faculty": "College of Law and Management Studies",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 33,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "Prospectus 2027 p.24, 122",
+      "notes": "CAO code KN-W-B5F. Campus: Westville. 4-year honours-equivalent qualification. APS range 48-33 (excl. LO). Early selection: APS 37 with English and LO Level 4 and Mathematics Level 6. Applicants not meeting the Maths requirement are advised to apply to the College's Alternative Access Programmes. Mathematical Literacy and Technical Mathematics not listed. UKZN does not use NBT results.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 70
+            }
+          ]
+        },
+        {
+          "description": "Life Orientation",
+          "options": [
+            {
+              "subject": "Life Orientation",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Business Science in Investment Science",
+      "faculty": "College of Law and Management Studies",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 33,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "Prospectus 2027 p.24, 122",
+      "notes": "CAO code KN-W-B5I. Campus: Westville. 4-year honours-equivalent qualification. APS range 48-33 (excl. LO). Early selection: APS 37 with English and LO Level 4 and Mathematics Level 6. Applicants not meeting the Maths requirement are advised to apply to the College's Alternative Access Programmes. Mathematical Literacy and Technical Mathematics not listed. UKZN does not use NBT results.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 70
+            }
+          ]
+        },
+        {
+          "description": "Life Orientation",
+          "options": [
+            {
+              "subject": "Life Orientation",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce (General) Extended Curriculum (BCom 4)",
+      "faculty": "College of Law and Management Studies",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 26,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "Prospectus 2027 p.24, 31-32, 124",
+      "notes": "CAO codes KN-P-BCG / KN-W-BCG. Campus: Pietermaritzburg, Westville. Three-year BCom extended over four years. APS range 48-26 (excl. LO). For Quintile 1-3 schools (p.124); p.31 says preference given to Quintile 1-3. Not open to anyone who has attended a university/tertiary institution (degree or access programme) for a complete semester. Mathematical Literacy and Technical Mathematics not listed. UKZN does not use NBT results.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Life Orientation",
+          "options": [
+            {
+              "subject": "Life Orientation",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Accounting Extended Curriculum (BCom 4)",
+      "faculty": "College of Law and Management Studies",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 28,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "Prospectus 2027 p.24, 32, 124",
+      "notes": "CAO codes KN-P-BCO / KN-W-BCO. Campus: Pietermaritzburg, Westville. Three-year BCom Accounting extended over four years. APS range 48-28 (excl. LO). For Quintile 1-3 schools (p.124); p.32 says preference given to Quintile 1-3. Not open to anyone who has attended a university/tertiary institution (degree or access programme) for a complete semester. Mathematical Literacy and Technical Mathematics not listed. UKZN does not use NBT results.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Life Orientation",
+          "options": [
+            {
+              "subject": "Life Orientation",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ambiguities": [
+    {
+      "item": "Application URL",
+      "issue": "First-time SA applicants must apply via CAO, not UKZN directly",
+      "choice": "https://www.cao.ac.za; fee is the CAO on-time fee (R250)"
+    }
+  ]
+}
