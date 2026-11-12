@@ -27,7 +27,8 @@ A learner enters their matric marks once. The app then:
 | University of the Witwatersrand (Wits) | 60 | Wits Grade 12 presentation (2026 intake; confirm 2027 on wits.ac.za) |
 | Mangosuthu University of Technology (MUT) | 40 | CAO Handbook 2027 |
 | University of Zululand (UNIZULU) | 145 | CAO Handbook 2027 |
-| **Total** | **953** | |
+| Vaal University of Technology (VUT) | 49 | VUT 2027 Undergraduate Minimum Admission Requirements |
+| **Total** | **1,002** | |
 
 ---
 
@@ -145,7 +146,7 @@ From the terminal: `npm run check -- samples/strong-science.json --uni WSU --sho
 
 - [x] Eligibility engine with per-university APS rules
 - [x] Prospectus pipeline with validation and change detection
-- [x] UJ, TUT, UP, UKZN, WSU, UFH, DUT, Wits, MUT and UNIZULU 2027 data (953 courses)
+- [x] UJ, TUT, UP, UKZN, WSU, UFH, DUT, Wits, MUT, UNIZULU and VUT 2027 data (1,002 courses)
 - [ ] Clearer, learner-friendly UI that works well on phones
 - [ ] More universities
 - [ ] NSC pass-type check (Bachelor / Diploma / Higher Certificate)

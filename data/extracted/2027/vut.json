@@ -73,7 +73,8 @@
   "faculties": [
     "Faculty of Applied and Computer Sciences",
     "Faculty of Management Sciences",
-    "Faculty of Human Sciences"
+    "Faculty of Human Sciences",
+    "Faculty of Engineering and Technology"
   ],
   "courses": [
     {
@@ -500,6 +501,11 @@
       "item": "Management Sciences names",
       "issue": "Poster prints only the programme field (e.g. 'Marketing'), not 'Diploma in', and no durations",
       "choice": "Treated as diplomas (diploma-pass endorsement printed)"
+    },
+    {
+      "item": "NSC pass type",
+      "issue": "Engineering tables print only 'National Senior Certificate'",
+      "choice": "Diploma pass assumed"
     }
   ]
 }
