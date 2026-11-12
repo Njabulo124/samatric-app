@@ -16,12 +16,12 @@ const GROUP_LABELS = {
 const STATUS_TEXT = {
   qualifies: 'courses you qualify for',
   close: 'courses you are close to',
-  check: 'courses to check with the university',
+  check: 'courses where you meet the minimums (no APS cut-off published)',
   not_eligible: 'courses you don\'t qualify for yet',
 };
 const VIEWS = ['check', 'search', 'improve', 'course'];
 const STATUS_LABEL = {
-  qualifies: 'You qualify', close: 'Almost there', check: 'Check with university', not_eligible: 'Not yet',
+  qualifies: 'You qualify', close: 'Almost there', check: 'Meets minimums', not_eligible: 'Not yet',
 };
 const QUAL_LABEL = {
   bachelor: 'Degree', diploma: 'Diploma', advanced_diploma: 'Advanced diploma',

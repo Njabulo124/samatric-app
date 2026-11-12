@@ -21,7 +21,7 @@ export const CLOSE_LIMITS = { apsPoints: 2, subjectPercent: 5 };
 
 export const STATUS = {
   QUALIFIES: 'qualifies',
-  CHECK: 'check', // meets everything we can check, but the prospectus leaves a gap
+  CHECK: 'check', // meets every published minimum, but no APS cut-off is published (selection by ranking)
   CLOSE: 'close',
   NOT_ELIGIBLE: 'not_eligible',
 };
@@ -82,7 +82,7 @@ export function evaluateCourse(course, marks, aps) {
     // so every learner gets CHECK and the subject requirements decide whether their maths is allowed.
     if (maths === MATHEMATICS || maths === null || noApsAtAll(course)) {
       check = true;
-      reasons.push('The prospectus does not state a minimum APS for this course; confirm with the university.');
+      reasons.push('No minimum APS is published for this course: you meet the subject minimums, and applicants are ranked for selection.');
     } else {
       blocked = true;
       reasons.push(`${maths} is not accepted for this course.`);
