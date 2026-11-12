@@ -1,0 +1,1012 @@
+{
+  "intake_year": 2027,
+  "source_document": "NWU 2027 Grade 12 Prospectus",
+  "university": {
+    "name": "North-West University",
+    "short_name": "NWU",
+    "institution_type": "traditional",
+    "province": "North West",
+    "website_url": "https://www.nwu.ac.za",
+    "application_url": "https://studies.nwu.ac.za/studies/apply",
+    "application_fee": 150
+  },
+  "application_periods": [
+    {
+      "label": "General",
+      "opens_on": "2026-04-01",
+      "closes_on": "2026-08-31",
+      "notes": "All other programmes and residence. Selection programmes closed 30 June 2026."
+    }
+  ],
+  "aps_rule": {
+    "default_scale": {
+      "name": "NWU 8-point (level 1 = 0)",
+      "bands": [
+        {
+          "min_mark": 90,
+          "max_mark": 100,
+          "points": 8
+        },
+        {
+          "min_mark": 80,
+          "max_mark": 89,
+          "points": 7
+        },
+        {
+          "min_mark": 70,
+          "max_mark": 79,
+          "points": 6
+        },
+        {
+          "min_mark": 60,
+          "max_mark": 69,
+          "points": 5
+        },
+        {
+          "min_mark": 50,
+          "max_mark": 59,
+          "points": 4
+        },
+        {
+          "min_mark": 40,
+          "max_mark": 49,
+          "points": 3
+        },
+        {
+          "min_mark": 30,
+          "max_mark": 39,
+          "points": 2
+        },
+        {
+          "min_mark": 0,
+          "max_mark": 29,
+          "points": 0
+        }
+      ]
+    },
+    "subjects_counted": 6,
+    "include_lo": false,
+    "must_count": [],
+    "subject_scales": [],
+    "notes": "Six best subjects in Grade 11 or Grade 12, excluding Life Orientation. Conditional admission may be considered up to 2 points below the requirement."
+  },
+  "faculties": [
+    "Faculty of Health Sciences"
+  ],
+  "courses": [
+    {
+      "name": "Diploma in Coaching Science (Sport Coaching)",
+      "faculty": "Faculty of Health Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 2,
+      "nsc_pass_required": "diploma",
+      "min_aps": 18,
+      "min_aps_maths_lit": 18,
+      "min_aps_tech_maths": 18,
+      "source_ref": "NWU Prospectus 2027 p.14",
+      "notes": "Campuses: Mahikeng, Potchefstroom. School of Human Movement Sciences. No maths requirement. Selection programme.",
+      "closes_on": "2026-06-30",
+      "requirements": [
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Health Sciences in Sport Coaching and Human Movement Sciences",
+      "faculty": "Faculty of Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 24,
+      "min_aps_maths_lit": 24,
+      "min_aps_tech_maths": 24,
+      "source_ref": "NWU Prospectus 2027 p.14",
+      "notes": "Campuses: Mahikeng, Potchefstroom. School of Human Movement Sciences. No maths requirement. Selection programme.",
+      "closes_on": "2026-06-30",
+      "requirements": [
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Health Sciences in Recreation Science and Tourism Management",
+      "faculty": "Faculty of Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 24,
+      "min_aps_maths_lit": 24,
+      "min_aps_tech_maths": 24,
+      "source_ref": "NWU Prospectus 2027 p.14",
+      "notes": "Campuses: Potchefstroom. School of Human Movement Sciences. Shares one row with Sport and Recreation Administration. No maths requirement. Selection programme.",
+      "closes_on": "2026-06-30",
+      "requirements": [
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Health Sciences in Sport and Recreation Administration",
+      "faculty": "Faculty of Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 24,
+      "min_aps_maths_lit": 24,
+      "min_aps_tech_maths": 24,
+      "source_ref": "NWU Prospectus 2027 p.14",
+      "notes": "Campuses: Potchefstroom. School of Human Movement Sciences. Shares one row with Recreation Science and Tourism Management. No maths requirement. Selection programme.",
+      "closes_on": "2026-06-30",
+      "requirements": [
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Health Sciences in Biokinetics",
+      "faculty": "Faculty of Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 32,
+      "min_aps_maths_lit": 32,
+      "min_aps_tech_maths": null,
+      "source_ref": "NWU Prospectus 2027 p.14",
+      "notes": "Campuses: Potchefstroom. School of Human Movement Sciences. Students must be medically fit for the physical component before starting. One APS printed for both Maths and Maths Lit; Technical Maths not mentioned. Selection programme.",
+      "closes_on": "2026-06-30",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences or Life Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Pharmacy",
+      "faculty": "Faculty of Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 32,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NWU Prospectus 2027 p.14",
+      "notes": "Campuses: Potchefstroom. School of Pharmacy. Life Sciences recommended. Late applications considered on merit, depending on capacity. Selection programme.",
+      "closes_on": "2026-06-30",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Health Sciences in Physiology and Biochemistry",
+      "faculty": "Faculty of Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 26,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NWU Prospectus 2027 p.14",
+      "notes": "Campuses: Potchefstroom. School of Physiology, Nutrition and Consumer Sciences. Life Sciences recommended. Selection programme.",
+      "closes_on": "2026-06-30",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Health Sciences in Physiology and Psychology",
+      "faculty": "Faculty of Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 26,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NWU Prospectus 2027 p.14",
+      "notes": "Campuses: Potchefstroom. School of Physiology, Nutrition and Consumer Sciences. Life Sciences recommended. Selection programme.",
+      "closes_on": "2026-06-30",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Consumer Studies",
+      "faculty": "Faculty of Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 24,
+      "min_aps_maths_lit": 24,
+      "min_aps_tech_maths": 24,
+      "source_ref": "NWU Prospectus 2027 p.15",
+      "notes": "Campuses: Potchefstroom. Subject group: Consumer Sciences. No compulsory maths subject, but at least one natural science (Mathematics, Physical Sciences, Agricultural Sciences or Life Sciences) at level 4. Mathematical Literacy at level 6 (70-79%) 'will be considered'. Late applications considered on merit. Selection programme.",
+      "closes_on": "2026-06-30",
+      "requirements": [
+        {
+          "description": "At least one natural science",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Agricultural Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Consumer Studies in Food Product Management",
+      "faculty": "Faculty of Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 24,
+      "min_aps_maths_lit": 24,
+      "min_aps_tech_maths": null,
+      "source_ref": "NWU Prospectus 2027 p.15",
+      "notes": "Campuses: Potchefstroom. Subject group: Consumer Sciences. Mathematics level 4 required; 'an average mark above 70% in Mathematical Literacy will be considered'. Physical Sciences level 4 required only if Chemistry is chosen as an elective. Also needs at least one natural science at level 4 (Mathematics already satisfies this). Late applications considered on merit, depending on capacity. Selection programme.",
+      "closes_on": "2026-06-30",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            }
+          ]
+        },
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Consumer Studies in Fashion Retail Management",
+      "faculty": "Faculty of Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 24,
+      "min_aps_maths_lit": 24,
+      "min_aps_tech_maths": null,
+      "source_ref": "NWU Prospectus 2027 p.15",
+      "notes": "Campuses: Potchefstroom. Subject group: Consumer Sciences. Mathematics level 4 required; 'an average mark above 70% in Mathematical Literacy will be considered'. Also needs at least one natural science at level 4 (Mathematics already satisfies this). Late applications considered on merit, depending on capacity. Selection programme.",
+      "closes_on": "2026-06-30",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            }
+          ]
+        },
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Dietetics",
+      "faculty": "Faculty of Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NWU Prospectus 2027 p.15",
+      "notes": "Campuses: Potchefstroom. Subject group: Dietetics. Selection programme.",
+      "closes_on": "2026-06-30",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Health Sciences in Occupational Hygiene",
+      "faculty": "Faculty of Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 27,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NWU Prospectus 2027 p.15",
+      "notes": "Campuses: Potchefstroom. Subject group: Occupational Hygiene. Late applications considered on merit. Selection programme.",
+      "closes_on": "2026-06-30",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Arts in Psychology and Labour Relations Management",
+      "faculty": "Faculty of Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 26,
+      "min_aps_maths_lit": 26,
+      "min_aps_tech_maths": null,
+      "source_ref": "NWU Prospectus 2027 p.15",
+      "notes": "Campuses: Potchefstroom, Vanderbijlpark. School of Psychosocial Health. Three fields share one row. One APS printed for both Maths and Maths Lit; Technical Maths not mentioned. Selection programme.",
+      "closes_on": "2026-06-30",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Arts in Psychology and Tourism Management",
+      "faculty": "Faculty of Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 26,
+      "min_aps_maths_lit": 26,
+      "min_aps_tech_maths": null,
+      "source_ref": "NWU Prospectus 2027 p.15",
+      "notes": "Campuses: Potchefstroom, Vanderbijlpark. School of Psychosocial Health. Three fields share one row. One APS printed for both Maths and Maths Lit; Technical Maths not mentioned. Selection programme.",
+      "closes_on": "2026-06-30",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Arts in Psychology and Geography and Environmental Management",
+      "faculty": "Faculty of Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 26,
+      "min_aps_maths_lit": 26,
+      "min_aps_tech_maths": null,
+      "source_ref": "NWU Prospectus 2027 p.15",
+      "notes": "Campuses: Potchefstroom, Vanderbijlpark. School of Psychosocial Health. Three fields share one row. One APS printed for both Maths and Maths Lit; Technical Maths not mentioned. Selection programme.",
+      "closes_on": "2026-06-30",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Social Science in Psychology",
+      "faculty": "Faculty of Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 26,
+      "min_aps_maths_lit": 26,
+      "min_aps_tech_maths": 26,
+      "source_ref": "NWU Prospectus 2027 p.15",
+      "notes": "Campuses: Mahikeng. School of Psychosocial Health. No maths requirement. Selection programme.",
+      "closes_on": "2026-06-30",
+      "requirements": [
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Social Work",
+      "faculty": "Faculty of Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 28,
+      "min_aps_maths_lit": 28,
+      "min_aps_tech_maths": 28,
+      "source_ref": "NWU Prospectus 2027 p.15",
+      "notes": "Campuses: Mahikeng, Potchefstroom, Vanderbijlpark. Subject: Social Work. No maths requirement. Late applications considered on merit. Selection programme.",
+      "closes_on": "2026-06-30",
+      "requirements": [
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Nursing",
+      "faculty": "Faculty of Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 25,
+      "min_aps_maths_lit": 25,
+      "min_aps_tech_maths": 25,
+      "source_ref": "NWU Prospectus 2027 p.16",
+      "notes": "Campuses: Mahikeng, Potchefstroom. School of Nursing. No compulsory maths: needs Physical Sciences OR Mathematics OR Life Sciences at level 4. 40 hours of job shadowing recommended. Selection programme.",
+      "closes_on": "2026-06-30",
+      "requirements": [
+        {
+          "description": "Physical Sciences, Mathematics or Life Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ambiguities": [
+    {
+      "item": "APS table",
+      "issue": "Prospectus prints only a worked example, not a points table",
+      "choice": "8-point scale (90-100% = 8), level 1 not counted, as published by NWU elsewhere"
+    },
+    {
+      "item": "Application fee",
+      "issue": "Not in the prospectus",
+      "choice": "R150 administration fee for South African applicants, from NWU's application page"
+    }
+  ]
+}
