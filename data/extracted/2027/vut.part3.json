@@ -1,0 +1,700 @@
+[
+  {
+    "name": "Diploma in Fashion",
+    "faculty": "Faculty of Human Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": 21,
+    "min_aps_maths_lit": 22,
+    "min_aps_tech_maths": 21,
+    "source_ref": "VUT 2027 Undergraduate Minimum Admission Requirements p.2",
+    "notes": "Shares one box with Photography, Graphic Design and Fine Art ('Diploma: Fashion, Photography, Graphic Design & Fine Art'). Also requires a practical interview and portfolio submission. Maths and Tech Maths printed as level 2 (30%). APS excl. LO.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 30
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 30
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Photography",
+    "faculty": "Faculty of Human Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": 21,
+    "min_aps_maths_lit": 22,
+    "min_aps_tech_maths": 21,
+    "source_ref": "VUT 2027 Undergraduate Minimum Admission Requirements p.2",
+    "notes": "Shares one box with Fashion, Graphic Design and Fine Art. Also requires a practical interview and portfolio submission. Maths and Tech Maths printed as level 2 (30%). APS excl. LO.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 30
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 30
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Graphic Design",
+    "faculty": "Faculty of Human Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": 21,
+    "min_aps_maths_lit": 22,
+    "min_aps_tech_maths": 21,
+    "source_ref": "VUT 2027 Undergraduate Minimum Admission Requirements p.2",
+    "notes": "Shares one box with Fashion, Photography and Fine Art. Also requires a practical interview and portfolio submission. Maths and Tech Maths printed as level 2 (30%). APS excl. LO.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 30
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 30
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Fine Art",
+    "faculty": "Faculty of Human Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": 21,
+    "min_aps_maths_lit": 22,
+    "min_aps_tech_maths": 21,
+    "source_ref": "VUT 2027 Undergraduate Minimum Admission Requirements p.2",
+    "notes": "Shares one box with Fashion, Photography and Graphic Design. Also requires a practical interview and portfolio submission. Maths and Tech Maths printed as level 2 (30%). APS excl. LO.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 30
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 30
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Food Service Management",
+    "faculty": "Faculty of Human Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": 20,
+    "min_aps_maths_lit": 21,
+    "min_aps_tech_maths": 20,
+    "source_ref": "VUT 2027 Undergraduate Minimum Admission Requirements p.2",
+    "notes": "The 'other 1 subject' list is printed as 'Hospitality, Hotel, Tourism, Catering, Accounting, Business Studies & Consumer Studies'. 'Hospitality' is mapped to Hospitality Studies; Age exemption: applicants aged 23+ with Grade 12 who don't meet the requirements must prove permanent employment in a related industry. Chef uniforms are compulsory (specifications from the department). APS excl. LO.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Hospitality Studies, Tourism, Accounting, Business Studies or Consumer Studies",
+        "options": [
+          {
+            "subject": "Hospitality Studies",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tourism",
+            "min_percent": 50
+          },
+          {
+            "subject": "Accounting",
+            "min_percent": 50
+          },
+          {
+            "subject": "Business Studies",
+            "min_percent": 50
+          },
+          {
+            "subject": "Consumer Studies",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Tourism Management",
+    "faculty": "Faculty of Human Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": 20,
+    "min_aps_maths_lit": 21,
+    "min_aps_tech_maths": 20,
+    "source_ref": "VUT 2027 Undergraduate Minimum Admission Requirements p.2",
+    "notes": "APS excl. LO.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Tourism, Geography, Business Studies or History",
+        "options": [
+          {
+            "subject": "Tourism",
+            "min_percent": 50
+          },
+          {
+            "subject": "Geography",
+            "min_percent": 50
+          },
+          {
+            "subject": "Business Studies",
+            "min_percent": 50
+          },
+          {
+            "subject": "History",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Public Relations Management",
+    "faculty": "Faculty of Human Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": 20,
+    "min_aps_maths_lit": 21,
+    "min_aps_tech_maths": 20,
+    "source_ref": "VUT 2027 Undergraduate Minimum Admission Requirements p.2",
+    "notes": "Also requires 'Other Language' at level 4 (50%); no specific language is named. APS excl. LO.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Ecotourism Management",
+    "faculty": "Faculty of Human Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": 20,
+    "min_aps_maths_lit": 21,
+    "min_aps_tech_maths": 20,
+    "source_ref": "VUT 2027 Undergraduate Minimum Admission Requirements p.2",
+    "notes": "Printed as 'Biology / Life Science'. APS excl. LO.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Legal Assistance",
+    "faculty": "Faculty of Human Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": 23,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 23,
+    "source_ref": "VUT 2027 Undergraduate Minimum Admission Requirements p.2",
+    "notes": "Shares one box with Labour Law. Also requires 'Other Language' at level 3 (40%); no specific language is named. APS excl. LO.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Labour Law",
+    "faculty": "Faculty of Human Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": 23,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 23,
+    "source_ref": "VUT 2027 Undergraduate Minimum Admission Requirements p.2",
+    "notes": "Shares one box with Legal Assistance. Also requires 'Other Language' at level 3 (40%); no specific language is named. APS excl. LO.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Safety Management",
+    "faculty": "Faculty of Human Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": 21,
+    "min_aps_maths_lit": 22,
+    "min_aps_tech_maths": 21,
+    "source_ref": "VUT 2027 Undergraduate Minimum Admission Requirements p.2",
+    "notes": "APS excl. LO.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Policing",
+    "faculty": "Faculty of Human Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": 20,
+    "min_aps_maths_lit": 21,
+    "min_aps_tech_maths": 20,
+    "source_ref": "VUT 2027 Undergraduate Minimum Admission Requirements p.2",
+    "notes": "Also requires 'Other Language' at level 3 (40%); no specific language is named. APS excl. LO.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and FET Teaching",
+    "faculty": "Faculty of Human Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 22,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 22,
+    "source_ref": "VUT 2027 Undergraduate Minimum Admission Requirements p.2",
+    "notes": "Printed as 'B Ed (Senior Phase & FET Teaching)'. Language requirement printed as 'Language of Teaching & Learning' level 4; taken as English. APS excl. LO.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Technical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Communication Studies",
+    "faculty": "Faculty of Human Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 20,
+    "min_aps_maths_lit": 21,
+    "min_aps_tech_maths": 20,
+    "source_ref": "VUT 2027 Undergraduate Minimum Admission Requirements p.2",
+    "notes": "Also requires 'Additional Language' at level 4 (50%); no specific language is named. APS excl. LO.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  }
+]
