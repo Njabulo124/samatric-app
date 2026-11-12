@@ -29,7 +29,8 @@
     "notes": "Best six subjects excluding Life Orientation, NSC 7-point scale."
   },
   "faculties": [
-    "Faculty of Commerce, Administration and Law"
+    "Faculty of Commerce, Administration and Law",
+    "Faculty of Arts"
   ],
   "courses": [
     {
@@ -1138,6 +1139,11 @@
       "item": "Closing date",
       "issue": "Some websites give 30 September 2026; the CAO Handbook gives 31 October 2026 for on-time applications",
       "choice": "CAO Handbook date used"
+    },
+    {
+      "item": "Bachelor of Social Work",
+      "issue": "Faculty not listed in the CAO Handbook or the 2021 Arts list",
+      "choice": "Placed under Faculty of Arts"
     }
   ]
 }

@@ -1,0 +1,710 @@
+[
+  {
+    "name": "Bachelor of Arts (Anthropology and History)",
+    "faculty": "Faculty of Arts",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "CAO Handbook 2027 p.109",
+    "notes": "CAO code ZU-M-BNH. Campus: KwaDlangezwa (Main). Minimum 26 points. No Mathematics requirement. Also requires five 20-credit subjects (no language restriction). Preference to applicants who selected this programme as 1st choice. USAf Mature Age Exemption accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts (Geography and History)",
+    "faculty": "Faculty of Arts",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "CAO Handbook 2027 p.109",
+    "notes": "CAO code ZU-M-BGE. Campus: KwaDlangezwa (Main). Minimum 26 points. No Mathematics requirement. Also requires five 20-credit subjects (no language restriction). Preference to applicants who selected this programme as 1st choice. USAf Mature Age Exemption accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts (Geography and Tourism)",
+    "faculty": "Faculty of Arts",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "CAO Handbook 2027 p.109",
+    "notes": "CAO code ZU-M-BGT. Campus: KwaDlangezwa (Main). Minimum 26 points. No Mathematics requirement. Also requires five 20-credit subjects (no language restriction). Preference to applicants who selected this programme as 1st choice. USAf Mature Age Exemption accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts (History and IsiZulu)",
+    "faculty": "Faculty of Arts",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "CAO Handbook 2027 p.109",
+    "notes": "CAO code ZU-M-BHI. Campus: KwaDlangezwa (Main). Minimum 26 points. No Mathematics requirement. Also requires five 20-credit subjects (no language restriction). Preference to applicants who selected this programme as 1st choice. USAf Mature Age Exemption accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts (Linguistics and English)",
+    "faculty": "Faculty of Arts",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "CAO Handbook 2027 p.109",
+    "notes": "CAO code ZU-M-BLE. Campus: KwaDlangezwa (Main). Minimum 26 points. No Mathematics requirement. Also requires five 20-credit subjects (no language restriction). Preference to applicants who selected this programme as 1st choice. USAf Mature Age Exemption accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts (Philosophy and Psychology)",
+    "faculty": "Faculty of Arts",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "CAO Handbook 2027 p.109",
+    "notes": "CAO code ZU-M-BPY. Campus: KwaDlangezwa (Main). Minimum 26 points. No Mathematics requirement. Also requires five 20-credit subjects (no language restriction). Preference to applicants who selected this programme as 1st choice. USAf Mature Age Exemption accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Psychology",
+    "faculty": "Faculty of Arts",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "CAO Handbook 2027 p.109",
+    "notes": "CAO code ZU-M-PSY. Campus: KwaDlangezwa (Main). Minimum 28 points. No Mathematics requirement. Also requires four 20-credit subjects (no language restriction). Preference to applicants who selected this programme as 1st choice. Selected candidates are interviewed for suitability. USAf Mature Age Exemption accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Geography or History",
+        "options": [
+          {
+            "subject": "Geography",
+            "min_percent": 50
+          },
+          {
+            "subject": "History",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Correctional Studies",
+    "faculty": "Faculty of Arts",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "CAO Handbook 2027 p.78",
+    "notes": "CAO code ZU-M-ARM. Campus: KwaDlangezwa (Main). Minimum 28 points. No Mathematics requirement. Also requires five 20-credit subjects (no language restriction). Preference to applicants who selected this programme as 1st choice. USAf Mature Age Exemption accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Development Studies",
+    "faculty": "Faculty of Arts",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "CAO Handbook 2027 p.180",
+    "notes": "CAO code ZU-M-ABS. Campus: KwaDlangezwa (Main). Minimum 26 points. No Mathematics requirement. Also requires five 20-credit subjects (no language restriction). Preference to applicants who selected this programme as 1st choice. USAf Mature Age Exemption accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Environmental Planning and Development",
+    "faculty": "Faculty of Arts",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "CAO Handbook 2027 p.67",
+    "notes": "CAO code ZU-M-ARO. Campus: KwaDlangezwa (Main). Minimum 28 points. No Mathematics requirement. Also requires four 20-credit subjects (no language restriction). Preference to applicants who selected this programme as 1st choice. USAf Mature Age Exemption accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Geography",
+        "options": [
+          {
+            "subject": "Geography",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Industrial Sociology",
+    "faculty": "Faculty of Arts",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "CAO Handbook 2027 p.104",
+    "notes": "CAO code ZU-M-ARI. Campus: KwaDlangezwa (Main). Minimum 26 points. No Mathematics requirement. Also requires five 20-credit subjects (no language restriction). Preference to applicants who selected this programme as 1st choice. USAf Mature Age Exemption accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Information Science",
+    "faculty": "Faculty of Arts",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "CAO Handbook 2027 p.180",
+    "notes": "CAO code ZU-M-ARK. Campus: KwaDlangezwa (Main). Minimum 26 points. No Mathematics requirement. Also requires five 20-credit subjects (no language restriction). Preference to applicants who selected this programme as 1st choice. USAf Mature Age Exemption accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Intercultural Communication",
+    "faculty": "Faculty of Arts",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "CAO Handbook 2027 p.72",
+    "notes": "CAO code ZU-M-BIC. Campus: KwaDlangezwa (Main). Minimum 26 points. No Mathematics requirement. Also requires five 20-credit subjects (no language restriction). Preference to applicants who selected this programme as 1st choice. USAf Mature Age Exemption accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Sociology",
+    "faculty": "Faculty of Arts",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "CAO Handbook 2027 p.183",
+    "notes": "CAO code ZU-M-ARD. Campus: KwaDlangezwa (Main). Minimum 26 points. No Mathematics requirement. Also requires five 20-credit subjects (no language restriction). Preference to applicants who selected this programme as 1st choice. USAf Mature Age Exemption accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Drama, Theatre and Performance",
+    "faculty": "Faculty of Arts",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "CAO Handbook 2027 p.158",
+    "notes": "CAO code ZU-M-BTP. Campus: KwaDlangezwa (Main). Minimum 26 points. No Mathematics requirement. Also requires four 20-credit subjects (no language restriction). Preference to applicants who selected this programme as 1st choice. Applicants with at least 50% in Dramatic Arts (and related subjects) are first priority. Selection by audition across music, drama, dance and visual art, then an interview for suitability. USAf Mature Age Exemption accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Dramatic Arts or Visual Arts",
+        "options": [
+          {
+            "subject": "Dramatic Arts",
+            "min_percent": 50
+          },
+          {
+            "subject": "Visual Arts",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Library and Information Science",
+    "faculty": "Faculty of Arts",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "CAO Handbook 2027 p.180",
+    "notes": "CAO code ZU-M-BLI. Campus: KwaDlangezwa (Main). Minimum 26 points. No Mathematics requirement. Also requires five 20-credit subjects (no language restriction). Preference to applicants who selected this programme as 1st choice. USAf Mature Age Exemption accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Social Sciences in Political and International Studies",
+    "faculty": "Faculty of Arts",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "CAO Handbook 2027 p.184",
+    "notes": "CAO code ZU-M-PIS. Campus: KwaDlangezwa (Main). Minimum 26 points. No Mathematics requirement; printed as 'Economics/Math Literacy 4'; Mathematics at the same level is also accepted here. Also requires two 20-credit subjects (no language restriction). Preference to applicants who selected this programme as 1st choice. USAf Mature Age Exemption accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Geography",
+        "options": [
+          {
+            "subject": "Geography",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "History",
+        "options": [
+          {
+            "subject": "History",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Economics, Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Economics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Social Work",
+    "faculty": "Faculty of Arts",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "CAO Handbook 2027 p.181",
+    "notes": "CAO code ZU-M-BSX. Campus: KwaDlangezwa (Main). Minimum 28 points. No Mathematics requirement. Also requires five 20-credit subjects (no language restriction). Preference to applicants who selected this programme as 1st choice. Applicants attend selection interviews; recognition of prior learning available. National Child Protection Register (Part B) and police clearance required before registering as a student social worker.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Tourism Studies",
+    "faculty": "Faculty of Arts",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "CAO Handbook 2027 p.189",
+    "notes": "CAO code ZU-M-BTS. Campus: KwaDlangezwa (Main). Minimum 26 points. No Mathematics requirement. Also requires four 20-credit subjects (no language restriction). Preference to applicants who selected this programme as 1st choice. USAf Mature Age Exemption accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Tourism or Geography",
+        "options": [
+          {
+            "subject": "Tourism",
+            "min_percent": 50
+          },
+          {
+            "subject": "Geography",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Media Studies",
+    "faculty": "Faculty of Arts",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "CAO Handbook 2027 p.72",
+    "notes": "CAO code ZU-R-MD4. Campus: Richards Bay. Minimum 24 points. No Mathematics requirement. Also requires five 20-credit subjects (no language restriction). Preference to applicants who selected this programme as 1st choice. USAf Mature Age Exemption accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Public Relations Management",
+    "faculty": "Faculty of Arts",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "CAO Handbook 2027 p.161",
+    "notes": "CAO code ZU-R-PR5. Campus: Richards Bay. Minimum 24 points. No Mathematics requirement. Also requires five 20-credit subjects (no language restriction). Preference to applicants who selected this programme as 1st choice. USAf Mature Age Exemption accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Tourism Management",
+    "faculty": "Faculty of Arts",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "CAO Handbook 2027 p.191",
+    "notes": "CAO code ZU-R-TM1. Campus: Richards Bay. Minimum 24 points. Also requires any four other subjects 'from the listed combination: Maths 4/Maths Lit 5, and/or Acc and/or Economics at min level of 4' (wording unclear, so not modelled as a requirement group); Mathematics is not strictly required. Preference to applicants who selected this programme as 1st choice. USAf Mature Age Exemption accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Tourism",
+        "options": [
+          {
+            "subject": "Tourism",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  }
+]
