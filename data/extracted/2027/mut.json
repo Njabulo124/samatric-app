@@ -1,6 +1,6 @@
 {
   "intake_year": 2027,
-  "source_document": "MUT Undergraduate Prospectus",
+  "source_document": "CAO Handbook 2027 (MUT section)",
   "university": {
     "name": "Mangosuthu University of Technology",
     "short_name": "MUT",
@@ -81,8 +81,8 @@
       "min_aps": null,
       "min_aps_maths_lit": null,
       "min_aps_tech_maths": null,
-      "source_ref": "MUT Undergraduate Prospectus p.18-19, 21",
-      "notes": "CAO code MN-M-CE3. No minimum APS printed; check the CAO handbook. Departmental screening. Campus: Umlazi. Mathematical Literacy and Technical Mathematics not listed.",
+      "source_ref": "CAO Handbook 2027 p.92",
+      "notes": "CAO code MN-M-DCE. No minimum APS printed. Technical Mathematics and Technical Sciences accepted (Level 4); no APS printed for them. Mathematical Literacy not accepted. Campus: Umlazi (Main).",
       "requirements": [
         {
           "description": "English",
@@ -98,19 +98,27 @@
           ]
         },
         {
-          "description": "Mathematics",
+          "description": "Mathematics or Technical Mathematics",
           "options": [
             {
               "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Mathematics",
               "min_percent": 50
             }
           ]
         },
         {
-          "description": "Physical Sciences",
+          "description": "Physical Sciences or Technical Sciences",
           "options": [
             {
               "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Sciences",
               "min_percent": 50
             }
           ]
@@ -127,8 +135,8 @@
       "min_aps": null,
       "min_aps_maths_lit": null,
       "min_aps_tech_maths": null,
-      "source_ref": "MUT Undergraduate Prospectus p.18-19, 21",
-      "notes": "CAO code MN-M-CV3. No minimum APS printed; check the CAO handbook. Departmental screening. Campus: Umlazi. Mathematical Literacy and Technical Mathematics not listed.",
+      "source_ref": "CAO Handbook 2027 p.92",
+      "notes": "CAO code MN-M-DCV. No minimum APS printed. Technical Mathematics and Technical Sciences accepted (Level 4); no APS printed for them. Mathematical Literacy not accepted. Campus: Umlazi (Main).",
       "requirements": [
         {
           "description": "English",
@@ -144,19 +152,27 @@
           ]
         },
         {
-          "description": "Mathematics",
+          "description": "Mathematics or Technical Mathematics",
           "options": [
             {
               "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Mathematics",
               "min_percent": 50
             }
           ]
         },
         {
-          "description": "Physical Sciences",
+          "description": "Physical Sciences or Technical Sciences",
           "options": [
             {
               "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Sciences",
               "min_percent": 50
             }
           ]
@@ -164,17 +180,17 @@
       ]
     },
     {
-      "name": "Diploma in Surveying",
+      "name": "Diploma in Civil Engineering (Extended Curriculum Programme)",
       "faculty": "Faculty of Engineering",
       "qualification_type": "diploma",
-      "is_extended": false,
-      "duration_years": 3,
+      "is_extended": true,
+      "duration_years": 4,
       "nsc_pass_required": "diploma",
       "min_aps": null,
       "min_aps_maths_lit": null,
       "min_aps_tech_maths": null,
-      "source_ref": "MUT Undergraduate Prospectus p.18-19, 21",
-      "notes": "CAO code MN-M-SV3. No minimum APS printed; check the CAO handbook. Departmental screening. Campus: Umlazi. Mathematical Literacy and Technical Mathematics not listed.",
+      "source_ref": "CAO Handbook 2027 p.92",
+      "notes": "CAO code MN-M-DC5. No minimum APS printed. Technical Mathematics and Technical Sciences accepted (Level 4); no APS printed for them. Mathematical Literacy not accepted. Contact MUT for the selection test. Campus: Umlazi (Main).",
       "requirements": [
         {
           "description": "English",
@@ -190,65 +206,27 @@
           ]
         },
         {
-          "description": "Mathematics",
+          "description": "Mathematics or Technical Mathematics",
           "options": [
             {
               "subject": "Mathematics",
-              "min_percent": 50
-            }
-          ]
-        },
-        {
-          "description": "Physical Sciences",
-          "options": [
-            {
-              "subject": "Physical Sciences",
-              "min_percent": 50
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Diploma in Building",
-      "faculty": "Faculty of Engineering",
-      "qualification_type": "diploma",
-      "is_extended": false,
-      "duration_years": 3,
-      "nsc_pass_required": "diploma",
-      "min_aps": null,
-      "min_aps_maths_lit": null,
-      "min_aps_tech_maths": null,
-      "source_ref": "MUT Undergraduate Prospectus p.18-19, 21",
-      "notes": "CAO code MN-M-BU3. Described as Construction Management & Quantity Surveying (Building); students later specialise in construction management or quantity surveying. No minimum APS printed; check the CAO handbook. Departmental screening. Campus: Umlazi. Mathematical Literacy and Technical Mathematics not listed.",
-      "requirements": [
-        {
-          "description": "English",
-          "options": [
-            {
-              "subject": "English Home Language",
               "min_percent": 50
             },
             {
-              "subject": "English First Additional Language",
+              "subject": "Technical Mathematics",
               "min_percent": 50
             }
           ]
         },
         {
-          "description": "Mathematics",
-          "options": [
-            {
-              "subject": "Mathematics",
-              "min_percent": 50
-            }
-          ]
-        },
-        {
-          "description": "Physical Sciences",
+          "description": "Physical Sciences or Technical Sciences",
           "options": [
             {
               "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Sciences",
               "min_percent": 50
             }
           ]
@@ -265,8 +243,8 @@
       "min_aps": null,
       "min_aps_maths_lit": null,
       "min_aps_tech_maths": null,
-      "source_ref": "MUT Undergraduate Prospectus p.18-19, 21",
-      "notes": "CAO code MN-M-EE5. No minimum APS printed; check the CAO handbook. Departmental screening. Campus: Umlazi. Mathematical Literacy and Technical Mathematics not listed.",
+      "source_ref": "CAO Handbook 2027 p.93",
+      "notes": "CAO code MN-M-DEE. No minimum APS printed. Technical Mathematics and Technical Sciences accepted (Level 4); no APS printed for them. Mathematical Literacy not accepted. Campus: Umlazi (Main).",
       "requirements": [
         {
           "description": "English",
@@ -282,19 +260,297 @@
           ]
         },
         {
-          "description": "Mathematics",
+          "description": "Mathematics or Technical Mathematics",
           "options": [
             {
               "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Mathematics",
               "min_percent": 50
             }
           ]
         },
         {
-          "description": "Physical Sciences",
+          "description": "Physical Sciences or Technical Sciences",
           "options": [
             {
               "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Electrical Engineering (Extended Curriculum Programme)",
+      "faculty": "Faculty of Engineering",
+      "qualification_type": "diploma",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "diploma",
+      "min_aps": null,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.93",
+      "notes": "CAO code MN-M-DE5. No minimum APS printed. Technical Mathematics and Technical Sciences accepted (Level 4); no APS printed for them. Mathematical Literacy not accepted. Campus: Umlazi (Main).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences or Technical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Building",
+      "faculty": "Faculty of Engineering",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": null,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.75",
+      "notes": "CAO code MN-M-DBU. No minimum APS printed. Technical Mathematics and Technical Sciences accepted (Level 4); no APS printed for them. Mathematical Literacy not accepted. Students later specialise in construction management or quantity surveying. Campus: Umlazi (Main).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences or Technical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Building (Extended Curriculum Programme)",
+      "faculty": "Faculty of Engineering",
+      "qualification_type": "diploma",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "diploma",
+      "min_aps": null,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.75",
+      "notes": "CAO code MN-M-BU7. No minimum APS printed. Technical Mathematics and Technical Sciences accepted (Level 4); no APS printed for them. Mathematical Literacy not accepted. Campus: Umlazi (Main).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences or Technical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Surveying",
+      "faculty": "Faculty of Engineering",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": null,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.76",
+      "notes": "CAO code MN-M-DSV. No minimum APS printed. Technical Mathematics and Technical Sciences accepted (Level 4); no APS printed for them. Mathematical Literacy not accepted. Campus: Umlazi (Main).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences or Technical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Surveying (Extended Curriculum Programme)",
+      "faculty": "Faculty of Engineering",
+      "qualification_type": "diploma",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "diploma",
+      "min_aps": null,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.77",
+      "notes": "CAO code MN-M-DS5. No minimum APS printed. Technical Mathematics and Technical Sciences accepted (Level 4); no APS printed for them. Mathematical Literacy not accepted. Campus: Umlazi (Main).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences or Technical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Sciences",
               "min_percent": 50
             }
           ]
@@ -311,8 +567,8 @@
       "min_aps": null,
       "min_aps_maths_lit": null,
       "min_aps_tech_maths": null,
-      "source_ref": "MUT Undergraduate Prospectus p.18-19, 21",
-      "notes": "CAO code MN-M-ME3. No minimum APS printed; check the CAO handbook. Departmental screening. Campus: Umlazi. Mathematical Literacy and Technical Mathematics not listed.",
+      "source_ref": "CAO Handbook 2027 p.94",
+      "notes": "CAO code MN-M-DME. No minimum APS printed. Technical Mathematics and Technical Sciences accepted (Level 4); no APS printed for them. Mathematical Literacy not accepted. Mechanical Technology 4 recommended. Campus: Umlazi (Main).",
       "requirements": [
         {
           "description": "English",
@@ -328,19 +584,27 @@
           ]
         },
         {
-          "description": "Mathematics",
+          "description": "Mathematics or Technical Mathematics",
           "options": [
             {
               "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Mathematics",
               "min_percent": 50
             }
           ]
         },
         {
-          "description": "Physical Sciences",
+          "description": "Physical Sciences or Technical Sciences",
           "options": [
             {
               "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Sciences",
               "min_percent": 50
             }
           ]
@@ -357,17 +621,17 @@
       ]
     },
     {
-      "name": "Bridging Programme in Chemical Engineering",
+      "name": "Diploma in Mechanical Engineering (Extended Curriculum Programme)",
       "faculty": "Faculty of Engineering",
-      "qualification_type": "other",
-      "is_extended": false,
-      "duration_years": 0.5,
+      "qualification_type": "diploma",
+      "is_extended": true,
+      "duration_years": 4,
       "nsc_pass_required": "diploma",
       "min_aps": null,
       "min_aps_maths_lit": null,
       "min_aps_tech_maths": null,
-      "source_ref": "MUT Undergraduate Prospectus p.20",
-      "notes": "CAO code MN-M-CEB. 6-month bridging programme for applicants who could not meet all the Diploma in Chemical Engineering entrance requirements. Access courses ask for Level 3 (40%) in six subjects. No minimum APS printed; check the CAO handbook. Departmental screening. Campus: Umlazi. Mathematical Literacy and Technical Mathematics not listed.",
+      "source_ref": "CAO Handbook 2027 p.94",
+      "notes": "CAO code MN-M-DM5. No minimum APS printed. Technical Mathematics and Technical Sciences accepted (Level 4); no APS printed for them. Mathematical Literacy not accepted. Mechanical Technology 4 recommended. Campus: Umlazi (Main).",
       "requirements": [
         {
           "description": "English",
@@ -378,24 +642,95 @@
             },
             {
               "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences or Technical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Engineering Graphics and Design",
+          "options": [
+            {
+              "subject": "Engineering Graphics and Design",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Access Course in Chemical Engineering",
+      "faculty": "Faculty of Engineering",
+      "qualification_type": "other",
+      "is_extended": false,
+      "duration_years": 0.5,
+      "nsc_pass_required": "diploma",
+      "min_aps": null,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.95",
+      "notes": "CAO code MN-M-CEB. Access course for applicants who do not meet the full diploma requirements; it may not be repeated. No minimum APS printed. Technical Mathematics and Technical Sciences accepted; Mathematical Literacy not accepted. Campus: Umlazi (Main).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
               "min_percent": 40
             }
           ]
         },
         {
-          "description": "Mathematics",
+          "description": "Mathematics or Technical Mathematics",
           "options": [
             {
               "subject": "Mathematics",
               "min_percent": 40
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 40
             }
           ]
         },
         {
-          "description": "Physical Sciences",
+          "description": "Physical Sciences or Technical Sciences",
           "options": [
             {
               "subject": "Physical Sciences",
+              "min_percent": 40
+            },
+            {
+              "subject": "Technical Sciences",
               "min_percent": 40
             }
           ]
@@ -403,7 +738,7 @@
       ]
     },
     {
-      "name": "Bridging Programme in Civil Engineering",
+      "name": "Access Course in Civil Engineering",
       "faculty": "Faculty of Engineering",
       "qualification_type": "other",
       "is_extended": false,
@@ -412,15 +747,15 @@
       "min_aps": null,
       "min_aps_maths_lit": null,
       "min_aps_tech_maths": null,
-      "source_ref": "MUT Undergraduate Prospectus p.20",
-      "notes": "CAO code MN-M-CVB. 6-month bridging programme for applicants who could not meet all the Diploma in Civil Engineering entrance requirements. Access courses ask for Level 3 (40%) in six subjects. No minimum APS printed; check the CAO handbook. Departmental screening. Campus: Umlazi. Mathematical Literacy and Technical Mathematics not listed.",
+      "source_ref": "CAO Handbook 2027 p.95",
+      "notes": "CAO code MN-M-CVB. Access course for applicants who do not meet the full diploma requirements; it may not be repeated. No minimum APS printed. Technical Mathematics and Technical Sciences accepted; Mathematical Literacy not accepted. Campus: Umlazi (Main).",
       "requirements": [
         {
           "description": "English",
           "options": [
             {
               "subject": "English Home Language",
-              "min_percent": 50
+              "min_percent": 40
             },
             {
               "subject": "English First Additional Language",
@@ -429,19 +764,27 @@
           ]
         },
         {
-          "description": "Mathematics",
+          "description": "Mathematics or Technical Mathematics",
           "options": [
             {
               "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Technical Mathematics",
               "min_percent": 40
             }
           ]
         },
         {
-          "description": "Physical Sciences",
+          "description": "Physical Sciences or Technical Sciences",
           "options": [
             {
               "subject": "Physical Sciences",
+              "min_percent": 40
+            },
+            {
+              "subject": "Technical Sciences",
               "min_percent": 40
             }
           ]
@@ -449,7 +792,7 @@
       ]
     },
     {
-      "name": "Bridging Programme in Electrical Engineering",
+      "name": "Access Course in Electrical Engineering",
       "faculty": "Faculty of Engineering",
       "qualification_type": "other",
       "is_extended": false,
@@ -458,8 +801,8 @@
       "min_aps": null,
       "min_aps_maths_lit": null,
       "min_aps_tech_maths": null,
-      "source_ref": "MUT Undergraduate Prospectus p.20",
-      "notes": "CAO code MN-M-EEB. 6-month bridging programme for applicants who could not meet all the Diploma in Electrical Engineering entrance requirements. Access courses ask for Level 3 (40%) in six subjects. No minimum APS printed; check the CAO handbook. Departmental screening. Campus: Umlazi. Mathematical Literacy and Technical Mathematics not listed.",
+      "source_ref": "CAO Handbook 2027 p.95",
+      "notes": "CAO code MN-M-EEB. Access course for applicants who do not meet the full diploma requirements; it may not be repeated. No minimum APS printed. Technical Mathematics and Technical Sciences accepted; Mathematical Literacy not accepted. English printed as 'Home Lang 4 and FAL 3'. Campus: Umlazi (Main).",
       "requirements": [
         {
           "description": "English",
@@ -475,19 +818,27 @@
           ]
         },
         {
-          "description": "Mathematics",
+          "description": "Mathematics or Technical Mathematics",
           "options": [
             {
               "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Technical Mathematics",
               "min_percent": 40
             }
           ]
         },
         {
-          "description": "Physical Sciences",
+          "description": "Physical Sciences or Technical Sciences",
           "options": [
             {
               "subject": "Physical Sciences",
+              "min_percent": 40
+            },
+            {
+              "subject": "Technical Sciences",
               "min_percent": 40
             }
           ]
@@ -495,7 +846,7 @@
       ]
     },
     {
-      "name": "Bridging Programme in Mechanical Engineering",
+      "name": "Access Course in Mechanical Engineering",
       "faculty": "Faculty of Engineering",
       "qualification_type": "other",
       "is_extended": false,
@@ -504,8 +855,8 @@
       "min_aps": null,
       "min_aps_maths_lit": null,
       "min_aps_tech_maths": null,
-      "source_ref": "MUT Undergraduate Prospectus p.20",
-      "notes": "CAO code MN-M-MEB. 6-month bridging programme for applicants who could not meet all the Diploma in Mechanical Engineering entrance requirements. Access courses ask for Level 3 (40%) in six subjects. No minimum APS printed; check the CAO handbook. Departmental screening. Campus: Umlazi. Mathematical Literacy and Technical Mathematics not listed.",
+      "source_ref": "CAO Handbook 2027 p.96",
+      "notes": "CAO code MN-M-MEB. Access course for applicants who do not meet the full diploma requirements; it may not be repeated. No minimum APS printed. Technical Mathematics and Technical Sciences accepted; Mathematical Literacy not accepted. English printed as 'Home Lang 4 and FAL 3'. Campus: Umlazi (Main).",
       "requirements": [
         {
           "description": "English",
@@ -521,19 +872,27 @@
           ]
         },
         {
-          "description": "Mathematics",
+          "description": "Mathematics or Technical Mathematics",
           "options": [
             {
               "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Technical Mathematics",
               "min_percent": 40
             }
           ]
         },
         {
-          "description": "Physical Sciences",
+          "description": "Physical Sciences or Technical Sciences",
           "options": [
             {
               "subject": "Physical Sciences",
+              "min_percent": 40
+            },
+            {
+              "subject": "Technical Sciences",
               "min_percent": 40
             }
           ]
@@ -541,24 +900,24 @@
       ]
     },
     {
-      "name": "Bridging Programme in Building",
+      "name": "Access Course in Building",
       "faculty": "Faculty of Engineering",
       "qualification_type": "other",
       "is_extended": false,
-      "duration_years": 0.5,
+      "duration_years": 1,
       "nsc_pass_required": "diploma",
       "min_aps": null,
       "min_aps_maths_lit": null,
       "min_aps_tech_maths": null,
-      "source_ref": "MUT Undergraduate Prospectus p.20",
-      "notes": "CAO code MN-M-BUB. 6-month bridging programme for applicants who could not meet all the Diploma in Building entrance requirements. Access courses ask for Level 3 (40%) in six subjects. No minimum APS printed; check the CAO handbook. Departmental screening. Campus: Umlazi. Mathematical Literacy and Technical Mathematics not listed.",
+      "source_ref": "CAO Handbook 2027 p.77",
+      "notes": "CAO code MN-M-BUB. Access course for applicants who do not meet the full diploma requirements; it may not be repeated. No minimum APS printed. Technical Mathematics and Technical Sciences accepted; Mathematical Literacy not accepted. Campus: Umlazi (Main).",
       "requirements": [
         {
           "description": "English",
           "options": [
             {
               "subject": "English Home Language",
-              "min_percent": 50
+              "min_percent": 40
             },
             {
               "subject": "English First Additional Language",
@@ -567,19 +926,27 @@
           ]
         },
         {
-          "description": "Mathematics",
+          "description": "Mathematics or Technical Mathematics",
           "options": [
             {
               "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Technical Mathematics",
               "min_percent": 40
             }
           ]
         },
         {
-          "description": "Physical Sciences",
+          "description": "Physical Sciences or Technical Sciences",
           "options": [
             {
               "subject": "Physical Sciences",
+              "min_percent": 40
+            },
+            {
+              "subject": "Technical Sciences",
               "min_percent": 40
             }
           ]
@@ -587,7 +954,7 @@
       ]
     },
     {
-      "name": "Bridging Programme in Surveying",
+      "name": "Access Course in Surveying",
       "faculty": "Faculty of Engineering",
       "qualification_type": "other",
       "is_extended": false,
@@ -596,8 +963,62 @@
       "min_aps": null,
       "min_aps_maths_lit": null,
       "min_aps_tech_maths": null,
-      "source_ref": "MUT Undergraduate Prospectus p.20",
-      "notes": "CAO code MN-M-SVB. 6-month bridging programme for applicants who could not meet all the Diploma in Surveying entrance requirements. Access courses ask for Level 3 (40%) in six subjects. No minimum APS printed; check the CAO handbook. Departmental screening. Campus: Umlazi. Mathematical Literacy and Technical Mathematics not listed.",
+      "source_ref": "CAO Handbook 2027 p.77",
+      "notes": "CAO code MN-M-SVB. Access course for applicants who do not meet the full diploma requirements; it may not be repeated. No minimum APS printed. Technical Mathematics and Technical Sciences accepted; Mathematical Literacy not accepted. Campus: Umlazi (Main).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences or Technical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 40
+            },
+            {
+              "subject": "Technical Sciences",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Accounting",
+      "faculty": "Faculty of Management Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 25,
+      "min_aps_maths_lit": 25,
+      "min_aps_tech_maths": 25,
+      "source_ref": "CAO Handbook 2027 p.47",
+      "notes": "CAO code MN-M-DAT. Minimum 25 points. Mathematical Literacy (Level 5) and Technical Mathematics (Level 3) accepted; same APS. Also requires any 3 other subjects at Level 3 (excluding LO). RPL available. Campus: Umlazi (Main).",
       "requirements": [
         {
           "description": "English",
@@ -608,16 +1029,1000 @@
             },
             {
               "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Accounting",
+          "options": [
+            {
+              "subject": "Accounting",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Accounting (Extended Curriculum Programme)",
+      "faculty": "Faculty of Management Sciences",
+      "qualification_type": "diploma",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "diploma",
+      "min_aps": 25,
+      "min_aps_maths_lit": 25,
+      "min_aps_tech_maths": 25,
+      "source_ref": "CAO Handbook 2027 p.48",
+      "notes": "CAO code MN-M-DA5. Minimum 25 points. Mathematical Literacy (Level 5) and Technical Mathematics (Level 3) accepted; same APS. Also requires any 3 other subjects at Level 3 (excluding LO). RPL available. Campus: Umlazi (Main).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Accounting",
+          "options": [
+            {
+              "subject": "Accounting",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Cost and Management Accounting",
+      "faculty": "Faculty of Management Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 25,
+      "min_aps_maths_lit": 25,
+      "min_aps_tech_maths": 25,
+      "source_ref": "CAO Handbook 2027 p.48",
+      "notes": "CAO code MN-M-DMN. Minimum 25 points. Mathematical Literacy (Level 5) and Technical Mathematics (Level 3) accepted; same APS. Also requires any 3 other subjects at Level 3 (excluding LO). RPL available. Campus: Umlazi (Main).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Accounting",
+          "options": [
+            {
+              "subject": "Accounting",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Local Government Finance",
+      "faculty": "Faculty of Management Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 25,
+      "min_aps_maths_lit": 25,
+      "min_aps_tech_maths": 25,
+      "source_ref": "CAO Handbook 2027 p.49",
+      "notes": "CAO code MN-M-DGF. Minimum 25 points. Mathematical Literacy (Level 5) and Technical Mathematics (Level 3) accepted; same APS. Also requires any 3 other subjects at Level 3 (excluding LO). RPL available. Campus: Umlazi (Main).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Accounting",
+          "options": [
+            {
+              "subject": "Accounting",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Public Finance and Accounting",
+      "faculty": "Faculty of Management Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 25,
+      "min_aps_maths_lit": 25,
+      "min_aps_tech_maths": 25,
+      "source_ref": "CAO Handbook 2027 p.50",
+      "notes": "CAO code MN-M-DFP. Minimum 25 points. Mathematical Literacy (Level 5) and Technical Mathematics (Level 3) accepted; same APS. Also requires any 3 other subjects at Level 3 (excluding LO). RPL available. Campus: Umlazi (Main).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Accounting",
+          "options": [
+            {
+              "subject": "Accounting",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Public Finance and Accounting (Extended Curriculum Programme)",
+      "faculty": "Faculty of Management Sciences",
+      "qualification_type": "diploma",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "diploma",
+      "min_aps": 25,
+      "min_aps_maths_lit": 25,
+      "min_aps_tech_maths": 25,
+      "source_ref": "CAO Handbook 2027 p.51",
+      "notes": "CAO code MN-M-DFY. Minimum 25 points. Mathematical Literacy (Level 5) and Technical Mathematics (Level 3) accepted; same APS. Also requires any 3 other subjects at Level 3 (excluding LO). RPL available. Campus: Umlazi (Main).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Accounting",
+          "options": [
+            {
+              "subject": "Accounting",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Human Resource Management",
+      "faculty": "Faculty of Management Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 25,
+      "min_aps_maths_lit": 25,
+      "min_aps_tech_maths": 25,
+      "source_ref": "CAO Handbook 2027 p.104",
+      "notes": "CAO code MN-M-DHR. Minimum 25 points. Accounting OR Mathematics/Technical Mathematics/Mathematical Literacy at Level 3; same APS. Also requires any other four subjects at Level 3. Campus: Umlazi (Main).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Accounting, Mathematics, Technical Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Accounting",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Marketing",
+      "faculty": "Faculty of Management Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 25,
+      "min_aps_maths_lit": 25,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.161",
+      "notes": "CAO code MN-M-DMM. Minimum 25 points. Mathematics Level 3 OR Mathematical Literacy Level 4 OR Accounting Level 4; same APS. Technical Mathematics not listed. Also requires four other subjects at Level 3. Campus: Umlazi (Main).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics, Mathematical Literacy or Accounting",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            },
+            {
+              "subject": "Accounting",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Office Management and Technology",
+      "faculty": "Faculty of Management Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 25,
+      "min_aps_maths_lit": 25,
+      "min_aps_tech_maths": 25,
+      "source_ref": "CAO Handbook 2027 p.62",
+      "notes": "CAO code MN-M-DOT. Minimum 25 points. No Mathematics requirement. Also requires five other subjects at Level 3 (excluding LO). Admission on merit and availability of space. Campus: Umlazi (Main).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Public Management",
+      "faculty": "Faculty of Management Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 25,
+      "min_aps_maths_lit": 25,
+      "min_aps_tech_maths": 25,
+      "source_ref": "CAO Handbook 2027 p.132",
+      "notes": "CAO code MN-M-DPU. Minimum 25 points. No Mathematics requirement. RPL available. Campus: Umlazi (Main).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Applied Science in Nature Conservation",
+      "faculty": "Faculty of Natural Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 32,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": 32,
+      "source_ref": "CAO Handbook 2027 p.68",
+      "notes": "CAO code MN-M-BNT. Minimum 32 points. Technical Mathematics accepted (Level 3); Mathematical Literacy not listed. Campus: Umlazi (Main).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Technical Mathematics",
               "min_percent": 40
             }
           ]
         },
         {
-          "description": "Mathematics",
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Agriculture: Animal Production",
+      "faculty": "Faculty of Natural Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 25,
+      "min_aps_maths_lit": 25,
+      "min_aps_tech_maths": 25,
+      "source_ref": "CAO Handbook 2027 p.69",
+      "notes": "CAO code MN-M-DPN. Minimum 25 points. Mathematical Literacy (Level 4) and Technical Mathematics (Level 3) accepted; same APS. Placement test required. Campus: Umlazi (Main).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
           "options": [
             {
               "subject": "Mathematics",
               "min_percent": 40
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences or Technical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 40
+            },
+            {
+              "subject": "Technical Sciences",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Agricultural Sciences or Life Sciences",
+          "options": [
+            {
+              "subject": "Agricultural Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Agriculture: Animal Production (Extended Curriculum Programme)",
+      "faculty": "Faculty of Natural Sciences",
+      "qualification_type": "diploma",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "diploma",
+      "min_aps": 25,
+      "min_aps_maths_lit": 25,
+      "min_aps_tech_maths": 25,
+      "source_ref": "CAO Handbook 2027 p.69",
+      "notes": "CAO code MN-M-DP5. Minimum 25 points. Mathematical Literacy (Level 4) and Technical Mathematics (Level 3) accepted; same APS. Placement test required. Campus: Umlazi (Main).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences or Technical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 40
+            },
+            {
+              "subject": "Technical Sciences",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Agricultural Sciences or Life Sciences",
+          "options": [
+            {
+              "subject": "Agricultural Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Agriculture: Crop Production",
+      "faculty": "Faculty of Natural Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 25,
+      "min_aps_maths_lit": 25,
+      "min_aps_tech_maths": 25,
+      "source_ref": "CAO Handbook 2027 p.69",
+      "notes": "CAO code MN-M-DCP. Minimum 25 points. Mathematical Literacy (Level 4) and Technical Mathematics (Level 3) accepted; same APS. Placement test required. Campus: Umlazi (Main).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences or Technical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 40
+            },
+            {
+              "subject": "Technical Sciences",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Agricultural Sciences or Life Sciences",
+          "options": [
+            {
+              "subject": "Agricultural Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Agriculture: Crop Production (Extended Curriculum Programme)",
+      "faculty": "Faculty of Natural Sciences",
+      "qualification_type": "diploma",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "diploma",
+      "min_aps": 25,
+      "min_aps_maths_lit": 25,
+      "min_aps_tech_maths": 25,
+      "source_ref": "CAO Handbook 2027 p.69",
+      "notes": "CAO code MN-M-DC4. Minimum 25 points. Mathematical Literacy (Level 4) and Technical Mathematics (Level 3) accepted; same APS. Placement test required. Requirements and points are not printed separately for the ECP; assumed same as the mainstream Crop Production diploma. Campus: Umlazi (Main).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences or Technical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 40
+            },
+            {
+              "subject": "Technical Sciences",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Agricultural Sciences or Life Sciences",
+          "options": [
+            {
+              "subject": "Agricultural Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Community Extension",
+      "faculty": "Faculty of Natural Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 22,
+      "min_aps_maths_lit": 22,
+      "min_aps_tech_maths": 22,
+      "source_ref": "CAO Handbook 2027 p.69",
+      "notes": "CAO code MN-M-DCX. Minimum 22 points. No Mathematics requirement. Subject requirement is garbled in the handbook ('Agric Sci 4/ Cons Stud 4, Life Sci and Geog or Econ and Life Sci 4'); modelled as one of Agricultural Sciences, Consumer Studies or Life Sciences at Level 4. Relevant work experience in agriculture or community development is given preference. Campus: Umlazi (Main).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Agricultural Sciences, Consumer Studies or Life Sciences",
+          "options": [
+            {
+              "subject": "Agricultural Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Consumer Studies",
+              "min_percent": 50
+            },
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Nature Conservation",
+      "faculty": "Faculty of Natural Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 28,
+      "min_aps_maths_lit": 28,
+      "min_aps_tech_maths": 28,
+      "source_ref": "CAO Handbook 2027 p.70",
+      "notes": "CAO code MN-M-DCN. Minimum 28 points. No Mathematics requirement; a pass in Mathematics, Physical Sciences, or History/Geography is recommended. RPL available. Campus: Umlazi (Main).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Information Technology",
+      "faculty": "Faculty of Natural Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 24,
+      "min_aps_maths_lit": 24,
+      "min_aps_tech_maths": 24,
+      "source_ref": "CAO Handbook 2027 p.112",
+      "notes": "CAO code MN-M-DIT. Minimum 24 points. Mathematical Literacy (Level 5) and Technical Mathematics (Level 3) accepted; same APS. Final selection by entrance test and/or ranking; preference to students with Physical Sciences. Campus: Umlazi (Main).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Information Technology (Extended Curriculum Programme)",
+      "faculty": "Faculty of Natural Sciences",
+      "qualification_type": "diploma",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "diploma",
+      "min_aps": 23,
+      "min_aps_maths_lit": 23,
+      "min_aps_tech_maths": 23,
+      "source_ref": "CAO Handbook 2027 p.113",
+      "notes": "CAO code MN-M-DI5. Minimum 23 points. Mathematics/Technical Mathematics Level 2 (30%) or Mathematical Literacy Level 3 accepted; same APS. Final selection by entrance test and/or ranking. Campus: Umlazi (Main).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 30
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 30
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Analytical Chemistry",
+      "faculty": "Faculty of Natural Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": null,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.178",
+      "notes": "CAO code MN-M-DAN. No minimum APS printed. Technical Mathematics accepted (Level 4); Mathematical Literacy not accepted. Campus: Umlazi (Main).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 50
             }
           ]
         },
@@ -626,7 +2031,187 @@
           "options": [
             {
               "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Access Course in Analytical Chemistry",
+      "faculty": "Faculty of Natural Sciences",
+      "qualification_type": "other",
+      "is_extended": false,
+      "duration_years": 0.5,
+      "nsc_pass_required": "diploma",
+      "min_aps": null,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.179",
+      "notes": "CAO code MN-M-ANA. Access course for applicants who do not meet the full diploma requirements. No minimum APS printed. Technical Mathematics and Technical Sciences accepted; Mathematical Literacy not accepted. Campus: Umlazi (Main).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
               "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences or Technical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 40
+            },
+            {
+              "subject": "Technical Sciences",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Health Sciences in Medical Laboratory Science",
+      "faculty": "Faculty of Natural Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": 30,
+      "source_ref": "CAO Handbook 2027 p.152",
+      "notes": "CAO code MN-M-BLS. Minimum 30 points. Technical Mathematics and Technical Sciences accepted; same APS. Mathematical Literacy not listed. Interview and placement testing required. Geography 4 / Agricultural Sciences 4 recommended. Campus: Umlazi (Main).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences or Technical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Environmental Health",
+      "faculty": "Faculty of Natural Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 32,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": 32,
+      "source_ref": "CAO Handbook 2027 p.181",
+      "notes": "CAO code MN-M-BE4. Minimum 32 points. Technical Mathematics and Technical Sciences accepted; same APS. Mathematical Literacy not listed. Students register with the HPCSA. Geography and Agricultural Sciences 4 recommended. RPL available. Campus: Umlazi (Main).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences or Technical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Sciences",
+              "min_percent": 50
             }
           ]
         }
@@ -635,14 +2220,14 @@
   ],
   "ambiguities": [
     {
-      "item": "Source",
-      "issue": "Prospectus year not printed on the extracted pages",
-      "choice": "Confirm figures against the CAO Handbook 2027"
-    },
-    {
       "item": "Closing date",
       "issue": "Main date 30 Sep 2026; CAO late applications until 30 Nov 2026",
       "choice": "30 Sep used; late window in the period note"
+    },
+    {
+      "item": "Diploma in Biomedical Science",
+      "issue": "In the MUT prospectus but not in the CAO Handbook 2027",
+      "choice": "Left out until MUT confirms it is offered for 2027"
     }
   ]
 }
