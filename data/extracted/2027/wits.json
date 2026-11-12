@@ -1,6 +1,6 @@
 {
   "intake_year": 2027,
-  "source_document": "Wits Undergraduate Entry Requirements 2027",
+  "source_document": "Wits Grade 12 (SLO) presentation, 2026 intake",
   "university": {
     "name": "University of the Witwatersrand",
     "short_name": "Wits",
@@ -260,7 +260,7 @@
       "min_aps": 38,
       "min_aps_maths_lit": null,
       "min_aps_tech_maths": null,
-      "source_ref": "Wits Grade 12 presentation p.9",
+      "source_ref": "Wits Grade 12 presentation (2026 intake) p.9",
       "notes": "Minimum Wits APS 38. Only Mathematics accepted. School of Business Sciences.",
       "requirements": [
         {
@@ -297,7 +297,7 @@
       "min_aps": 38,
       "min_aps_maths_lit": null,
       "min_aps_tech_maths": null,
-      "source_ref": "Wits Grade 12 presentation p.9",
+      "source_ref": "Wits Grade 12 presentation (2026 intake) p.9",
       "notes": "Minimum Wits APS 38. Only Mathematics accepted. School of Business Sciences.",
       "requirements": [
         {
@@ -334,7 +334,7 @@
       "min_aps": 38,
       "min_aps_maths_lit": null,
       "min_aps_tech_maths": null,
-      "source_ref": "Wits Grade 12 presentation p.9",
+      "source_ref": "Wits Grade 12 presentation (2026 intake) p.9",
       "notes": "Minimum Wits APS 38. Only Mathematics accepted. School of Business Sciences.",
       "requirements": [
         {
@@ -371,7 +371,7 @@
       "min_aps": 44,
       "min_aps_maths_lit": null,
       "min_aps_tech_maths": null,
-      "source_ref": "Wits Grade 12 presentation p.9",
+      "source_ref": "Wits Grade 12 presentation (2026 intake) p.9",
       "notes": "Minimum Wits APS 44. Only Mathematics accepted. The Wits Margo Steele School of Accountancy. Listed in the guide as 'Accounting Science'.",
       "requirements": [
         {
@@ -408,7 +408,7 @@
       "min_aps": 38,
       "min_aps_maths_lit": null,
       "min_aps_tech_maths": null,
-      "source_ref": "Wits Grade 12 presentation p.9",
+      "source_ref": "Wits Grade 12 presentation (2026 intake) p.9",
       "notes": "Minimum Wits APS 38. Only Mathematics accepted. The Wits Margo Steele School of Accountancy. Listed in the guide as 'Accounting'.",
       "requirements": [
         {
@@ -445,7 +445,7 @@
       "min_aps": 42,
       "min_aps_maths_lit": null,
       "min_aps_tech_maths": null,
-      "source_ref": "Wits Grade 12 presentation p.9",
+      "source_ref": "Wits Grade 12 presentation (2026 intake) p.9",
       "notes": "Minimum Wits APS 42. Only Mathematics accepted. School of Economics and Finance. Listed in the guide as 'Economic Science'.",
       "requirements": [
         {
@@ -482,7 +482,7 @@
       "min_aps": 43,
       "min_aps_maths_lit": null,
       "min_aps_tech_maths": null,
-      "source_ref": "Wits Grade 12 presentation p.9",
+      "source_ref": "Wits Grade 12 presentation (2026 intake) p.9",
       "notes": "Minimum Wits APS 43. Only Mathematics accepted. School of Law.",
       "requirements": [
         {
@@ -519,7 +519,7 @@
       "min_aps": 46,
       "min_aps_maths_lit": 46,
       "min_aps_tech_maths": null,
-      "source_ref": "Wits Grade 12 presentation p.9",
+      "source_ref": "Wits Grade 12 presentation (2026 intake) p.9",
       "notes": "Minimum Wits APS 46. Mathematical Literacy accepted at level 6 (70%); same APS applies. School of Law.",
       "requirements": [
         {
@@ -554,8 +554,8 @@
   "ambiguities": [
     {
       "item": "Source",
-      "issue": "Commerce/Law batch taken from the Wits Grade 12 (SLO) presentation, not a full prospectus",
-      "choice": "Figures used as printed; confirm on wits.ac.za"
+      "issue": "Only the Wits Grade 12 presentation for the 2026 intake was available (2027 figures not yet published in this form)",
+      "choice": "2026-intake requirements used for 2027; confirm on wits.ac.za"
     },
     {
       "item": "Closing dates",
