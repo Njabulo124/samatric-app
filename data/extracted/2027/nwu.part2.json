@@ -1,0 +1,3419 @@
+[
+  {
+    "name": "Diploma in Animal Health",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 22,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 22,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Life Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Animal Science",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 22,
+    "min_aps_maths_lit": 22,
+    "min_aps_tech_maths": 22,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng. One APS printed for all maths options.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences, Life Sciences or Agricultural Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Plant Science in Crop Production",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 22,
+    "min_aps_maths_lit": 22,
+    "min_aps_tech_maths": 22,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng. Printed as 'Diploma in Plant Science' with field 'with Crop Production'. One APS printed for all maths options.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences, Life Sciences or Agricultural Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science with Chemistry and Physics",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng, Potchefstroom. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science with Physics and Mathematics",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng, Potchefstroom. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science with Physics and Applied Mathematics",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng, Potchefstroom. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science with Physics and Computer Science",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng, Potchefstroom. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science with Computer Science and Mathematics",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng, Potchefstroom, Vanderbijlpark. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science with Biochemistry and Chemistry",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng, Potchefstroom. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science with Geography and Applied Mathematics",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Potchefstroom. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science with Applied Mathematics and Chemistry",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng, Potchefstroom. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science with Chemistry and Mathematics",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng, Potchefstroom. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science with Applied Mathematics and Electronics",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science with Electronics and Mathematics",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science with Electronics and Physics",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science with Chemistry and Computer Science",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science with Computer Science and Electronics",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science with Mathematics and Economy",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science with Computer Science and Economics",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science with Computer Science and Statistics",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science with Applied Mathematics and Chemistry (Extended Curriculum Programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng. Printed under 'Extended Bachelor of Science'. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science with Applied Mathematics and Electronics (Extended Curriculum Programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng. Printed under 'Extended Bachelor of Science'. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science with Biochemistry and Chemistry (Extended Curriculum Programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng. Printed under 'Extended Bachelor of Science'. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science with Chemistry and Computer Science (Extended Curriculum Programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng. Printed under 'Extended Bachelor of Science'. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science with Chemistry and Mathematics (Extended Curriculum Programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng. Printed under 'Extended Bachelor of Science'. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science with Chemistry and Physics (Extended Curriculum Programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng. Printed under 'Extended Bachelor of Science'. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science with Computer Science and Electronics (Extended Curriculum Programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng. Printed under 'Extended Bachelor of Science'. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science with Computer Science and Mathematics (Extended Curriculum Programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng. Printed under 'Extended Bachelor of Science'. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science with Electronics and Mathematics (Extended Curriculum Programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng. Printed under 'Extended Bachelor of Science'. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science with Electronics and Physics (Extended Curriculum Programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng. Printed under 'Extended Bachelor of Science'. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science with Physics and Applied Mathematics (Extended Curriculum Programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng. Printed under 'Extended Bachelor of Science'. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science with Physics and Computer Science (Extended Curriculum Programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng. Printed under 'Extended Bachelor of Science'. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science with Physics and Mathematics (Extended Curriculum Programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng. Printed under 'Extended Bachelor of Science'. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Biological Sciences with Microbiology and Biochemistry (Extended Curriculum Programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng. Printed under 'Extended Bachelor of Science'. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Biological Sciences with Botany and Microbiology (Extended Curriculum Programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng. Printed under 'Extended Bachelor of Science'. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Biological Sciences with Botany and Biochemistry (Extended Curriculum Programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng. Printed under 'Extended Bachelor of Science'. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Environmental Sciences with Botany and Chemistry (Extended Curriculum Programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng. Printed under 'Extended Bachelor of Science'. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Environmental Sciences with Geography and Botany (Extended Curriculum Programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng. Printed under 'Extended Bachelor of Science'. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Environmental Sciences with Geography and Computer Science (Extended Curriculum Programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng. Printed under 'Extended Bachelor of Science'. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Environmental Sciences with Chemistry and Microbiology (Extended Curriculum Programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng. Printed under 'Extended Bachelor of Science'. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Environmental Sciences with Chemistry and Geography (Extended Curriculum Programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng. Printed under 'Extended Bachelor of Science'. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Mathematical Sciences with Applied Mathematics and Mathematics (Extended Curriculum Programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.17",
+    "notes": "Campuses: Mahikeng. Printed under 'Extended Bachelor of Science'. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Information Technology",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark, Distance. Also offered by distance learning. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Information Technology (Extended Curriculum Programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Vanderbijlpark. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Mathematical Sciences with Statistics and Mathematics",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Mathematical Sciences with Mathematics",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Potchefstroom. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Mathematical Sciences with Applied Mathematics and Mathematics",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Mahikeng. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Biological Sciences with Microbiology and Botany",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Mahikeng, Potchefstroom. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Biological Sciences with Microbiology and Biochemistry",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Mahikeng, Potchefstroom. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Biological Sciences with Botany and Biochemistry",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Mahikeng, Potchefstroom. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Biological Sciences with Chemistry and Physiology",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Potchefstroom. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Biological Sciences with Microbiology and Physiology",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Potchefstroom. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Biological Sciences with Zoology and Biochemistry",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Potchefstroom. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Biological Sciences with Zoology and Botany",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Potchefstroom. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Biological Sciences with Zoology and Microbiology",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Potchefstroom. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Biological Sciences with Zoology and Physiology",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Potchefstroom. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Environmental Sciences with Chemistry and Microbiology",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Mahikeng, Potchefstroom. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Environmental Sciences with Botany and Chemistry",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Mahikeng, Potchefstroom. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Environmental Sciences with Geography and Computer Science",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Mahikeng, Potchefstroom. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Environmental Sciences with Geography and Botany",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Mahikeng, Potchefstroom. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Environmental Sciences with Chemistry and Geography",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Mahikeng. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Environmental Sciences with Zoology and Chemistry",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Potchefstroom. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Environmental Sciences with Chemistry and Geology",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Potchefstroom. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Environmental Sciences with Geology and Geography",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Potchefstroom. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Environmental Sciences with Zoology and Geography",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Potchefstroom. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Environmental Sciences with Geology and Botany",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Potchefstroom. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Environmental Sciences with Zoology and Geology",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Potchefstroom. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Environmental Sciences with Geology and Microbiology",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Potchefstroom. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Environmental Sciences with Tourism and Zoology",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Potchefstroom. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Environmental Sciences with Tourism and Geography",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Potchefstroom. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Environmental Sciences with Tourism and Botany",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Potchefstroom. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Financial Mathematics",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Financial Mathematics (Extended Curriculum Programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 28,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Vanderbijlpark. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Business Analytics",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Business Analytics (Extended Curriculum Programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 28,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Vanderbijlpark. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Quantitative Risk Management",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Quantitative Risk Management (Extended Curriculum Programme)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 28,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Vanderbijlpark. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Actuarial Sciences",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Urban and Regional Planning",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 28,
+    "source_ref": "NWU Prospectus 2027 p.18",
+    "notes": "Campuses: Potchefstroom. SELECTION TEST required; Maths Lit not accepted.",
+    "closes_on": "2026-06-30",
+    "requirements": [
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Agricultural Sciences with Agricultural Economics",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.19",
+    "notes": "Campuses: Mahikeng. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Life Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Agricultural Sciences with Animal Science",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.19",
+    "notes": "Campuses: Mahikeng. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Life Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Agricultural Sciences with Agronomy and Horticulture",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.19",
+    "notes": "Campuses: Mahikeng. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Life Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Agricultural Sciences with Animal Health",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.19",
+    "notes": "Campuses: Mahikeng. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Life Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Agricultural Sciences with Agronomy and Soil Science",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.19",
+    "notes": "Campuses: Potchefstroom. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Agricultural Sciences with Agronomy and Agricultural Economics",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.19",
+    "notes": "Campuses: Potchefstroom. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Indigenous Knowledge Systems",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.19",
+    "notes": "Campuses: Mahikeng. No maths requirement.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  }
+]
