@@ -1,0 +1,566 @@
+{
+  "intake_year": 2027,
+  "source_document": "Wits Undergraduate Entry Requirements 2027",
+  "university": {
+    "name": "University of the Witwatersrand",
+    "short_name": "Wits",
+    "institution_type": "traditional",
+    "province": "Gauteng",
+    "website_url": "https://www.wits.ac.za",
+    "application_url": "https://www.wits.ac.za/applications/",
+    "application_fee": 100
+  },
+  "application_periods": [
+    {
+      "label": "General",
+      "opens_on": "2026-03-01",
+      "closes_on": "2026-09-30",
+      "notes": "Most undergraduate programmes and residence."
+    },
+    {
+      "label": "Faculty of Health Sciences",
+      "opens_on": "2026-03-01",
+      "closes_on": "2026-06-30",
+      "notes": "All Health Sciences programmes."
+    }
+  ],
+  "aps_rule": {
+    "default_scale": {
+      "name": "Wits other subjects",
+      "bands": [
+        {
+          "min_mark": 90,
+          "max_mark": 100,
+          "points": 8
+        },
+        {
+          "min_mark": 80,
+          "max_mark": 89,
+          "points": 7
+        },
+        {
+          "min_mark": 70,
+          "max_mark": 79,
+          "points": 6
+        },
+        {
+          "min_mark": 60,
+          "max_mark": 69,
+          "points": 5
+        },
+        {
+          "min_mark": 50,
+          "max_mark": 59,
+          "points": 4
+        },
+        {
+          "min_mark": 40,
+          "max_mark": 49,
+          "points": 3
+        },
+        {
+          "min_mark": 0,
+          "max_mark": 39,
+          "points": 0
+        }
+      ]
+    },
+    "subjects_counted": 7,
+    "include_lo": true,
+    "must_count": [
+      [
+        "English Home Language",
+        "English First Additional Language"
+      ],
+      [
+        "Life Orientation"
+      ]
+    ],
+    "subject_scales": [
+      {
+        "subject": "English Home Language",
+        "scale": {
+          "name": "Wits English/Maths bonus",
+          "bands": [
+            {
+              "min_mark": 90,
+              "max_mark": 100,
+              "points": 10
+            },
+            {
+              "min_mark": 80,
+              "max_mark": 89,
+              "points": 9
+            },
+            {
+              "min_mark": 70,
+              "max_mark": 79,
+              "points": 8
+            },
+            {
+              "min_mark": 60,
+              "max_mark": 69,
+              "points": 7
+            },
+            {
+              "min_mark": 50,
+              "max_mark": 59,
+              "points": 4
+            },
+            {
+              "min_mark": 40,
+              "max_mark": 49,
+              "points": 3
+            },
+            {
+              "min_mark": 0,
+              "max_mark": 39,
+              "points": 0
+            }
+          ]
+        }
+      },
+      {
+        "subject": "English First Additional Language",
+        "scale": {
+          "name": "Wits English/Maths bonus",
+          "bands": [
+            {
+              "min_mark": 90,
+              "max_mark": 100,
+              "points": 10
+            },
+            {
+              "min_mark": 80,
+              "max_mark": 89,
+              "points": 9
+            },
+            {
+              "min_mark": 70,
+              "max_mark": 79,
+              "points": 8
+            },
+            {
+              "min_mark": 60,
+              "max_mark": 69,
+              "points": 7
+            },
+            {
+              "min_mark": 50,
+              "max_mark": 59,
+              "points": 4
+            },
+            {
+              "min_mark": 40,
+              "max_mark": 49,
+              "points": 3
+            },
+            {
+              "min_mark": 0,
+              "max_mark": 39,
+              "points": 0
+            }
+          ]
+        }
+      },
+      {
+        "subject": "Mathematics",
+        "scale": {
+          "name": "Wits English/Maths bonus",
+          "bands": [
+            {
+              "min_mark": 90,
+              "max_mark": 100,
+              "points": 10
+            },
+            {
+              "min_mark": 80,
+              "max_mark": 89,
+              "points": 9
+            },
+            {
+              "min_mark": 70,
+              "max_mark": 79,
+              "points": 8
+            },
+            {
+              "min_mark": 60,
+              "max_mark": 69,
+              "points": 7
+            },
+            {
+              "min_mark": 50,
+              "max_mark": 59,
+              "points": 4
+            },
+            {
+              "min_mark": 40,
+              "max_mark": 49,
+              "points": 3
+            },
+            {
+              "min_mark": 0,
+              "max_mark": 39,
+              "points": 0
+            }
+          ]
+        }
+      },
+      {
+        "subject": "Life Orientation",
+        "scale": {
+          "name": "Wits Life Orientation",
+          "bands": [
+            {
+              "min_mark": 90,
+              "max_mark": 100,
+              "points": 4
+            },
+            {
+              "min_mark": 80,
+              "max_mark": 89,
+              "points": 3
+            },
+            {
+              "min_mark": 70,
+              "max_mark": 79,
+              "points": 2
+            },
+            {
+              "min_mark": 60,
+              "max_mark": 69,
+              "points": 1
+            },
+            {
+              "min_mark": 0,
+              "max_mark": 59,
+              "points": 0
+            }
+          ]
+        }
+      }
+    ],
+    "notes": "Best 7 subjects incl. English and Life Orientation. English and Mathematics earn +2 from 60%; LO on its own 0-4 scale; below 40% scores 0."
+  },
+  "faculties": [
+    "Faculty of Commerce, Law and Management",
+    "Faculty of Engineering and the Built Environment",
+    "Faculty of Health Sciences",
+    "Faculty of Humanities",
+    "Faculty of Science"
+  ],
+  "courses": [
+    {
+      "name": "Bachelor of Commerce (General)",
+      "faculty": "Faculty of Commerce, Law and Management",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 38,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "Wits Grade 12 presentation p.9",
+      "notes": "Minimum Wits APS 38. Only Mathematics accepted. School of Business Sciences.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce (Information Systems)",
+      "faculty": "Faculty of Commerce, Law and Management",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 38,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "Wits Grade 12 presentation p.9",
+      "notes": "Minimum Wits APS 38. Only Mathematics accepted. School of Business Sciences.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce (Politics, Philosophy and Economics)",
+      "faculty": "Faculty of Commerce, Law and Management",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 38,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "Wits Grade 12 presentation p.9",
+      "notes": "Minimum Wits APS 38. Only Mathematics accepted. School of Business Sciences.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Accounting Science",
+      "faculty": "Faculty of Commerce, Law and Management",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 44,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "Wits Grade 12 presentation p.9",
+      "notes": "Minimum Wits APS 44. Only Mathematics accepted. The Wits Margo Steele School of Accountancy. Listed in the guide as 'Accounting Science'.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce (Accounting)",
+      "faculty": "Faculty of Commerce, Law and Management",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 38,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "Wits Grade 12 presentation p.9",
+      "notes": "Minimum Wits APS 38. Only Mathematics accepted. The Wits Margo Steele School of Accountancy. Listed in the guide as 'Accounting'.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Economic Science",
+      "faculty": "Faculty of Commerce, Law and Management",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 42,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "Wits Grade 12 presentation p.9",
+      "notes": "Minimum Wits APS 42. Only Mathematics accepted. School of Economics and Finance. Listed in the guide as 'Economic Science'.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 80
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce with Law",
+      "faculty": "Faculty of Commerce, Law and Management",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 43,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "Wits Grade 12 presentation p.9",
+      "notes": "Minimum Wits APS 43. Only Mathematics accepted. School of Law.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Laws (LLB) (four-year stream)",
+      "faculty": "Faculty of Commerce, Law and Management",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 46,
+      "min_aps_maths_lit": 46,
+      "min_aps_tech_maths": null,
+      "source_ref": "Wits Grade 12 presentation p.9",
+      "notes": "Minimum Wits APS 46. Mathematical Literacy accepted at level 6 (70%); same APS applies. School of Law.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 70
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 70
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ambiguities": [
+    {
+      "item": "Source",
+      "issue": "Commerce/Law batch taken from the Wits Grade 12 (SLO) presentation, not a full prospectus",
+      "choice": "Figures used as printed; confirm on wits.ac.za"
+    },
+    {
+      "item": "Closing dates",
+      "issue": "Architecture, Film & TV, Audiology and Speech-Language Pathology also closed 30 June 2026",
+      "choice": "Set closes_on per course when those faculties are added"
+    }
+  ]
+}
