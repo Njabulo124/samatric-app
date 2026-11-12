@@ -1,0 +1,1874 @@
+[
+  {
+    "name": "Bachelor of Commerce in Accounting",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.20",
+    "notes": "Campuses: Vanderbijlpark.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Chartered Accountancy",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.20",
+    "notes": "Campuses: Mahikeng, Potchefstroom, Vanderbijlpark. Mathematics level 5 (60-69%) if Grade 12 Accounting was taken; Mathematics 65% or more if not.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Chartered Accountancy (Extended Curriculum Programme)",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.20",
+    "notes": "Campuses: Mahikeng, Vanderbijlpark.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Forensic Accountancy",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 36,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.20",
+    "notes": "Campuses: Potchefstroom. Mathematics level 5 (60-69%) if Grade 12 Accounting was taken; Mathematics level 6 (70-79%) if not. Printed as 'a language of study level 5'.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Management Accountancy",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.20",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Financial Accountancy",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.20",
+    "notes": "Campuses: Mahikeng, Potchefstroom, Vanderbijlpark.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Financial Accountancy (Extended Curriculum Programme)",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.20",
+    "notes": "Campuses: Mahikeng, Vanderbijlpark.",
+    "requirements": [
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 80
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Operations Research",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.20",
+    "notes": "Campuses: Mahikeng. School of Economic Sciences.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Statistics",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.20",
+    "notes": "Campuses: Mahikeng. School of Economic Sciences.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Statistics (Extended Curriculum Programme)",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 20,
+    "min_aps_maths_lit": 20,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.20",
+    "notes": "Campuses: Mahikeng. School of Economic Sciences.",
+    "requirements": [
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Business Operations with Logistics Management",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.20",
+    "notes": "Campuses: Mahikeng, Vanderbijlpark.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Business Operations with Logistics Management (Extended Curriculum Programme)",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 20,
+    "min_aps_maths_lit": 20,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.20",
+    "notes": "Campuses: Mahikeng, Vanderbijlpark.",
+    "requirements": [
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Business Operations with Transport Economics",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.20",
+    "notes": "Campuses: Mahikeng, Vanderbijlpark.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Business Operations with Transport Economics (Extended Curriculum Programme)",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 20,
+    "min_aps_maths_lit": 20,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.20",
+    "notes": "Campuses: Mahikeng, Vanderbijlpark.",
+    "requirements": [
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Economic Sciences with Agricultural Economics and Risk Management",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.21",
+    "notes": "Campuses: Potchefstroom.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Afrikaans",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Economic Sciences with Econometrics",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.21",
+    "notes": "Campuses: Mahikeng.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Economic Sciences with Econometrics (Extended Curriculum Programme)",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 20,
+    "min_aps_maths_lit": 20,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.21",
+    "notes": "Campuses: Mahikeng.",
+    "requirements": [
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Economic Sciences with International Trade",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.21",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Economic Sciences with International Trade (Extended Curriculum Programme)",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.21",
+    "notes": "Campuses: Vanderbijlpark.",
+    "requirements": [
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Economic Sciences with Informatics",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.21",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Economic Sciences with Information Systems",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.21",
+    "notes": "Campuses: Mahikeng.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Economic Sciences with Information Systems (Extended Curriculum Programme)",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 20,
+    "min_aps_maths_lit": 20,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.21",
+    "notes": "Campuses: Mahikeng.",
+    "requirements": [
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Economic Sciences with Risk Management (Potchefstroom)",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.21",
+    "notes": "Campuses: Potchefstroom. Language differs by campus (PC: Afrikaans level 4; VC: Afrikaans or English level 4).",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Afrikaans",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Economic Sciences with Risk Management (Vanderbijlpark)",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.21",
+    "notes": "Campuses: Vanderbijlpark. Language differs by campus (PC: Afrikaans level 4; VC: Afrikaans or English level 4).",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Economic Sciences with Risk Management (Extended Curriculum Programme)",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.21",
+    "notes": "Campuses: Vanderbijlpark.",
+    "requirements": [
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Administration in Human Resource Management",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 23,
+    "min_aps_maths_lit": 23,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.21",
+    "notes": "Campuses: Mahikeng. School of Industrial Psychology and Resource Management.",
+    "requirements": [
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Administration in Human Resource Management (Extended Curriculum Programme)",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 21,
+    "min_aps_maths_lit": 21,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.21",
+    "notes": "Campuses: Mahikeng. School of Industrial Psychology and Resource Management.",
+    "requirements": [
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Administration in Industrial and Organisational Psychology",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 23,
+    "min_aps_maths_lit": 23,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.21",
+    "notes": "Campuses: Mahikeng. School of Industrial Psychology and Resource Management.",
+    "requirements": [
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Administration in Industrial and Organisational Psychology (Extended Curriculum Programme)",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 21,
+    "min_aps_maths_lit": 21,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.21",
+    "notes": "Campuses: Mahikeng. School of Industrial Psychology and Resource Management.",
+    "requirements": [
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Industrial and Organisational Psychology and Labour Relations Management",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.21",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark. School of Industrial Psychology and Resource Management.",
+    "requirements": [
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Human Resource Management",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.21",
+    "notes": "Campuses: Mahikeng, Potchefstroom, Vanderbijlpark. School of Industrial Psychology and Resource Management.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Industrial and Organisational Psychology with Labour Relations Management",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.21",
+    "notes": "Campuses: Mahikeng, Potchefstroom, Vanderbijlpark. School of Industrial Psychology and Resource Management.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Management Sciences with Business Management (Mahikeng)",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.22",
+    "notes": "Campuses: Mahikeng. School of Management Sciences. Language differs by campus (MC: English level 4; PC and VC: Afrikaans or English level 4).",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Management Sciences with Business Management (Potchefstroom and Vanderbijlpark)",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.22",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark. School of Management Sciences. Language differs by campus (MC: English level 4; PC and VC: Afrikaans or English level 4).",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Management Sciences with Business Management (Extended Curriculum Programme)",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 20,
+    "min_aps_maths_lit": 20,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.22",
+    "notes": "Campuses: Mahikeng, Vanderbijlpark. School of Management Sciences.",
+    "requirements": [
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Management Sciences with Marketing Management (Mahikeng)",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.22",
+    "notes": "Campuses: Mahikeng. School of Management Sciences. Language differs by campus (MC: English level 4; PC and VC: Afrikaans or English level 4).",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Management Sciences with Marketing Management (Potchefstroom and Vanderbijlpark)",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.22",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark. School of Management Sciences. Language differs by campus (MC: English level 4; PC and VC: Afrikaans or English level 4).",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Management Sciences with Marketing Management (Extended Curriculum Programme)",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 20,
+    "min_aps_maths_lit": 20,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.22",
+    "notes": "Campuses: Mahikeng, Vanderbijlpark. School of Management Sciences.",
+    "requirements": [
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Management Sciences with Communication Management",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.22",
+    "notes": "Campuses: Mahikeng, Potchefstroom, Vanderbijlpark. School of Management Sciences.",
+    "requirements": [
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Management Sciences with Safety Management",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.22",
+    "notes": "Campuses: Vanderbijlpark. School of Management Sciences. Safety Management and Sport Business Management share one row.",
+    "requirements": [
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Management Sciences with Sport Business Management",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.22",
+    "notes": "Campuses: Vanderbijlpark. School of Management Sciences. Safety Management and Sport Business Management share one row.",
+    "requirements": [
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Management Sciences with Marketing and Tourism Management",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.22",
+    "notes": "Campuses: Mahikeng, Potchefstroom. School of Management Sciences.",
+    "requirements": [
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts with Tourism Management",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 22,
+    "min_aps_maths_lit": 22,
+    "min_aps_tech_maths": 22,
+    "source_ref": "NWU Prospectus 2027 p.22",
+    "notes": "Campuses: Mahikeng. School of Tourism Management. No maths requirement.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Management Sciences with Tourism Management",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.22",
+    "notes": "Campuses: Potchefstroom. School of Tourism Management.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Afrikaans",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Management Sciences with Tourism and Recreation Skills",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.22",
+    "notes": "Campuses: Potchefstroom. School of Tourism Management.",
+    "requirements": [
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  }
+]
