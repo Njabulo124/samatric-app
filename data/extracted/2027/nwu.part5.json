@@ -1,0 +1,836 @@
+[
+  {
+    "name": "Bachelor of Education in Foundation Phase (Grade R-3) (Mahikeng)",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.26",
+    "notes": "Campuses: Mahikeng. Language options differ by campus. Language level not printed; level 4 (50%) used, as for the other BEd rows. No maths requirement. Also offered by distance learning.",
+    "requirements": [
+      {
+        "description": "Home Language: English or Setswana",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "First Additional Language: English or Setswana",
+        "options": [
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Foundation Phase (Grade R-3) (Potchefstroom)",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.26",
+    "notes": "Campuses: Potchefstroom. Language options differ by campus. Language level not printed; level 4 (50%) used, as for the other BEd rows. No maths requirement. Also offered by distance learning.",
+    "requirements": [
+      {
+        "description": "Home Language: Afrikaans, English, Sesotho or Setswana",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "First Additional Language: Afrikaans, English or Setswana",
+        "options": [
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Foundation Phase (Grade R-3) (Vanderbijlpark)",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.26",
+    "notes": "Campuses: Vanderbijlpark. Language options differ by campus. Language level not printed; level 4 (50%) used, as for the other BEd rows. No maths requirement. Also offered by distance learning.",
+    "requirements": [
+      {
+        "description": "Home Language: Afrikaans, English, isiZulu or Sesotho",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "First Additional Language: Afrikaans, English, isiZulu or Sesotho",
+        "options": [
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Intermediate Phase (Grade 4-6) with Mathematics, Science and Technology (Potchefstroom)",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.26",
+    "notes": "Campuses: Potchefstroom. Language options differ by campus. Language level not printed; level 4 (50%) used, as for the other BEd rows. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "Home Language: Afrikaans, Sesotho or Setswana",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "First Additional Language: English",
+        "options": [
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Intermediate Phase (Grade 4-6) with Mathematics, Science and Technology (Vanderbijlpark)",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.26",
+    "notes": "Campuses: Vanderbijlpark. Language options differ by campus. Language level not printed; level 4 (50%) used, as for the other BEd rows. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "Home Language: Afrikaans, English, isiZulu or Sesotho",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "First Additional Language: Afrikaans, English, isiZulu or Sesotho",
+        "options": [
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Intermediate Phase (Grade 4-6) with Life Skills and Social Sciences (Potchefstroom)",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.26",
+    "notes": "Campuses: Potchefstroom. Language options differ by campus. Language level not printed; level 4 (50%) used, as for the other BEd rows. No maths requirement. Also offered by distance learning.",
+    "requirements": [
+      {
+        "description": "Home Language: Afrikaans, Sesotho or Setswana",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "First Additional Language: English",
+        "options": [
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Intermediate Phase (Grade 4-6) with Life Skills and Social Sciences (Vanderbijlpark)",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.26",
+    "notes": "Campuses: Vanderbijlpark. Language options differ by campus. Language level not printed; level 4 (50%) used, as for the other BEd rows. No maths requirement. Also offered by distance learning.",
+    "requirements": [
+      {
+        "description": "Home Language: Afrikaans, English, isiZulu or Sesotho",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "First Additional Language: Afrikaans, English, isiZulu or Sesotho",
+        "options": [
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and Further Education and Training (Grade 7-12) with Economics",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.27",
+    "notes": "Campuses: Mahikeng, Potchefstroom, Vanderbijlpark. Also needs a Home Language and a First Additional Language at level 4. No maths requirement. Also offered by distance learning.",
+    "requirements": []
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and Further Education and Training (Grade 7-12) with History",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.27",
+    "notes": "Campuses: Mahikeng, Potchefstroom, Vanderbijlpark. Also needs a Home Language and a First Additional Language at level 4. No maths requirement. Also offered by distance learning.",
+    "requirements": []
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and Further Education and Training (Grade 7-12) with Business Studies",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.27",
+    "notes": "Campuses: Mahikeng, Potchefstroom, Vanderbijlpark. Also needs a Home Language and a First Additional Language at level 4. No maths requirement. Also offered by distance learning.",
+    "requirements": []
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and Further Education and Training (Grade 7-12) with Geography",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.27",
+    "notes": "Campuses: Mahikeng, Potchefstroom, Vanderbijlpark. Also needs a Home Language and a First Additional Language at level 4. No maths requirement.",
+    "requirements": []
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and Further Education and Training (Grade 7-12) with English",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.27",
+    "notes": "Campuses: Mahikeng, Potchefstroom, Vanderbijlpark. Also needs a Home Language and a First Additional Language at level 4. Printed as English HL level 4 OR English FAL level 5, AND Home Language/First Additional Language level 4 (no language named for the second part). No maths requirement. Also offered by distance learning.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and Further Education and Training (Grade 7-12) with Physical Sciences",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.27",
+    "notes": "Campuses: Mahikeng, Potchefstroom, Vanderbijlpark. Also needs a Home Language and a First Additional Language at level 4. Maths Lit not accepted.",
+    "requirements": [
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and Further Education and Training (Grade 7-12) with Accounting",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.27",
+    "notes": "Campuses: Mahikeng, Potchefstroom, Vanderbijlpark. Also needs a Home Language and a First Additional Language at level 4. No maths requirement. Also offered by distance learning.",
+    "requirements": [
+      {
+        "description": "Accounting",
+        "options": [
+          {
+            "subject": "Accounting",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and Further Education and Training (Grade 7-12) with Mathematics",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.27",
+    "notes": "Campuses: Mahikeng, Potchefstroom, Vanderbijlpark. Also needs a Home Language and a First Additional Language at level 4. Only Mathematics accepted. Also offered by distance learning.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and Further Education and Training (Grade 7-12) with Afrikaans",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.27",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark. Printed as Afrikaans HL level 5 AND First Additional Language level 4 (FAL language not named). No maths requirement. Also offered by distance learning.",
+    "requirements": [
+      {
+        "description": "Afrikaans Home Language",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and Further Education and Training (Grade 7-12) with Life Sciences",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.27",
+    "notes": "Campuses: Mahikeng, Potchefstroom, Vanderbijlpark. Also needs a Home Language and a First Additional Language at level 4. No maths requirement.",
+    "requirements": [
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and Further Education and Training (Grade 7-12) with Life Orientation",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.27",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark. Also needs a Home Language and a First Additional Language at level 4. Subject-specific requirement is Life Orientation level 4, even though LO doesn't count for APS. No maths requirement. Also offered by distance learning.",
+    "requirements": [
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and Further Education and Training (Grade 7-12) with Engineering, Graphics and Design",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.27",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark. Also needs a Home Language and a First Additional Language at level 4. No EGD subject requirement printed. No maths requirement. Also offered by distance learning.",
+    "requirements": []
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and Further Education and Training (Grade 7-12) with Computer Application Technology",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.27",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark. Also needs a Home Language and a First Additional Language at level 4. No CAT subject requirement printed. No maths requirement.",
+    "requirements": []
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and Further Education and Training (Grade 7-12) with Sesotho",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.27",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark. Printed as Sesotho HL level 4 AND First Additional Language level 4 (FAL language not named). No maths requirement. Also offered by distance learning.",
+    "requirements": [
+      {
+        "description": "Sesotho Home Language",
+        "options": [
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and Further Education and Training (Grade 7-12) with Mechanical Technology",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.27",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark. Also needs a Home Language and a First Additional Language at level 4. Mathematics or Technical Mathematics at least 50%. Recommended: level 3 in Physical/Technical Sciences and any Technology subject. Conditional entry (must pass bridging modules MTEC 111 and MTEC 121 in the first two years) for: Maths at least 40%; OR Maths Lit at least 60% plus at least 40% in a Technology subject; OR Technical Maths at least 40%.",
+    "requirements": [
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and Further Education and Training (Grade 7-12) with Civil Technology",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.27",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark. Also needs a Home Language and a First Additional Language at level 4. Mathematics or Technical Mathematics at least 50%. Recommended: level 3 in Physical/Technical Sciences and any Technology subject. Conditional entry (must pass bridging modules MTEC 111 and MTEC 121 in the first two years) for: Maths at least 40%; OR Maths Lit at least 60% plus at least 40% in a Technology subject; OR Technical Maths at least 40%.",
+    "requirements": [
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and Further Education and Training (Grade 7-12) with Electrical Technology",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.27",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark. Also needs a Home Language and a First Additional Language at level 4. Mathematics or Technical Mathematics at least 50%. Recommended: level 3 in Physical/Technical Sciences and any Technology subject. Conditional entry (must pass bridging modules MTEC 111 and MTEC 121 in the first two years) for: Maths at least 40%; OR Maths Lit at least 60% plus at least 40% in a Technology subject; OR Technical Maths at least 40%.",
+    "requirements": [
+      {
+        "description": "Mathematics or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and Further Education and Training (Grade 7-12) with Setswana",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.27",
+    "notes": "Campuses: Mahikeng, Potchefstroom. Printed as Setswana HL level 4 AND First Additional Language level 4 (FAL language not named). No maths requirement. Also offered by distance learning.",
+    "requirements": [
+      {
+        "description": "Setswana Home Language",
+        "options": [
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and Further Education and Training (Grade 7-12) with Information Technology",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.27",
+    "notes": "Campuses: Potchefstroom. Also needs a Home Language and a First Additional Language at level 4. No IT subject requirement printed. No maths requirement.",
+    "requirements": []
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and Further Education and Training (Grade 7-12) with Art",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.27",
+    "notes": "Campuses: Potchefstroom. Also needs a Home Language and a First Additional Language at level 4. No maths requirement. Also offered by distance learning.",
+    "requirements": []
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and Further Education and Training (Grade 7-12) with Mathematical Literacy",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.27",
+    "notes": "Campuses: Vanderbijlpark. Also needs a Home Language and a First Additional Language at level 4. One APS printed for all maths options.",
+    "requirements": [
+      {
+        "description": "Mathematics, Mathematical Literacy or Technical Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  }
+]
