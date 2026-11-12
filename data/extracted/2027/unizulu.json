@@ -1,0 +1,1143 @@
+{
+  "intake_year": 2027,
+  "source_document": "CAO Handbook 2027 (UNIZULU section)",
+  "university": {
+    "name": "University of Zululand",
+    "short_name": "UNIZULU",
+    "institution_type": "comprehensive",
+    "province": "KwaZulu-Natal",
+    "website_url": "https://www.unizulu.ac.za",
+    "application_url": "https://www.cao.ac.za",
+    "application_fee": 250
+  },
+  "application_periods": [
+    {
+      "label": "General",
+      "opens_on": "2026-03-01",
+      "closes_on": "2026-10-31",
+      "notes": "Apply through CAO. On-time applications close 31 October 2026."
+    }
+  ],
+  "aps_rule": {
+    "default_scale": {
+      "name": "NSC standard 7-point"
+    },
+    "subjects_counted": 6,
+    "include_lo": false,
+    "must_count": [],
+    "subject_scales": [],
+    "notes": "Best six subjects excluding Life Orientation, NSC 7-point scale."
+  },
+  "faculties": [
+    "Faculty of Commerce, Administration and Law"
+  ],
+  "courses": [
+    {
+      "name": "Bachelor of Commerce in Accounting Science",
+      "faculty": "Faculty of Commerce, Administration and Law",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 28,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.45",
+      "notes": "CAO code ZU-M-BAS. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy not accepted. Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Accounting",
+      "faculty": "Faculty of Commerce, Administration and Law",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 28,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.45",
+      "notes": "CAO code ZU-M-BCN. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy not accepted. Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce (Banking and Business Management) (Extended Curriculum Programme)",
+      "faculty": "Faculty of Commerce, Administration and Law",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 26,
+      "min_aps_maths_lit": 26,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.46",
+      "notes": "CAO code ZU-A-AB2. Campus: KwaDlangezwa (Main) - Augmented. Printed as 'B Com Augmented'. Minimum 26 points. Mathematical Literacy accepted (Level 4). Applicants must select only one Augmented stream, not all streams. Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce (Business Management and Accounting) (Extended Curriculum Programme)",
+      "faculty": "Faculty of Commerce, Administration and Law",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 26,
+      "min_aps_maths_lit": 26,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.46",
+      "notes": "CAO code ZU-A-ABU. Campus: KwaDlangezwa (Main) - Augmented. Printed as 'B Com Augmented'. Minimum 26 points. Mathematical Literacy accepted (Level 4). Applicants must select only one Augmented stream, not all streams. Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce (Business Management and Economics) (Extended Curriculum Programme)",
+      "faculty": "Faculty of Commerce, Administration and Law",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 26,
+      "min_aps_maths_lit": 26,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.46",
+      "notes": "CAO code ZU-A-ABE. Campus: KwaDlangezwa (Main) - Augmented. Printed as 'B Com Augmented'. Minimum 26 points. Mathematical Literacy accepted (Level 4). Applicants must select only one Augmented stream, not all streams. Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce (Economics and Banking) (Extended Curriculum Programme)",
+      "faculty": "Faculty of Commerce, Administration and Law",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 26,
+      "min_aps_maths_lit": 26,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.46",
+      "notes": "CAO code ZU-A-ABK. Campus: KwaDlangezwa (Main) - Augmented. Printed as 'B Com Augmented'. Minimum 26 points. Mathematical Literacy accepted (Level 4). Applicants must select only one Augmented stream, not all streams. Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce (Economics and Human Resources Management) (Extended Curriculum Programme)",
+      "faculty": "Faculty of Commerce, Administration and Law",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 26,
+      "min_aps_maths_lit": 26,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.46",
+      "notes": "CAO code ZU-A-AHU. Campus: KwaDlangezwa (Main) - Augmented. Printed as 'B Com Augmented'. Minimum 26 points. Mathematical Literacy accepted (Level 4). Applicants must select only one Augmented stream, not all streams. Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce (Human Resources Management and Business Management) (Extended Curriculum Programme)",
+      "faculty": "Faculty of Commerce, Administration and Law",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 26,
+      "min_aps_maths_lit": 26,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.46",
+      "notes": "CAO code ZU-A-AHB. Campus: KwaDlangezwa (Main) - Augmented. Printed as 'B Com Augmented'. Minimum 26 points. Mathematical Literacy accepted (Level 4). Applicants must select only one Augmented stream, not all streams. Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce (Accounting and Economics) (Extended Curriculum Programme)",
+      "faculty": "Faculty of Commerce, Administration and Law",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 26,
+      "min_aps_maths_lit": 26,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.47",
+      "notes": "CAO code ZU-A-AES. Campus: KwaDlangezwa (Main) - Augmented. Printed as 'B Com Augmented'. Minimum 26 points. Mathematical Literacy accepted (Level 4). Applicants must select only one Augmented stream, not all streams. Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce (Accounting and Auditing) (Extended Curriculum Programme)",
+      "faculty": "Faculty of Commerce, Administration and Law",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 26,
+      "min_aps_maths_lit": 26,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.47",
+      "notes": "CAO code ZU-A-AAA. Campus: KwaDlangezwa (Main) - Augmented. Printed as 'B Com Augmented'. Minimum 26 points. Mathematical Literacy accepted (Level 4). Applicants must select only one Augmented stream, not all streams. Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce (Accounting and Economics)",
+      "faculty": "Faculty of Commerce, Administration and Law",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 28,
+      "min_aps_maths_lit": 28,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.127",
+      "notes": "CAO code ZU-M-BC7. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy accepted (Level 6). Applicants must select only one B Com stream, not all streams. Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce (Banking and Business Management)",
+      "faculty": "Faculty of Commerce, Administration and Law",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 28,
+      "min_aps_maths_lit": 28,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.127",
+      "notes": "CAO code ZU-M-BC8. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy accepted (Level 6). Applicants must select only one B Com stream, not all streams. Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce (Business Management and Accounting)",
+      "faculty": "Faculty of Commerce, Administration and Law",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 28,
+      "min_aps_maths_lit": 28,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.127",
+      "notes": "CAO code ZU-M-BMB. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy accepted (Level 6). Applicants must select only one B Com stream, not all streams. Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce (Business Management and Economics)",
+      "faculty": "Faculty of Commerce, Administration and Law",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 28,
+      "min_aps_maths_lit": 28,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.127",
+      "notes": "CAO code ZU-M-BBO. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy accepted (Level 6). Applicants must select only one B Com stream, not all streams. Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce (Economics and Banking)",
+      "faculty": "Faculty of Commerce, Administration and Law",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 28,
+      "min_aps_maths_lit": 28,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.127",
+      "notes": "CAO code ZU-M-BC9. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy accepted (Level 6). Applicants must select only one B Com stream, not all streams. Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce (Economics and Human Resource Management)",
+      "faculty": "Faculty of Commerce, Administration and Law",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 28,
+      "min_aps_maths_lit": 28,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.127",
+      "notes": "CAO code ZU-M-BER. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy accepted (Level 6). Applicants must select only one B Com stream, not all streams. Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce (Human Resource Management and Business Management)",
+      "faculty": "Faculty of Commerce, Administration and Law",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 28,
+      "min_aps_maths_lit": 28,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.128",
+      "notes": "CAO code ZU-M-BUS. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy accepted (Level 6). Applicants must select only one B Com stream, not all streams. Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Management Information Systems",
+      "faculty": "Faculty of Commerce, Administration and Law",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 28,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.128",
+      "notes": "CAO code ZU-M-BC6. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy not accepted. Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Administration (Public Administration and Business Management)",
+      "faculty": "Faculty of Commerce, Administration and Law",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 28,
+      "min_aps_maths_lit": 28,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.60",
+      "notes": "CAO code ZU-M-PAB. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy accepted (Level 4). Applicants must select only one B Admin stream, not all streams. Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Administration (Public Administration and Economics)",
+      "faculty": "Faculty of Commerce, Administration and Law",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 28,
+      "min_aps_maths_lit": 28,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.60",
+      "notes": "CAO code ZU-M-BAE. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy accepted (Level 4). Applicants must select only one B Admin stream, not all streams. Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Administration (Public Administration and Human Resources)",
+      "faculty": "Faculty of Commerce, Administration and Law",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 28,
+      "min_aps_maths_lit": 28,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.60",
+      "notes": "CAO code ZU-M-PHU. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy accepted (Level 4). Applicants must select only one B Admin stream, not all streams. Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Administration (Public Administration and Political Science)",
+      "faculty": "Faculty of Commerce, Administration and Law",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 28,
+      "min_aps_maths_lit": 28,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.60",
+      "notes": "CAO code ZU-M-PAP. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy accepted (Level 4). Applicants must select only one B Admin stream, not all streams. Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Laws",
+      "faculty": "Faculty of Commerce, Administration and Law",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": 30,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.183",
+      "notes": "CAO code ZU-M-BL1. Campus: KwaDlangezwa (Main). Minimum 30 points. Mathematical Literacy accepted (Level 4). Preference to applicants who chose this programme as 1st to 3rd choice. Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Higher Certificate in Accountancy",
+      "faculty": "Faculty of Commerce, Administration and Law",
+      "qualification_type": "higher_certificate",
+      "is_extended": false,
+      "duration_years": 1,
+      "nsc_pass_required": "higher_certificate",
+      "min_aps": 22,
+      "min_aps_maths_lit": 22,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.52",
+      "notes": "CAO code ZU-R-AC2. Campus: Richards Bay. Minimum 22 points. Mathematical Literacy accepted (Level 4). Requires an NSC with Higher Certificate endorsement. Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Co-Operatives Management",
+      "faculty": "Faculty of Commerce, Administration and Law",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 24,
+      "min_aps_maths_lit": 24,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.129",
+      "notes": "CAO code ZU-R-CO3. Campus: Richards Bay. Minimum 24 points. Mathematical Literacy accepted (Level 4). Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Logistics Management",
+      "faculty": "Faculty of Commerce, Administration and Law",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 24,
+      "min_aps_maths_lit": 24,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.195",
+      "notes": "CAO code ZU-R-LM3. Campus: Richards Bay. Minimum 24 points. Mathematical Literacy accepted (Level 4). Only considers applicants who rank this programme as choice 1 or 2. Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Transport Management",
+      "faculty": "Faculty of Commerce, Administration and Law",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 24,
+      "min_aps_maths_lit": 24,
+      "min_aps_tech_maths": null,
+      "source_ref": "CAO Handbook 2027 p.195",
+      "notes": "CAO code ZU-R-TP3. Campus: Richards Bay. Minimum 24 points. Mathematical Literacy accepted (Level 4). Only considers applicants who rank this programme as choice 1 or 2. Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ambiguities": [
+    {
+      "item": "Faculties",
+      "issue": "The CAO Handbook does not group UNIZULU programmes by faculty",
+      "choice": "Faculties assigned from the UNIZULU prospectus"
+    },
+    {
+      "item": "Closing date",
+      "issue": "Some websites give 30 September 2026; the CAO Handbook gives 31 October 2026 for on-time applications",
+      "choice": "CAO Handbook date used"
+    }
+  ]
+}
