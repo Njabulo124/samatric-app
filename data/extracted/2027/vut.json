@@ -1,0 +1,498 @@
+{
+  "intake_year": 2027,
+  "source_document": "VUT 2027 Undergraduate Minimum Admission Requirements",
+  "university": {
+    "name": "Vaal University of Technology",
+    "short_name": "VUT",
+    "institution_type": "university_of_technology",
+    "province": "Gauteng",
+    "website_url": "https://www.vut.ac.za",
+    "application_url": "https://www.vut.ac.za/nso/apply-to-vut/",
+    "application_fee": 110
+  },
+  "application_periods": [
+    {
+      "label": "General",
+      "opens_on": "2026-05-21",
+      "closes_on": "2026-10-30",
+      "notes": "Apply online on VUT's portal. The admission poster says 30 September; VUT's application page gives 30 October 2026 for South African applicants."
+    }
+  ],
+  "aps_rule": {
+    "default_scale": {
+      "name": "VUT 8-point (90-100% = 8)",
+      "bands": [
+        {
+          "min_mark": 90,
+          "max_mark": 100,
+          "points": 8
+        },
+        {
+          "min_mark": 80,
+          "max_mark": 89,
+          "points": 7
+        },
+        {
+          "min_mark": 70,
+          "max_mark": 79,
+          "points": 6
+        },
+        {
+          "min_mark": 60,
+          "max_mark": 69,
+          "points": 5
+        },
+        {
+          "min_mark": 50,
+          "max_mark": 59,
+          "points": 4
+        },
+        {
+          "min_mark": 40,
+          "max_mark": 49,
+          "points": 3
+        },
+        {
+          "min_mark": 30,
+          "max_mark": 39,
+          "points": 2
+        },
+        {
+          "min_mark": 0,
+          "max_mark": 29,
+          "points": 1
+        }
+      ]
+    },
+    "subjects_counted": 6,
+    "include_lo": false,
+    "must_count": [],
+    "subject_scales": [],
+    "notes": "Best six subjects excluding Life Orientation. Points equal the NSC level, with 90-99% printed as level 8."
+  },
+  "faculties": [
+    "Faculty of Applied and Computer Sciences"
+  ],
+  "courses": [
+    {
+      "name": "Diploma in Analytical Chemistry",
+      "faculty": "Faculty of Applied and Computer Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 21,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": 21,
+      "source_ref": "VUT 2027 Undergraduate Minimum Admission Requirements p.1",
+      "notes": "Department of Natural Sciences. Also accepts Engineering Mathematics (TVET N4) 60% instead of Maths/Tech Maths, and Engineering Sciences (TVET N4) 60% instead of Physical Science. 'Any other 3 subjects' must total 9 points. APS 21 excl. LO.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Biotechnology",
+      "faculty": "Faculty of Applied and Computer Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 23,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "VUT 2027 Undergraduate Minimum Admission Requirements p.1",
+      "notes": "Department of Natural Sciences. Also accepts Engineering Mathematics 60% instead of Mathematics, and Engineering Science 60% instead of Physical Science. Printed as 'Physical Science or Engineering Science / Life Sciences 4'; Life Sciences treated as a separate required subject. Technical Mathematics not listed. APS 23 excl. LO.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Agricultural Management",
+      "faculty": "Faculty of Applied and Computer Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 21,
+      "min_aps_maths_lit": 22,
+      "min_aps_tech_maths": 21,
+      "source_ref": "VUT 2027 Undergraduate Minimum Admission Requirements p.1",
+      "notes": "Department of Natural Sciences. Agriculture/Life Science printed as '3/3'. Recommended: Business Studies, Economics, Computer Studies, Geography. APS excl. LO.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Agricultural Sciences or Life Sciences",
+          "options": [
+            {
+              "subject": "Agricultural Sciences",
+              "min_percent": 40
+            },
+            {
+              "subject": "Life Sciences",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Environmental Science",
+      "faculty": "Faculty of Applied and Computer Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 21,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "VUT 2027 Undergraduate Minimum Admission Requirements p.1",
+      "notes": "Department of Natural Sciences. Only Mathematics listed; Technical Maths and Maths Lit not mentioned. APS 21 excl. LO.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Information Technology",
+      "faculty": "Faculty of Applied and Computer Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 26,
+      "min_aps_maths_lit": 28,
+      "min_aps_tech_maths": 26,
+      "source_ref": "VUT 2027 Undergraduate Minimum Admission Requirements p.1",
+      "notes": "Department of Computer Sciences. 3 years full time. Plus 'Other 4 subjects (excluding LO)'. Maximum of 6 subjects counted for APS, excl. LO.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Information Technology (Extended Curriculum Programme)",
+      "faculty": "Faculty of Applied and Computer Sciences",
+      "qualification_type": "diploma",
+      "is_extended": true,
+      "duration_years": null,
+      "nsc_pass_required": "diploma",
+      "min_aps": 24,
+      "min_aps_maths_lit": 26,
+      "min_aps_tech_maths": 24,
+      "source_ref": "VUT 2027 Undergraduate Minimum Admission Requirements p.1",
+      "notes": "Department of Computer Sciences. Printed as 'Extended Information Technology Programme'. Duration not printed. Plus 'Other 4 subjects (excluding LO)'. Maximum of 6 subjects counted for APS, excl. LO.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Non-Destructive Testing",
+      "faculty": "Faculty of Applied and Computer Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": null,
+      "nsc_pass_required": "diploma",
+      "min_aps": 19,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": 19,
+      "source_ref": "VUT 2027 Undergraduate Minimum Admission Requirements p.1",
+      "notes": "Department of Applied Physical Sciences. Duration not printed. APS 19 excl. LO.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences or Technical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Health Sciences in Medical Laboratory Science",
+      "faculty": "Faculty of Applied and Computer Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 27,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "VUT 2027 Undergraduate Minimum Admission Requirements p.1",
+      "notes": "Department of Health Sciences. Printed as 'Bachelor of Health Sciences: Medical Laboratory Science'. Old-system equivalents: HG D / SG C for each subject. Applicants may need industrial knowledge (e.g. job shadowing) and may have to write a placement test. APS 27 excl. LO.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ambiguities": [
+    {
+      "item": "APS scale",
+      "issue": "Poster legend runs to level 8 = 90-99% but does not state points per level",
+      "choice": "Points = level (8-point scale)"
+    },
+    {
+      "item": "Closing date",
+      "issue": "Poster: 30 September; VUT application page: 30 October 2026 (national applicants)",
+      "choice": "30 October 2026"
+    }
+  ]
+}
