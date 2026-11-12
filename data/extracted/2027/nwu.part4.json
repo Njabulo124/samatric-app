@@ -1,0 +1,1852 @@
+[
+  {
+    "name": "Bachelor of Arts in Communication",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.23",
+    "notes": "Campuses: Mahikeng, Potchefstroom, Vanderbijlpark. School of Communication. Printed as 'Bachelor of Arts (BA) Communication'. No maths requirement.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Graphic Design",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.23",
+    "notes": "Campuses: Potchefstroom. School of Communication. Selection: screening (photo portfolio of graphics or artworks, academic record, interview); only applicants who complete screening are told the outcome. The row also lists 'with Communication' as a field. No maths requirement.",
+    "closes_on": "2026-06-30",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Public Governance with Public Administration",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 25,
+    "min_aps_maths_lit": 25,
+    "min_aps_tech_maths": 25,
+    "source_ref": "NWU Prospectus 2027 p.23",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark. School of Government Studies. Printed as 'HL or FAL level 4' with no language named, taken as English or Afrikaans. No maths requirement.",
+    "requirements": [
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Public Governance with Politics and Public Administration",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 25,
+    "min_aps_maths_lit": 25,
+    "min_aps_tech_maths": 25,
+    "source_ref": "NWU Prospectus 2027 p.23",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark. School of Government Studies. Printed as 'HL or FAL level 4' with no language named, taken as English or Afrikaans. No maths requirement.",
+    "requirements": [
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Public Governance with Public Administration and Social Studies",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 25,
+    "min_aps_maths_lit": 25,
+    "min_aps_tech_maths": 25,
+    "source_ref": "NWU Prospectus 2027 p.23",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark. School of Government Studies. Printed as 'HL or FAL level 4' with no language named, taken as English or Afrikaans. No maths requirement.",
+    "requirements": [
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Public Governance with Public Administration and Geography",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 25,
+    "min_aps_maths_lit": 25,
+    "min_aps_tech_maths": 25,
+    "source_ref": "NWU Prospectus 2027 p.23",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark. School of Government Studies. Printed as 'HL or FAL level 4' with no language named, taken as English or Afrikaans. No maths requirement.",
+    "requirements": [
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Public Governance with Public Administration and Labour Relations Management",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 25,
+    "min_aps_maths_lit": 25,
+    "min_aps_tech_maths": 25,
+    "source_ref": "NWU Prospectus 2027 p.23",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark. School of Government Studies. Printed as 'HL or FAL level 4' with no language named, taken as English or Afrikaans. No maths requirement.",
+    "requirements": [
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Social Sciences with Political Studies and International Relations",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.23",
+    "notes": "Campuses: Mahikeng. School of Government Studies. Printed as 'Home Language level 4 (50-59%)' with no language named. No maths requirement.",
+    "requirements": []
+  },
+  {
+    "name": "Bachelor of Administration in Development and Management with Local Government Management",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 21,
+    "min_aps_maths_lit": 21,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.23",
+    "notes": "Campuses: Mahikeng. School of Government Studies. One APS printed for both Maths and Maths Lit; Technical Maths not mentioned.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Administration in Development and Management with Local Government Management (Extended Curriculum Programme)",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 20,
+    "min_aps_maths_lit": 20,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.23",
+    "notes": "Campuses: Mahikeng. School of Government Studies. One APS printed for both Maths and Maths Lit; Technical Maths not mentioned.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Language and Literary Studies (Mahikeng)",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.23",
+    "notes": "Campuses: Mahikeng. School of Languages. Requirements apply per language subject chosen, not to the whole programme. Subjects offered: English (ENLL), Language Practice (LPRA), Setswana HL (SETM). Prerequisites: English: English HL level 4 OR English FAL level 5. Setswana mother-tongue (SETM): Setswana/Sesotho/Sepedi HL level 4. Setswana non-mother-tongue (ATSN): none. Split by campus (subjects and prerequisites differ). No maths requirement.",
+    "requirements": []
+  },
+  {
+    "name": "Bachelor of Arts in Language and Literary Studies (Potchefstroom)",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.23",
+    "notes": "Campuses: Potchefstroom. School of Languages. Requirements apply per language subject chosen, not to the whole programme. Subjects offered: Afrikaans and Dutch (AFLL), Creative Writing (SKRK), English (ENLL), French, German, Language Practice (LPRA), Setswana HL (SETM), Setswana SAL (ATSN), South African Sign Language. Prerequisites: Afrikaans: Afrikaans HL level 4 OR FAL level 5. English: English HL level 4 OR FAL level 5. SETM: Setswana/Sesotho/Sepedi HL level 4. ATSN: none. Split by campus. No maths requirement.",
+    "requirements": []
+  },
+  {
+    "name": "Bachelor of Arts in Language and Literary Studies with Languages (Vanderbijlpark)",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.23",
+    "notes": "Campuses: Vanderbijlpark. School of Languages. Requirements apply per language subject chosen, not to the whole programme. Subjects offered: Afrikaans and Dutch (AFLL), English (ENLL), French, German, Language Practice (LPRA), Sesotho (SSLL). Prerequisites: Afrikaans: HL level 4 OR FAL level 5. English: HL level 4 OR FAL level 5. Sesotho: HL level 4 OR FAL level 5. Split by campus. No maths requirement.",
+    "requirements": []
+  },
+  {
+    "name": "Bachelor of Arts in Language and Literary Studies with Language Practice (Vanderbijlpark)",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.23",
+    "notes": "Campuses: Vanderbijlpark. School of Languages. Requirements apply per language subject chosen, not to the whole programme. Subjects offered: Afrikaans and Dutch (AFLL), English (ENLL), French, German, Language Practice (LPRA), Sesotho (SSLL). Prerequisites: Afrikaans: HL level 4 OR FAL level 5. English: HL level 4 OR FAL level 5. Sesotho: HL level 4 OR FAL level 5. Split by campus. No maths requirement.",
+    "requirements": []
+  },
+  {
+    "name": "Bachelor of Arts in Language and Literary Studies with Language Practice and Communication (Vanderbijlpark)",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.23",
+    "notes": "Campuses: Vanderbijlpark. School of Languages. Requirements apply per language subject chosen, not to the whole programme. Subjects offered: Afrikaans and Dutch (AFLL), English (ENLL), French, German, Language Practice (LPRA), Sesotho (SSLL). Prerequisites: Afrikaans: HL level 4 OR FAL level 5. English: HL level 4 OR FAL level 5. Sesotho: HL level 4 OR FAL level 5. Split by campus. No maths requirement.",
+    "requirements": []
+  },
+  {
+    "name": "Bachelor of Arts in Language Technology",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.23",
+    "notes": "Campuses: Potchefstroom. School of Languages. Also needs one language subject: Afrikaans HL level 4 or FAL level 5; English HL level 4 or FAL level 5; Setswana/Sesotho/Sepedi HL level 4 (mother-tongue); or Setswana for non-mother-tongue speakers, which has no prerequisite. Because of that last option, language isn't added as a requirement. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Information Technology, Accounting or Physical Sciences",
+        "options": [
+          {
+            "subject": "Information Technology",
+            "min_percent": 50
+          },
+          {
+            "subject": "Accounting",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Music",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 18,
+    "min_aps_maths_lit": 18,
+    "min_aps_tech_maths": 18,
+    "source_ref": "NWU Prospectus 2027 p.24",
+    "notes": "Campuses: Potchefstroom. School of Music. Laptop required for learning and assessment. Printed as 'Diploma in Music (DM)'. NSC for diploma study. Language proficiency test, musical aptitude test and audition. APS printed as 'at least 18 OR an equivalent qualification in which the final-year modules were passed with an average of at least 60%'. No maths requirement.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Music and Society",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 21,
+    "min_aps_maths_lit": 21,
+    "min_aps_tech_maths": 21,
+    "source_ref": "NWU Prospectus 2027 p.24",
+    "notes": "Campuses: Potchefstroom. School of Music. Laptop required for learning and assessment. NSC for degree study with English 50%, OR a Diploma in Music or equivalent with a 60% final-year average. Audition (practical grade 3), theory placement test (grade 2) and language proficiency test. APS 'at least 21 OR an equivalent qualification (60% final-year average)'. No maths requirement.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Baccalaureus Musicae",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.24",
+    "notes": "Campuses: Potchefstroom. School of Music. Laptop required for learning and assessment. Printed as 'Baccalaureus Musicae (BMus)'. NSC for degree study OR a Diploma in Music. No school subjects listed. Audition (practical grade 6), theory placement test (grade 5) and language proficiency test. APS 'at least 24 OR a diploma in music'. No maths requirement.",
+    "requirements": []
+  },
+  {
+    "name": "Bachelor of Philosophy with Philosophy, Politics and Economics",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "NWU Prospectus 2027 p.24",
+    "notes": "Campuses: Potchefstroom. School of Philosophy. Printed as 'HL and FAL level 4 (50-59%)' with no languages named. No maths requirement.",
+    "requirements": []
+  },
+  {
+    "name": "Bachelor of Arts in Humanities with Afrikaans and Dutch",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.24",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark. School of Philosophy section. Afrikaans HL level 4 OR FAL level 5. No maths requirement.",
+    "requirements": [
+      {
+        "description": "Afrikaans",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Humanities with English",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.24",
+    "notes": "Campuses: Mahikeng, Potchefstroom, Vanderbijlpark. English HL level 4 OR FAL level 5. No maths requirement.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Humanities with Setswana",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.24",
+    "notes": "Campuses: Mahikeng, Potchefstroom. Setswana HL level 4 OR FAL level 5. No maths requirement.",
+    "requirements": [
+      {
+        "description": "Setswana",
+        "options": [
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Humanities with Sesotho",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.24",
+    "notes": "Campuses: Vanderbijlpark. Sesotho HL level 4 OR FAL level 5. No maths requirement.",
+    "requirements": [
+      {
+        "description": "Sesotho",
+        "options": [
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Humanities with Social Sciences",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.24",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark. Language entrance requirement: Afrikaans/English/Setswana/Sesotho HL level 4 OR FAL level 5. No maths requirement.",
+    "requirements": [
+      {
+        "description": "Afrikaans, English, Setswana or Sesotho",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Humanities with Psychology",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.24",
+    "notes": "Campuses: Mahikeng, Potchefstroom, Vanderbijlpark. Language entrance requirement: Afrikaans/English/Setswana/Sesotho HL level 4 OR FAL level 5. No maths requirement.",
+    "requirements": [
+      {
+        "description": "Afrikaans, English, Setswana or Sesotho",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Humanities with History",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.24",
+    "notes": "Campuses: Mahikeng, Potchefstroom, Vanderbijlpark. Language entrance requirement: Afrikaans/English/Setswana/Sesotho HL level 4 OR FAL level 5. No maths requirement.",
+    "requirements": [
+      {
+        "description": "Afrikaans, English, Setswana or Sesotho",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Humanities with Geography",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.24",
+    "notes": "Campuses: Mahikeng, Potchefstroom, Vanderbijlpark. Language entrance requirement: Afrikaans/English/Setswana/Sesotho HL level 4 OR FAL level 5. No maths requirement.",
+    "requirements": [
+      {
+        "description": "Afrikaans, English, Setswana or Sesotho",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Humanities with French",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.24",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark. Language entrance requirement: Afrikaans/English/Setswana/Sesotho HL level 4 OR FAL level 5. No maths requirement.",
+    "requirements": [
+      {
+        "description": "Afrikaans, English, Setswana or Sesotho",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Humanities with German",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.24",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark. Language entrance requirement: Afrikaans/English/Setswana/Sesotho HL level 4 OR FAL level 5. No maths requirement.",
+    "requirements": [
+      {
+        "description": "Afrikaans, English, Setswana or Sesotho",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Humanities with History of Art",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.24",
+    "notes": "Campuses: Potchefstroom. Language entrance requirement: Afrikaans/English/Setswana/Sesotho HL level 4 OR FAL level 5. No maths requirement.",
+    "requirements": [
+      {
+        "description": "Afrikaans, English, Setswana or Sesotho",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Humanities with Politics",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.24",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark. Language entrance requirement: Afrikaans/English/Setswana/Sesotho HL level 4 OR FAL level 5. No maths requirement.",
+    "requirements": [
+      {
+        "description": "Afrikaans, English, Setswana or Sesotho",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Humanities with Social Anthropology",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.24",
+    "notes": "Campuses: Potchefstroom. Language entrance requirement: Afrikaans/English/Setswana/Sesotho HL level 4 OR FAL level 5. No maths requirement.",
+    "requirements": [
+      {
+        "description": "Afrikaans, English, Setswana or Sesotho",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Humanities with Sociology",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.24",
+    "notes": "Campuses: Mahikeng, Potchefstroom, Vanderbijlpark. Language entrance requirement: Afrikaans/English/Setswana/Sesotho HL level 4 OR FAL level 5. No maths requirement.",
+    "requirements": [
+      {
+        "description": "Afrikaans, English, Setswana or Sesotho",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Humanities with Philosophy",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.24",
+    "notes": "Campuses: Mahikeng, Potchefstroom. Language entrance requirement: Afrikaans/English/Setswana/Sesotho HL level 4 OR FAL level 5. No maths requirement.",
+    "requirements": [
+      {
+        "description": "Afrikaans, English, Setswana or Sesotho",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Humanities with History and Society",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.24",
+    "notes": "Campuses: Mahikeng, Potchefstroom. Language entrance requirement: Afrikaans/English/Setswana/Sesotho HL level 4 OR FAL level 5. No maths requirement.",
+    "requirements": [
+      {
+        "description": "Afrikaans, English, Setswana or Sesotho",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Humanities with Psychology and Society",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.24",
+    "notes": "Campuses: Mahikeng, Potchefstroom. Language entrance requirement: Afrikaans/English/Setswana/Sesotho HL level 4 OR FAL level 5. No maths requirement.",
+    "requirements": [
+      {
+        "description": "Afrikaans, English, Setswana or Sesotho",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Humanities with Geography and Society",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.24",
+    "notes": "Campuses: Mahikeng, Potchefstroom. Language entrance requirement: Afrikaans/English/Setswana/Sesotho HL level 4 OR FAL level 5. No maths requirement.",
+    "requirements": [
+      {
+        "description": "Afrikaans, English, Setswana or Sesotho",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Humanities with Politics and Society",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 24,
+    "min_aps_maths_lit": 24,
+    "min_aps_tech_maths": 24,
+    "source_ref": "NWU Prospectus 2027 p.24",
+    "notes": "Campuses: Vanderbijlpark. Language entrance requirement: Afrikaans/English/Setswana/Sesotho HL level 4 OR FAL level 5. No maths requirement.",
+    "requirements": [
+      {
+        "description": "Afrikaans, English, Setswana or Sesotho",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Social Sciences with Development Studies",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 22,
+    "min_aps_maths_lit": 22,
+    "min_aps_tech_maths": 22,
+    "source_ref": "NWU Prospectus 2027 p.24",
+    "notes": "Campuses: Mahikeng. School of Social Sciences. Language entrance requirement: Afrikaans/English/Setswana/Sesotho HL level 4 OR FAL level 5. No maths requirement.",
+    "requirements": [
+      {
+        "description": "Afrikaans, English, Setswana or Sesotho",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Social Sciences with Geography",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 22,
+    "min_aps_maths_lit": 22,
+    "min_aps_tech_maths": 22,
+    "source_ref": "NWU Prospectus 2027 p.24",
+    "notes": "Campuses: Mahikeng, Potchefstroom, Vanderbijlpark. School of Social Sciences. Language entrance requirement: Afrikaans/English/Setswana/Sesotho HL level 4 OR FAL level 5. No maths requirement.",
+    "requirements": [
+      {
+        "description": "Afrikaans, English, Setswana or Sesotho",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Social Sciences with History",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 22,
+    "min_aps_maths_lit": 22,
+    "min_aps_tech_maths": 22,
+    "source_ref": "NWU Prospectus 2027 p.24",
+    "notes": "Campuses: Mahikeng, Potchefstroom, Vanderbijlpark. School of Social Sciences. Language entrance requirement: Afrikaans/English/Setswana/Sesotho HL level 4 OR FAL level 5. No maths requirement.",
+    "requirements": [
+      {
+        "description": "Afrikaans, English, Setswana or Sesotho",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Social Sciences with Population Studies",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 22,
+    "min_aps_maths_lit": 22,
+    "min_aps_tech_maths": 22,
+    "source_ref": "NWU Prospectus 2027 p.24",
+    "notes": "Campuses: Mahikeng. School of Social Sciences. Language entrance requirement: Afrikaans/English/Setswana/Sesotho HL level 4 OR FAL level 5. No maths requirement.",
+    "requirements": [
+      {
+        "description": "Afrikaans, English, Setswana or Sesotho",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Social Sciences with Psychology and Social Sciences",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 22,
+    "min_aps_maths_lit": 22,
+    "min_aps_tech_maths": 22,
+    "source_ref": "NWU Prospectus 2027 p.24",
+    "notes": "Campuses: Mahikeng, Potchefstroom, Vanderbijlpark. School of Social Sciences. Language entrance requirement: Afrikaans/English/Setswana/Sesotho HL level 4 OR FAL level 5. No maths requirement.",
+    "requirements": [
+      {
+        "description": "Afrikaans, English, Setswana or Sesotho",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Social Sciences with Social Anthropology",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 22,
+    "min_aps_maths_lit": 22,
+    "min_aps_tech_maths": 22,
+    "source_ref": "NWU Prospectus 2027 p.24",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark. School of Social Sciences. Language entrance requirement: Afrikaans/English/Setswana/Sesotho HL level 4 OR FAL level 5. No maths requirement.",
+    "requirements": [
+      {
+        "description": "Afrikaans, English, Setswana or Sesotho",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Social Sciences with Sociology",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 22,
+    "min_aps_maths_lit": 22,
+    "min_aps_tech_maths": 22,
+    "source_ref": "NWU Prospectus 2027 p.24",
+    "notes": "Campuses: Mahikeng, Potchefstroom, Vanderbijlpark. School of Social Sciences. Language entrance requirement: Afrikaans/English/Setswana/Sesotho HL level 4 OR FAL level 5. No maths requirement.",
+    "requirements": [
+      {
+        "description": "Afrikaans, English, Setswana or Sesotho",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Social Sciences with Economics",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 22,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.24",
+    "notes": "Campuses: Mahikeng, Potchefstroom, Vanderbijlpark. School of Social Sciences. Printed as 'HL and FAL level 4 (50-59%)' with no languages named. Only Mathematics accepted.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts with Sociology and Geography",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 22,
+    "min_aps_maths_lit": 22,
+    "min_aps_tech_maths": 22,
+    "source_ref": "NWU Prospectus 2027 p.24",
+    "notes": "Campuses: Potchefstroom. School of Social Sciences. Printed as 'HL and FAL level 4 (50-59%)' with no languages named. No maths requirement.",
+    "requirements": []
+  },
+  {
+    "name": "Bachelor of Arts with Sociology and Labour Relations Management",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 22,
+    "min_aps_maths_lit": 22,
+    "min_aps_tech_maths": 22,
+    "source_ref": "NWU Prospectus 2027 p.24",
+    "notes": "Campuses: Potchefstroom. School of Social Sciences. Printed as 'HL and FAL level 4 (50-59%)' with no languages named. No maths requirement.",
+    "requirements": []
+  },
+  {
+    "name": "Bachelor of Arts in Behavioural Sciences with Sociology and Psychology",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 22,
+    "min_aps_maths_lit": 22,
+    "min_aps_tech_maths": 22,
+    "source_ref": "NWU Prospectus 2027 p.24",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark. School of Social Sciences. Printed as 'HL and FAL level 4 (50-59%)' with no languages named. No maths requirement.",
+    "requirements": []
+  }
+]
