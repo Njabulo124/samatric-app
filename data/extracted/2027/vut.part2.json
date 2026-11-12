@@ -1,0 +1,389 @@
+[
+  {
+    "name": "Diploma in Financial Information Systems",
+    "faculty": "Faculty of Management Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": 20,
+    "min_aps_maths_lit": 22,
+    "min_aps_tech_maths": 20,
+    "source_ref": "VUT 2027 Undergraduate Minimum Admission Requirements p.1",
+    "notes": "Department: Accountancy. The enquiries section calls it 'Financial Information Management'. APS excl. LO.",
+    "requirements": [
+      {
+        "description": "Accounting",
+        "options": [
+          {
+            "subject": "Accounting",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Cost and Management Accounting",
+    "faculty": "Faculty of Management Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": 20,
+    "min_aps_maths_lit": 22,
+    "min_aps_tech_maths": 20,
+    "source_ref": "VUT 2027 Undergraduate Minimum Admission Requirements p.1",
+    "notes": "Department: Accountancy. APS excl. LO.",
+    "requirements": [
+      {
+        "description": "Accounting",
+        "options": [
+          {
+            "subject": "Accounting",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Internal Auditing",
+    "faculty": "Faculty of Management Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": 20,
+    "min_aps_maths_lit": 23,
+    "min_aps_tech_maths": 20,
+    "source_ref": "VUT 2027 Undergraduate Minimum Admission Requirements p.1",
+    "notes": "Department: Accountancy. APS excl. LO.",
+    "requirements": [
+      {
+        "description": "Accounting",
+        "options": [
+          {
+            "subject": "Accounting",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Human Resources Management",
+    "faculty": "Faculty of Management Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": 20,
+    "min_aps_maths_lit": 21,
+    "min_aps_tech_maths": 20,
+    "source_ref": "VUT 2027 Undergraduate Minimum Admission Requirements p.1",
+    "notes": "Department: Human Resources Management. Plus one other subject at level 4 (50%). APS excl. LO.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Logistics and Supply Chain Management",
+    "faculty": "Faculty of Management Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": 20,
+    "min_aps_maths_lit": 21,
+    "min_aps_tech_maths": 20,
+    "source_ref": "VUT 2027 Undergraduate Minimum Admission Requirements p.1",
+    "notes": "Department: Logistics and Supply Chain Management. Plus one other subject at level 4 (50%). APS excl. LO.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Marketing",
+    "faculty": "Faculty of Management Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": 20,
+    "min_aps_maths_lit": 21,
+    "min_aps_tech_maths": 20,
+    "source_ref": "VUT 2027 Undergraduate Minimum Admission Requirements p.1",
+    "notes": "Department: Marketing, Retail Business & Sport Management. The enquiries section calls it 'Marketing Management'. Plus one other subject at level 4 (50%). APS excl. LO.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Retail Business Management",
+    "faculty": "Faculty of Management Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": 20,
+    "min_aps_maths_lit": 21,
+    "min_aps_tech_maths": 20,
+    "source_ref": "VUT 2027 Undergraduate Minimum Admission Requirements p.1",
+    "notes": "Department: Marketing, Retail Business & Sport Management. Plus one other subject at level 4 (50%). APS excl. LO.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Sport Management",
+    "faculty": "Faculty of Management Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": 20,
+    "min_aps_maths_lit": 21,
+    "min_aps_tech_maths": 20,
+    "source_ref": "VUT 2027 Undergraduate Minimum Admission Requirements p.1",
+    "notes": "Department: Marketing, Retail Business & Sport Management. Plus one other subject at level 4 (50%). APS excl. LO.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Technical Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  }
+]
