@@ -1,0 +1,646 @@
+{
+  "intake_year": 2027,
+  "source_document": "MUT Undergraduate Prospectus",
+  "university": {
+    "name": "Mangosuthu University of Technology",
+    "short_name": "MUT",
+    "institution_type": "university_of_technology",
+    "province": "KwaZulu-Natal",
+    "website_url": "https://www.mut.ac.za",
+    "application_url": "https://www.cao.ac.za",
+    "application_fee": 250
+  },
+  "application_periods": [
+    {
+      "label": "General",
+      "opens_on": "2026-03-01",
+      "closes_on": "2026-09-30",
+      "notes": "Apply through CAO. Late applications (extra CAO fee) may be accepted until 30 November 2026."
+    }
+  ],
+  "aps_rule": {
+    "default_scale": {
+      "name": "MUT 8-point (below 40% = 0)",
+      "bands": [
+        {
+          "min_mark": 90,
+          "max_mark": 100,
+          "points": 8
+        },
+        {
+          "min_mark": 80,
+          "max_mark": 89,
+          "points": 7
+        },
+        {
+          "min_mark": 70,
+          "max_mark": 79,
+          "points": 6
+        },
+        {
+          "min_mark": 60,
+          "max_mark": 69,
+          "points": 5
+        },
+        {
+          "min_mark": 50,
+          "max_mark": 59,
+          "points": 4
+        },
+        {
+          "min_mark": 40,
+          "max_mark": 49,
+          "points": 3
+        },
+        {
+          "min_mark": 0,
+          "max_mark": 39,
+          "points": 0
+        }
+      ]
+    },
+    "subjects_counted": 6,
+    "include_lo": false,
+    "must_count": [],
+    "subject_scales": [],
+    "notes": "Best six subjects excluding Life Orientation; 90-100% = 8 points down to 40-49% = 3. Minimum points per faculty as listed in the CAO handbook."
+  },
+  "faculties": [
+    "Faculty of Engineering"
+  ],
+  "courses": [
+    {
+      "name": "Diploma in Chemical Engineering",
+      "faculty": "Faculty of Engineering",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": null,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "MUT Undergraduate Prospectus p.18-19, 21",
+      "notes": "CAO code MN-M-CE3. No minimum APS printed; check the CAO handbook. Departmental screening. Campus: Umlazi. Mathematical Literacy and Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Civil Engineering",
+      "faculty": "Faculty of Engineering",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": null,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "MUT Undergraduate Prospectus p.18-19, 21",
+      "notes": "CAO code MN-M-CV3. No minimum APS printed; check the CAO handbook. Departmental screening. Campus: Umlazi. Mathematical Literacy and Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Surveying",
+      "faculty": "Faculty of Engineering",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": null,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "MUT Undergraduate Prospectus p.18-19, 21",
+      "notes": "CAO code MN-M-SV3. No minimum APS printed; check the CAO handbook. Departmental screening. Campus: Umlazi. Mathematical Literacy and Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Building",
+      "faculty": "Faculty of Engineering",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": null,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "MUT Undergraduate Prospectus p.18-19, 21",
+      "notes": "CAO code MN-M-BU3. Described as Construction Management & Quantity Surveying (Building); students later specialise in construction management or quantity surveying. No minimum APS printed; check the CAO handbook. Departmental screening. Campus: Umlazi. Mathematical Literacy and Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Electrical Engineering",
+      "faculty": "Faculty of Engineering",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": null,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "MUT Undergraduate Prospectus p.18-19, 21",
+      "notes": "CAO code MN-M-EE5. No minimum APS printed; check the CAO handbook. Departmental screening. Campus: Umlazi. Mathematical Literacy and Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Mechanical Engineering",
+      "faculty": "Faculty of Engineering",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": null,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "MUT Undergraduate Prospectus p.18-19, 21",
+      "notes": "CAO code MN-M-ME3. No minimum APS printed; check the CAO handbook. Departmental screening. Campus: Umlazi. Mathematical Literacy and Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Engineering Graphics and Design",
+          "options": [
+            {
+              "subject": "Engineering Graphics and Design",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridging Programme in Chemical Engineering",
+      "faculty": "Faculty of Engineering",
+      "qualification_type": "other",
+      "is_extended": false,
+      "duration_years": 0.5,
+      "nsc_pass_required": "diploma",
+      "min_aps": null,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "MUT Undergraduate Prospectus p.20",
+      "notes": "CAO code MN-M-CEB. 6-month bridging programme for applicants who could not meet all the Diploma in Chemical Engineering entrance requirements. Access courses ask for Level 3 (40%) in six subjects. No minimum APS printed; check the CAO handbook. Departmental screening. Campus: Umlazi. Mathematical Literacy and Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridging Programme in Civil Engineering",
+      "faculty": "Faculty of Engineering",
+      "qualification_type": "other",
+      "is_extended": false,
+      "duration_years": 0.5,
+      "nsc_pass_required": "diploma",
+      "min_aps": null,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "MUT Undergraduate Prospectus p.20",
+      "notes": "CAO code MN-M-CVB. 6-month bridging programme for applicants who could not meet all the Diploma in Civil Engineering entrance requirements. Access courses ask for Level 3 (40%) in six subjects. No minimum APS printed; check the CAO handbook. Departmental screening. Campus: Umlazi. Mathematical Literacy and Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridging Programme in Electrical Engineering",
+      "faculty": "Faculty of Engineering",
+      "qualification_type": "other",
+      "is_extended": false,
+      "duration_years": 0.5,
+      "nsc_pass_required": "diploma",
+      "min_aps": null,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "MUT Undergraduate Prospectus p.20",
+      "notes": "CAO code MN-M-EEB. 6-month bridging programme for applicants who could not meet all the Diploma in Electrical Engineering entrance requirements. Access courses ask for Level 3 (40%) in six subjects. No minimum APS printed; check the CAO handbook. Departmental screening. Campus: Umlazi. Mathematical Literacy and Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridging Programme in Mechanical Engineering",
+      "faculty": "Faculty of Engineering",
+      "qualification_type": "other",
+      "is_extended": false,
+      "duration_years": 0.5,
+      "nsc_pass_required": "diploma",
+      "min_aps": null,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "MUT Undergraduate Prospectus p.20",
+      "notes": "CAO code MN-M-MEB. 6-month bridging programme for applicants who could not meet all the Diploma in Mechanical Engineering entrance requirements. Access courses ask for Level 3 (40%) in six subjects. No minimum APS printed; check the CAO handbook. Departmental screening. Campus: Umlazi. Mathematical Literacy and Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridging Programme in Building",
+      "faculty": "Faculty of Engineering",
+      "qualification_type": "other",
+      "is_extended": false,
+      "duration_years": 0.5,
+      "nsc_pass_required": "diploma",
+      "min_aps": null,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "MUT Undergraduate Prospectus p.20",
+      "notes": "CAO code MN-M-BUB. 6-month bridging programme for applicants who could not meet all the Diploma in Building entrance requirements. Access courses ask for Level 3 (40%) in six subjects. No minimum APS printed; check the CAO handbook. Departmental screening. Campus: Umlazi. Mathematical Literacy and Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridging Programme in Surveying",
+      "faculty": "Faculty of Engineering",
+      "qualification_type": "other",
+      "is_extended": false,
+      "duration_years": 0.5,
+      "nsc_pass_required": "diploma",
+      "min_aps": null,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "MUT Undergraduate Prospectus p.20",
+      "notes": "CAO code MN-M-SVB. 6-month bridging programme for applicants who could not meet all the Diploma in Surveying entrance requirements. Access courses ask for Level 3 (40%) in six subjects. No minimum APS printed; check the CAO handbook. Departmental screening. Campus: Umlazi. Mathematical Literacy and Technical Mathematics not listed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ambiguities": [
+    {
+      "item": "Source",
+      "issue": "Prospectus year not printed on the extracted pages",
+      "choice": "Confirm figures against the CAO Handbook 2027"
+    },
+    {
+      "item": "Closing date",
+      "issue": "Main date 30 Sep 2026; CAO late applications until 30 Nov 2026",
+      "choice": "30 Sep used; late window in the period note"
+    }
+  ]
+}
