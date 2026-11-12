@@ -1,0 +1,250 @@
+[
+  {
+    "name": "Bachelor of Arts in Law with Psychology",
+    "faculty": "Faculty of Law",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.29",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark. Printed as 'Home Language AND First Additional Language level 5 (60-69%)' with no languages named; English (the language of instruction) is required at 60%. Language of instruction is English. Selection: placement process and faculty minimum requirements; academic performance is important; limited capacity.",
+    "closes_on": "2026-06-30",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Law with Politics",
+    "faculty": "Faculty of Law",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.29",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark. Printed as 'Home Language AND First Additional Language level 5 (60-69%)' with no languages named; English (the language of instruction) is required at 60%. Language of instruction is English. Selection: placement process and faculty minimum requirements; academic performance is important; limited capacity.",
+    "closes_on": "2026-06-30",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Law with Industrial Psychology",
+    "faculty": "Faculty of Law",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.29",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark. Printed as 'Home Language AND First Additional Language level 5 (60-69%)' with no languages named; English (the language of instruction) is required at 60%. Language of instruction is English. Selection: placement process and faculty minimum requirements; academic performance is important; limited capacity.",
+    "closes_on": "2026-06-30",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Law",
+    "faculty": "Faculty of Law",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 34,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.29",
+    "notes": "Campuses: Potchefstroom, Vanderbijlpark. Printed as 'Home Language AND First Additional Language level 5 (60-69%)' with no languages named; English (the language of instruction) is required at 60%. Language of instruction is English. Only Mathematics accepted. Selection: placement process and faculty minimum requirements; academic performance is important; limited capacity.",
+    "closes_on": "2026-06-30",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Laws",
+    "faculty": "Faculty of Law",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 34,
+    "min_aps_maths_lit": 34,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.29",
+    "notes": "Campuses: Mahikeng, Potchefstroom. Printed as 'Home Language AND First Additional Language level 5 (60-69%)' with no languages named; English (the language of instruction) is required at 60%. Language of instruction is English. Printed as 'Bachelor of Laws (LLB)'. Selection: placement process and faculty minimum requirements; academic performance is important; limited capacity.",
+    "closes_on": "2026-06-30",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Laws (Extended Curriculum Programme)",
+    "faculty": "Faculty of Law",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 5,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.29",
+    "notes": "Campuses: Mahikeng. Printed as 'Home Language AND First Additional Language level 4 (50-59%)' with no languages named; English (the language of instruction) is required at 50%. Language of instruction is English. Printed as 'Extended Bachelor of Laws (LLB)'. Selection: placement process and faculty minimum requirements; academic performance is important; limited capacity.",
+    "closes_on": "2026-06-30",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  }
+]
