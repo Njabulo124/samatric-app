@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Bachelor of Education in Foundation Phase Teaching",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.79",
+    "notes": "CAO code ZU-M-FPT. Campus: KwaDlangezwa (Main). Minimum 26 points. Mathematical Literacy accepted (Level 4). Technical Mathematics not listed. Taught for isiZulu Foundation Phase: handbook prints 'isiZulu HL 4 and English FAL 4'; English Home Language added at the same level. Preference to applicants who rank this programme as choice 1 or 2. HESA/USAf letter accepted for mature students.",
+    "requirements": [
+      {
+        "description": "isiZulu Home Language",
+        "options": [
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  }
+]

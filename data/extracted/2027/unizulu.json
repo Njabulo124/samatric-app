@@ -30,7 +30,8 @@
   },
   "faculties": [
     "Faculty of Commerce, Administration and Law",
-    "Faculty of Arts"
+    "Faculty of Arts",
+    "Faculty of Education"
   ],
   "courses": [
     {
@@ -1144,6 +1145,11 @@
       "item": "Bachelor of Social Work",
       "issue": "Faculty not listed in the CAO Handbook or the 2021 Arts list",
       "choice": "Placed under Faculty of Arts"
+    },
+    {
+      "item": "Education",
+      "issue": "Only BEd Foundation Phase is listed in the CAO Handbook 2027; Intermediate and Senior/FET BEd from the 2021 booklet are not",
+      "choice": "Only Foundation Phase loaded"
     }
   ]
 }
