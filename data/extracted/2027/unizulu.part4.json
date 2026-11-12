@@ -1,0 +1,4901 @@
+[
+  {
+    "name": "Bachelor of Science in Agriculture (Agronomy)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.68",
+    "notes": "CAO code ZU-M-SCA. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Agricultural Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Agriculture (Animal Science)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.68",
+    "notes": "CAO code ZU-M-SCK. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Agricultural Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Agricultural Economics (Agribusiness Management)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.68",
+    "notes": "CAO code ZU-M-SCJ. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university. Listed in the same block as Animal Science (requirements and duration shared).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Agricultural Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Applied Mathematics and Computer Science)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.168",
+    "notes": "CAO code ZU-M-AMC. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Applied Mathematics and Hydrology)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.168",
+    "notes": "CAO code ZU-M-AMH. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Applied Mathematics and Mathematics)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.168",
+    "notes": "CAO code ZU-M-AMM. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Applied Mathematics and Physics)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.168",
+    "notes": "CAO code ZU-M-APH. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Applied Mathematics and Statistics)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.168",
+    "notes": "CAO code ZU-M-AMS. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Mathematics and Physics)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.168",
+    "notes": "CAO code ZU-M-MPM. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Mathematics and Statistics)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.168",
+    "notes": "CAO code ZU-M-MAS. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Microbiology and Human Movement Science)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.168",
+    "notes": "CAO code ZU-M-MIH. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Agricultural Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Microbiology and Zoology)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.168",
+    "notes": "CAO code ZU-M-MIZ. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Agricultural Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Biochemistry and Botany)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.173",
+    "notes": "CAO code ZU-M-BBM. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Agricultural Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Biochemistry and Chemistry)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.173",
+    "notes": "CAO code ZU-M-BC3. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Agricultural Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Biochemistry and Human Movement Science)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.173",
+    "notes": "CAO code ZU-M-BH3. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Agricultural Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Biochemistry and Microbiology)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.173",
+    "notes": "CAO code ZU-M-BIM. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Agricultural Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Biochemistry and Zoology)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.173",
+    "notes": "CAO code ZU-M-BZ3. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Agricultural Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Botany and Geography)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.174",
+    "notes": "CAO code ZU-M-BOG. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Geography",
+        "options": [
+          {
+            "subject": "Geography",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Agricultural Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Botany and Hydrology)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.174",
+    "notes": "CAO code ZU-M-BOH. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Agricultural Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Botany and Microbiology)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.174",
+    "notes": "CAO code ZU-M-BOM. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Agricultural Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Botany and Zoology)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.174",
+    "notes": "CAO code ZU-M-BOZ. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Agricultural Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Chemistry and Computer Science)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.174",
+    "notes": "CAO code ZU-M-CHC. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Chemistry and Hydrology)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.174",
+    "notes": "CAO code ZU-M-CHH. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Chemistry and Mathematics)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.174",
+    "notes": "CAO code ZU-M-CHM. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Chemistry and Physics)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.174",
+    "notes": "CAO code ZU-M-CHP. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Chemistry and Zoology)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.174",
+    "notes": "CAO code ZU-M-CZM. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Agricultural Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Computer Science and Hydrology)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.175",
+    "notes": "CAO code ZU-M-CSH. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Computer Science and Mathematics)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.175",
+    "notes": "CAO code ZU-M-CSC. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Computer Science and Physics)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.175",
+    "notes": "CAO code ZU-M-CPH. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Computer Science and Statistics)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.175",
+    "notes": "CAO code ZU-M-COS. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Geography and Hydrology)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.175",
+    "notes": "CAO code ZU-M-GEH. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Geography",
+        "options": [
+          {
+            "subject": "Geography",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Geography and Physics)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.175",
+    "notes": "CAO code ZU-M-GEP. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Geography",
+        "options": [
+          {
+            "subject": "Geography",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Geography and Statistics)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.175",
+    "notes": "CAO code ZU-M-GES. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Geography",
+        "options": [
+          {
+            "subject": "Geography",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Geography and Zoology)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.175",
+    "notes": "CAO code ZU-M-GEZ. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Geography",
+        "options": [
+          {
+            "subject": "Geography",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Agricultural Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Human Movement Science and Physics)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.175",
+    "notes": "CAO code ZU-M-HMP. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Agricultural Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Hydrology and Microbiology)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.176",
+    "notes": "CAO code ZU-M-HYM. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Agricultural Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Hydrology and Physics)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.176",
+    "notes": "CAO code ZU-M-HYP. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Hydrology and Statistics)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.176",
+    "notes": "CAO code ZU-M-HYS. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Hydrology and Zoology)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.176",
+    "notes": "CAO code ZU-M-HYZ. Campus: KwaDlangezwa (Main). Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Agricultural Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented (Applied Mathematics and Computer Science) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.170",
+    "notes": "CAO code ZU-A-AM8. Campus: KwaDlangezwa (Main). Printed as 'B Sc Augmented'. Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. Applicants who have studied at tertiary institutions are not admissible.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented (Applied Mathematics and Hydrology) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.170",
+    "notes": "CAO code ZU-A-AM9. Campus: KwaDlangezwa (Main). Printed as 'B Sc Augmented'. Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. Applicants who have studied at tertiary institutions are not admissible.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented (Applied Mathematics and Mathematics) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.170",
+    "notes": "CAO code ZU-A-AM5. Campus: KwaDlangezwa (Main). Printed as 'B Sc Augmented'. Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. Applicants who have studied at tertiary institutions are not admissible.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented (Applied Mathematics and Physics) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.170",
+    "notes": "CAO code ZU-A-AM1. Campus: KwaDlangezwa (Main). Printed as 'B Sc Augmented'. Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. Applicants who have studied at tertiary institutions are not admissible.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented (Biochemistry and Botany) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.171",
+    "notes": "CAO code ZU-A-AB1. Campus: KwaDlangezwa (Main). Printed as 'B Sc Augmented'. Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. Applicants who have studied at tertiary institutions are not admissible.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented (Biochemistry and Chemistry) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.171",
+    "notes": "CAO code ZU-A-AB5. Campus: KwaDlangezwa (Main). Printed as 'B Sc Augmented'. Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. Applicants who have studied at tertiary institutions are not admissible.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented (Biochemistry and Human Movement Science) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.171",
+    "notes": "CAO code ZU-A-AB6. Campus: KwaDlangezwa (Main). Printed as 'B Sc Augmented'. Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. Applicants who have studied at tertiary institutions are not admissible.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented (Biochemistry and Microbiology) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.171",
+    "notes": "CAO code ZU-A-AB3. Campus: KwaDlangezwa (Main). Printed as 'B Sc Augmented'. Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. Applicants who have studied at tertiary institutions are not admissible.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented (Biochemistry and Zoology) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.171",
+    "notes": "CAO code ZU-A-AM6. Campus: KwaDlangezwa (Main). Printed as 'B Sc Augmented'. Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. Applicants who have studied at tertiary institutions are not admissible.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented (Botany and Geography) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.171",
+    "notes": "CAO code ZU-A-ABG. Campus: KwaDlangezwa (Main). Printed as 'B Sc Augmented'. Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. Applicants who have studied at tertiary institutions are not admissible.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Geography",
+        "options": [
+          {
+            "subject": "Geography",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented (Botany and Hydrology) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.171",
+    "notes": "CAO code ZU-A-ABH. Campus: KwaDlangezwa (Main). Printed as 'B Sc Augmented'. Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. Applicants who have studied at tertiary institutions are not admissible.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented (Botany and Microbiology) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.171",
+    "notes": "CAO code ZU-A-AB4. Campus: KwaDlangezwa (Main). Printed as 'B Sc Augmented'. Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. Applicants who have studied at tertiary institutions are not admissible. Handbook prints only English, Mathematics and Physical Sciences for this combination (no Life Sciences), unlike most Botany combinations.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented (Botany and Zoology) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.171",
+    "notes": "CAO code ZU-A-ABZ. Campus: KwaDlangezwa (Main). Printed as 'B Sc Augmented'. Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. Applicants who have studied at tertiary institutions are not admissible.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented (Chemistry and Computer Science) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.171",
+    "notes": "CAO code ZU-A-ACO. Campus: KwaDlangezwa (Main). Printed as 'B Sc Augmented'. Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. Applicants who have studied at tertiary institutions are not admissible.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented (Chemistry and Hydrology) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.171",
+    "notes": "CAO code ZU-A-AC1. Campus: KwaDlangezwa (Main). Printed as 'B Sc Augmented'. Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. Applicants who have studied at tertiary institutions are not admissible.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented (Chemistry and Mathematics) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.171",
+    "notes": "CAO code ZU-A-ATC. Campus: KwaDlangezwa (Main). Printed as 'B Sc Augmented'. Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. Applicants who have studied at tertiary institutions are not admissible.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented (Chemistry and Physics) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.171",
+    "notes": "CAO code ZU-A-APY. Campus: KwaDlangezwa (Main). Printed as 'B Sc Augmented'. Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. Applicants who have studied at tertiary institutions are not admissible.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented (Chemistry and Zoology) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.172",
+    "notes": "CAO code ZU-A-AZC. Campus: KwaDlangezwa (Main). Printed as 'B Sc Augmented'. Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. Applicants who have studied at tertiary institutions are not admissible.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented (Computer Science and Hydrology) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.172",
+    "notes": "CAO code ZU-A-AC8. Campus: KwaDlangezwa (Main). Printed as 'B Sc Augmented'. Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. Applicants who have studied at tertiary institutions are not admissible.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented (Computer Science and Mathematics) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.172",
+    "notes": "CAO code ZU-A-AC9. Campus: KwaDlangezwa (Main). Printed as 'B Sc Augmented'. Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. Applicants who have studied at tertiary institutions are not admissible.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented (Computer Science and Physics) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.172",
+    "notes": "CAO code ZU-A-AC6. Campus: KwaDlangezwa (Main). Printed as 'B Sc Augmented'. Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. Applicants who have studied at tertiary institutions are not admissible.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented (Computer Science and Statistics) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.172",
+    "notes": "CAO code ZU-A-ASI. Campus: KwaDlangezwa (Main). Printed as 'B Sc Augmented'. Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. Applicants who have studied at tertiary institutions are not admissible.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented (Geography and Hydrology) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.172",
+    "notes": "CAO code ZU-A-AGH. Campus: KwaDlangezwa (Main). Printed as 'B Sc Augmented'. Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. Applicants who have studied at tertiary institutions are not admissible.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Geography",
+        "options": [
+          {
+            "subject": "Geography",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented (Geography and Physics) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.172",
+    "notes": "CAO code ZU-A-AGP. Campus: KwaDlangezwa (Main). Printed as 'B Sc Augmented'. Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. Applicants who have studied at tertiary institutions are not admissible.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Geography",
+        "options": [
+          {
+            "subject": "Geography",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented (Geography and Statistics) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.172",
+    "notes": "CAO code ZU-A-AGS. Campus: KwaDlangezwa (Main). Printed as 'B Sc Augmented'. Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. Applicants who have studied at tertiary institutions are not admissible.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Geography",
+        "options": [
+          {
+            "subject": "Geography",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented (Geography and Zoology) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.172",
+    "notes": "CAO code ZU-A-AGZ. Campus: KwaDlangezwa (Main). Printed as 'B Sc Augmented'. Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. Applicants who have studied at tertiary institutions are not admissible.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Geography",
+        "options": [
+          {
+            "subject": "Geography",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented (Human Movement Science and Physics) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.172",
+    "notes": "CAO code ZU-A-AH1. Campus: KwaDlangezwa (Main). Printed as 'B Sc Augmented'. Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. Applicants who have studied at tertiary institutions are not admissible.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented (Hydrology and Microbiology) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.172",
+    "notes": "CAO code ZU-A-AHM. Campus: KwaDlangezwa (Main). Printed as 'B Sc Augmented'. Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. Applicants who have studied at tertiary institutions are not admissible.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented (Hydrology and Physics) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.172",
+    "notes": "CAO code ZU-A-AH2. Campus: KwaDlangezwa (Main). Printed as 'B Sc Augmented'. Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. Applicants who have studied at tertiary institutions are not admissible.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented (Hydrology and Statistics) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.172",
+    "notes": "CAO code ZU-A-AHY. Campus: KwaDlangezwa (Main). Printed as 'B Sc Augmented'. Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. Applicants who have studied at tertiary institutions are not admissible.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented (Hydrology and Zoology) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.173",
+    "notes": "CAO code ZU-A-AHZ. Campus: KwaDlangezwa (Main). Printed as 'B Sc Augmented'. Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. Applicants who have studied at tertiary institutions are not admissible.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented (Mathematics and Physics) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.173",
+    "notes": "CAO code ZU-A-AM2. Campus: KwaDlangezwa (Main). Printed as 'B Sc Augmented'. Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. Applicants who have studied at tertiary institutions are not admissible.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented (Mathematics and Statistics) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.173",
+    "notes": "CAO code ZU-A-AMT. Campus: KwaDlangezwa (Main). Printed as 'B Sc Augmented'. Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. Applicants who have studied at tertiary institutions are not admissible.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented (Microbiology and Human Movement Science) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.173",
+    "notes": "CAO code ZU-A-AMO. Campus: KwaDlangezwa (Main). Printed as 'B Sc Augmented'. Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. Applicants who have studied at tertiary institutions are not admissible.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Augmented (Microbiology and Zoology) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.173",
+    "notes": "CAO code ZU-A-AM7. Campus: KwaDlangezwa (Main). Printed as 'B Sc Augmented'. Minimum 28 points. Mathematical Literacy and Technical Mathematics not listed. Applicants who have studied at tertiary institutions are not admissible.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Foundation (Applied Mathematics and Physics) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.177",
+    "notes": "CAO code ZU-A-B6M. Campus: KwaDlangezwa (Main). Printed as 'B Sc Foundation'. Minimum 26 points. Physical Sciences Level 2 (30%) is below the usual Level 3 minimum. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university. Several streams share one requirement block in the handbook (Life Sciences Level 3 is printed for the whole block, including non-biology combinations such as Chemistry & Mathematics); requirements assigned by block.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 30
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Foundation (Biochemistry and Botany) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.177",
+    "notes": "CAO code ZU-A-B6B. Campus: KwaDlangezwa (Main). Printed as 'B Sc Foundation'. Minimum 26 points. Physical Sciences Level 2 (30%) is below the usual Level 3 minimum. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university. Several streams share one requirement block in the handbook (Life Sciences Level 3 is printed for the whole block, including non-biology combinations such as Chemistry & Mathematics); requirements assigned by block.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 30
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Foundation (Biochemistry and Microbiology) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.177",
+    "notes": "CAO code ZU-A-B6I. Campus: KwaDlangezwa (Main). Printed as 'B Sc Foundation'. Minimum 26 points. Physical Sciences Level 2 (30%) is below the usual Level 3 minimum. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university. Several streams share one requirement block in the handbook (Life Sciences Level 3 is printed for the whole block, including non-biology combinations such as Chemistry & Mathematics); requirements assigned by block.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 30
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Foundation (Biochemistry and Zoology) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.177",
+    "notes": "CAO code ZU-A-B6Z. Campus: KwaDlangezwa (Main). Printed as 'B Sc Foundation'. Minimum 26 points. Physical Sciences Level 2 (30%) is below the usual Level 3 minimum. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university. Several streams share one requirement block in the handbook (Life Sciences Level 3 is printed for the whole block, including non-biology combinations such as Chemistry & Mathematics); requirements assigned by block.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 30
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Foundation (Botany and Microbiology) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.177",
+    "notes": "CAO code ZU-A-B6T. Campus: KwaDlangezwa (Main). Printed as 'B Sc Foundation'. Minimum 26 points. Physical Sciences Level 2 (30%) is below the usual Level 3 minimum. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university. Several streams share one requirement block in the handbook (Life Sciences Level 3 is printed for the whole block, including non-biology combinations such as Chemistry & Mathematics); requirements assigned by block.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 30
+          }
+        ]
+      },
+      {
+        "description": "Agricultural Sciences or Life Sciences",
+        "options": [
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 40
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Foundation (Botany and Zoology) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.177",
+    "notes": "CAO code ZU-A-B6Y. Campus: KwaDlangezwa (Main). Printed as 'B Sc Foundation'. Minimum 26 points. Physical Sciences Level 2 (30%) is below the usual Level 3 minimum. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university. Several streams share one requirement block in the handbook (Life Sciences Level 3 is printed for the whole block, including non-biology combinations such as Chemistry & Mathematics); requirements assigned by block.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 30
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Foundation (Chemistry and Mathematics) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.177",
+    "notes": "CAO code ZU-A-B6E. Campus: KwaDlangezwa (Main). Printed as 'B Sc Foundation'. Minimum 26 points. Physical Sciences Level 2 (30%) is below the usual Level 3 minimum. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university. Several streams share one requirement block in the handbook (Life Sciences Level 3 is printed for the whole block, including non-biology combinations such as Chemistry & Mathematics); requirements assigned by block.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 30
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Foundation (Chemistry and Physics) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.177",
+    "notes": "CAO code ZU-A-B6P. Campus: KwaDlangezwa (Main). Printed as 'B Sc Foundation'. Minimum 26 points. Physical Sciences Level 2 (30%) is below the usual Level 3 minimum. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university. Several streams share one requirement block in the handbook (Life Sciences Level 3 is printed for the whole block, including non-biology combinations such as Chemistry & Mathematics); requirements assigned by block.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 30
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Foundation (Chemistry and Zoology) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.177",
+    "notes": "CAO code ZU-A-B6O. Campus: KwaDlangezwa (Main). Printed as 'B Sc Foundation'. Minimum 26 points. Physical Sciences Level 2 (30%) is below the usual Level 3 minimum. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university. Several streams share one requirement block in the handbook (Life Sciences Level 3 is printed for the whole block, including non-biology combinations such as Chemistry & Mathematics); requirements assigned by block.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 30
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Foundation (Mathematics and Physics) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.177",
+    "notes": "CAO code ZU-A-B6H. Campus: KwaDlangezwa (Main). Printed as 'B Sc Foundation'. Minimum 26 points. Physical Sciences Level 2 (30%) is below the usual Level 3 minimum. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university. Several streams share one requirement block in the handbook (Life Sciences Level 3 is printed for the whole block, including non-biology combinations such as Chemistry & Mathematics); requirements assigned by block.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 30
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Foundation (Biochemistry and Chemistry) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.177",
+    "notes": "CAO code ZU-A-B6C. Campus: KwaDlangezwa (Main). Printed as 'B Sc Foundation'. Minimum 26 points. Physical Sciences Level 2 (30%) is below the usual Level 3 minimum. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university. Several streams share one requirement block in the handbook (Life Sciences Level 3 is printed for the whole block, including non-biology combinations such as Chemistry & Mathematics); requirements assigned by block.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 30
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science Foundation (Microbiology and Zoology) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 26,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.177",
+    "notes": "CAO code ZU-A-B6G. Campus: KwaDlangezwa (Main). Printed as 'B Sc Foundation'. Minimum 26 points. Physical Sciences Level 2 (30%) is below the usual Level 3 minimum. Mathematical Literacy and Technical Mathematics not listed. First preference to applicants who never studied previously at any other university. Several streams share one requirement block in the handbook (Life Sciences Level 3 is printed for the whole block, including non-biology combinations such as Chemistry & Mathematics); requirements assigned by block.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 30
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering in Electrical and Computer Engineering",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.88",
+    "notes": "CAO code ZU-R-BOE. Campus: Richards Bay. Minimum 30 points. Mathematics Level 5 with a minimum of 65%. Mathematical Literacy not accepted; Technical Mathematics not listed. Preference to applicants with NSC endorsement who applied on time. Applicants ranked by Mathematics + Physical Sciences (minimum combined 100%). Bachelor-pass applicants missing the Maths/Physical Sciences requirement may present N4 Maths and Engineering Science plus two of Engineering Drawing, Mechanotechnics, Electrotechnics (50%, same sitting). First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 65
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering in Electrical Engineering",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.88",
+    "notes": "CAO code ZU-R-BEZ. Campus: Richards Bay. Minimum 30 points. Mathematics Level 5 with a minimum of 65%. Mathematical Literacy not accepted; Technical Mathematics not listed. Preference to applicants with NSC endorsement who applied on time. Applicants ranked by Mathematics + Physical Sciences (minimum combined 100%). Bachelor-pass applicants missing the Maths/Physical Sciences requirement may present N4 Maths and Engineering Science plus two of Engineering Drawing, Mechanotechnics, Electrotechnics (50%, same sitting). First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 65
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering in Mechanical Engineering",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.88",
+    "notes": "CAO code ZU-R-BMZ. Campus: Richards Bay. Minimum 30 points. Mathematics Level 5 with a minimum of 65%. Mathematical Literacy not accepted; Technical Mathematics not listed. Preference to applicants with NSC endorsement who applied on time. Applicants ranked by Mathematics + Physical Sciences (minimum combined 100%). Bachelor-pass applicants missing the Maths/Physical Sciences requirement may present N4 Maths and Engineering Science plus two of Engineering Drawing, Mechanotechnics, Electrotechnics (50%, same sitting). First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 65
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering in Mechatronic Engineering",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.91",
+    "notes": "CAO code ZU-R-BM7. Campus: Richards Bay. Minimum 30 points. Mathematics Level 5 with a minimum of 65%. Mathematical Literacy not accepted; Technical Mathematics not listed. Preference to applicants with NSC endorsement who applied on time. Bachelor-pass applicants missing the Maths/Physical Sciences requirement may present N4 and N5 subjects: 70% in N4 and N5 Maths, 70% average in all N4 subjects and 60% average in N5, plus 50% English HL or FAL. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 65
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Nursing Science",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": null,
+    "source_ref": "CAO Handbook 2027 p.156",
+    "notes": "CAO code ZU-M-BNS. Campus: KwaDlangezwa (Main). Minimum 30 points. Mathematical Literacy accepted (Level 6). Technical Mathematics not listed. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Consumer Science in Extension and Rural Development",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "CAO Handbook 2027 p.102",
+    "notes": "CAO code ZU-M-BPE. Campus: KwaDlangezwa (Main). Minimum 28 points. No Mathematics requirement. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Agricultural Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Consumer Science in Hospitality and Tourism",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "CAO Handbook 2027 p.189",
+    "notes": "CAO code ZU-M-BPT. Campus: KwaDlangezwa (Main). Minimum 28 points. No Mathematics requirement. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Hospitality Management",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "CAO Handbook 2027 p.189",
+    "notes": "CAO code ZU-R-DHM. Campus: Richards Bay. Minimum 26 points. No Mathematics requirement. Also requires four 20-credit subjects (excluding languages) at Level 3. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Sport and Exercise Technology",
+    "faculty": "Faculty of Science and Agriculture",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 26,
+    "min_aps_maths_lit": 26,
+    "min_aps_tech_maths": 26,
+    "source_ref": "CAO Handbook 2027 p.182",
+    "notes": "CAO code ZU-R-SET. Campus: Richards Bay. Minimum 26 points. No Mathematics requirement. Also requires any other five NSC subjects (excluding LO). Called 'Diploma in Sport and Exercise' in the 2021 booklet. First preference to applicants who never studied previously at any other university.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  }
+]

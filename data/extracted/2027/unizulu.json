@@ -31,7 +31,8 @@
   "faculties": [
     "Faculty of Commerce, Administration and Law",
     "Faculty of Arts",
-    "Faculty of Education"
+    "Faculty of Education",
+    "Faculty of Science and Agriculture"
   ],
   "courses": [
     {
@@ -1150,6 +1151,11 @@
       "item": "Education",
       "issue": "Only BEd Foundation Phase is listed in the CAO Handbook 2027; Intermediate and Senior/FET BEd from the 2021 booklet are not",
       "choice": "Only Foundation Phase loaded"
+    },
+    {
+      "item": "Engineering and Nursing",
+      "issue": "New BEng (Richards Bay) and Bachelor of Nursing Science are not grouped by faculty in the CAO Handbook",
+      "choice": "Placed under Faculty of Science and Agriculture"
     }
   ]
 }
