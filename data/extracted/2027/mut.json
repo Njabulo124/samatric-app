@@ -66,7 +66,8 @@
     "notes": "Best six subjects excluding Life Orientation; 90-100% = 8 points down to 40-49% = 3. Minimum points per faculty as listed in the CAO handbook."
   },
   "faculties": [
-    "Faculty of Engineering"
+    "Faculty of Engineering",
+    "Faculty of Management Sciences"
   ],
   "courses": [
     {
