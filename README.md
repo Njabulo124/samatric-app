@@ -25,7 +25,8 @@ A learner enters their matric marks once. The app then:
 | University of Fort Hare (UFH) | 52 | UFH Undergraduate Study Guide 2027 |
 | Durban University of Technology (DUT) | 95 | DUT Study Opportunities 2027 |
 | University of the Witwatersrand (Wits) | 60 | Wits Grade 12 presentation (2026 intake; confirm 2027 on wits.ac.za) |
-| **Total** | **768** | |
+| Mangosuthu University of Technology (MUT) | 27 | MUT Undergraduate Prospectus |
+| **Total** | **795** | |
 
 ---
 
@@ -143,7 +144,7 @@ From the terminal: `npm run check -- samples/strong-science.json --uni WSU --sho
 
 - [x] Eligibility engine with per-university APS rules
 - [x] Prospectus pipeline with validation and change detection
-- [x] UJ, TUT, UP, UKZN, WSU, UFH, DUT and Wits 2027 data (768 courses)
+- [x] UJ, TUT, UP, UKZN, WSU, UFH, DUT, Wits and MUT 2027 data (795 courses)
 - [ ] Clearer, learner-friendly UI that works well on phones
 - [ ] More universities
 - [ ] NSC pass-type check (Bachelor / Diploma / Higher Certificate)
