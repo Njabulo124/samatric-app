@@ -1,0 +1,326 @@
+[
+  {
+    "name": "Bachelor of Engineering in Chemical Engineering",
+    "faculty": "Faculty of Engineering",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 34,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.28",
+    "notes": "Campuses: Potchefstroom. Language of instruction: English. Applicants with borderline Grade 11 results may be conditionally accepted if final Grade 12 results meet the minimums. Learners with 40%+ in Maths and Physical Sciences and 60% in the language of instruction can apply for the 1-year Xcel bridging programme.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering in Electrical and Electronic Engineering",
+    "faculty": "Faculty of Engineering",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 34,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.28",
+    "notes": "Campuses: Potchefstroom. Language of instruction: English. Applicants with borderline Grade 11 results may be conditionally accepted if final Grade 12 results meet the minimums. Learners with 40%+ in Maths and Physical Sciences and 60% in the language of instruction can apply for the 1-year Xcel bridging programme.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering in Computer and Electronic Engineering",
+    "faculty": "Faculty of Engineering",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 34,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.28",
+    "notes": "Campuses: Potchefstroom. Language of instruction: English. Applicants with borderline Grade 11 results may be conditionally accepted if final Grade 12 results meet the minimums. Learners with 40%+ in Maths and Physical Sciences and 60% in the language of instruction can apply for the 1-year Xcel bridging programme.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering in Mechanical Engineering",
+    "faculty": "Faculty of Engineering",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 34,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.28",
+    "notes": "Campuses: Potchefstroom. Language of instruction: English. Applicants with borderline Grade 11 results may be conditionally accepted if final Grade 12 results meet the minimums. Learners with 40%+ in Maths and Physical Sciences and 60% in the language of instruction can apply for the 1-year Xcel bridging programme.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering in Industrial Engineering",
+    "faculty": "Faculty of Engineering",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 34,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.28",
+    "notes": "Campuses: Potchefstroom. Language of instruction: English. Applicants with borderline Grade 11 results may be conditionally accepted if final Grade 12 results meet the minimums. Learners with 40%+ in Maths and Physical Sciences and 60% in the language of instruction can apply for the 1-year Xcel bridging programme.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering in Mechatronic Engineering",
+    "faculty": "Faculty of Engineering",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 34,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "NWU Prospectus 2027 p.28",
+    "notes": "Campuses: Potchefstroom. Language of instruction: English. Applicants with borderline Grade 11 results may be conditionally accepted if final Grade 12 results meet the minimums. Learners with 40%+ in Maths and Physical Sciences and 60% in the language of instruction can apply for the 1-year Xcel bridging programme.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  }
+]
