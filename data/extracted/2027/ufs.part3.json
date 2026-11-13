@@ -1,0 +1,453 @@
+[
+  {
+    "name": "Bachelor of Medical Science in Radiation Science",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.18",
+    "notes": "Campus: Bloemfontein. Plan code BC831000. Table lists both Life Sciences and Physical Sciences at 60%. Selection programme: must be your FIRST choice. Selection rules: www.ufs.ac.za/healthselection.",
+    "closes_on": "2026-05-31",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Medicine and Bachelor of Surgery",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 36,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.18",
+    "notes": "Campus: Bloemfontein. Plan code C834100 (as printed). MB ChB. Table lists both Life Sciences and Physical Sciences at 60%. Selection programme: must be your FIRST choice. Selection rules: www.ufs.ac.za/healthselection.",
+    "closes_on": "2026-05-31",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Optometry",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 33,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.18-19",
+    "notes": "Campus: Bloemfontein. Plan code BC8413033. Needs Life Sciences and/or Physical Sciences; having both helps. Selection programme: must be your FIRST choice. Selection rules: www.ufs.ac.za/healthselection.",
+    "closes_on": "2026-05-31",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 60
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Physiotherapy",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 33,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.18-19",
+    "notes": "Campus: Bloemfontein. Plan code BC842002. Needs Life Sciences and/or Physical Sciences; having both helps. Selection programme: must be your FIRST choice. Selection rules: www.ufs.ac.za/healthselection.",
+    "closes_on": "2026-05-31",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 60
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Dietetics",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 33,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.18-19",
+    "notes": "Campus: Bloemfontein. Plan code BC846002. Needs Life Sciences and/or Physical Sciences; having both helps. Selection programme: must be your FIRST choice. Selection rules: www.ufs.ac.za/healthselection.",
+    "closes_on": "2026-05-31",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 60
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Occupational Therapy",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 33,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.18-19",
+    "notes": "Campus: Bloemfontein. Plan code BC843100. Needs Life Sciences and/or Physical Sciences; having both helps. Selection programme: must be your FIRST choice. Selection rules: www.ufs.ac.za/healthselection.",
+    "closes_on": "2026-05-31",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 60
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Biokinetics",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.18-19",
+    "notes": "Campus: Bloemfontein. Plan code BC844000/BC844001. Needs Life Sciences and/or Physical Sciences; having both helps. Selection programme: must be your FIRST choice. Selection rules: www.ufs.ac.za/healthselection.",
+    "closes_on": "2026-05-31",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Sport Coaching",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.18-19",
+    "notes": "Campus: Bloemfontein. Plan code BC834000. Only English printed; maths and science columns blank. Selection programme: must be your FIRST choice. Selection rules: www.ufs.ac.za/healthselection.",
+    "closes_on": "2026-05-31",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Nursing",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": null,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.19",
+    "notes": "Campus: Bloemfontein. Plan code BC849000. Maths 40% OR Maths Lit 70%. Life Sciences 60% OR Physical Sciences 50%. Senior-applicant enquiries: klopper1@ufs.ac.za. Selection programme: must be your FIRST choice. Selection rules: www.ufs.ac.za/healthselection.",
+    "closes_on": "2026-07-31",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Physical Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 60
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  }
+]
