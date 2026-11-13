@@ -31,7 +31,8 @@ A learner enters their matric marks once. The app then:
 | North-West University (NWU) | 240 | NWU 2027 Grade 12 Prospectus |
 | University of Limpopo (UL) | 54 | UL Undergraduate Prospectus 2027 |
 | Sefako Makgatho Health Sciences University (SMU) | 17 | SMU Prospectus 2026/2027 |
-| **Total** | **1,313** | |
+| University of Venda (UNIVEN) | 77 | UNIVEN 2027 Undergraduate Programmes |
+| **Total** | **1,390** | |
 
 ---
 
@@ -149,7 +150,7 @@ From the terminal: `npm run check -- samples/strong-science.json --uni WSU --sho
 
 - [x] Eligibility engine with per-university APS rules
 - [x] Prospectus pipeline with validation and change detection
-- [x] UJ, TUT, UP, UKZN, WSU, UFH, DUT, Wits, MUT, UNIZULU, VUT, NWU, UL and SMU 2027 data (1,313 courses)
+- [x] UJ, TUT, UP, UKZN, WSU, UFH, DUT, Wits, MUT, UNIZULU, VUT, NWU, UL, SMU and UNIVEN 2027 data (1,390 courses)
 - [ ] Clearer, learner-friendly UI that works well on phones
 - [ ] More universities
 - [ ] NSC pass-type check (Bachelor / Diploma / Higher Certificate)

@@ -343,7 +343,8 @@
   "faculties": [
     "Faculty of Humanities, Social Sciences and Education",
     "Faculty of Health Sciences",
-    "Faculty of Management, Commerce and Law"
+    "Faculty of Management, Commerce and Law",
+    "Faculty of Science, Engineering and Agriculture"
   ],
   "courses": [
     {
@@ -995,6 +996,11 @@
       "item": "African language",
       "issue": "Some BA programmes ask for 'an African language' without naming it",
       "choice": "Tshivenda, Sepedi or Xitsonga, the languages UNIVEN names for its BEd"
+    },
+    {
+      "item": "Extended BSc (5 streams)",
+      "issue": "Maths & Physics, Maths & Statistics, Physics & Chemistry, Chemistry & Maths and Chemistry & Biochemistry are printed with the Freshwater Diploma requirements (APS 24, English 30%, no Maths), which looks like a copy error",
+      "choice": "Left out until UNIVEN confirms; the other 8 Extended BSc streams are loaded"
     }
   ]
 }
