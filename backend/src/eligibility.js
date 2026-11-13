@@ -162,13 +162,15 @@ export function evaluateCourse(course, marks, aps, closeAps = CLOSE_LIMITS.apsPo
  * null/undefined = the university's rule as is.
  */
 export function courseRule(rule, course) {
+  let r = rule;
   if (course.includeLo === true && !rule.includeLo) {
-    return { ...rule, includeLo: true, subjectsCounted: rule.subjectsCounted + 1 };
+    r = { ...rule, includeLo: true, subjectsCounted: rule.subjectsCounted + 1 };
+  } else if (course.includeLo === false && rule.includeLo) {
+    r = { ...rule, includeLo: false, subjectsCounted: rule.subjectsCounted - 1 };
   }
-  if (course.includeLo === false && rule.includeLo) {
-    return { ...rule, includeLo: false, subjectsCounted: rule.subjectsCounted - 1 };
-  }
-  return rule;
+  // Course-level subject weights (UCT Science counts Maths and Physical Sciences twice)
+  if (course.apsWeights?.length) r = { ...r, weights: course.apsWeights };
+  return r;
 }
 
 const STATUS_ORDER = { qualifies: 0, check: 1, close: 2, not_eligible: 3 };

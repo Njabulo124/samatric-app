@@ -49,6 +49,8 @@ The API also returns `apsWorking`, the counted subjects with their points and wh
 
 `courses.include_lo = true` means LO counts as an **extra** subject for that course only, e.g. WSU B.Ed Foundation Phase counts 7 subjects including LO. `false` removes LO for that course where the university counts it, e.g. SMU counts LO but its Emergency Medical Care totals do not. `null` means the university's rule applies.
 
+`courses.aps_weights` subjects counted more than once in this course's score, e.g. UCT Science `[{"subjects": ["Mathematics"], "weight": 2}, {"subjects": ["Physical Sciences", "Information Technology", "Life Sciences"], "weight": 2}]`. `subjects` are alternatives in priority order; the first one the learner counts gets the weight. NULL = no weighting.
+
 ## Requirement groups ("AND of ORs")
 
 Every group must pass. A group passes when **at least `min_count`** of its options are met.

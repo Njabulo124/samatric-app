@@ -104,6 +104,9 @@ def db_reference_errors(doc: ProspectusExtract) -> list[str]:
         for g in c.requirements:
             for o in g.options:
                 used.append((f"course '{c.name}' / group '{g.description}'", o.subject))
+        for w in c.aps_weights or []:
+            for subj in w.subjects:
+                used.append((f"course '{c.name}' / aps_weights", subj))
     for ss in doc.aps_rule.subject_scales:
         used.append(("aps_rule.subject_scales", ss.subject))
     for slot in doc.aps_rule.must_count:

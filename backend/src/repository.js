@@ -47,7 +47,7 @@ export async function loadCourses(db, intakeYear, { universities } = {}) {
   const uniParam = universities?.length ? universities : null;
   const { rows: courses } = await db.query(
     `SELECT c.course_id, c.name, u.short_name, f.name AS faculty, c.min_aps, c.min_aps_maths_lit,
-            c.min_aps_tech_maths, c.notes, c.qualification_type, c.is_extended, c.include_lo,
+            c.min_aps_tech_maths, c.notes, c.qualification_type, c.is_extended, c.include_lo, c.aps_weights,
             c.duration_years::float AS duration_years, c.nsc_pass_required, c.source_ref,
             c.closes_on::text AS closes_on
      FROM courses c
@@ -87,6 +87,7 @@ export async function loadCourses(db, intakeYear, { universities } = {}) {
     minApsMathsLit: c.min_aps_maths_lit,
     minApsTechMaths: c.min_aps_tech_maths,
     includeLo: c.include_lo,
+    apsWeights: c.aps_weights ?? null,
     durationYears: c.duration_years,
     nscPassRequired: c.nsc_pass_required,
     sourceRef: c.source_ref,

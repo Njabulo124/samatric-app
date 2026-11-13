@@ -349,7 +349,8 @@
     "Faculty of Engineering & the Built Environment",
     "Faculty of Health Sciences",
     "Faculty of Humanities",
-    "Faculty of Law"
+    "Faculty of Law",
+    "Faculty of Science"
   ],
   "courses": [
     {
@@ -1927,6 +1928,16 @@
       "item": "Health Sciences minimum",
       "issue": "Health FPS (out of 900) includes NBT scores the app cannot calculate",
       "choice": "min_aps = printed sub-minimum APS out of 600 (English + Maths + science + next 3 best); FPS bands and NBT levels in notes; 'next three best at 60/70%' rule in notes only"
+    },
+    {
+      "item": "Science weighting",
+      "issue": "Science FPS counts Mathematics and Physical Sciences twice (out of 800); for Archaeology and Environmental & Geographical Science, Life Sciences or IT may be doubled instead, and for Computer Science/Business Computing IT may replace Physical Sciences",
+      "choice": "Per-course aps_weights: Maths x2 and the first available of Physical Sciences / IT / Life Sciences x2"
+    },
+    {
+      "item": "Life Sciences / IT at 60%",
+      "issue": "UCT prints 60% only for Physical Sciences",
+      "choice": "60% applied to Life Sciences / IT where they replace it"
     }
   ]
 }

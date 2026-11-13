@@ -1,0 +1,1066 @@
+[
+  {
+    "name": "Bachelor of Science (Applied Mathematics major)",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 550,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.64-70",
+    "notes": "Minimum FPS 550/800 (Band C, possible admission; SA applicants in targeted redress categories). Band A (guaranteed): FPS 660+. Band B (likely): WPS 640+. Most offers are made in Band A. Science FPS out of 800: Mathematics and Physical Sciences count twice. Physical Sciences required; Life Sciences/IT may NOT replace it for this major. International applicants: Physics required for this major. No English percentage printed for NSC applicants (English still counts in the FPS). Technical Mathematics/Mathematical Literacy not accepted. NBTs (Mathematics, AL & QL) must be written but are not used for admission; used with mid-term class tests to place some students into the 4-year Extended Degree Programme (no separate application). Applicants are admitted to the BSc, not to a major; recommended to take 2 Science majors.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ],
+    "aps_weights": [
+      {
+        "subjects": [
+          "Mathematics"
+        ],
+        "weight": 2
+      },
+      {
+        "subjects": [
+          "Physical Sciences"
+        ],
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Applied Statistics major)",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 550,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.64-70",
+    "notes": "Minimum FPS 550/800 (Band C, possible admission; SA applicants in targeted redress categories). Band A (guaranteed): FPS 660+. Band B (likely): WPS 640+. Most offers are made in Band A. Science FPS out of 800: Mathematics and Physical Sciences count twice. Physical Sciences required; Life Sciences/IT may NOT replace it for this major. International applicants: Physics required for this major. No English percentage printed for NSC applicants (English still counts in the FPS). Technical Mathematics/Mathematical Literacy not accepted. NBTs (Mathematics, AL & QL) must be written but are not used for admission; used with mid-term class tests to place some students into the 4-year Extended Degree Programme (no separate application). Applicants are admitted to the BSc, not to a major; recommended to take 2 Science majors.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ],
+    "aps_weights": [
+      {
+        "subjects": [
+          "Mathematics"
+        ],
+        "weight": 2
+      },
+      {
+        "subjects": [
+          "Physical Sciences"
+        ],
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Archaeology major)",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 550,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.64-70",
+    "notes": "Minimum FPS 550/800 (Band C, possible admission; SA applicants in targeted redress categories). Band A (guaranteed): FPS 660+. Band B (likely): WPS 640+. Most offers are made in Band A. Science FPS out of 800: Mathematics and Physical Sciences count twice. Physical Sciences NOT required for this major: one of only two majors open to applicants without Physical Sciences or IT; Life Sciences or IT may then be counted twice instead. ASSUMPTION: 60% applied to Life Sciences/IT (UCT prints 60% only for Physical Sciences). No English percentage printed for NSC applicants (English still counts in the FPS). Technical Mathematics/Mathematical Literacy not accepted. NBTs (Mathematics, AL & QL) must be written but are not used for admission; used with mid-term class tests to place some students into the 4-year Extended Degree Programme (no separate application). Applicants are admitted to the BSc, not to a major; recommended to take 2 Science majors.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences, Information Technology or Life Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          },
+          {
+            "subject": "Information Technology",
+            "min_percent": 60
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ],
+    "aps_weights": [
+      {
+        "subjects": [
+          "Mathematics"
+        ],
+        "weight": 2
+      },
+      {
+        "subjects": [
+          "Physical Sciences",
+          "Information Technology",
+          "Life Sciences"
+        ],
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Artificial Intelligence major)",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 550,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.64-70",
+    "notes": "Minimum FPS 550/800 (Band C, possible admission; SA applicants in targeted redress categories). Band A (guaranteed): FPS 660+. Band B (likely): WPS 640+. Most offers are made in Band A. Science FPS out of 800: Mathematics and Physical Sciences count twice. Physical Sciences required; Life Sciences/IT may NOT replace it for this major. International applicants: Physics required for this major. Limited-enrolment major: selection during first year on academic criteria; acceptance into the Faculty does not guarantee this major. Designed as a co-major with Computer Science, Mathematical Statistics or Mathematics. No English percentage printed for NSC applicants (English still counts in the FPS). Technical Mathematics/Mathematical Literacy not accepted. NBTs (Mathematics, AL & QL) must be written but are not used for admission; used with mid-term class tests to place some students into the 4-year Extended Degree Programme (no separate application). Applicants are admitted to the BSc, not to a major; recommended to take 2 Science majors.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ],
+    "aps_weights": [
+      {
+        "subjects": [
+          "Mathematics"
+        ],
+        "weight": 2
+      },
+      {
+        "subjects": [
+          "Physical Sciences"
+        ],
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Astrophysics major)",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 550,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.64-70",
+    "notes": "Minimum FPS 550/800 (Band C, possible admission; SA applicants in targeted redress categories). Band A (guaranteed): FPS 660+. Band B (likely): WPS 640+. Most offers are made in Band A. Science FPS out of 800: Mathematics and Physical Sciences count twice. Physical Sciences required; Life Sciences/IT may NOT replace it for this major. International applicants: Physics required for this major. No English percentage printed for NSC applicants (English still counts in the FPS). Technical Mathematics/Mathematical Literacy not accepted. NBTs (Mathematics, AL & QL) must be written but are not used for admission; used with mid-term class tests to place some students into the 4-year Extended Degree Programme (no separate application). Applicants are admitted to the BSc, not to a major; recommended to take 2 Science majors.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ],
+    "aps_weights": [
+      {
+        "subjects": [
+          "Mathematics"
+        ],
+        "weight": 2
+      },
+      {
+        "subjects": [
+          "Physical Sciences"
+        ],
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Biochemistry major)",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 550,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.64-70",
+    "notes": "Minimum FPS 550/800 (Band C, possible admission; SA applicants in targeted redress categories). Band A (guaranteed): FPS 660+. Band B (likely): WPS 640+. Most offers are made in Band A. Science FPS out of 800: Mathematics and Physical Sciences count twice. Physical Sciences required; Life Sciences/IT may NOT replace it for this major. International applicants: Chemistry required for this major. Limited-enrolment major: selection during first year on academic criteria; acceptance into the Faculty does not guarantee this major. No English percentage printed for NSC applicants (English still counts in the FPS). Technical Mathematics/Mathematical Literacy not accepted. NBTs (Mathematics, AL & QL) must be written but are not used for admission; used with mid-term class tests to place some students into the 4-year Extended Degree Programme (no separate application). Applicants are admitted to the BSc, not to a major; recommended to take 2 Science majors.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ],
+    "aps_weights": [
+      {
+        "subjects": [
+          "Mathematics"
+        ],
+        "weight": 2
+      },
+      {
+        "subjects": [
+          "Physical Sciences"
+        ],
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Biology major)",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 550,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.64-70",
+    "notes": "Minimum FPS 550/800 (Band C, possible admission; SA applicants in targeted redress categories). Band A (guaranteed): FPS 660+. Band B (likely): WPS 640+. Most offers are made in Band A. Science FPS out of 800: Mathematics and Physical Sciences count twice. Physical Sciences required; Life Sciences/IT may NOT replace it for this major. International applicants: Chemistry required for this major. No English percentage printed for NSC applicants (English still counts in the FPS). Technical Mathematics/Mathematical Literacy not accepted. NBTs (Mathematics, AL & QL) must be written but are not used for admission; used with mid-term class tests to place some students into the 4-year Extended Degree Programme (no separate application). Applicants are admitted to the BSc, not to a major; recommended to take 2 Science majors.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ],
+    "aps_weights": [
+      {
+        "subjects": [
+          "Mathematics"
+        ],
+        "weight": 2
+      },
+      {
+        "subjects": [
+          "Physical Sciences"
+        ],
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Business Computing major)",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 550,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.64-70",
+    "notes": "Minimum FPS 550/800 (Band C, possible admission; SA applicants in targeted redress categories). Band A (guaranteed): FPS 660+. Band B (likely): WPS 640+. Most offers are made in Band A. Science FPS out of 800: Mathematics and Physical Sciences count twice. Information Technology may replace Physical Sciences (and is then counted twice) for this major, only where Physical Sciences was not taken. Life Sciences may not replace it. Limited-enrolment major: selection during first year on academic criteria; acceptance into the Faculty does not guarantee this major. Linked to the primary Computer Science major. No English percentage printed for NSC applicants (English still counts in the FPS). Technical Mathematics/Mathematical Literacy not accepted. NBTs (Mathematics, AL & QL) must be written but are not used for admission; used with mid-term class tests to place some students into the 4-year Extended Degree Programme (no separate application). Applicants are admitted to the BSc, not to a major; recommended to take 2 Science majors.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Information Technology",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          },
+          {
+            "subject": "Information Technology",
+            "min_percent": 60
+          }
+        ]
+      }
+    ],
+    "aps_weights": [
+      {
+        "subjects": [
+          "Mathematics"
+        ],
+        "weight": 2
+      },
+      {
+        "subjects": [
+          "Physical Sciences",
+          "Information Technology"
+        ],
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Chemistry major)",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 550,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.64-70",
+    "notes": "Minimum FPS 550/800 (Band C, possible admission; SA applicants in targeted redress categories). Band A (guaranteed): FPS 660+. Band B (likely): WPS 640+. Most offers are made in Band A. Science FPS out of 800: Mathematics and Physical Sciences count twice. Physical Sciences required; Life Sciences/IT may NOT replace it for this major. International applicants: Chemistry required for this major. No English percentage printed for NSC applicants (English still counts in the FPS). Technical Mathematics/Mathematical Literacy not accepted. NBTs (Mathematics, AL & QL) must be written but are not used for admission; used with mid-term class tests to place some students into the 4-year Extended Degree Programme (no separate application). Applicants are admitted to the BSc, not to a major; recommended to take 2 Science majors.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ],
+    "aps_weights": [
+      {
+        "subjects": [
+          "Mathematics"
+        ],
+        "weight": 2
+      },
+      {
+        "subjects": [
+          "Physical Sciences"
+        ],
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Computer Science major)",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 550,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.64-70",
+    "notes": "Minimum FPS 550/800 (Band C, possible admission; SA applicants in targeted redress categories). Band A (guaranteed): FPS 660+. Band B (likely): WPS 640+. Most offers are made in Band A. Science FPS out of 800: Mathematics and Physical Sciences count twice. Information Technology may replace Physical Sciences (and is then counted twice) for this major, only where Physical Sciences was not taken. Life Sciences may not replace it. Limited-enrolment major: selection during first year on academic criteria; acceptance into the Faculty does not guarantee this major. No English percentage printed for NSC applicants (English still counts in the FPS). Technical Mathematics/Mathematical Literacy not accepted. NBTs (Mathematics, AL & QL) must be written but are not used for admission; used with mid-term class tests to place some students into the 4-year Extended Degree Programme (no separate application). Applicants are admitted to the BSc, not to a major; recommended to take 2 Science majors.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Information Technology",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          },
+          {
+            "subject": "Information Technology",
+            "min_percent": 60
+          }
+        ]
+      }
+    ],
+    "aps_weights": [
+      {
+        "subjects": [
+          "Mathematics"
+        ],
+        "weight": 2
+      },
+      {
+        "subjects": [
+          "Physical Sciences",
+          "Information Technology"
+        ],
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Computer Engineering major)",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 550,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.64-70",
+    "notes": "Minimum FPS 550/800 (Band C, possible admission; SA applicants in targeted redress categories). Band A (guaranteed): FPS 660+. Band B (likely): WPS 640+. Most offers are made in Band A. Science FPS out of 800: Mathematics and Physical Sciences count twice. Physical Sciences required; Life Sciences/IT may NOT replace it for this major. International applicants: Physics required for this major. Limited-enrolment major: selection during first year on academic criteria; acceptance into the Faculty does not guarantee this major. Linked to the primary Computer Science major. No English percentage printed for NSC applicants (English still counts in the FPS). Technical Mathematics/Mathematical Literacy not accepted. NBTs (Mathematics, AL & QL) must be written but are not used for admission; used with mid-term class tests to place some students into the 4-year Extended Degree Programme (no separate application). Applicants are admitted to the BSc, not to a major; recommended to take 2 Science majors.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ],
+    "aps_weights": [
+      {
+        "subjects": [
+          "Mathematics"
+        ],
+        "weight": 2
+      },
+      {
+        "subjects": [
+          "Physical Sciences"
+        ],
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Environmental and Geographical Science major)",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 550,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.64-70",
+    "notes": "Minimum FPS 550/800 (Band C, possible admission; SA applicants in targeted redress categories). Band A (guaranteed): FPS 660+. Band B (likely): WPS 640+. Most offers are made in Band A. Science FPS out of 800: Mathematics and Physical Sciences count twice. Physical Sciences NOT required for this major: one of only two majors open to applicants without Physical Sciences or IT; Life Sciences or IT may then be counted twice instead. ASSUMPTION: 60% applied to Life Sciences/IT (UCT prints 60% only for Physical Sciences). International route: Chemistry/Physics may be replaced by Geography for this major. No English percentage printed for NSC applicants (English still counts in the FPS). Technical Mathematics/Mathematical Literacy not accepted. NBTs (Mathematics, AL & QL) must be written but are not used for admission; used with mid-term class tests to place some students into the 4-year Extended Degree Programme (no separate application). Applicants are admitted to the BSc, not to a major; recommended to take 2 Science majors.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences, Information Technology or Life Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          },
+          {
+            "subject": "Information Technology",
+            "min_percent": 60
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ],
+    "aps_weights": [
+      {
+        "subjects": [
+          "Mathematics"
+        ],
+        "weight": 2
+      },
+      {
+        "subjects": [
+          "Physical Sciences",
+          "Information Technology",
+          "Life Sciences"
+        ],
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Genetics major)",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 550,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.64-70",
+    "notes": "Minimum FPS 550/800 (Band C, possible admission; SA applicants in targeted redress categories). Band A (guaranteed): FPS 660+. Band B (likely): WPS 640+. Most offers are made in Band A. Science FPS out of 800: Mathematics and Physical Sciences count twice. Physical Sciences required; Life Sciences/IT may NOT replace it for this major. International applicants: Chemistry required for this major. Limited-enrolment major: selection during first year on academic criteria; acceptance into the Faculty does not guarantee this major. No English percentage printed for NSC applicants (English still counts in the FPS). Technical Mathematics/Mathematical Literacy not accepted. NBTs (Mathematics, AL & QL) must be written but are not used for admission; used with mid-term class tests to place some students into the 4-year Extended Degree Programme (no separate application). Applicants are admitted to the BSc, not to a major; recommended to take 2 Science majors.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ],
+    "aps_weights": [
+      {
+        "subjects": [
+          "Mathematics"
+        ],
+        "weight": 2
+      },
+      {
+        "subjects": [
+          "Physical Sciences"
+        ],
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Geology major)",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 550,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.64-70",
+    "notes": "Minimum FPS 550/800 (Band C, possible admission; SA applicants in targeted redress categories). Band A (guaranteed): FPS 660+. Band B (likely): WPS 640+. Most offers are made in Band A. Science FPS out of 800: Mathematics and Physical Sciences count twice. Physical Sciences required; Life Sciences/IT may NOT replace it for this major. International applicants: Chemistry and Physics required for this major. No English percentage printed for NSC applicants (English still counts in the FPS). Technical Mathematics/Mathematical Literacy not accepted. NBTs (Mathematics, AL & QL) must be written but are not used for admission; used with mid-term class tests to place some students into the 4-year Extended Degree Programme (no separate application). Applicants are admitted to the BSc, not to a major; recommended to take 2 Science majors.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ],
+    "aps_weights": [
+      {
+        "subjects": [
+          "Mathematics"
+        ],
+        "weight": 2
+      },
+      {
+        "subjects": [
+          "Physical Sciences"
+        ],
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Human Anatomy and Physiology major)",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 550,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.64-70",
+    "notes": "Minimum FPS 550/800 (Band C, possible admission; SA applicants in targeted redress categories). Band A (guaranteed): FPS 660+. Band B (likely): WPS 640+. Most offers are made in Band A. Science FPS out of 800: Mathematics and Physical Sciences count twice. Physical Sciences required; Life Sciences/IT may NOT replace it for this major. International applicants: Chemistry required for this major. Limited-enrolment major: selection during first year on academic criteria; acceptance into the Faculty does not guarantee this major. Major courses start at second-year level. No English percentage printed for NSC applicants (English still counts in the FPS). Technical Mathematics/Mathematical Literacy not accepted. NBTs (Mathematics, AL & QL) must be written but are not used for admission; used with mid-term class tests to place some students into the 4-year Extended Degree Programme (no separate application). Applicants are admitted to the BSc, not to a major; recommended to take 2 Science majors.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ],
+    "aps_weights": [
+      {
+        "subjects": [
+          "Mathematics"
+        ],
+        "weight": 2
+      },
+      {
+        "subjects": [
+          "Physical Sciences"
+        ],
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Marine Biology major)",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 550,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.64-70",
+    "notes": "Minimum FPS 550/800 (Band C, possible admission; SA applicants in targeted redress categories). Band A (guaranteed): FPS 660+. Band B (likely): WPS 640+. Most offers are made in Band A. Science FPS out of 800: Mathematics and Physical Sciences count twice. Physical Sciences required; Life Sciences/IT may NOT replace it for this major. International applicants: Chemistry required for this major. No English percentage printed for NSC applicants (English still counts in the FPS). Technical Mathematics/Mathematical Literacy not accepted. NBTs (Mathematics, AL & QL) must be written but are not used for admission; used with mid-term class tests to place some students into the 4-year Extended Degree Programme (no separate application). Applicants are admitted to the BSc, not to a major; recommended to take 2 Science majors.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ],
+    "aps_weights": [
+      {
+        "subjects": [
+          "Mathematics"
+        ],
+        "weight": 2
+      },
+      {
+        "subjects": [
+          "Physical Sciences"
+        ],
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Mathematical Statistics major)",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 550,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.64-70",
+    "notes": "Minimum FPS 550/800 (Band C, possible admission; SA applicants in targeted redress categories). Band A (guaranteed): FPS 660+. Band B (likely): WPS 640+. Most offers are made in Band A. Science FPS out of 800: Mathematics and Physical Sciences count twice. Physical Sciences required; Life Sciences/IT may NOT replace it for this major. International applicants: Physics required for this major. No English percentage printed for NSC applicants (English still counts in the FPS). Technical Mathematics/Mathematical Literacy not accepted. NBTs (Mathematics, AL & QL) must be written but are not used for admission; used with mid-term class tests to place some students into the 4-year Extended Degree Programme (no separate application). Applicants are admitted to the BSc, not to a major; recommended to take 2 Science majors.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ],
+    "aps_weights": [
+      {
+        "subjects": [
+          "Mathematics"
+        ],
+        "weight": 2
+      },
+      {
+        "subjects": [
+          "Physical Sciences"
+        ],
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Mathematics major)",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 550,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.64-70",
+    "notes": "Minimum FPS 550/800 (Band C, possible admission; SA applicants in targeted redress categories). Band A (guaranteed): FPS 660+. Band B (likely): WPS 640+. Most offers are made in Band A. Science FPS out of 800: Mathematics and Physical Sciences count twice. Physical Sciences required; Life Sciences/IT may NOT replace it for this major. International applicants: Physics required for this major. No English percentage printed for NSC applicants (English still counts in the FPS). Technical Mathematics/Mathematical Literacy not accepted. NBTs (Mathematics, AL & QL) must be written but are not used for admission; used with mid-term class tests to place some students into the 4-year Extended Degree Programme (no separate application). Applicants are admitted to the BSc, not to a major; recommended to take 2 Science majors.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ],
+    "aps_weights": [
+      {
+        "subjects": [
+          "Mathematics"
+        ],
+        "weight": 2
+      },
+      {
+        "subjects": [
+          "Physical Sciences"
+        ],
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Ocean and Atmosphere Science major)",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 550,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.64-70",
+    "notes": "Minimum FPS 550/800 (Band C, possible admission; SA applicants in targeted redress categories). Band A (guaranteed): FPS 660+. Band B (likely): WPS 640+. Most offers are made in Band A. Science FPS out of 800: Mathematics and Physical Sciences count twice. Physical Sciences required; Life Sciences/IT may NOT replace it for this major. International applicants: Chemistry and Physics required for this major. No English percentage printed for NSC applicants (English still counts in the FPS). Technical Mathematics/Mathematical Literacy not accepted. NBTs (Mathematics, AL & QL) must be written but are not used for admission; used with mid-term class tests to place some students into the 4-year Extended Degree Programme (no separate application). Applicants are admitted to the BSc, not to a major; recommended to take 2 Science majors.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ],
+    "aps_weights": [
+      {
+        "subjects": [
+          "Mathematics"
+        ],
+        "weight": 2
+      },
+      {
+        "subjects": [
+          "Physical Sciences"
+        ],
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Physics major)",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 550,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.64-70",
+    "notes": "Minimum FPS 550/800 (Band C, possible admission; SA applicants in targeted redress categories). Band A (guaranteed): FPS 660+. Band B (likely): WPS 640+. Most offers are made in Band A. Science FPS out of 800: Mathematics and Physical Sciences count twice. Physical Sciences required; Life Sciences/IT may NOT replace it for this major. International applicants: Physics required for this major. No English percentage printed for NSC applicants (English still counts in the FPS). Technical Mathematics/Mathematical Literacy not accepted. NBTs (Mathematics, AL & QL) must be written but are not used for admission; used with mid-term class tests to place some students into the 4-year Extended Degree Programme (no separate application). Applicants are admitted to the BSc, not to a major; recommended to take 2 Science majors.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ],
+    "aps_weights": [
+      {
+        "subjects": [
+          "Mathematics"
+        ],
+        "weight": 2
+      },
+      {
+        "subjects": [
+          "Physical Sciences"
+        ],
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Quantitative Biology major)",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 550,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.64-70",
+    "notes": "Minimum FPS 550/800 (Band C, possible admission; SA applicants in targeted redress categories). Band A (guaranteed): FPS 660+. Band B (likely): WPS 640+. Most offers are made in Band A. Science FPS out of 800: Mathematics and Physical Sciences count twice. Physical Sciences required; Life Sciences/IT may NOT replace it for this major. International applicants: Physics required for this major. Interdisciplinary stream across Biology, Statistics and Mathematics. No English percentage printed for NSC applicants (English still counts in the FPS). Technical Mathematics/Mathematical Literacy not accepted. NBTs (Mathematics, AL & QL) must be written but are not used for admission; used with mid-term class tests to place some students into the 4-year Extended Degree Programme (no separate application). Applicants are admitted to the BSc, not to a major; recommended to take 2 Science majors.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ],
+    "aps_weights": [
+      {
+        "subjects": [
+          "Mathematics"
+        ],
+        "weight": 2
+      },
+      {
+        "subjects": [
+          "Physical Sciences"
+        ],
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Statistics and Data Science major)",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 550,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.64-70",
+    "notes": "Minimum FPS 550/800 (Band C, possible admission; SA applicants in targeted redress categories). Band A (guaranteed): FPS 660+. Band B (likely): WPS 640+. Most offers are made in Band A. Science FPS out of 800: Mathematics and Physical Sciences count twice. Physical Sciences required; Life Sciences/IT may NOT replace it for this major. International applicants: Physics required for this major. No English percentage printed for NSC applicants (English still counts in the FPS). Technical Mathematics/Mathematical Literacy not accepted. NBTs (Mathematics, AL & QL) must be written but are not used for admission; used with mid-term class tests to place some students into the 4-year Extended Degree Programme (no separate application). Applicants are admitted to the BSc, not to a major; recommended to take 2 Science majors.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ],
+    "aps_weights": [
+      {
+        "subjects": [
+          "Mathematics"
+        ],
+        "weight": 2
+      },
+      {
+        "subjects": [
+          "Physical Sciences"
+        ],
+        "weight": 2
+      }
+    ]
+  }
+]

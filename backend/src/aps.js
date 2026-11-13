@@ -7,7 +7,8 @@
  *     includeLo: false,            // is Life Orientation counted?
  *     defaultBands: [{ min, max, points }, ...],
  *     subjectBands: { "Life Orientation": [...] },   // optional per-subject scales
- *     mustCount: [["English Home Language", "English First Additional Language"]]
+ *     mustCount: [["English Home Language", "English First Additional Language"]],
+ *     weights: [{ subjects: ["Mathematics"], weight: 2 }]   // optional, per course (UCT Science)
  *   }
  *
  * mustCount and the course's own requirements are lists of "slots". A slot is either a list of
@@ -65,6 +66,16 @@ export function computeAps(marks, rule, courseSlots = []) {
   for (const entry of [...scored.values()].sort(byStrength)) {
     if (counted.length >= rule.subjectsCounted) break;
     take(entry, false);
+  }
+
+  // 3. Course weights: the first listed subject the learner counts is multiplied (UCT Science: Maths x2,
+  //    Physical Sciences x2, or IT / Life Sciences x2 where they stand in for Physical Sciences).
+  for (const { subjects, weight } of rule.weights ?? []) {
+    const entry = subjects.map((s) => counted.find((c) => c.subject === s)).find(Boolean);
+    if (entry && !entry.weight) {
+      entry.weight = Number(weight);
+      entry.points *= entry.weight;
+    }
   }
 
   // Round to one decimal: some scales give decimal points (UNIVEN: 72% = 7.2).

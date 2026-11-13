@@ -128,6 +128,13 @@ class RequirementGroup(StrictModel):
         return self
 
 
+class ApsWeight(StrictModel):
+    """A subject counted more than once in this course's score (UCT Science: Maths x2).
+    `subjects` are alternatives in priority order: the first one the learner counts gets the weight."""
+    subjects: list[str] = Field(min_length=1)
+    weight: float = Field(gt=0, le=5)
+
+
 class Course(StrictModel):
     name: str = Field(min_length=2)  # e.g. UJ's plain "BA"
     faculty: Optional[str] = None
@@ -137,13 +144,15 @@ class Course(StrictModel):
     is_extended: bool = False
     duration_years: Optional[float] = Field(default=None, gt=0, le=10)
     nsc_pass_required: Optional[Literal["bachelor", "diploma", "higher_certificate"]] = None
-    min_aps: Optional[int] = Field(default=None, ge=0, le=600)
-    min_aps_maths_lit: Optional[int] = Field(default=None, ge=0, le=600)   # None = not accepted
-    min_aps_tech_maths: Optional[int] = Field(default=None, ge=0, le=600)  # None = not accepted
+    min_aps: Optional[int] = Field(default=None, ge=0, le=900)
+    min_aps_maths_lit: Optional[int] = Field(default=None, ge=0, le=900)   # None = not accepted
+    min_aps_tech_maths: Optional[int] = Field(default=None, ge=0, le=900)  # None = not accepted
     # None = follow the university's APS rule; True = Life Orientation counted as an extra subject
     include_lo: Optional[bool] = None
     # This programme's own application closing date; None = faculty or general date applies
     closes_on: Optional[date] = None
+    # Subjects weighted in this course's score; None = no weighting
+    aps_weights: Optional[list[ApsWeight]] = None
     source_ref: Optional[str] = None
     notes: Optional[str] = None
     requirements: list[RequirementGroup] = []
