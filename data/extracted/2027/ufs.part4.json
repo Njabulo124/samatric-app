@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Bachelor of Laws",
+    "faculty": "Faculty of Law",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 33,
+    "min_aps_maths_lit": 33,
+    "min_aps_tech_maths": null,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.20",
+    "notes": "Campus: Bloemfontein only. Plan code BC340000. LLB, residential learning. English 70%. Maths 50% OR Maths Lit 70%. Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 70
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  }
+]
