@@ -1,0 +1,342 @@
+[
+  {
+    "name": "Bachelor of Arts",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 380,
+    "min_aps_maths_lit": 380,
+    "min_aps_tech_maths": 380,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.48-56",
+    "notes": "Minimum FPS 380 (= Band C) with NBT AL Intermediate. Band A (guaranteed): FPS 450+ and NBT AL Proficient. Band B (likely): WPS 450+ and NBT AL Upper Intermediate or above. Band C (possible, SA redress categories only): FPS 380+ and NBT AL Intermediate or above. No Mathematics requirement for the degree itself. Accepted for the degree, not for majors. Majors with extra entry rules: Economics needs Maths 60%; Psychology needs Maths 50% or NBT QL Proficient (else Maths foundation courses); Law major needs LLB-level school/NBT results or a 65% first-year GPA; Commerce/Science-faculty majors follow those faculties' requirements. BA Film and Media Production specialisation: students register for the BA (majors Film & Television Studies and Media & Writing); selection into FMP in 2nd semester of 2nd year. Life Orientation must be passed at 50% (not counted).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts (Extended)",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 380,
+    "min_aps_maths_lit": 380,
+    "min_aps_tech_maths": 380,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.48-56",
+    "notes": "Extended programme: SA applicants who show potential with extra support; considered on NBTs, FPS and educational background. No separate FPS printed; faculty minimum FPS 380 used. Same degree, over 4 years. Extended students cannot take Economics, Law or Science-faculty majors (except Environmental & Geographical Science). Band A (guaranteed): FPS 450+ and NBT AL Proficient. Band B (likely): WPS 450+ and NBT AL Upper Intermediate or above. Band C (possible, SA redress categories only): FPS 380+ and NBT AL Intermediate or above. Life Orientation must be passed at 50% (not counted).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Social Science",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 380,
+    "min_aps_maths_lit": 380,
+    "min_aps_tech_maths": 380,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.48-56",
+    "notes": "Minimum FPS 380 (= Band C) with NBT AL Intermediate. Band A (guaranteed): FPS 450+ and NBT AL Proficient. Band B (likely): WPS 450+ and NBT AL Upper Intermediate or above. Band C (possible, SA redress categories only): FPS 380+ and NBT AL Intermediate or above. No Mathematics requirement for the degree itself. Accepted for the degree, not for majors. Majors with extra entry rules: Economics needs Maths 60%; Psychology needs Maths 50% or NBT QL Proficient (else Maths foundation courses); Law major needs LLB-level school/NBT results or a 65% first-year GPA; Commerce/Science-faculty majors follow those faculties' requirements. Life Orientation must be passed at 50% (not counted).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Social Science (Extended)",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 380,
+    "min_aps_maths_lit": 380,
+    "min_aps_tech_maths": 380,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.48-56",
+    "notes": "Extended programme: SA applicants who show potential with extra support; considered on NBTs, FPS and educational background. No separate FPS printed; faculty minimum FPS 380 used. Same degree, over 4 years. Extended students cannot take Economics, Law or Science-faculty majors (except Environmental & Geographical Science). Band A (guaranteed): FPS 450+ and NBT AL Proficient. Band B (likely): WPS 450+ and NBT AL Upper Intermediate or above. Band C (possible, SA redress categories only): FPS 380+ and NBT AL Intermediate or above. Life Orientation must be passed at 50% (not counted).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Social Science in Philosophy, Politics and Economics",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 450,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.48-56",
+    "notes": "Minimum FPS 450 with NBT AL Upper Intermediate and QL Upper Intermediate, Maths 60%. Only Band A printed (guaranteed): FPS 450+, NBT AL Proficient, QL Upper Intermediate or above. Technical Mathematics/Mathematical Literacy not accepted. Life Orientation must be passed at 50% (not counted).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Social Work",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 380,
+    "min_aps_maths_lit": 380,
+    "min_aps_tech_maths": 380,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.48-56",
+    "notes": "Minimum FPS 380 (= Band C) with NBT AL Intermediate. Band A (guaranteed): FPS 450+ and NBT AL Proficient. Band B (likely): WPS 450+ and NBT AL Upper Intermediate or above. Band C (possible, SA redress categories only): FPS 380+ and NBT AL Intermediate or above. May require an admissions interview to show suitability for SACSSP registration. Limit of 80 students per year. First-year Psychology compulsory (all BSW students admitted to it). Funding may be available via the Department of Social Development. Life Orientation must be passed at 50% (not counted).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Fine Art",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 380,
+    "min_aps_maths_lit": 380,
+    "min_aps_tech_maths": 380,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.48-56",
+    "notes": "Minimum FPS 380 with NBT AL Intermediate and satisfactory portfolio evaluation (possible admission, all applicants). SA redress applicants below the minimum who excel in the portfolio may be considered. Portfolio and supplementary questionnaire due 31 Aug 2026 (application itself closes 31 Jul 2026). As long as FPS and NBT meet the minimums, the leading indicator is the audition/portfolio; places awarded on merit. Michaelis School of Fine Art. Life Orientation must be passed at 50% (not counted).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Theatre and Performance",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 380,
+    "min_aps_maths_lit": 380,
+    "min_aps_tech_maths": 380,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.48-56",
+    "notes": "Minimum FPS 380 with NBT AL Intermediate and satisfactory audition (possible admission, all applicants). Covers Theatre and Dance. SA redress applicants below the minimum who excel in the audition may be considered for the Diploma in Theatre & Performance. The Head of the Centre may motivate other qualifications/experience in lieu of the NBT for exceptional talent. As long as FPS and NBT meet the minimums, the leading indicator is the audition/portfolio; places awarded on merit. Life Orientation must be passed at 50% (not counted).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Music",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 380,
+    "min_aps_maths_lit": 380,
+    "min_aps_tech_maths": 380,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.48-56",
+    "notes": "Minimum FPS 380 with NBT AL Intermediate and satisfactory audition, interview and music theory test. Also required: Unisa Music Theory Grade V or above and Unisa Music Practical Grade VII or above. Streams: African Music Performance, General, Jazz Studies, Music Technology, Opera, Classical Composition, Classical Performance. SA redress applicants below the minimum who excel in the audition may be considered for the Diploma in Music Performance. Must play in ensembles/orchestras or sing in choirs. As long as FPS and NBT meet the minimums, the leading indicator is the audition/portfolio; places awarded on merit. Life Orientation must be passed at 50% (not counted).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Music",
+        "options": [
+          {
+            "subject": "Music",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Music Performance",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.48-56",
+    "notes": "No FPS printed: NSC endorsed for diploma study, NBT AL Intermediate or above, satisfactory audition, interview and music theory test. Streams: African Music, Jazz Studies, Opera, Classical, World Music. Similar practical curriculum to the BMus with fewer academic subjects. Leading indicator is the audition; places awarded on merit. LO must be passed at 50%.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Theatre and Performance",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.48-56",
+    "notes": "No FPS printed: NSC endorsed for diploma study, NBT AL Intermediate or above, satisfactory audition. Covers Theatre and Dance. Leading indicator is the audition; places awarded on merit. LO must be passed at 50%.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Higher Certificate in Adult and Community Education and Training",
+    "faculty": "Faculty of Humanities",
+    "qualification_type": "higher_certificate",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "higher_certificate",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.48-56",
+    "notes": "Entry-level, non-professional qualification for people with at least two years' practitioner experience in adult education (preference given to them). Admission: NSC, or NC(V) Level 4, or a Level 4 certificate in Adult Education and Training/Community Education and Training/Early Childhood Education, or via Recognition of Prior Learning (RPL). No points or subject percentages printed. Duration not printed. Not a school-leaver programme in practice.",
+    "requirements": []
+  }
+]
