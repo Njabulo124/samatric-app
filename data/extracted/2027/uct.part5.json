@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bachelor of Laws (LLB)",
+    "faculty": "Faculty of Law",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 470,
+    "min_aps_maths_lit": 470,
+    "min_aps_tech_maths": 470,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.59-63",
+    "notes": "Undergraduate LLB (minimum 4 years) for applicants without a degree. Band C FPS 470 (possible admission; SA applicants in targeted redress categories only) with NBT AL and QL both Proficient. Band A (guaranteed, all SA applicants): FPS 500+ with NBT AL Proficient and QL Intermediate or above. Band B (likely, all SA applicants): WPS 500+ with the same NBT levels. International applicants (NSC or international schooling): probable admission at FPS 510+ with NBT AL Proficient and QL Intermediate or above; max 10 international applicants admitted. No subject percentages printed (no English or Mathematics minimum printed); assessed on NSC results plus NBT AL and QL. All LLB applicants must write the NBTs wherever they reside. Applicants with mature age exemption are not considered. Alternative routes (not separate rows): combined BA/BSocSc+LLB or BCom+LLB (5 years; 6 for BBusSc) via Humanities/Commerce, needing a first-year average of 65% (Humanities) or 63% (Commerce) for a competitive place on the law major; graduate LLB (needs a prior degree). LLB alone does not entitle non-citizens/non-permanent residents to practise in SA.",
+    "requirements": []
+  }
+]
