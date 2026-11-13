@@ -1,0 +1,998 @@
+{
+  "intake_year": 2027,
+  "source_document": "UNIVEN 2027 Undergraduate Programmes",
+  "university": {
+    "name": "University of Venda",
+    "short_name": "UNIVEN",
+    "institution_type": "comprehensive",
+    "province": "Limpopo",
+    "website_url": "https://www.univen.ac.za",
+    "application_url": "https://www.univen.ac.za",
+    "application_fee": 0
+  },
+  "application_periods": [
+    {
+      "label": "General",
+      "opens_on": "2026-05-01",
+      "closes_on": "2026-09-30",
+      "notes": "Applications are free."
+    }
+  ],
+  "aps_rule": {
+    "default_scale": {
+      "name": "UNIVEN percentage / 10",
+      "bands": [
+        {
+          "min_mark": 0,
+          "max_mark": 39,
+          "points": 0
+        },
+        {
+          "min_mark": 40,
+          "max_mark": 40,
+          "points": 4.0
+        },
+        {
+          "min_mark": 41,
+          "max_mark": 41,
+          "points": 4.1
+        },
+        {
+          "min_mark": 42,
+          "max_mark": 42,
+          "points": 4.2
+        },
+        {
+          "min_mark": 43,
+          "max_mark": 43,
+          "points": 4.3
+        },
+        {
+          "min_mark": 44,
+          "max_mark": 44,
+          "points": 4.4
+        },
+        {
+          "min_mark": 45,
+          "max_mark": 45,
+          "points": 4.5
+        },
+        {
+          "min_mark": 46,
+          "max_mark": 46,
+          "points": 4.6
+        },
+        {
+          "min_mark": 47,
+          "max_mark": 47,
+          "points": 4.7
+        },
+        {
+          "min_mark": 48,
+          "max_mark": 48,
+          "points": 4.8
+        },
+        {
+          "min_mark": 49,
+          "max_mark": 49,
+          "points": 4.9
+        },
+        {
+          "min_mark": 50,
+          "max_mark": 50,
+          "points": 5.0
+        },
+        {
+          "min_mark": 51,
+          "max_mark": 51,
+          "points": 5.1
+        },
+        {
+          "min_mark": 52,
+          "max_mark": 52,
+          "points": 5.2
+        },
+        {
+          "min_mark": 53,
+          "max_mark": 53,
+          "points": 5.3
+        },
+        {
+          "min_mark": 54,
+          "max_mark": 54,
+          "points": 5.4
+        },
+        {
+          "min_mark": 55,
+          "max_mark": 55,
+          "points": 5.5
+        },
+        {
+          "min_mark": 56,
+          "max_mark": 56,
+          "points": 5.6
+        },
+        {
+          "min_mark": 57,
+          "max_mark": 57,
+          "points": 5.7
+        },
+        {
+          "min_mark": 58,
+          "max_mark": 58,
+          "points": 5.8
+        },
+        {
+          "min_mark": 59,
+          "max_mark": 59,
+          "points": 5.9
+        },
+        {
+          "min_mark": 60,
+          "max_mark": 60,
+          "points": 6.0
+        },
+        {
+          "min_mark": 61,
+          "max_mark": 61,
+          "points": 6.1
+        },
+        {
+          "min_mark": 62,
+          "max_mark": 62,
+          "points": 6.2
+        },
+        {
+          "min_mark": 63,
+          "max_mark": 63,
+          "points": 6.3
+        },
+        {
+          "min_mark": 64,
+          "max_mark": 64,
+          "points": 6.4
+        },
+        {
+          "min_mark": 65,
+          "max_mark": 65,
+          "points": 6.5
+        },
+        {
+          "min_mark": 66,
+          "max_mark": 66,
+          "points": 6.6
+        },
+        {
+          "min_mark": 67,
+          "max_mark": 67,
+          "points": 6.7
+        },
+        {
+          "min_mark": 68,
+          "max_mark": 68,
+          "points": 6.8
+        },
+        {
+          "min_mark": 69,
+          "max_mark": 69,
+          "points": 6.9
+        },
+        {
+          "min_mark": 70,
+          "max_mark": 70,
+          "points": 7.0
+        },
+        {
+          "min_mark": 71,
+          "max_mark": 71,
+          "points": 7.1
+        },
+        {
+          "min_mark": 72,
+          "max_mark": 72,
+          "points": 7.2
+        },
+        {
+          "min_mark": 73,
+          "max_mark": 73,
+          "points": 7.3
+        },
+        {
+          "min_mark": 74,
+          "max_mark": 74,
+          "points": 7.4
+        },
+        {
+          "min_mark": 75,
+          "max_mark": 75,
+          "points": 7.5
+        },
+        {
+          "min_mark": 76,
+          "max_mark": 76,
+          "points": 7.6
+        },
+        {
+          "min_mark": 77,
+          "max_mark": 77,
+          "points": 7.7
+        },
+        {
+          "min_mark": 78,
+          "max_mark": 78,
+          "points": 7.8
+        },
+        {
+          "min_mark": 79,
+          "max_mark": 79,
+          "points": 7.9
+        },
+        {
+          "min_mark": 80,
+          "max_mark": 80,
+          "points": 8.0
+        },
+        {
+          "min_mark": 81,
+          "max_mark": 81,
+          "points": 8.1
+        },
+        {
+          "min_mark": 82,
+          "max_mark": 82,
+          "points": 8.2
+        },
+        {
+          "min_mark": 83,
+          "max_mark": 83,
+          "points": 8.3
+        },
+        {
+          "min_mark": 84,
+          "max_mark": 84,
+          "points": 8.4
+        },
+        {
+          "min_mark": 85,
+          "max_mark": 85,
+          "points": 8.5
+        },
+        {
+          "min_mark": 86,
+          "max_mark": 86,
+          "points": 8.6
+        },
+        {
+          "min_mark": 87,
+          "max_mark": 87,
+          "points": 8.7
+        },
+        {
+          "min_mark": 88,
+          "max_mark": 88,
+          "points": 8.8
+        },
+        {
+          "min_mark": 89,
+          "max_mark": 89,
+          "points": 8.9
+        },
+        {
+          "min_mark": 90,
+          "max_mark": 90,
+          "points": 9.0
+        },
+        {
+          "min_mark": 91,
+          "max_mark": 91,
+          "points": 9.1
+        },
+        {
+          "min_mark": 92,
+          "max_mark": 92,
+          "points": 9.2
+        },
+        {
+          "min_mark": 93,
+          "max_mark": 93,
+          "points": 9.3
+        },
+        {
+          "min_mark": 94,
+          "max_mark": 94,
+          "points": 9.4
+        },
+        {
+          "min_mark": 95,
+          "max_mark": 95,
+          "points": 9.5
+        },
+        {
+          "min_mark": 96,
+          "max_mark": 96,
+          "points": 9.6
+        },
+        {
+          "min_mark": 97,
+          "max_mark": 97,
+          "points": 9.7
+        },
+        {
+          "min_mark": 98,
+          "max_mark": 98,
+          "points": 9.8
+        },
+        {
+          "min_mark": 99,
+          "max_mark": 99,
+          "points": 9.9
+        },
+        {
+          "min_mark": 100,
+          "max_mark": 100,
+          "points": 10.0
+        }
+      ]
+    },
+    "subjects_counted": 7,
+    "include_lo": false,
+    "must_count": [],
+    "subject_scales": [],
+    "notes": "Each subject scores its percentage divided by 10 (72% = 7.2); below 40% scores 0. Best 7 subjects, Life Orientation excluded. Degree entry needs at least 26."
+  },
+  "faculties": [
+    "Faculty of Humanities, Social Sciences and Education"
+  ],
+  "courses": [
+    {
+      "name": "Bachelor of Arts in Media Studies",
+      "faculty": "Faculty of Humanities, Social Sciences and Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": 30,
+      "min_aps_tech_maths": 30,
+      "source_ref": "UniVen Prospectus 2027 p.12",
+      "notes": "Code HSBAMS. Printed as 'Bachelor of Arts (Media Studies)'. Needs English OR 'African Languages' at 50%; the African languages aren't named for this programme, so Tshivenda, Sepedi and Xitsonga are used (the languages UniVen lists for its BEd programmes). No maths requirement.",
+      "requirements": [
+        {
+          "description": "English or African Language",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Arts",
+      "faculty": "Faculty of Humanities, Social Sciences and Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": 30,
+      "min_aps_tech_maths": 30,
+      "source_ref": "UniVen Prospectus 2027 p.12",
+      "notes": "Code HSBBA. No maths requirement.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Arts in Development Studies",
+      "faculty": "Faculty of Humanities, Social Sciences and Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": 30,
+      "min_aps_tech_maths": 30,
+      "source_ref": "UniVen Prospectus 2027 p.12",
+      "notes": "Code HSBADS. Printed as 'Bachelor of Arts (Development Studies)'. No maths requirement.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "History or Economics",
+          "options": [
+            {
+              "subject": "History",
+              "min_percent": 50
+            },
+            {
+              "subject": "Economics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Indigenous Knowledge Systems",
+      "faculty": "Faculty of Humanities, Social Sciences and Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": 30,
+      "min_aps_tech_maths": 30,
+      "source_ref": "UniVen Prospectus 2027 p.12",
+      "notes": "Code HSBIKS. No maths requirement.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Arts in Language Practice",
+      "faculty": "Faculty of Humanities, Social Sciences and Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": 30,
+      "min_aps_tech_maths": 30,
+      "source_ref": "UniVen Prospectus 2027 p.12",
+      "notes": "Code HSBALP. 'African Language' isn't named; Tshivenda, Sepedi and Xitsonga are used. No maths requirement.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "African Language (Tshivenda, Sepedi or Xitsonga)",
+          "options": [
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Arts in English Language and Literature",
+      "faculty": "Faculty of Humanities, Social Sciences and Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": 30,
+      "min_aps_tech_maths": 30,
+      "source_ref": "UniVen Prospectus 2027 p.12",
+      "notes": "Code HSBAEL. Printed as 'Bachelor of Arts (English Language and Literature)'. No maths requirement.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Arts in International Relations",
+      "faculty": "Faculty of Humanities, Social Sciences and Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": 30,
+      "min_aps_tech_maths": 30,
+      "source_ref": "UniVen Prospectus 2027 p.12",
+      "notes": "Code HSBAIR. No maths requirement.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "History or Economics",
+          "options": [
+            {
+              "subject": "History",
+              "min_percent": 50
+            },
+            {
+              "subject": "Economics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Arts in Youth Development",
+      "faculty": "Faculty of Humanities, Social Sciences and Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": 30,
+      "min_aps_tech_maths": 30,
+      "source_ref": "UniVen Prospectus 2027 p.12",
+      "notes": "Code HSBAYD. No maths requirement.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Arts in History",
+      "faculty": "Faculty of Humanities, Social Sciences and Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": 30,
+      "min_aps_tech_maths": 30,
+      "source_ref": "UniVen Prospectus 2027 p.12",
+      "notes": "Code HSBBAH. Printed as 'Bachelor of Arts (History)'. No maths requirement.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "History",
+          "options": [
+            {
+              "subject": "History",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Theology",
+      "faculty": "Faculty of Humanities, Social Sciences and Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": 30,
+      "min_aps_tech_maths": 30,
+      "source_ref": "UniVen Prospectus 2027 p.12",
+      "notes": "Code HSBBT. Printed as 'NSC 30 + or RPL according to University Policy'. No subjects listed. No maths requirement.",
+      "requirements": []
+    },
+    {
+      "name": "Higher Certificate in Music",
+      "faculty": "Faculty of Humanities, Social Sciences and Education",
+      "qualification_type": "higher_certificate",
+      "is_extended": false,
+      "duration_years": 1,
+      "nsc_pass_required": "higher_certificate",
+      "min_aps": null,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UniVen Prospectus 2027 p.12",
+      "notes": "No code printed. Requirement is 'NSC Certificate + adequate achievement in English'; no APS printed. 'Adequate achievement' is used for 50-59% elsewhere in this prospectus, so 50% is used here. No maths requirement.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Social Work",
+      "faculty": "Faculty of Humanities, Social Sciences and Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 35,
+      "min_aps_maths_lit": 35,
+      "min_aps_tech_maths": 35,
+      "source_ref": "UniVen Prospectus 2027 p.12",
+      "notes": "Code HSBBSW. No maths requirement.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Senior Phase and Further Education and Training (Mathematics, Physical Sciences and Life Sciences)",
+      "faculty": "Faculty of Humanities, Social Sciences and Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 36,
+      "min_aps_maths_lit": 36,
+      "min_aps_tech_maths": 36,
+      "source_ref": "UniVen Prospectus 2027 p.12",
+      "notes": "Code SEBESP. One of three entry routes printed for this BEd (route label is taken from its subjects). Mathematics isn't compulsory (any two of the three).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Two of Mathematics, Physical Sciences, Life Sciences",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ],
+          "min_count": 2
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Senior Phase and Further Education and Training (Accounting, Business Studies and Economics)",
+      "faculty": "Faculty of Humanities, Social Sciences and Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 36,
+      "min_aps_maths_lit": 36,
+      "min_aps_tech_maths": 36,
+      "source_ref": "UniVen Prospectus 2027 p.12",
+      "notes": "Code SEBECP. One of three entry routes printed for this BEd (route label is taken from its subjects). No maths requirement.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Two of Accounting, Business Studies, Economics",
+          "options": [
+            {
+              "subject": "Accounting",
+              "min_percent": 50
+            },
+            {
+              "subject": "Business Studies",
+              "min_percent": 50
+            },
+            {
+              "subject": "Economics",
+              "min_percent": 50
+            }
+          ],
+          "min_count": 2
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Senior Phase and Further Education and Training (History, Geography and Languages)",
+      "faculty": "Faculty of Humanities, Social Sciences and Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 36,
+      "min_aps_maths_lit": 36,
+      "min_aps_tech_maths": 36,
+      "source_ref": "UniVen Prospectus 2027 p.12",
+      "notes": "Code SEBELP. One of three entry routes printed for this BEd (route label is taken from its subjects). HL/FAL not specified for the languages, so both are listed; HL and FAL of the same language shouldn't count as two. No maths requirement.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Two of History, Geography, Sepedi, Tshivenda, Xitsonga",
+          "options": [
+            {
+              "subject": "History",
+              "min_percent": 50
+            },
+            {
+              "subject": "Geography",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 50
+            }
+          ],
+          "min_count": 2
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Foundation Phase Teaching",
+      "faculty": "Faculty of Humanities, Social Sciences and Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 36,
+      "min_aps_maths_lit": 36,
+      "min_aps_tech_maths": null,
+      "source_ref": "UniVen Prospectus 2027 p.12",
+      "notes": "Code SEBEFP. Printed as 'English (50%), Mathematics Literacy (50%), Mathematics (40%), and Languages (50%) Tshivenda, Sepedi, and Xitsonga'. Maths and Maths Lit are read as alternatives, and the languages as one-of.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Language (Tshivenda, Sepedi or Xitsonga)",
+          "options": [
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ambiguities": [
+    {
+      "item": "APS table",
+      "issue": "The 'NSC level' column in the APS table is shifted (90-100% labelled level 7)",
+      "choice": "Percentages used, as the table's points follow them"
+    },
+    {
+      "item": "African language",
+      "issue": "Some BA programmes ask for 'an African language' without naming it",
+      "choice": "Tshivenda, Sepedi or Xitsonga, the languages UNIVEN names for its BEd"
+    }
+  ]
+}

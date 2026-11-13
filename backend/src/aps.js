@@ -67,6 +67,7 @@ export function computeAps(marks, rule, courseSlots = []) {
     take(entry, false);
   }
 
-  const aps = counted.reduce((sum, s) => sum + s.points, 0);
+  // Round to one decimal: some scales give decimal points (UNIVEN: 72% = 7.2).
+  const aps = Math.round(counted.reduce((sum, s) => sum + s.points, 0) * 10) / 10;
   return { aps, counted };
 }
