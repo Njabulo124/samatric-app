@@ -137,9 +137,9 @@ class Course(StrictModel):
     is_extended: bool = False
     duration_years: Optional[float] = Field(default=None, gt=0, le=10)
     nsc_pass_required: Optional[Literal["bachelor", "diploma", "higher_certificate"]] = None
-    min_aps: Optional[int] = Field(default=None, ge=0, le=60)
-    min_aps_maths_lit: Optional[int] = Field(default=None, ge=0, le=60)   # None = not accepted
-    min_aps_tech_maths: Optional[int] = Field(default=None, ge=0, le=60)  # None = not accepted
+    min_aps: Optional[int] = Field(default=None, ge=0, le=600)
+    min_aps_maths_lit: Optional[int] = Field(default=None, ge=0, le=600)   # None = not accepted
+    min_aps_tech_maths: Optional[int] = Field(default=None, ge=0, le=600)  # None = not accepted
     # None = follow the university's APS rule; True = Life Orientation counted as an extra subject
     include_lo: Optional[bool] = None
     # This programme's own application closing date; None = faculty or general date applies

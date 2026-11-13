@@ -16,10 +16,10 @@
  */
 import { computeAps, LIFE_ORIENTATION } from './aps.js';
 import {
-  courseRule, evaluateCourse, evaluateGroup, mathsType, noApsAtAll, requiredAps, MATHEMATICS, MATHS_LIT, TECH_MATHS,
+  closeApsLimit, courseRule, evaluateCourse, evaluateGroup, mathsType, noApsAtAll, requiredAps, MATHEMATICS, MATHS_LIT, TECH_MATHS,
 } from './eligibility.js';
 
-const MAX_STEPS = 60;
+const MAX_STEPS = 300; // percentage-based scores (NMU AS) move 1 point per 1%
 
 function slotsFor(course) {
   return course.requirements.map((g) => ({ subjects: g.options.map((o) => o.subject), count: g.minCount ?? 1 }));
@@ -42,7 +42,7 @@ export function improvePlan(course, universityRule, marks) {
   const threshold = requiredAps(course, maths);
 
   const currentAps = apsFor(marks, rule, slots);
-  const current = evaluateCourse(course, marks, currentAps);
+  const current = evaluateCourse(course, marks, currentAps, closeApsLimit(rule));
   const blockers = [];
 
   // Maths type not accepted: better marks won't help.

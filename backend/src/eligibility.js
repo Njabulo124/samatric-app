@@ -19,6 +19,16 @@ export const TECH_MATHS = 'Technical Mathematics';
 /** How near a learner must be to count as "close". Tunable. */
 export const CLOSE_LIMITS = { apsPoints: 2, subjectPercent: 5 };
 
+/**
+ * "Close" APS margin for a university's scale. 2 points on the usual 7/8-point scales; scales
+ * built from raw percentages (NMU's Applicant Score, 100 points per subject) get a proportional
+ * margin (2 x 100/8 = 25 AS points).
+ */
+export function closeApsLimit(rule) {
+  const max = Math.max(...(rule?.defaultBands ?? []).map((b) => Number(b.points)), 0);
+  return max > 10 ? Math.round((CLOSE_LIMITS.apsPoints * max) / 8) : CLOSE_LIMITS.apsPoints;
+}
+
 export const STATUS = {
   QUALIFIES: 'qualifies',
   CHECK: 'check', // meets every published minimum, but no APS cut-off is published (selection by ranking)
@@ -67,7 +77,7 @@ export function evaluateGroup(group, marks) {
 }
 
 /** Evaluate a single course for a learner whose APS (for that university) is known. */
-export function evaluateCourse(course, marks, aps) {
+export function evaluateCourse(course, marks, aps, closeAps = CLOSE_LIMITS.apsPoints) {
   const maths = mathsType(marks);
   const reasons = [];
   const gaps = { aps: 0, subjects: [], missing: [] };
@@ -119,7 +129,7 @@ export function evaluateCourse(course, marks, aps) {
     status = check ? STATUS.CHECK : STATUS.QUALIFIES;
   } else if (
     !blocked &&
-    gaps.aps <= CLOSE_LIMITS.apsPoints &&
+    gaps.aps <= closeAps &&
     gaps.subjects.every((g) => g.shortfall <= CLOSE_LIMITS.subjectPercent)
   ) {
     status = STATUS.CLOSE;
@@ -177,8 +187,9 @@ export function evaluateAll(courses, rules, marks) {
     .filter((c) => rules[c.universityShortName])
     .map((c) => {
       const slots = c.requirements.map((g) => ({ subjects: g.options.map((o) => o.subject), count: g.minCount ?? 1 }));
-      const { aps, counted } = computeAps(marks, courseRule(rules[c.universityShortName], c), slots);
-      return { ...evaluateCourse(c, marks, aps), apsWorking: counted };
+      const rule = rules[c.universityShortName];
+      const { aps, counted } = computeAps(marks, courseRule(rule, c), slots);
+      return { ...evaluateCourse(c, marks, aps, closeApsLimit(rule)), apsWorking: counted };
     })
     .sort(
       (a, b) =>
