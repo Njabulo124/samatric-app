@@ -1,0 +1,274 @@
+[
+  {
+    "name": "Bachelor of Medicine and Bachelor of Surgery (MBChB)",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 6,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 450,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.39-45",
+    "notes": "Sub-minimum APS 450/600 (English + Maths + Physical Sciences + next 3 best, LO excluded) (this is the app's minimum). Final selection uses the Health FPS out of 900, which adds NBT scores. Also needs the next three best subjects (excluding LO) at 70% each. Band A (guaranteed): FPS 810+/900 and NBT Proficient for AL, QL and Mathematics. Band B (likely): WPS 807+ and NBT Intermediate or above for AL, QL and Mathematics. Band C (possible, SA redress categories only): FPS 644+ and NBT Intermediate or above for all three. 240 places. Followed by 2-year internship and 1 year community service (HPCSA). SADC eligibility (MBChB): Comoros, Eswatini, Lesotho, Seychelles only. Applicants must be SA citizens/permanent residents or from listed SADC countries. First-choice applicants prioritised. NBTs must be written by 31 Jul 2026 to be considered for a conditional offer (final NBT date 3 Oct 2026).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 65
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 65
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Physiotherapy",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 360,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.39-45",
+    "notes": "Sub-minimum APS 360/600 (this is the app's minimum). Final selection uses the Health FPS out of 900, which adds NBT scores. Also needs the next three best subjects (excluding LO) at 60% each. Mathematical Literacy not listed. Band A (guaranteed): FPS 730+/900. Band B (likely): WPS 797+. Band C (possible, SA redress only): FPS 580+ (redress 1), 610+ (redress 2), 680+ (redress 3 and 4). All bands: NBT Intermediate or above for AL, QL and Mathematics. Prospectus FPS formula names Physical Sciences; Life Sciences accepted as the science subject. 70 places. Followed by 1 year community service. SADC eligibility (Physiotherapy): Angola, Eswatini, Lesotho. Applicants must be SA citizens/permanent residents or from listed SADC countries. First-choice applicants prioritised. NBTs must be written by 31 Jul 2026 to be considered for a conditional offer (final NBT date 3 Oct 2026).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 65
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 65
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Life Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 65
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 65
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Occupational Therapy",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 340,
+    "min_aps_maths_lit": 340,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.39-45",
+    "notes": "Sub-minimum APS 340/600 (this is the app's minimum). Final selection uses the Health FPS out of 900, which adds NBT scores. Also needs the next three best subjects (excluding LO) at 60% each. Band A (guaranteed): FPS 730+/900. Band B (likely): WPS 782+. Band C (possible, SA redress only): FPS 565 (redress 1), 580 (redress 2), 670 (redress 3 and 4). All bands: NBT Intermediate or above for AL, QL and Mathematics. Mathematical Literacy applicants with more than 75% are exempt from NBT Mathematics; MAT equivalence = NBT QL score minus 20. Mathematical Literacy applicants are advised not to write NBT Mathematics. Prospectus FPS formula names Physical Sciences; Life Sciences accepted as the science subject. 70 places. Followed by 1 year community service. SADC eligibility (OT): Angola, Botswana, Comoros, DRC, Eswatini, Lesotho, Malawi, Mozambique, Seychelles. Applicants must be SA citizens/permanent residents or from listed SADC countries. First-choice applicants prioritised. NBTs must be written by 31 Jul 2026 to be considered for a conditional offer (final NBT date 3 Oct 2026).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 65
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 65
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Life Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 65
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 65
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Audiology",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 340,
+    "min_aps_maths_lit": 340,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.39-45",
+    "notes": "Sub-minimum APS 340/600 (this is the app's minimum). Final selection uses the Health FPS out of 900, which adds NBT scores. Also needs the next three best subjects (excluding LO) at 60% each. Band A (guaranteed): FPS 720+/900. Band B (likely): WPS 710+. Band C (possible, SA redress only): FPS 550 (redress 1), 565 (redress 2), 610 (redress 3 and 4). All bands: NBT Intermediate or above for AL, QL and Mathematics. Mathematical Literacy applicants with more than 75% are exempt from NBT Mathematics; MAT equivalence = NBT QL score minus 20. Mathematical Literacy applicants are advised not to write NBT Mathematics. Mathematical Literacy applications considered individually on merit. Prospectus FPS formula names Physical Sciences; Life Sciences accepted as the science subject. 37 places. Followed by 1 year community service. SADC eligibility (Audiology): Angola, Botswana, DRC, Lesotho, Malawi, Mauritius, Mozambique, Namibia, Seychelles, Eswatini, Tanzania, Zambia, Zimbabwe. Applicants must be SA citizens/permanent residents or from listed SADC countries. First-choice applicants prioritised. NBTs must be written by 31 Jul 2026 to be considered for a conditional offer (final NBT date 3 Oct 2026).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 65
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 65
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Life Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 65
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 65
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Speech-Language Pathology",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 340,
+    "min_aps_maths_lit": 340,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.39-45",
+    "notes": "Sub-minimum APS 340/600 (this is the app's minimum). Final selection uses the Health FPS out of 900, which adds NBT scores. Also needs the next three best subjects (excluding LO) at 60% each. Band A (guaranteed): FPS 715+/900. Band B (likely): WPS 670+. Band C (possible, SA redress only): FPS 510 (redress 1), 515 (redress 2), 600 (redress 3 and 4). All bands: NBT Intermediate or above for AL, QL and Mathematics. Mathematical Literacy applicants with more than 75% are exempt from NBT Mathematics; MAT equivalence = NBT QL score minus 20. Mathematical Literacy applicants are advised not to write NBT Mathematics. Mathematical Literacy applicants considered individually; any NBT result in the Basic range excludes Mathematical Literacy applicants (Mathematics applicants with a Basic result may be considered individually). Prospectus FPS formula names Physical Sciences; Life Sciences accepted as the science subject. 40 places. Followed by 1 year community service. SADC eligibility (SLP): Angola, Botswana, DRC, Lesotho, Malawi, Mauritius, Mozambique, Namibia, Seychelles, Eswatini, Tanzania, Zambia, Zimbabwe. Applicants must be SA citizens/permanent residents or from listed SADC countries. First-choice applicants prioritised. NBTs must be written by 31 Jul 2026 to be considered for a conditional offer (final NBT date 3 Oct 2026).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 65
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 65
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences or Life Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 65
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 65
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Higher Certificate in Disability Practice",
+    "faculty": "Faculty of Health Sciences",
+    "qualification_type": "higher_certificate",
+    "is_extended": false,
+    "duration_years": 1,
+    "nsc_pass_required": "higher_certificate",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.39-45",
+    "notes": "Admission not expressed in bands or points. Requires an NSC (or approved HEQSF level 4 school-leaving qualification) and NBT Academic and Quantitative Literacy at Upper Intermediate to Proficient (NBT Mathematics not required). No subject percentages printed (no English % printed). Aimed at home-based carers and school-leavers interested in community-based disability practice. 1 year full-time with work-integrated learning. 30 places; offered only if there are enough applicants.",
+    "requirements": []
+  }
+]

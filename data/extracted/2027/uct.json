@@ -346,7 +346,8 @@
   },
   "faculties": [
     "Faculty of Commerce",
-    "Faculty of Engineering & the Built Environment"
+    "Faculty of Engineering & the Built Environment",
+    "Faculty of Health Sciences"
   ],
   "courses": [
     {
@@ -1919,6 +1920,11 @@
       "item": "BCom Information Systems and Computer Science",
       "issue": "Table's 70% Maths rule is printed for 'Computer Science' specialisations",
       "choice": "70% applied (could be 60%)"
+    },
+    {
+      "item": "Health Sciences minimum",
+      "issue": "Health FPS (out of 900) includes NBT scores the app cannot calculate",
+      "choice": "min_aps = printed sub-minimum APS out of 600 (English + Maths + science + next 3 best); FPS bands and NBT levels in notes; 'next three best at 60/70%' rule in notes only"
     }
   ]
 }
