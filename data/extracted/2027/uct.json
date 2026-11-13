@@ -1,0 +1,1923 @@
+{
+  "intake_year": 2027,
+  "source_document": "UCT Undergraduate Prospectus 2027",
+  "university": {
+    "name": "University of Cape Town",
+    "short_name": "UCT",
+    "institution_type": "traditional",
+    "province": "Western Cape",
+    "website_url": "https://www.uct.ac.za",
+    "application_url": "https://applyonline.uct.ac.za",
+    "application_fee": 100
+  },
+  "application_periods": [
+    {
+      "label": "General",
+      "opens_on": "2026-04-01",
+      "closes_on": "2026-07-31",
+      "notes": "No late applications. BA Fine Art portfolio due 31 Aug 2026. Final NBT date 3 Oct 2026. R100 for SA/SADC applicants, R300 for other international applicants."
+    }
+  ],
+  "aps_rule": {
+    "default_scale": {
+      "name": "UCT FPS (percentage = points, below 40% = 0)",
+      "bands": [
+        {
+          "min_mark": 100,
+          "max_mark": 100,
+          "points": 100
+        },
+        {
+          "min_mark": 99,
+          "max_mark": 99,
+          "points": 99
+        },
+        {
+          "min_mark": 98,
+          "max_mark": 98,
+          "points": 98
+        },
+        {
+          "min_mark": 97,
+          "max_mark": 97,
+          "points": 97
+        },
+        {
+          "min_mark": 96,
+          "max_mark": 96,
+          "points": 96
+        },
+        {
+          "min_mark": 95,
+          "max_mark": 95,
+          "points": 95
+        },
+        {
+          "min_mark": 94,
+          "max_mark": 94,
+          "points": 94
+        },
+        {
+          "min_mark": 93,
+          "max_mark": 93,
+          "points": 93
+        },
+        {
+          "min_mark": 92,
+          "max_mark": 92,
+          "points": 92
+        },
+        {
+          "min_mark": 91,
+          "max_mark": 91,
+          "points": 91
+        },
+        {
+          "min_mark": 90,
+          "max_mark": 90,
+          "points": 90
+        },
+        {
+          "min_mark": 89,
+          "max_mark": 89,
+          "points": 89
+        },
+        {
+          "min_mark": 88,
+          "max_mark": 88,
+          "points": 88
+        },
+        {
+          "min_mark": 87,
+          "max_mark": 87,
+          "points": 87
+        },
+        {
+          "min_mark": 86,
+          "max_mark": 86,
+          "points": 86
+        },
+        {
+          "min_mark": 85,
+          "max_mark": 85,
+          "points": 85
+        },
+        {
+          "min_mark": 84,
+          "max_mark": 84,
+          "points": 84
+        },
+        {
+          "min_mark": 83,
+          "max_mark": 83,
+          "points": 83
+        },
+        {
+          "min_mark": 82,
+          "max_mark": 82,
+          "points": 82
+        },
+        {
+          "min_mark": 81,
+          "max_mark": 81,
+          "points": 81
+        },
+        {
+          "min_mark": 80,
+          "max_mark": 80,
+          "points": 80
+        },
+        {
+          "min_mark": 79,
+          "max_mark": 79,
+          "points": 79
+        },
+        {
+          "min_mark": 78,
+          "max_mark": 78,
+          "points": 78
+        },
+        {
+          "min_mark": 77,
+          "max_mark": 77,
+          "points": 77
+        },
+        {
+          "min_mark": 76,
+          "max_mark": 76,
+          "points": 76
+        },
+        {
+          "min_mark": 75,
+          "max_mark": 75,
+          "points": 75
+        },
+        {
+          "min_mark": 74,
+          "max_mark": 74,
+          "points": 74
+        },
+        {
+          "min_mark": 73,
+          "max_mark": 73,
+          "points": 73
+        },
+        {
+          "min_mark": 72,
+          "max_mark": 72,
+          "points": 72
+        },
+        {
+          "min_mark": 71,
+          "max_mark": 71,
+          "points": 71
+        },
+        {
+          "min_mark": 70,
+          "max_mark": 70,
+          "points": 70
+        },
+        {
+          "min_mark": 69,
+          "max_mark": 69,
+          "points": 69
+        },
+        {
+          "min_mark": 68,
+          "max_mark": 68,
+          "points": 68
+        },
+        {
+          "min_mark": 67,
+          "max_mark": 67,
+          "points": 67
+        },
+        {
+          "min_mark": 66,
+          "max_mark": 66,
+          "points": 66
+        },
+        {
+          "min_mark": 65,
+          "max_mark": 65,
+          "points": 65
+        },
+        {
+          "min_mark": 64,
+          "max_mark": 64,
+          "points": 64
+        },
+        {
+          "min_mark": 63,
+          "max_mark": 63,
+          "points": 63
+        },
+        {
+          "min_mark": 62,
+          "max_mark": 62,
+          "points": 62
+        },
+        {
+          "min_mark": 61,
+          "max_mark": 61,
+          "points": 61
+        },
+        {
+          "min_mark": 60,
+          "max_mark": 60,
+          "points": 60
+        },
+        {
+          "min_mark": 59,
+          "max_mark": 59,
+          "points": 59
+        },
+        {
+          "min_mark": 58,
+          "max_mark": 58,
+          "points": 58
+        },
+        {
+          "min_mark": 57,
+          "max_mark": 57,
+          "points": 57
+        },
+        {
+          "min_mark": 56,
+          "max_mark": 56,
+          "points": 56
+        },
+        {
+          "min_mark": 55,
+          "max_mark": 55,
+          "points": 55
+        },
+        {
+          "min_mark": 54,
+          "max_mark": 54,
+          "points": 54
+        },
+        {
+          "min_mark": 53,
+          "max_mark": 53,
+          "points": 53
+        },
+        {
+          "min_mark": 52,
+          "max_mark": 52,
+          "points": 52
+        },
+        {
+          "min_mark": 51,
+          "max_mark": 51,
+          "points": 51
+        },
+        {
+          "min_mark": 50,
+          "max_mark": 50,
+          "points": 50
+        },
+        {
+          "min_mark": 49,
+          "max_mark": 49,
+          "points": 49
+        },
+        {
+          "min_mark": 48,
+          "max_mark": 48,
+          "points": 48
+        },
+        {
+          "min_mark": 47,
+          "max_mark": 47,
+          "points": 47
+        },
+        {
+          "min_mark": 46,
+          "max_mark": 46,
+          "points": 46
+        },
+        {
+          "min_mark": 45,
+          "max_mark": 45,
+          "points": 45
+        },
+        {
+          "min_mark": 44,
+          "max_mark": 44,
+          "points": 44
+        },
+        {
+          "min_mark": 43,
+          "max_mark": 43,
+          "points": 43
+        },
+        {
+          "min_mark": 42,
+          "max_mark": 42,
+          "points": 42
+        },
+        {
+          "min_mark": 41,
+          "max_mark": 41,
+          "points": 41
+        },
+        {
+          "min_mark": 40,
+          "max_mark": 40,
+          "points": 40
+        },
+        {
+          "min_mark": 0,
+          "max_mark": 39,
+          "points": 0
+        }
+      ]
+    },
+    "subjects_counted": 6,
+    "include_lo": false,
+    "must_count": [
+      [
+        "English Home Language",
+        "English First Additional Language"
+      ]
+    ],
+    "notes": "Faculty Points Score (FPS): English plus the best 5 other subjects, each scoring its percentage (below 40% scores 0), out of 600. Life Orientation excluded. Required subjects must be among the 5. Science counts Maths and Physical Sciences twice (out of 800); Health Sciences adds NBT scores (out of 900). The weighted score (WPS) adds a disadvantage factor the learner cannot calculate. Technical Maths never replaces Maths; Technical Sciences never replaces Physical Sciences."
+  },
+  "faculties": [
+    "Faculty of Commerce"
+  ],
+  "courses": [
+    {
+      "name": "Bachelor of Business Science in Actuarial Science",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 500,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Band A (guaranteed): FPS 500. Band B (likely admission): WPS 525+. Band C (SA redress categories only, EDU only): FPS 475-479. NBT AL & QL: Upper Intermediate or above; applicants with English FAL need Proficient for AL & QL. Transfers into Actuarial Science not permitted.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 80
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 80
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Business Science in Actuarial Science (Extended - EDU)",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 5,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 475,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Education Development Unit (EDU/ADP) route: only South African citizens/permanent residents in targeted redress categories (disadvantage factor above 1.0). Band C FPS 475 (printed range 475-479; mainstream Band A is FPS 500). Offered extended (5 years) or augmented (standard 4 years with support); same degree at graduation. UCT may also offer EDU places to applicants below mainstream requirements whose NBT results show potential. NBT AL & QL: Upper Intermediate or above; applicants with English FAL need Proficient for AL & QL. Transfers into Actuarial Science not permitted.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 80
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 80
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Business Science in Quantitative Finance",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 500,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Band A (guaranteed): FPS 500. Band B (likely admission): WPS 525+. Band C (SA redress categories only, EDU only): FPS 475-479. NBT AL & QL: Upper Intermediate or above; applicants with English FAL need Proficient for AL & QL. Shares Actuarial Science foundations; investment/derivatives focus.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 80
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 80
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Business Science in Quantitative Finance (Extended - EDU)",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 5,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 475,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Education Development Unit (EDU/ADP) route: only South African citizens/permanent residents in targeted redress categories (disadvantage factor above 1.0). Band C FPS 475 (printed range 475-479; mainstream Band A is FPS 500). Offered extended (5 years) or augmented (standard 4 years with support); same degree at graduation. UCT may also offer EDU places to applicants below mainstream requirements whose NBT results show potential. NBT AL & QL: Upper Intermediate or above; applicants with English FAL need Proficient for AL & QL. Shares Actuarial Science foundations; investment/derivatives focus.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 80
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 80
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Business Science in Computer Science",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 435,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Band A (guaranteed): FPS 435. Band B (likely admission): WPS 470+. Band C (SA redress categories only, EDU only): FPS 430-434. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Business Science in Computer Science (Extended - EDU)",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 5,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 430,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Education Development Unit (EDU/ADP) route: only South African citizens/permanent residents in targeted redress categories (disadvantage factor above 1.0). Band C FPS 430 (printed range 430-434; mainstream Band A is FPS 435). Offered extended (5 years) or augmented (standard 4 years with support); same degree at graduation. UCT may also offer EDU places to applicants below mainstream requirements whose NBT results show potential. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Business Science in Statistics and Data Science",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 435,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Band A (guaranteed): FPS 435. Band B (likely admission): WPS 470+. Band C (SA redress categories only, EDU only): FPS 430-434. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Business Science in Statistics and Data Science (Extended - EDU)",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 5,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 430,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Education Development Unit (EDU/ADP) route: only South African citizens/permanent residents in targeted redress categories (disadvantage factor above 1.0). Band C FPS 430 (printed range 430-434; mainstream Band A is FPS 435). Offered extended (5 years) or augmented (standard 4 years with support); same degree at graduation. UCT may also offer EDU places to applicants below mainstream requirements whose NBT results show potential. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Business Science in Economics",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 435,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Band A (guaranteed): FPS 435. Band B (likely admission): WPS 470+. Band C (SA redress categories only, EDU only): FPS 430-434. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Business Science in Economics (Extended - EDU)",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 5,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 430,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Education Development Unit (EDU/ADP) route: only South African citizens/permanent residents in targeted redress categories (disadvantage factor above 1.0). Band C FPS 430 (printed range 430-434; mainstream Band A is FPS 435). Offered extended (5 years) or augmented (standard 4 years with support); same degree at graduation. UCT may also offer EDU places to applicants below mainstream requirements whose NBT results show potential. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Business Science in Economics with Law",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 435,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Band A (guaranteed): FPS 435. Band B (likely admission): WPS 470+. Band C (SA redress categories only, EDU only): FPS 430-434. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required). Law stream: PVL 1000-level law courses need first-year aggregate of at least 63% (competitive, limited places); graduate LLB applied for after the degree.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Business Science in Economics with Law (Extended - EDU)",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 5,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 430,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Education Development Unit (EDU/ADP) route: only South African citizens/permanent residents in targeted redress categories (disadvantage factor above 1.0). Band C FPS 430 (printed range 430-434; mainstream Band A is FPS 435). Offered extended (5 years) or augmented (standard 4 years with support); same degree at graduation. UCT may also offer EDU places to applicants below mainstream requirements whose NBT results show potential. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required). Law stream: PVL 1000-level law courses need first-year aggregate of at least 63% (competitive, limited places); graduate LLB applied for after the degree.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Business Science in Finance, Investment and Banking",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 435,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Band A (guaranteed): FPS 435. Band B (likely admission): WPS 470+. Band C (SA redress categories only, EDU only): FPS 430-434. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Business Science in Finance, Investment and Banking (Extended - EDU)",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 5,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 430,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Education Development Unit (EDU/ADP) route: only South African citizens/permanent residents in targeted redress categories (disadvantage factor above 1.0). Band C FPS 430 (printed range 430-434; mainstream Band A is FPS 435). Offered extended (5 years) or augmented (standard 4 years with support); same degree at graduation. UCT may also offer EDU places to applicants below mainstream requirements whose NBT results show potential. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Business Science in Finance with Accounting",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 435,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Band A (guaranteed): FPS 435. Band B (likely admission): WPS 470+. Band C (SA redress categories only, EDU only): FPS 430-434. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required). CA(SA) route: followed by Postgraduate Diploma in Accounting, training contract and SAICA exams.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Business Science in Finance with Accounting (Extended - EDU)",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 5,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 430,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Education Development Unit (EDU/ADP) route: only South African citizens/permanent residents in targeted redress categories (disadvantage factor above 1.0). Band C FPS 430 (printed range 430-434; mainstream Band A is FPS 435). Offered extended (5 years) or augmented (standard 4 years with support); same degree at graduation. UCT may also offer EDU places to applicants below mainstream requirements whose NBT results show potential. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required). CA(SA) route: followed by Postgraduate Diploma in Accounting, training contract and SAICA exams.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Business Science in Information Systems",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 435,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Band A (guaranteed): FPS 435. Band B (likely admission): WPS 470+. Band C (SA redress categories only, EDU only): FPS 430-434. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Business Science in Information Systems (Extended - EDU)",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 5,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 430,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Education Development Unit (EDU/ADP) route: only South African citizens/permanent residents in targeted redress categories (disadvantage factor above 1.0). Band C FPS 430 (printed range 430-434; mainstream Band A is FPS 435). Offered extended (5 years) or augmented (standard 4 years with support); same degree at graduation. UCT may also offer EDU places to applicants below mainstream requirements whose NBT results show potential. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Business Science in Marketing",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 435,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Band A (guaranteed): FPS 435. Band B (likely admission): WPS 470+. Band C (SA redress categories only, EDU only): FPS 430-434. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Business Science in Marketing (Extended - EDU)",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 5,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 430,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Education Development Unit (EDU/ADP) route: only South African citizens/permanent residents in targeted redress categories (disadvantage factor above 1.0). Band C FPS 430 (printed range 430-434; mainstream Band A is FPS 435). Offered extended (5 years) or augmented (standard 4 years with support); same degree at graduation. UCT may also offer EDU places to applicants below mainstream requirements whose NBT results show potential. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Business Science in Industrial and Organisational Psychology",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 435,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Band A (guaranteed): FPS 435. Band B (likely admission): WPS 470+. Band C (SA redress categories only, EDU only): FPS 430-434. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required). Only for applicants who did (pure) Mathematics.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Business Science in Industrial and Organisational Psychology (Extended - EDU)",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 5,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 430,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Education Development Unit (EDU/ADP) route: only South African citizens/permanent residents in targeted redress categories (disadvantage factor above 1.0). Band C FPS 430 (printed range 430-434; mainstream Band A is FPS 435). Offered extended (5 years) or augmented (standard 4 years with support); same degree at graduation. UCT may also offer EDU places to applicants below mainstream requirements whose NBT results show potential. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required). Only for applicants who did (pure) Mathematics.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Financial Accounting (Chartered Accountant)",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 435,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Band A (guaranteed): FPS 435. Band B (likely admission): WPS 470+. Band C (SA redress categories only, EDU only): FPS 430-434. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required). CA(SA) route: followed by Postgraduate Diploma in Accounting, training contract and SAICA exams.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Financial Accounting (Chartered Accountant) (Extended - EDU)",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 430,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Education Development Unit (EDU/ADP) route: only South African citizens/permanent residents in targeted redress categories (disadvantage factor above 1.0). Band C FPS 430 (printed range 430-434; mainstream Band A is FPS 435). Offered extended (4 years) or augmented (standard 3 years with support); same degree at graduation. UCT may also offer EDU places to applicants below mainstream requirements whose NBT results show potential. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required). CA(SA) route: followed by Postgraduate Diploma in Accounting, training contract and SAICA exams.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Financial Accounting (General)",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 435,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Band A (guaranteed): FPS 435. Band B (likely admission): WPS 470+. Band C (SA redress categories only, EDU only): FPS 430-434. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required). For students not pursuing CA(SA); suits ACCA/CIMA routes.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Financial Accounting (General) (Extended - EDU)",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 430,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Education Development Unit (EDU/ADP) route: only South African citizens/permanent residents in targeted redress categories (disadvantage factor above 1.0). Band C FPS 430 (printed range 430-434; mainstream Band A is FPS 435). Offered extended (4 years) or augmented (standard 3 years with support); same degree at graduation. UCT may also offer EDU places to applicants below mainstream requirements whose NBT results show potential. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required). For students not pursuing CA(SA); suits ACCA/CIMA routes.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Economics with Law",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 435,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Band A (guaranteed): FPS 435. Band B (likely admission): WPS 470+. Band C (SA redress categories only, EDU only): FPS 430-434. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required). Law stream: PVL 1000-level law courses need first-year aggregate of at least 63% (competitive, limited places); graduate LLB applied for after the degree.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Economics with Law (Extended - EDU)",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 430,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Education Development Unit (EDU/ADP) route: only South African citizens/permanent residents in targeted redress categories (disadvantage factor above 1.0). Band C FPS 430 (printed range 430-434; mainstream Band A is FPS 435). Offered extended (4 years) or augmented (standard 3 years with support); same degree at graduation. UCT may also offer EDU places to applicants below mainstream requirements whose NBT results show potential. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required). Law stream: PVL 1000-level law courses need first-year aggregate of at least 63% (competitive, limited places); graduate LLB applied for after the degree.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Economics with Finance",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 435,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Band A (guaranteed): FPS 435. Band B (likely admission): WPS 470+. Band C (SA redress categories only, EDU only): FPS 430-434. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Economics with Finance (Extended - EDU)",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 430,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Education Development Unit (EDU/ADP) route: only South African citizens/permanent residents in targeted redress categories (disadvantage factor above 1.0). Band C FPS 430 (printed range 430-434; mainstream Band A is FPS 435). Offered extended (4 years) or augmented (standard 3 years with support); same degree at graduation. UCT may also offer EDU places to applicants below mainstream requirements whose NBT results show potential. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Economics and Statistics",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 435,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Band A (guaranteed): FPS 435. Band B (likely admission): WPS 470+. Band C (SA redress categories only, EDU only): FPS 430-434. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Economics and Statistics (Extended - EDU)",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 430,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Education Development Unit (EDU/ADP) route: only South African citizens/permanent residents in targeted redress categories (disadvantage factor above 1.0). Band C FPS 430 (printed range 430-434; mainstream Band A is FPS 435). Offered extended (4 years) or augmented (standard 3 years with support); same degree at graduation. UCT may also offer EDU places to applicants below mainstream requirements whose NBT results show potential. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Philosophy, Politics and Economics",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 435,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Band A (guaranteed): FPS 435. Band B (likely admission): WPS 470+. Band C (SA redress categories only, EDU only): FPS 430-434. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Philosophy, Politics and Economics (Extended - EDU)",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 430,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Education Development Unit (EDU/ADP) route: only South African citizens/permanent residents in targeted redress categories (disadvantage factor above 1.0). Band C FPS 430 (printed range 430-434; mainstream Band A is FPS 435). Offered extended (4 years) or augmented (standard 3 years with support); same degree at graduation. UCT may also offer EDU places to applicants below mainstream requirements whose NBT results show potential. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Information Systems",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 435,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Band A (guaranteed): FPS 435. Band B (likely admission): WPS 470+. Band C (SA redress categories only, EDU only): FPS 430-434. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Information Systems (Extended - EDU)",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 430,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Education Development Unit (EDU/ADP) route: only South African citizens/permanent residents in targeted redress categories (disadvantage factor above 1.0). Band C FPS 430 (printed range 430-434; mainstream Band A is FPS 435). Offered extended (4 years) or augmented (standard 3 years with support); same degree at graduation. UCT may also offer EDU places to applicants below mainstream requirements whose NBT results show potential. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Information Systems and Computer Science",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 435,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Band A (guaranteed): FPS 435. Band B (likely admission): WPS 470+. Band C (SA redress categories only, EDU only): FPS 430-434. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required). ASSUMPTION: NSC table lists the 70% Maths rule for 'Computer Science' specialisations; applied here too (could be 60%).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Information Systems and Computer Science (Extended - EDU)",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 430,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Education Development Unit (EDU/ADP) route: only South African citizens/permanent residents in targeted redress categories (disadvantage factor above 1.0). Band C FPS 430 (printed range 430-434; mainstream Band A is FPS 435). Offered extended (4 years) or augmented (standard 3 years with support); same degree at graduation. UCT may also offer EDU places to applicants below mainstream requirements whose NBT results show potential. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required). ASSUMPTION: NSC table lists the 70% Maths rule for 'Computer Science' specialisations; applied here too (could be 60%).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Information Systems and Finance",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 435,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Band A (guaranteed): FPS 435. Band B (likely admission): WPS 470+. Band C (SA redress categories only, EDU only): FPS 430-434. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Information Systems and Finance (Extended - EDU)",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 430,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Education Development Unit (EDU/ADP) route: only South African citizens/permanent residents in targeted redress categories (disadvantage factor above 1.0). Band C FPS 430 (printed range 430-434; mainstream Band A is FPS 435). Offered extended (4 years) or augmented (standard 3 years with support); same degree at graduation. UCT may also offer EDU places to applicants below mainstream requirements whose NBT results show potential. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Management Studies",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 435,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Band A (guaranteed): FPS 435. Band B (likely admission): WPS 470+. Band C (SA redress categories only, EDU only): FPS 430-434. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required). Most flexible Commerce degree: 11 core courses plus electives across UCT.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Management Studies (Extended - EDU)",
+      "faculty": "Faculty of Commerce",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 430,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UCT Undergraduate Prospectus 2027 p.24-28",
+      "notes": "Education Development Unit (EDU/ADP) route: only South African citizens/permanent residents in targeted redress categories (disadvantage factor above 1.0). Band C FPS 430 (printed range 430-434; mainstream Band A is FPS 435). Offered extended (4 years) or augmented (standard 3 years with support); same degree at graduation. UCT may also offer EDU places to applicants below mainstream requirements whose NBT results show potential. NBT AL & QL: Upper Intermediate or above (NBT Mathematics not required). Most flexible Commerce degree: 11 core courses plus electives across UCT.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ambiguities": [
+    {
+      "item": "Admission bands",
+      "issue": "UCT publishes Band A (guaranteed, FPS), Band B (likely, WPS) and Band C (possible, FPS, SA redress categories only) instead of one minimum",
+      "choice": "Mainstream rows use Band A FPS (Band B is a WPS figure); extended/EDU rows use Band C FPS. Other bands in notes."
+    },
+    {
+      "item": "Weighted score (WPS)",
+      "issue": "Disadvantage factor 0-10% (0-20% Health) from school and family background",
+      "choice": "Not modelled; learners below Band A may still be admitted on WPS"
+    },
+    {
+      "item": "BCom Information Systems and Computer Science",
+      "issue": "Table's 70% Maths rule is printed for 'Computer Science' specialisations",
+      "choice": "70% applied (could be 60%)"
+    }
+  ]
+}
