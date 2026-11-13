@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Bachelor of Pharmacy",
+    "faculty": "School of Pharmacy",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SMU Prospectus 2027 p.20",
+    "notes": "Printed as 'Bachelor of Pharmacy (BPharm)'. Minimum 32 points, with Life Orientation counted. Additional Subject 1 at 4 points (50%), 'preferably Accounting'; Additional Subject 2 at 4 points (50%), printed as 'Economics' (preference vs requirement unclear). Must indicate BPharm as first choice. Screening by the BPharm Student Selection Committee; shortlisting on academic results; limited intake; selection also considers the national demographic profile. Mature-age, graduate and transfer routes exist (pp.20-22), not modelled.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  }
+]
