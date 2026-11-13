@@ -1,0 +1,557 @@
+{
+  "intake_year": 2027,
+  "source_document": "UFS Undergraduate Prospectus 2027 (Edition 1)",
+  "university": {
+    "name": "University of the Free State",
+    "short_name": "UFS",
+    "institution_type": "traditional",
+    "province": "Free State",
+    "website_url": "https://www.ufs.ac.za",
+    "application_url": "https://apply.ufs.ac.za/Application/Start",
+    "application_fee": 0
+  },
+  "application_periods": [
+    {
+      "label": "General",
+      "opens_on": "2026-04-01",
+      "closes_on": "2026-09-30",
+      "notes": "Applications are free. Some selection programmes closed on 31 May or 31 July 2026."
+    }
+  ],
+  "aps_rule": {
+    "default_scale": {
+      "name": "UFS 8-point (below 30% = 0)",
+      "bands": [
+        {
+          "min_mark": 90,
+          "max_mark": 100,
+          "points": 8
+        },
+        {
+          "min_mark": 80,
+          "max_mark": 89,
+          "points": 7
+        },
+        {
+          "min_mark": 70,
+          "max_mark": 79,
+          "points": 6
+        },
+        {
+          "min_mark": 60,
+          "max_mark": 69,
+          "points": 5
+        },
+        {
+          "min_mark": 50,
+          "max_mark": 59,
+          "points": 4
+        },
+        {
+          "min_mark": 40,
+          "max_mark": 49,
+          "points": 3
+        },
+        {
+          "min_mark": 30,
+          "max_mark": 39,
+          "points": 2
+        },
+        {
+          "min_mark": 0,
+          "max_mark": 29,
+          "points": 0
+        }
+      ]
+    },
+    "subjects_counted": 7,
+    "include_lo": true,
+    "must_count": [
+      [
+        "Life Orientation"
+      ]
+    ],
+    "subject_scales": [
+      {
+        "subject": "Life Orientation",
+        "scale": {
+          "name": "UFS Life Orientation (1 point from 60%)",
+          "bands": [
+            {
+              "min_mark": 60,
+              "max_mark": 100,
+              "points": 1
+            },
+            {
+              "min_mark": 0,
+              "max_mark": 59,
+              "points": 0
+            }
+          ]
+        }
+      }
+    ],
+    "notes": "Six academic subjects (90-100% = 8 points, below 30% = 0) plus Life Orientation, which adds 1 point at 60% or higher."
+  },
+  "faculties": [
+    "Faculty of Economic and Management Sciences"
+  ],
+  "courses": [
+    {
+      "name": "Bachelor of Accounting",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": null,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 34,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UFS Undergraduate Prospectus 2027 p.15",
+      "notes": "Campus: Bloemfontein. Plan code BC636060. SAICA-accredited route to Chartered Accountant (with PGDip (CA) or BAcc Honours). Merit selection from highest AP; meeting minimum does not guarantee a place.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Accounting",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 28,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UFS Undergraduate Prospectus 2027 p.15",
+      "notes": "Campus: Bloemfontein. Plan code BC635050. For general accountancy bodies (AGA(SA), SAIPA, ACCA, CIMA). For the CA route you must first do PGDip (GA) or BComHons (Acc). Merit selection.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 28,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UFS Undergraduate Prospectus 2027 p.14",
+      "notes": "Campus: Bloemfontein. Plan code BC630000. General BCom. Merit selection.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Economics",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 28,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UFS Undergraduate Prospectus 2027 p.14",
+      "notes": "Campus: Bloemfontein. Plan code BC630020. Merit selection.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Finance",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 28,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UFS Undergraduate Prospectus 2027 p.14",
+      "notes": "Campus: Bloemfontein. Plan code BC630025. Merit selection.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Business Analytics",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 34,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UFS Undergraduate Prospectus 2027 p.14",
+      "notes": "Campus: Bloemfontein. Plan code BC638080. Higher AP and Maths than other BCom streams. Merit selection.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Marketing",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 28,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UFS Undergraduate Prospectus 2027 p.14",
+      "notes": "Campus: Bloemfontein. Plan code BC630010. Merit selection.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Business Management",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 28,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UFS Undergraduate Prospectus 2027 p.14",
+      "notes": "Campus: Bloemfontein. Plan code BC630012. Merit selection.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Human Resource Management",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 28,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UFS Undergraduate Prospectus 2027 p.14",
+      "notes": "Campus: Bloemfontein. Plan code BC630030. Merit selection.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Law",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 33,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UFS Undergraduate Prospectus 2027 p.14",
+      "notes": "Campus: Bloemfontein. Plan code BC637070. Printed as 'BCom (Law)'. Merit selection.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Administration",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 28,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UFS Undergraduate Prospectus 2027 p.14-15",
+      "notes": "Campuses: Bloemfontein (BC634040) and Qwaqwa (QC634040), same requirements. Public Sector Management. Maths only Level 2 (30%); Merit selection.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Management",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 28,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UFS Undergraduate Prospectus 2027 p.15",
+      "notes": "Campus: Qwaqwa only. Plan code QC630001. Merit selection.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ambiguities": [
+    {
+      "item": "Application fee",
+      "issue": "Not printed in the prospectus",
+      "choice": "Free, as UFS's application portal states"
+    },
+    {
+      "item": "Durations",
+      "issue": "The prospectus does not print programme durations",
+      "choice": "Taken from the fee tables where shown"
+    }
+  ]
+}
