@@ -1,0 +1,1692 @@
+{
+  "intake_year": 2027,
+  "source_document": "Stellenbosch University undergraduate admissions booklet 2027; How to apply 2027",
+  "university": {
+    "name": "Stellenbosch University",
+    "short_name": "SU",
+    "institution_type": "traditional",
+    "province": "Western Cape",
+    "website_url": "https://www.sun.ac.za",
+    "application_url": "https://www.maties.com",
+    "application_fee": 100
+  },
+  "application_periods": [
+    {
+      "label": "General",
+      "opens_on": "2026-04-01",
+      "closes_on": "2026-07-31",
+      "notes": "Undergraduate and residence applications close 31 July 2026. R100 for SA applicants (some quintile schools exempt), R400 international. Law NBT by end of July. Drama auditions in August; Visual Arts portfolio 1 September."
+    }
+  ],
+  "aps_rule": {
+    "default_scale": {
+      "name": "SU aggregate (percentage = points)",
+      "bands": [
+        {
+          "min_mark": 100,
+          "max_mark": 100,
+          "points": 100
+        },
+        {
+          "min_mark": 99,
+          "max_mark": 99,
+          "points": 99
+        },
+        {
+          "min_mark": 98,
+          "max_mark": 98,
+          "points": 98
+        },
+        {
+          "min_mark": 97,
+          "max_mark": 97,
+          "points": 97
+        },
+        {
+          "min_mark": 96,
+          "max_mark": 96,
+          "points": 96
+        },
+        {
+          "min_mark": 95,
+          "max_mark": 95,
+          "points": 95
+        },
+        {
+          "min_mark": 94,
+          "max_mark": 94,
+          "points": 94
+        },
+        {
+          "min_mark": 93,
+          "max_mark": 93,
+          "points": 93
+        },
+        {
+          "min_mark": 92,
+          "max_mark": 92,
+          "points": 92
+        },
+        {
+          "min_mark": 91,
+          "max_mark": 91,
+          "points": 91
+        },
+        {
+          "min_mark": 90,
+          "max_mark": 90,
+          "points": 90
+        },
+        {
+          "min_mark": 89,
+          "max_mark": 89,
+          "points": 89
+        },
+        {
+          "min_mark": 88,
+          "max_mark": 88,
+          "points": 88
+        },
+        {
+          "min_mark": 87,
+          "max_mark": 87,
+          "points": 87
+        },
+        {
+          "min_mark": 86,
+          "max_mark": 86,
+          "points": 86
+        },
+        {
+          "min_mark": 85,
+          "max_mark": 85,
+          "points": 85
+        },
+        {
+          "min_mark": 84,
+          "max_mark": 84,
+          "points": 84
+        },
+        {
+          "min_mark": 83,
+          "max_mark": 83,
+          "points": 83
+        },
+        {
+          "min_mark": 82,
+          "max_mark": 82,
+          "points": 82
+        },
+        {
+          "min_mark": 81,
+          "max_mark": 81,
+          "points": 81
+        },
+        {
+          "min_mark": 80,
+          "max_mark": 80,
+          "points": 80
+        },
+        {
+          "min_mark": 79,
+          "max_mark": 79,
+          "points": 79
+        },
+        {
+          "min_mark": 78,
+          "max_mark": 78,
+          "points": 78
+        },
+        {
+          "min_mark": 77,
+          "max_mark": 77,
+          "points": 77
+        },
+        {
+          "min_mark": 76,
+          "max_mark": 76,
+          "points": 76
+        },
+        {
+          "min_mark": 75,
+          "max_mark": 75,
+          "points": 75
+        },
+        {
+          "min_mark": 74,
+          "max_mark": 74,
+          "points": 74
+        },
+        {
+          "min_mark": 73,
+          "max_mark": 73,
+          "points": 73
+        },
+        {
+          "min_mark": 72,
+          "max_mark": 72,
+          "points": 72
+        },
+        {
+          "min_mark": 71,
+          "max_mark": 71,
+          "points": 71
+        },
+        {
+          "min_mark": 70,
+          "max_mark": 70,
+          "points": 70
+        },
+        {
+          "min_mark": 69,
+          "max_mark": 69,
+          "points": 69
+        },
+        {
+          "min_mark": 68,
+          "max_mark": 68,
+          "points": 68
+        },
+        {
+          "min_mark": 67,
+          "max_mark": 67,
+          "points": 67
+        },
+        {
+          "min_mark": 66,
+          "max_mark": 66,
+          "points": 66
+        },
+        {
+          "min_mark": 65,
+          "max_mark": 65,
+          "points": 65
+        },
+        {
+          "min_mark": 64,
+          "max_mark": 64,
+          "points": 64
+        },
+        {
+          "min_mark": 63,
+          "max_mark": 63,
+          "points": 63
+        },
+        {
+          "min_mark": 62,
+          "max_mark": 62,
+          "points": 62
+        },
+        {
+          "min_mark": 61,
+          "max_mark": 61,
+          "points": 61
+        },
+        {
+          "min_mark": 60,
+          "max_mark": 60,
+          "points": 60
+        },
+        {
+          "min_mark": 59,
+          "max_mark": 59,
+          "points": 59
+        },
+        {
+          "min_mark": 58,
+          "max_mark": 58,
+          "points": 58
+        },
+        {
+          "min_mark": 57,
+          "max_mark": 57,
+          "points": 57
+        },
+        {
+          "min_mark": 56,
+          "max_mark": 56,
+          "points": 56
+        },
+        {
+          "min_mark": 55,
+          "max_mark": 55,
+          "points": 55
+        },
+        {
+          "min_mark": 54,
+          "max_mark": 54,
+          "points": 54
+        },
+        {
+          "min_mark": 53,
+          "max_mark": 53,
+          "points": 53
+        },
+        {
+          "min_mark": 52,
+          "max_mark": 52,
+          "points": 52
+        },
+        {
+          "min_mark": 51,
+          "max_mark": 51,
+          "points": 51
+        },
+        {
+          "min_mark": 50,
+          "max_mark": 50,
+          "points": 50
+        },
+        {
+          "min_mark": 49,
+          "max_mark": 49,
+          "points": 49
+        },
+        {
+          "min_mark": 48,
+          "max_mark": 48,
+          "points": 48
+        },
+        {
+          "min_mark": 47,
+          "max_mark": 47,
+          "points": 47
+        },
+        {
+          "min_mark": 46,
+          "max_mark": 46,
+          "points": 46
+        },
+        {
+          "min_mark": 45,
+          "max_mark": 45,
+          "points": 45
+        },
+        {
+          "min_mark": 44,
+          "max_mark": 44,
+          "points": 44
+        },
+        {
+          "min_mark": 43,
+          "max_mark": 43,
+          "points": 43
+        },
+        {
+          "min_mark": 42,
+          "max_mark": 42,
+          "points": 42
+        },
+        {
+          "min_mark": 41,
+          "max_mark": 41,
+          "points": 41
+        },
+        {
+          "min_mark": 40,
+          "max_mark": 40,
+          "points": 40
+        },
+        {
+          "min_mark": 39,
+          "max_mark": 39,
+          "points": 39
+        },
+        {
+          "min_mark": 38,
+          "max_mark": 38,
+          "points": 38
+        },
+        {
+          "min_mark": 37,
+          "max_mark": 37,
+          "points": 37
+        },
+        {
+          "min_mark": 36,
+          "max_mark": 36,
+          "points": 36
+        },
+        {
+          "min_mark": 35,
+          "max_mark": 35,
+          "points": 35
+        },
+        {
+          "min_mark": 34,
+          "max_mark": 34,
+          "points": 34
+        },
+        {
+          "min_mark": 33,
+          "max_mark": 33,
+          "points": 33
+        },
+        {
+          "min_mark": 32,
+          "max_mark": 32,
+          "points": 32
+        },
+        {
+          "min_mark": 31,
+          "max_mark": 31,
+          "points": 31
+        },
+        {
+          "min_mark": 30,
+          "max_mark": 30,
+          "points": 30
+        },
+        {
+          "min_mark": 29,
+          "max_mark": 29,
+          "points": 29
+        },
+        {
+          "min_mark": 28,
+          "max_mark": 28,
+          "points": 28
+        },
+        {
+          "min_mark": 27,
+          "max_mark": 27,
+          "points": 27
+        },
+        {
+          "min_mark": 26,
+          "max_mark": 26,
+          "points": 26
+        },
+        {
+          "min_mark": 25,
+          "max_mark": 25,
+          "points": 25
+        },
+        {
+          "min_mark": 24,
+          "max_mark": 24,
+          "points": 24
+        },
+        {
+          "min_mark": 23,
+          "max_mark": 23,
+          "points": 23
+        },
+        {
+          "min_mark": 22,
+          "max_mark": 22,
+          "points": 22
+        },
+        {
+          "min_mark": 21,
+          "max_mark": 21,
+          "points": 21
+        },
+        {
+          "min_mark": 20,
+          "max_mark": 20,
+          "points": 20
+        },
+        {
+          "min_mark": 19,
+          "max_mark": 19,
+          "points": 19
+        },
+        {
+          "min_mark": 18,
+          "max_mark": 18,
+          "points": 18
+        },
+        {
+          "min_mark": 17,
+          "max_mark": 17,
+          "points": 17
+        },
+        {
+          "min_mark": 16,
+          "max_mark": 16,
+          "points": 16
+        },
+        {
+          "min_mark": 15,
+          "max_mark": 15,
+          "points": 15
+        },
+        {
+          "min_mark": 14,
+          "max_mark": 14,
+          "points": 14
+        },
+        {
+          "min_mark": 13,
+          "max_mark": 13,
+          "points": 13
+        },
+        {
+          "min_mark": 12,
+          "max_mark": 12,
+          "points": 12
+        },
+        {
+          "min_mark": 11,
+          "max_mark": 11,
+          "points": 11
+        },
+        {
+          "min_mark": 10,
+          "max_mark": 10,
+          "points": 10
+        },
+        {
+          "min_mark": 9,
+          "max_mark": 9,
+          "points": 9
+        },
+        {
+          "min_mark": 8,
+          "max_mark": 8,
+          "points": 8
+        },
+        {
+          "min_mark": 7,
+          "max_mark": 7,
+          "points": 7
+        },
+        {
+          "min_mark": 6,
+          "max_mark": 6,
+          "points": 6
+        },
+        {
+          "min_mark": 5,
+          "max_mark": 5,
+          "points": 5
+        },
+        {
+          "min_mark": 4,
+          "max_mark": 4,
+          "points": 4
+        },
+        {
+          "min_mark": 3,
+          "max_mark": 3,
+          "points": 3
+        },
+        {
+          "min_mark": 2,
+          "max_mark": 2,
+          "points": 2
+        },
+        {
+          "min_mark": 1,
+          "max_mark": 1,
+          "points": 1
+        },
+        {
+          "min_mark": 0,
+          "max_mark": 0,
+          "points": 0
+        }
+      ]
+    },
+    "subjects_counted": 6,
+    "include_lo": false,
+    "must_count": [],
+    "notes": "SU prints a minimum NSC aggregate % (average of subjects excluding Life Orientation). Stored as a total out of 600 (average % x 6), compared with the sum of the learner's 6 best subjects excluding LO. Every programme is a selection programme: meeting the minimum does not guarantee a place. Engineering and Science also rank on their own selection marks (see course notes)."
+  },
+  "faculties": [
+    "Faculty of AgriSciences"
+  ],
+  "courses": [
+    {
+      "name": "Bachelor of Agriculture in Agribusiness Management",
+      "faculty": "Faculty of AgriSciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 360,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "SU Undergraduate Prospectus 2027 p.2-3",
+      "notes": "Minimum aggregate 60% (360/600). Similar programmes: BScAgric Agricultural Economic Analysis and Management; BCom (Management Sciences) with focal area Agricultural Economics. An extended curriculum programme (+1 year) is also available (separate row).",
+      "requirements": [
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Agriculture in Agricultural Production and Management (Elsenburg)",
+      "faculty": "Faculty of AgriSciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 330,
+      "min_aps_maths_lit": 330,
+      "min_aps_tech_maths": null,
+      "source_ref": "SU Undergraduate Prospectus 2027 p.2-3",
+      "notes": "Minimum aggregate 55% (330/600). Offered with Elsenburg Agricultural Training Institute; students live and train on the Elsenburg campus (enquiries 021 808 5451). Fields of study: Animal Production; Cellar Management; Cellar Technology; Extension and Animal Production; Extension and Plant Production; Plant Production; Plant and Animal Production. Mathematical Literacy accepted (60%); Technical Mathematics not listed. No extended programme.",
+      "requirements": [
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences, Life Sciences or Agricultural Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Agricultural Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Agriculture in Agricultural Economics",
+      "faculty": "Faculty of AgriSciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 360,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "SU Undergraduate Prospectus 2027 p.2-3",
+      "notes": "Minimum aggregate 60% (360/600). Fields of study: Agricultural Economic Analysis; Agricultural Economic Analysis and Management; Agricultural Economic Analysis and Management with Food Science; Agricultural Economics with Food Science. An extended curriculum programme (+1 year) is also available (separate row).",
+      "requirements": [
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Agriculture in Animal Production Systems",
+      "faculty": "Faculty of AgriSciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 360,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "SU Undergraduate Prospectus 2027 p.2-3",
+      "notes": "Minimum aggregate 60% (360/600). Field of study: Animal Science. Change to another BScAgric with similar subjects possible after the 1st semester/year. An extended curriculum programme (+1 year) is also available (separate row).",
+      "requirements": [
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Conservation Ecology",
+      "faculty": "Faculty of AgriSciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 360,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "SU Undergraduate Prospectus 2027 p.2-3",
+      "notes": "Minimum aggregate 60% (360/600). An extended curriculum programme (+1 year) is also available (separate row).",
+      "requirements": [
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Forestry (Forestry and Natural Resources Sciences)",
+      "faculty": "Faculty of AgriSciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 360,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "SU Undergraduate Prospectus 2027 p.2-3",
+      "notes": "Minimum aggregate 60% (360/600). BScFor (Forestry and Wood Sciences) degree, field of study Forestry and Natural Resources Sciences. An extended curriculum programme (+1 year) is also available (separate row).",
+      "requirements": [
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Forestry (Wood and Wood Products Sciences)",
+      "faculty": "Faculty of AgriSciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 360,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "SU Undergraduate Prospectus 2027 p.2-3",
+      "notes": "Minimum aggregate 60% (360/600). BScFor (Forestry and Wood Sciences) degree, field of study Wood and Wood Products Sciences (higher Maths/Physical Sciences than the Forestry field). An extended curriculum programme (+1 year) is also available (separate row).",
+      "requirements": [
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 70
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Agriculture in Plant and Soil Science",
+      "faculty": "Faculty of AgriSciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 360,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "SU Undergraduate Prospectus 2027 p.2-3",
+      "notes": "Minimum aggregate 60% (360/600). Fields of study: Crop Production Systems; Crop Production Systems with Agronomy, Agricultural Economics and Animal Science; Crop Protection and Breeding; Soil and Water Management. An extended curriculum programme (+1 year) is also available (separate row).",
+      "requirements": [
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Agriculture in Viticulture and Oenology",
+      "faculty": "Faculty of AgriSciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 360,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "SU Undergraduate Prospectus 2027 p.2-3",
+      "notes": "Minimum aggregate 60% (360/600). Wine-making and viticulture. An extended curriculum programme (+1 year) is also available (separate row).",
+      "requirements": [
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Data Science",
+      "faculty": "Faculty of AgriSciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 480,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "SU Undergraduate Prospectus 2027 p.2-3",
+      "notes": "Minimum aggregate 80% (480/600). Interfaculty programme listed under four faculties, same requirements: AgriSciences (focal area Statistical Genetics); Arts and Social Sciences (Geoinformatics); Economic and Management Sciences (Analytics and Optimisation, Behavioural Economics, Statistical Learning); Science (Computer Science, Applied Mathematics, Statistical Physics). No Physical Sciences requirement. Extended programme not offered (ECP entry criteria apply to the agricultural programmes).",
+      "requirements": [
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 75
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 75
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 80
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Food Science",
+      "faculty": "Faculty of AgriSciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 360,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "SU Undergraduate Prospectus 2027 p.2-3",
+      "notes": "Minimum aggregate 60% (360/600). No extended programme.",
+      "requirements": [
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Agriculture in Agribusiness Management (Extended Curriculum Programme)",
+      "faculty": "Faculty of AgriSciences",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 360,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "SU Undergraduate Prospectus 2027 p.4",
+      "notes": "Minimum aggregate 60% (360/600). Extended curriculum programme: one extra year of study. Combination rule: EITHER Mathematics 55%-59.9% with Physical Sciences at least 50%, OR Mathematics at least 60% with Physical Sciences 45%-49.9%.",
+      "requirements": [
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 55
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 45
+            }
+          ]
+        },
+        {
+          "description": "Mathematics 60% or Physical Sciences 50%",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            },
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Agriculture in Agricultural Economics (Extended Curriculum Programme)",
+      "faculty": "Faculty of AgriSciences",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 5,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 360,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "SU Undergraduate Prospectus 2027 p.4",
+      "notes": "Minimum aggregate 60% (360/600). Extended curriculum programme: one extra year of study. Combination rule: EITHER Mathematics 55%-59.9% with Physical Sciences at least 50%, OR Mathematics at least 60% with Physical Sciences 45%-49.9%.",
+      "requirements": [
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 55
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 45
+            }
+          ]
+        },
+        {
+          "description": "Mathematics 60% or Physical Sciences 50%",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            },
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Agriculture in Animal Production Systems (Extended Curriculum Programme)",
+      "faculty": "Faculty of AgriSciences",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 5,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 360,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "SU Undergraduate Prospectus 2027 p.4",
+      "notes": "Minimum aggregate 60% (360/600). Extended curriculum programme: one extra year of study. Combination rule: EITHER Mathematics 55%-59.9% with Physical Sciences at least 50%, OR Mathematics at least 60% with Physical Sciences 45%-49.9%.",
+      "requirements": [
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 55
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 45
+            }
+          ]
+        },
+        {
+          "description": "Mathematics 60% or Physical Sciences 50%",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            },
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Conservation Ecology (Extended Curriculum Programme)",
+      "faculty": "Faculty of AgriSciences",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 5,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 360,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "SU Undergraduate Prospectus 2027 p.4",
+      "notes": "Minimum aggregate 60% (360/600). Extended curriculum programme: one extra year of study. Combination rule: EITHER Mathematics 55%-59.9% with Physical Sciences at least 50%, OR Mathematics at least 60% with Physical Sciences 45%-49.9%.",
+      "requirements": [
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 55
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 45
+            }
+          ]
+        },
+        {
+          "description": "Mathematics 60% or Physical Sciences 50%",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            },
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Forestry (Forestry and Natural Resources Sciences) (Extended Curriculum Programme)",
+      "faculty": "Faculty of AgriSciences",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 5,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 360,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "SU Undergraduate Prospectus 2027 p.4",
+      "notes": "Minimum aggregate 60% (360/600). Extended curriculum programme: one extra year of study. Combination rule: EITHER Mathematics 55%-59.9% with Physical Sciences at least 50%, OR Mathematics at least 60% with Physical Sciences 45%-49.9%.",
+      "requirements": [
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 55
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 45
+            }
+          ]
+        },
+        {
+          "description": "Mathematics 60% or Physical Sciences 50%",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            },
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Forestry (Wood and Wood Products Sciences) (Extended Curriculum Programme)",
+      "faculty": "Faculty of AgriSciences",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 5,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 360,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "SU Undergraduate Prospectus 2027 p.4",
+      "notes": "Minimum aggregate 60% (360/600). Extended curriculum programme: one extra year of study. Combination rule: EITHER Mathematics 60%-69.9% with Physical Sciences at least 60%, OR Mathematics at least 70% with Physical Sciences 55%-59.9%.",
+      "requirements": [
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 55
+            }
+          ]
+        },
+        {
+          "description": "Mathematics 70% or Physical Sciences 60%",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 70
+            },
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Agriculture in Plant and Soil Science (Extended Curriculum Programme)",
+      "faculty": "Faculty of AgriSciences",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 5,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 360,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "SU Undergraduate Prospectus 2027 p.4",
+      "notes": "Minimum aggregate 60% (360/600). Extended curriculum programme: one extra year of study. Combination rule: EITHER Mathematics 55%-59.9% with Physical Sciences at least 50%, OR Mathematics at least 60% with Physical Sciences 45%-49.9%.",
+      "requirements": [
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 55
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 45
+            }
+          ]
+        },
+        {
+          "description": "Mathematics 60% or Physical Sciences 50%",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            },
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Agriculture in Viticulture and Oenology (Extended Curriculum Programme)",
+      "faculty": "Faculty of AgriSciences",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 5,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 360,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "SU Undergraduate Prospectus 2027 p.4",
+      "notes": "Minimum aggregate 60% (360/600). Extended curriculum programme: one extra year of study. Combination rule: EITHER Mathematics 55%-59.9% with Physical Sciences at least 50%, OR Mathematics at least 60% with Physical Sciences 45%-49.9%.",
+      "requirements": [
+        {
+          "description": "English or Afrikaans",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 55
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 45
+            }
+          ]
+        },
+        {
+          "description": "Mathematics 60% or Physical Sciences 50%",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            },
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ambiguities": [
+    {
+      "item": "Aggregate",
+      "issue": "SU prints an average %; the booklet does not say how many subjects",
+      "choice": "Total out of 600 = average x 6, using the 6 best subjects excluding LO"
+    },
+    {
+      "item": "Bachelor of Data Science",
+      "issue": "Listed under four faculties with identical requirements",
+      "choice": "One row under AgriSciences; the four faculties and focal areas are in notes"
+    },
+    {
+      "item": "AgriSciences extended combination rule",
+      "issue": "Maths 55-59% with Physical Sciences 50%+, OR Maths 60%+ with Physical Sciences 45-49%",
+      "choice": "Encoded as Maths 55 AND PS 45 AND (Maths 60 OR PS 50); Wood Sciences: Maths 60 AND PS 55 AND (Maths 70 OR PS 60)"
+    }
+  ]
+}
