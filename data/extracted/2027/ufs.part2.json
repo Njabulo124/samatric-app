@@ -1,0 +1,1030 @@
+[
+  {
+    "name": "Bachelor of Education in Foundation Phase - Afrikaans Home Language",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.16",
+    "notes": "Campus: South Campus. Plan code LC735101. Prospectus asks for English FAL 50% with this specialisation. Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Afrikaans",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Foundation Phase - Sesotho Home Language",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.16",
+    "notes": "Campuses: South Campus and Qwaqwa. Plan code LC735103/QC735103. Prospectus asks for English FAL 50% with this specialisation. Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Sesotho",
+        "options": [
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Foundation Phase - isiZulu Home Language",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.16",
+    "notes": "Campus: Qwaqwa. Plan code QC735105. Prospectus asks for English FAL 50% with this specialisation. Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "isiZulu",
+        "options": [
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Foundation Phase - English Home Language",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.16",
+    "notes": "Campus: South Campus. Plan code LC735106. English must be Home Language. Afrikaans Level 4 (50%) required (HL/FAL not specified). Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Afrikaans",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Intermediate Phase - Mathematics, Natural Sciences, Technology and Afrikaans Home Language",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.16",
+    "notes": "Campus: Bloemfontein. Plan code BC735791. Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Afrikaans",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Intermediate Phase - Life Skills, Social Sciences and Afrikaans Home Language",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.16",
+    "notes": "Campus: Bloemfontein. Plan code BC735784. Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Afrikaans",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Intermediate Phase - Mathematics, Natural Sciences, Technology and English Home Language",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.17",
+    "notes": "Campus: Bloemfontein. Plan code BC735793. English must be Home Language; Afrikaans FAL 50% also required. Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Afrikaans",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Intermediate Phase - Life Skills, Social Sciences and English Home Language",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.17",
+    "notes": "Campus: Bloemfontein. Plan code BC735787. English must be Home Language; Afrikaans FAL 50% also required. Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Afrikaans",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Intermediate Phase - Mathematics, Natural Sciences, Technology and Sesotho Home Language",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.17",
+    "notes": "Campuses: Bloemfontein and Qwaqwa. Plan code BC735792/QC735792. Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Sesotho",
+        "options": [
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Intermediate Phase - Life Skills, Social Sciences and isiZulu Home Language",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.17",
+    "notes": "Campus: Qwaqwa. Plan code QC735788. Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "isiZulu",
+        "options": [
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Intermediate Phase - Life Skills, Social Sciences and Sesotho Home Language",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.17",
+    "notes": "Campuses: Bloemfontein and Qwaqwa. Plan code BC735782/QC735782. Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Sesotho",
+        "options": [
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Intermediate Phase - Mathematics, Natural Sciences, Technology and isiZulu Home Language",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.17",
+    "notes": "Campus: Qwaqwa. Plan code QC735794. Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "isiZulu",
+        "options": [
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and FET - Accounting and Business Studies",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.17",
+    "notes": "Campus: Bloemfontein. Plan code BC736101. Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Accounting",
+        "options": [
+          {
+            "subject": "Accounting",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Business Studies",
+        "options": [
+          {
+            "subject": "Business Studies",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and FET - EMS and Accounting",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.17",
+    "notes": "Campus: Bloemfontein. Plan code BC736104. Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Accounting",
+        "options": [
+          {
+            "subject": "Accounting",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Economics or Business Studies",
+        "options": [
+          {
+            "subject": "Economics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Business Studies",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and FET - Technology and Engineering Graphics and Design",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.17",
+    "notes": "Campus: Bloemfontein. Plan code BC736301. No maths requirement printed. Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Engineering Graphics and Design",
+        "options": [
+          {
+            "subject": "Engineering Graphics and Design",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and FET - Life Sciences and Mathematics",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.17",
+    "notes": "Campuses: Bloemfontein and Qwaqwa. Plan code BC736305/QC736305. Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and FET - Technology and Life Sciences",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.17",
+    "notes": "Campus: Bloemfontein. Plan code BC736308. No maths requirement printed. Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and FET - Sesotho Home Language and English First Additional Language",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.17",
+    "notes": "Campuses: Bloemfontein and Qwaqwa. Plan code BC736404/QC736402. Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Sesotho",
+        "options": [
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and FET - isiZulu Home Language and English First Additional Language",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.17",
+    "notes": "Campus: Qwaqwa. Plan code QC736403. Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "isiZulu",
+        "options": [
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and FET - Mathematics and Physical Sciences",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.17",
+    "notes": "Campuses: Bloemfontein and Qwaqwa. Plan code BC736314/QC736314. Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and FET - Sesotho Home Language and History",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.17",
+    "notes": "Campuses: Bloemfontein and Qwaqwa. Plan code BC736511/QC736511. No History requirement printed. Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Sesotho",
+        "options": [
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and FET - isiZulu Home Language and History",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.17",
+    "notes": "Campus: Qwaqwa. Plan code QC736512. No History requirement printed. Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "isiZulu",
+        "options": [
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and FET - English and History",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.17",
+    "notes": "Campus: Bloemfontein. Plan code BC736519. Only English required; no History requirement printed. Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and FET - Afrikaans Home Language and English",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.17",
+    "notes": "Campus: Bloemfontein. Plan code BC736521. Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Afrikaans",
+        "options": [
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Senior Phase and FET - Geography and Life Sciences",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.17",
+    "notes": "Campuses: Bloemfontein and Qwaqwa. Plan code BC736600/QC736600. Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Geography",
+        "options": [
+          {
+            "subject": "Geography",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  }
+]
