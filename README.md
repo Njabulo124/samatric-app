@@ -36,7 +36,8 @@ A learner enters their matric marks once. The app then:
 | University of the Free State (UFS) | 102 | UFS Undergraduate Prospectus 2027 |
 | Central University of Technology (CUT) | 45 | CUT programme web pages (no 2027 prospectus) |
 | Sol Plaatje University (SPU) | 18 | SPU Undergraduate Prospectus |
-| **Total** | **1,575** | |
+| Nelson Mandela University (NMU) | 119 | NMU Undergraduate Programme Guide 2027; Applicant Score out of 600 |
+| **Total** | **1,694** | |
 
 ---
 
@@ -154,7 +155,7 @@ From the terminal: `npm run check -- samples/strong-science.json --uni WSU --sho
 
 - [x] Eligibility engine with per-university APS rules
 - [x] Prospectus pipeline with validation and change detection
-- [x] UJ, TUT, UP, UKZN, WSU, UFH, DUT, Wits, MUT, UNIZULU, VUT, NWU, UL, SMU, UNIVEN, UMP, UFS, CUT and SPU 2027 data (1,575 courses)
+- [x] UJ, TUT, UP, UKZN, WSU, UFH, DUT, Wits, MUT, UNIZULU, VUT, NWU, UL, SMU, UNIVEN, UMP, UFS, CUT, SPU and NMU 2027 data (1,694 courses)
 - [ ] Clearer, learner-friendly UI that works well on phones
 - [ ] More universities
 - [ ] NSC pass-type check (Bachelor / Diploma / Higher Certificate)

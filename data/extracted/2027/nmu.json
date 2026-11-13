@@ -1,0 +1,4568 @@
+{
+  "intake_year": 2027,
+  "source_document": "NMU Undergraduate Programme Guide 2027 (cross-checked with the 2027 Z Card)",
+  "university": {
+    "name": "Nelson Mandela University",
+    "short_name": "NMU",
+    "institution_type": "comprehensive",
+    "province": "Eastern Cape",
+    "website_url": "https://www.mandela.ac.za",
+    "application_url": "https://www.mandela.ac.za/Study-at-Mandela/Application/Apply-Undergraduate",
+    "application_fee": 0
+  },
+  "application_periods": [
+    {
+      "label": "General",
+      "opens_on": "2026-04-13",
+      "closes_on": "2026-09-30",
+      "notes": "Apply before the August closing date; late applications considered on merit until 30 September. MBChB, BPharm and Radiography closed 30 June. No fee for South African applicants."
+    }
+  ],
+  "aps_rule": {
+    "default_scale": {
+      "name": "NMU Applicant Score (percentage = points)",
+      "bands": [
+        {
+          "min_mark": 100,
+          "max_mark": 100,
+          "points": 100
+        },
+        {
+          "min_mark": 99,
+          "max_mark": 99,
+          "points": 99
+        },
+        {
+          "min_mark": 98,
+          "max_mark": 98,
+          "points": 98
+        },
+        {
+          "min_mark": 97,
+          "max_mark": 97,
+          "points": 97
+        },
+        {
+          "min_mark": 96,
+          "max_mark": 96,
+          "points": 96
+        },
+        {
+          "min_mark": 95,
+          "max_mark": 95,
+          "points": 95
+        },
+        {
+          "min_mark": 94,
+          "max_mark": 94,
+          "points": 94
+        },
+        {
+          "min_mark": 93,
+          "max_mark": 93,
+          "points": 93
+        },
+        {
+          "min_mark": 92,
+          "max_mark": 92,
+          "points": 92
+        },
+        {
+          "min_mark": 91,
+          "max_mark": 91,
+          "points": 91
+        },
+        {
+          "min_mark": 90,
+          "max_mark": 90,
+          "points": 90
+        },
+        {
+          "min_mark": 89,
+          "max_mark": 89,
+          "points": 89
+        },
+        {
+          "min_mark": 88,
+          "max_mark": 88,
+          "points": 88
+        },
+        {
+          "min_mark": 87,
+          "max_mark": 87,
+          "points": 87
+        },
+        {
+          "min_mark": 86,
+          "max_mark": 86,
+          "points": 86
+        },
+        {
+          "min_mark": 85,
+          "max_mark": 85,
+          "points": 85
+        },
+        {
+          "min_mark": 84,
+          "max_mark": 84,
+          "points": 84
+        },
+        {
+          "min_mark": 83,
+          "max_mark": 83,
+          "points": 83
+        },
+        {
+          "min_mark": 82,
+          "max_mark": 82,
+          "points": 82
+        },
+        {
+          "min_mark": 81,
+          "max_mark": 81,
+          "points": 81
+        },
+        {
+          "min_mark": 80,
+          "max_mark": 80,
+          "points": 80
+        },
+        {
+          "min_mark": 79,
+          "max_mark": 79,
+          "points": 79
+        },
+        {
+          "min_mark": 78,
+          "max_mark": 78,
+          "points": 78
+        },
+        {
+          "min_mark": 77,
+          "max_mark": 77,
+          "points": 77
+        },
+        {
+          "min_mark": 76,
+          "max_mark": 76,
+          "points": 76
+        },
+        {
+          "min_mark": 75,
+          "max_mark": 75,
+          "points": 75
+        },
+        {
+          "min_mark": 74,
+          "max_mark": 74,
+          "points": 74
+        },
+        {
+          "min_mark": 73,
+          "max_mark": 73,
+          "points": 73
+        },
+        {
+          "min_mark": 72,
+          "max_mark": 72,
+          "points": 72
+        },
+        {
+          "min_mark": 71,
+          "max_mark": 71,
+          "points": 71
+        },
+        {
+          "min_mark": 70,
+          "max_mark": 70,
+          "points": 70
+        },
+        {
+          "min_mark": 69,
+          "max_mark": 69,
+          "points": 69
+        },
+        {
+          "min_mark": 68,
+          "max_mark": 68,
+          "points": 68
+        },
+        {
+          "min_mark": 67,
+          "max_mark": 67,
+          "points": 67
+        },
+        {
+          "min_mark": 66,
+          "max_mark": 66,
+          "points": 66
+        },
+        {
+          "min_mark": 65,
+          "max_mark": 65,
+          "points": 65
+        },
+        {
+          "min_mark": 64,
+          "max_mark": 64,
+          "points": 64
+        },
+        {
+          "min_mark": 63,
+          "max_mark": 63,
+          "points": 63
+        },
+        {
+          "min_mark": 62,
+          "max_mark": 62,
+          "points": 62
+        },
+        {
+          "min_mark": 61,
+          "max_mark": 61,
+          "points": 61
+        },
+        {
+          "min_mark": 60,
+          "max_mark": 60,
+          "points": 60
+        },
+        {
+          "min_mark": 59,
+          "max_mark": 59,
+          "points": 59
+        },
+        {
+          "min_mark": 58,
+          "max_mark": 58,
+          "points": 58
+        },
+        {
+          "min_mark": 57,
+          "max_mark": 57,
+          "points": 57
+        },
+        {
+          "min_mark": 56,
+          "max_mark": 56,
+          "points": 56
+        },
+        {
+          "min_mark": 55,
+          "max_mark": 55,
+          "points": 55
+        },
+        {
+          "min_mark": 54,
+          "max_mark": 54,
+          "points": 54
+        },
+        {
+          "min_mark": 53,
+          "max_mark": 53,
+          "points": 53
+        },
+        {
+          "min_mark": 52,
+          "max_mark": 52,
+          "points": 52
+        },
+        {
+          "min_mark": 51,
+          "max_mark": 51,
+          "points": 51
+        },
+        {
+          "min_mark": 50,
+          "max_mark": 50,
+          "points": 50
+        },
+        {
+          "min_mark": 49,
+          "max_mark": 49,
+          "points": 49
+        },
+        {
+          "min_mark": 48,
+          "max_mark": 48,
+          "points": 48
+        },
+        {
+          "min_mark": 47,
+          "max_mark": 47,
+          "points": 47
+        },
+        {
+          "min_mark": 46,
+          "max_mark": 46,
+          "points": 46
+        },
+        {
+          "min_mark": 45,
+          "max_mark": 45,
+          "points": 45
+        },
+        {
+          "min_mark": 44,
+          "max_mark": 44,
+          "points": 44
+        },
+        {
+          "min_mark": 43,
+          "max_mark": 43,
+          "points": 43
+        },
+        {
+          "min_mark": 42,
+          "max_mark": 42,
+          "points": 42
+        },
+        {
+          "min_mark": 41,
+          "max_mark": 41,
+          "points": 41
+        },
+        {
+          "min_mark": 40,
+          "max_mark": 40,
+          "points": 40
+        },
+        {
+          "min_mark": 39,
+          "max_mark": 39,
+          "points": 39
+        },
+        {
+          "min_mark": 38,
+          "max_mark": 38,
+          "points": 38
+        },
+        {
+          "min_mark": 37,
+          "max_mark": 37,
+          "points": 37
+        },
+        {
+          "min_mark": 36,
+          "max_mark": 36,
+          "points": 36
+        },
+        {
+          "min_mark": 35,
+          "max_mark": 35,
+          "points": 35
+        },
+        {
+          "min_mark": 34,
+          "max_mark": 34,
+          "points": 34
+        },
+        {
+          "min_mark": 33,
+          "max_mark": 33,
+          "points": 33
+        },
+        {
+          "min_mark": 32,
+          "max_mark": 32,
+          "points": 32
+        },
+        {
+          "min_mark": 31,
+          "max_mark": 31,
+          "points": 31
+        },
+        {
+          "min_mark": 30,
+          "max_mark": 30,
+          "points": 30
+        },
+        {
+          "min_mark": 29,
+          "max_mark": 29,
+          "points": 29
+        },
+        {
+          "min_mark": 28,
+          "max_mark": 28,
+          "points": 28
+        },
+        {
+          "min_mark": 27,
+          "max_mark": 27,
+          "points": 27
+        },
+        {
+          "min_mark": 26,
+          "max_mark": 26,
+          "points": 26
+        },
+        {
+          "min_mark": 25,
+          "max_mark": 25,
+          "points": 25
+        },
+        {
+          "min_mark": 24,
+          "max_mark": 24,
+          "points": 24
+        },
+        {
+          "min_mark": 23,
+          "max_mark": 23,
+          "points": 23
+        },
+        {
+          "min_mark": 22,
+          "max_mark": 22,
+          "points": 22
+        },
+        {
+          "min_mark": 21,
+          "max_mark": 21,
+          "points": 21
+        },
+        {
+          "min_mark": 20,
+          "max_mark": 20,
+          "points": 20
+        },
+        {
+          "min_mark": 19,
+          "max_mark": 19,
+          "points": 19
+        },
+        {
+          "min_mark": 18,
+          "max_mark": 18,
+          "points": 18
+        },
+        {
+          "min_mark": 17,
+          "max_mark": 17,
+          "points": 17
+        },
+        {
+          "min_mark": 16,
+          "max_mark": 16,
+          "points": 16
+        },
+        {
+          "min_mark": 15,
+          "max_mark": 15,
+          "points": 15
+        },
+        {
+          "min_mark": 14,
+          "max_mark": 14,
+          "points": 14
+        },
+        {
+          "min_mark": 13,
+          "max_mark": 13,
+          "points": 13
+        },
+        {
+          "min_mark": 12,
+          "max_mark": 12,
+          "points": 12
+        },
+        {
+          "min_mark": 11,
+          "max_mark": 11,
+          "points": 11
+        },
+        {
+          "min_mark": 10,
+          "max_mark": 10,
+          "points": 10
+        },
+        {
+          "min_mark": 9,
+          "max_mark": 9,
+          "points": 9
+        },
+        {
+          "min_mark": 8,
+          "max_mark": 8,
+          "points": 8
+        },
+        {
+          "min_mark": 7,
+          "max_mark": 7,
+          "points": 7
+        },
+        {
+          "min_mark": 6,
+          "max_mark": 6,
+          "points": 6
+        },
+        {
+          "min_mark": 5,
+          "max_mark": 5,
+          "points": 5
+        },
+        {
+          "min_mark": 4,
+          "max_mark": 4,
+          "points": 4
+        },
+        {
+          "min_mark": 3,
+          "max_mark": 3,
+          "points": 3
+        },
+        {
+          "min_mark": 2,
+          "max_mark": 2,
+          "points": 2
+        },
+        {
+          "min_mark": 1,
+          "max_mark": 1,
+          "points": 1
+        },
+        {
+          "min_mark": 0,
+          "max_mark": 0,
+          "points": 0
+        }
+      ]
+    },
+    "subjects_counted": 6,
+    "include_lo": false,
+    "must_count": [
+      [
+        "English Home Language",
+        "Afrikaans Home Language",
+        "isiNdebele Home Language",
+        "isiXhosa Home Language",
+        "isiZulu Home Language",
+        "Sepedi Home Language",
+        "Sesotho Home Language",
+        "Setswana Home Language",
+        "Siswati Home Language",
+        "Tshivenda Home Language",
+        "Xitsonga Home Language",
+        "South African Sign Language Home Language"
+      ],
+      [
+        "English First Additional Language",
+        "Afrikaans First Additional Language",
+        "isiNdebele First Additional Language",
+        "isiXhosa First Additional Language",
+        "isiZulu First Additional Language",
+        "Sepedi First Additional Language",
+        "Sesotho First Additional Language",
+        "Setswana First Additional Language",
+        "Siswati First Additional Language",
+        "Tshivenda First Additional Language",
+        "Xitsonga First Additional Language"
+      ],
+      [
+        "Mathematics",
+        "Mathematical Literacy",
+        "Technical Mathematics"
+      ]
+    ],
+    "notes": "Applicant Score (AS): sum of the percentages for six subjects, out of 600. Must include Home Language, First Additional Language and Mathematics/Maths Lit/Technical Maths. Life Orientation excluded. Quintile 1-3 schools add 7 with LO 50%+ (not modelled)."
+  },
+  "faculties": [
+    "Faculty of Business & Economic Sciences",
+    "Faculty of Education",
+    "Faculty of Engineering, the Built Environment & Technology",
+    "Faculty of Health Sciences",
+    "Faculty of Humanities",
+    "Faculty of Law",
+    "Faculty of Science"
+  ],
+  "courses": [
+    {
+      "name": "Bachelor of Commerce in Accounting",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 410,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.38",
+      "notes": "Campuses: Gqeberha and George. Chartered Accounting route. George: full-time only. Part-time 5 years in Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce: General (Accounting)",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 390,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.33",
+      "notes": "Campuses: Gqeberha and George. George: full-time only. Part-time 5 years in Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce: General (Accounting) (Extended Curriculum Programme)",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 370,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.33",
+      "notes": "Campuses: Gqeberha and George. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce: Accounting Science (Economics & Business Management)",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 410,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.40",
+      "notes": "Campus: Gqeberha. Chartered Accounting plus Economics/Business Management major. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce: Accounting Science (Law)",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 410,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.41",
+      "notes": "Campus: Gqeberha. English HL 65% or FAL 70%. Leads to two-year post-LLB. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 65
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 70
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce: Accounting Science (Computer Science & Information Systems)",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 410,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.41",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Accountancy",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 350,
+      "min_aps_maths_lit": 365,
+      "min_aps_tech_maths": 350,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.23",
+      "notes": "Campus: Gqeberha. Part-time 5 years also offered. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 45
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 65
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Higher Certificate in Accountancy",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "higher_certificate",
+      "is_extended": false,
+      "duration_years": 1,
+      "nsc_pass_required": "higher_certificate",
+      "min_aps": 290,
+      "min_aps_maths_lit": 305,
+      "min_aps_tech_maths": 290,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.22",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 35
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Marketing & Business Management",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 390,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.36",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Marketing",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 330,
+      "min_aps_maths_lit": 345,
+      "min_aps_tech_maths": 330,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.26",
+      "notes": "Campuses: Gqeberha and George. Part-time 4 years also offered. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Marketing (Extended Curriculum Programme)",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "diploma",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "diploma",
+      "min_aps": 310,
+      "min_aps_maths_lit": 325,
+      "min_aps_tech_maths": 310,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.27",
+      "notes": "Campuses: Gqeberha and George. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 35
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 55
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce: General (Business Management)",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 390,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.34",
+      "notes": "Campuses: Gqeberha and George. Part-time 5 years also offered. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce: General (Business Management) (Extended Curriculum Programme)",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 370,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.34",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce: General (Business Management and Industrial & Organisational Psychology)",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 390,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.133",
+      "notes": "Campus: George only. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Information Systems & Business Management",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 390,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.39",
+      "notes": "Campus: Gqeberha. Also listed as 'BCom: IS (Business Management)'. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Computer Science & Information Systems",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 390,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.38",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Management",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 330,
+      "min_aps_maths_lit": 345,
+      "min_aps_tech_maths": 330,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.26",
+      "notes": "Campuses: Gqeberha and George. Part-time 4 years also offered. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Management (Extended Curriculum Programme)",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "diploma",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "diploma",
+      "min_aps": 310,
+      "min_aps_maths_lit": 325,
+      "min_aps_tech_maths": 310,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.26",
+      "notes": "Campuses: Gqeberha and George. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 35
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 55
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Higher Certificate in Business Studies",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "higher_certificate",
+      "is_extended": false,
+      "duration_years": 1,
+      "nsc_pass_required": "higher_certificate",
+      "min_aps": 290,
+      "min_aps_maths_lit": 305,
+      "min_aps_tech_maths": 290,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.22",
+      "notes": "Campuses: Gqeberha and George. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 30
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Arts in Development Studies",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 350,
+      "min_aps_maths_lit": 365,
+      "min_aps_tech_maths": 350,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.43",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Logistics & Transport Economics",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 390,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.39",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce: General (Economics)",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 390,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.32",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce: General (Economics) (Extended Curriculum Programme)",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 370,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.32",
+      "notes": "Campuses: Gqeberha and George. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Economics",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 330,
+      "min_aps_maths_lit": 345,
+      "min_aps_tech_maths": 330,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.23",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Economics (Extended Curriculum Programme)",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "diploma",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "diploma",
+      "min_aps": 310,
+      "min_aps_maths_lit": 325,
+      "min_aps_tech_maths": 310,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.24",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 35
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 55
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Economics & Statistics",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 390,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.38",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce: General (Statistics)",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 390,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.37",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Financial Planning",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 390,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.34",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Financial Planning (Extended Curriculum Programme)",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 370,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.35",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Food Service Management",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 390,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.40",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Hospitality Management",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 390,
+      "min_aps_maths_lit": 405,
+      "min_aps_tech_maths": 390,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.37",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Arts in Human Resource Management",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 350,
+      "min_aps_maths_lit": 365,
+      "min_aps_tech_maths": 350,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.42",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Industrial Psychology & Human Resource Management",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 390,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.39",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Human Resource Management",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 330,
+      "min_aps_maths_lit": 345,
+      "min_aps_tech_maths": 330,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.24",
+      "notes": "Campus: Gqeberha. Part-time 4 years also offered. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 35
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 55
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Human Resource Management (Extended Curriculum Programme)",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "diploma",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "diploma",
+      "min_aps": 310,
+      "min_aps_maths_lit": 325,
+      "min_aps_tech_maths": 310,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.24",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 30
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Logistics",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 330,
+      "min_aps_maths_lit": 345,
+      "min_aps_tech_maths": 330,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.25",
+      "notes": "Campus: Gqeberha. Part-time 4 years also offered. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Logistics (Extended Curriculum Programme)",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "diploma",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "diploma",
+      "min_aps": 310,
+      "min_aps_maths_lit": 325,
+      "min_aps_tech_maths": 310,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.25",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 35
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 55
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Inventory & Stores Management",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 290,
+      "min_aps_maths_lit": 305,
+      "min_aps_tech_maths": 290,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.25",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 30
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce: General (Tourism)",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 390,
+      "min_aps_maths_lit": 405,
+      "min_aps_tech_maths": 390,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.36",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce: General (Tourism) (Extended Curriculum Programme)",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 370,
+      "min_aps_maths_lit": 385,
+      "min_aps_tech_maths": 370,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.36",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 45
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 65
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Tourism Management",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 330,
+      "min_aps_maths_lit": 345,
+      "min_aps_tech_maths": 330,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.28",
+      "notes": "Campuses: Gqeberha and George. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Tourism Management (Extended Curriculum Programme)",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "diploma",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "diploma",
+      "min_aps": 310,
+      "min_aps_maths_lit": 325,
+      "min_aps_tech_maths": 310,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.28",
+      "notes": "Campuses: Gqeberha and George. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 35
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 55
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce: General",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 390,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.130",
+      "notes": "Campus: George only. George majors: Economics & Business Management; Economics & Accounting (or General Accounting); Business Management & Accounting (or General Accounting). Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce: General (Extended Curriculum Programme)",
+      "faculty": "Faculty of Business & Economic Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 370,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.130",
+      "notes": "Campus: George only. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Foundation Phase Teaching",
+      "faculty": "Faculty of Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 350,
+      "min_aps_maths_lit": 365,
+      "min_aps_tech_maths": 365,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.46",
+      "notes": "Campus: Gqeberha. Grades R-3. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Afrikaans or isiXhosa (HL or FAL)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 45
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Intermediate Phase Teaching",
+      "faculty": "Faculty of Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 370,
+      "min_aps_maths_lit": 385,
+      "min_aps_tech_maths": 385,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.46",
+      "notes": "Campus: Gqeberha. Grades 4-6. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Afrikaans or isiXhosa (HL or FAL)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 45
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Senior Phase and FET Teaching - Commerce Stream",
+      "faculty": "Faculty of Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 390,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.47",
+      "notes": "Campus: Gqeberha. To specialise in Accounting, Business Studies or Economics you need that subject at 60% in Gr 12. Choose two FET specialisations (Accounting, Business Studies, Economics, Mathematics, Maths Literacy) + one SP (EMS, Mathematics). To specialise in Maths Lit you must have taken Mathematics. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Afrikaans or isiXhosa (HL or FAL)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Senior Phase and FET Teaching - Science Stream",
+      "faculty": "Faculty of Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 390,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.48",
+      "notes": "Campus: Gqeberha. To specialise in Physical Sciences or Life Sciences you need that subject at 60% (Geography 55%). FET: Life Sciences, Physical Sciences, Geography, Mathematics or Maths Literacy; SP: Mathematics, Natural Sciences. Physical Science students must choose Mathematics as 2nd FET specialisation. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Afrikaans or isiXhosa (HL or FAL)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Senior Phase and FET Teaching - Humanities Stream",
+      "faculty": "Faculty of Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 390,
+      "min_aps_maths_lit": 405,
+      "min_aps_tech_maths": 405,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.48",
+      "notes": "Campus: Gqeberha. To specialise in a language, History or Geography you need that subject at 55%. FET: Afrikaans, English, isiXhosa, History, Geography; SP: languages, Social Science. If Geography is chosen, Maths 60% is required and Maths Lit/Tech Maths not accepted. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Afrikaans or isiXhosa (HL or FAL)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 45
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Engineering Technology in Civil Engineering",
+      "faculty": "Faculty of Engineering, the Built Environment & Technology",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 370,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": 370,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.70",
+      "notes": "Campus: Gqeberha. Alternative entry: NMU Higher Certificate in Mechatronics or Renewable Energy Engineering with 60% average and 60% for Mathematics (MAT1011). Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences or Technical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Engineering Technology in Electrical Engineering",
+      "faculty": "Faculty of Engineering, the Built Environment & Technology",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 370,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": 370,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.58",
+      "notes": "Campus: Gqeberha. Alternative entry: NMU Higher Certificate in Mechatronics or Renewable Energy Engineering with 60% average and 60% for Mathematics (MAT1011). Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences or Technical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Engineering Technology in Industrial Engineering",
+      "faculty": "Faculty of Engineering, the Built Environment & Technology",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 370,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": 370,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.59",
+      "notes": "Campus: Gqeberha. Alternative entry: NMU Higher Certificate in Mechatronics or Renewable Energy Engineering with 60% average and 60% for Mathematics (MAT1011). Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences or Technical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Engineering Technology in Marine Engineering",
+      "faculty": "Faculty of Engineering, the Built Environment & Technology",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 370,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": 370,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.60",
+      "notes": "Campus: Gqeberha. Alternative entry: NMU HCert in Mechatronics Engineering with 60% average and 60% for MAT1011. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences or Technical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Engineering Technology in Mechanical Engineering",
+      "faculty": "Faculty of Engineering, the Built Environment & Technology",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 370,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": 370,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.59",
+      "notes": "Campus: Gqeberha. Alternative entry: NMU Higher Certificate in Mechatronics or Renewable Energy Engineering with 60% average and 60% for Mathematics (MAT1011). Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences or Technical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Engineering in Mechatronics",
+      "faculty": "Faculty of Engineering, the Built Environment & Technology",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 410,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.57",
+      "notes": "Campus: Gqeberha. Alternative: completed HCert (Mechatronic Engineering) with 75% average, 75% MAT1011 and 65% PHY1001 (no credits carried over). Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Higher Certificate in Mechatronic Engineering",
+      "faculty": "Faculty of Engineering, the Built Environment & Technology",
+      "qualification_type": "higher_certificate",
+      "is_extended": false,
+      "duration_years": 1,
+      "nsc_pass_required": "higher_certificate",
+      "min_aps": 330,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": 330,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.54",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences or Technical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Higher Certificate in Renewable Energy Engineering",
+      "faculty": "Faculty of Engineering, the Built Environment & Technology",
+      "qualification_type": "higher_certificate",
+      "is_extended": false,
+      "duration_years": 1,
+      "nsc_pass_required": "higher_certificate",
+      "min_aps": 330,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": 330,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.54",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences or Technical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Architectural Studies",
+      "faculty": "Faculty of Engineering, the Built Environment & Technology",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 370,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.66",
+      "notes": "Campus: Gqeberha. BAS (Architecture). Subject to departmental selection. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Architectural Technology",
+      "faculty": "Faculty of Engineering, the Built Environment & Technology",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 330,
+      "min_aps_maths_lit": 345,
+      "min_aps_tech_maths": 330,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.61",
+      "notes": "Campus: Gqeberha. Prescribed portfolio and interview; some may need a 3-week preparation course. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 45
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Building",
+      "faculty": "Faculty of Engineering, the Built Environment & Technology",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 330,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": 330,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.67",
+      "notes": "Campus: Gqeberha. Subject to departmental selection. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 45
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Construction Economics",
+      "faculty": "Faculty of Engineering, the Built Environment & Technology",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 370,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.69",
+      "notes": "Campus: Gqeberha. Route to Quantity Surveying. Subject to departmental selection. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Construction Management",
+      "faculty": "Faculty of Engineering, the Built Environment & Technology",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 370,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.69",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Human Settlement Development",
+      "faculty": "Faculty of Engineering, the Built Environment & Technology",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 370,
+      "min_aps_maths_lit": 385,
+      "min_aps_tech_maths": 370,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.70",
+      "notes": "Campus: Gqeberha. Part-time 6 years also offered. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Information Technology",
+      "faculty": "Faculty of Engineering, the Built Environment & Technology",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 370,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": 370,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.72",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Information Technology (Communication Networks)",
+      "faculty": "Faculty of Engineering, the Built Environment & Technology",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 330,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": 330,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.71",
+      "notes": "Campus: Gqeberha. Maths Lit not accepted. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 45
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Information Technology (Software Development)",
+      "faculty": "Faculty of Engineering, the Built Environment & Technology",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 330,
+      "min_aps_maths_lit": 345,
+      "min_aps_tech_maths": 330,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.71",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Information Technology (Support Services)",
+      "faculty": "Faculty of Engineering, the Built Environment & Technology",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 330,
+      "min_aps_maths_lit": 345,
+      "min_aps_tech_maths": 330,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.72",
+      "notes": "Campus: Gqeberha. Alternative: HCert IT (User Support Services) with 60%+ average. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Higher Certificate in Information Technology (User Support Services)",
+      "faculty": "Faculty of Engineering, the Built Environment & Technology",
+      "qualification_type": "higher_certificate",
+      "is_extended": false,
+      "duration_years": 1,
+      "nsc_pass_required": "higher_certificate",
+      "min_aps": 290,
+      "min_aps_maths_lit": 305,
+      "min_aps_tech_maths": 290,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.71",
+      "notes": "Campuses: Gqeberha and George. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 35
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 55
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Interior Design",
+      "faculty": "Faculty of Engineering, the Built Environment & Technology",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 315,
+      "min_aps_maths_lit": 330,
+      "min_aps_tech_maths": 315,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.62",
+      "notes": "Campus: Gqeberha. Creative portfolio and placement assessment. Subject to departmental selection. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 30
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 45
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Health Sciences in Biokinetics",
+      "faculty": "Faculty of Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 370,
+      "min_aps_maths_lit": 385,
+      "min_aps_tech_maths": 385,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.81",
+      "notes": "Campus: Gqeberha. Medical report required. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 65
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 65
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Dietetics",
+      "faculty": "Faculty of Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 390,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.79",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Environmental Health",
+      "faculty": "Faculty of Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 390,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.76",
+      "notes": "Campus: Gqeberha. Subject to departmental selection. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Human Movement Science",
+      "faculty": "Faculty of Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 350,
+      "min_aps_maths_lit": 365,
+      "min_aps_tech_maths": 365,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.80",
+      "notes": "Campus: Gqeberha. Must pass a medical examination. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 45
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 65
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Medicine and Bachelor of Surgery",
+      "faculty": "Faculty of Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 6,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 430,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.86",
+      "notes": "Campus: Gqeberha. MBChB. Online applications close 30 June. Subject to departmental selection. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "closes_on": "2026-06-30",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Health Sciences in Medical Laboratory Science",
+      "faculty": "Faculty of Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 390,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.84",
+      "notes": "Campus: Gqeberha. Subject to departmental selection. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Nursing",
+      "faculty": "Faculty of Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 370,
+      "min_aps_maths_lit": 385,
+      "min_aps_tech_maths": 385,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.82",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 65
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 65
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Nursing (Extended Curriculum Programme)",
+      "faculty": "Faculty of Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 5,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 330,
+      "min_aps_maths_lit": 345,
+      "min_aps_tech_maths": 345,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.82",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 35
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 55
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 55
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Pharmacy",
+      "faculty": "Faculty of Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 410,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.85",
+      "notes": "Campus: Gqeberha. Also needs 50% for Home Language or language of instruction. Online applications close 30 June. Subject to departmental selection. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "closes_on": "2026-06-30",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Emergency Medical Care",
+      "faculty": "Faculty of Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 370,
+      "min_aps_maths_lit": 385,
+      "min_aps_tech_maths": 385,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.84",
+      "notes": "Campus: Gqeberha. Selection includes interview, medical fitness report and physical assessment. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 65
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 65
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Radiography in Diagnostics",
+      "faculty": "Faculty of Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 390,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.83",
+      "notes": "Campus: Gqeberha. Must be physically fit and submit medical report. Online applications close 30 June. Subject to departmental selection. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "closes_on": "2026-06-30",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Social Work",
+      "faculty": "Faculty of Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 350,
+      "min_aps_maths_lit": 365,
+      "min_aps_tech_maths": 365,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.78",
+      "notes": "Campus: Gqeberha. Must register with SACSSP; clean police clearance needed before 2nd-year practical work. Subject to departmental selection. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 65
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Arts in Psychology",
+      "faculty": "Faculty of Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 350,
+      "min_aps_maths_lit": 365,
+      "min_aps_tech_maths": 365,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.77",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 45
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 65
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Sport Management",
+      "faculty": "Faculty of Health Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 330,
+      "min_aps_maths_lit": 345,
+      "min_aps_tech_maths": 345,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.80",
+      "notes": "Campus: Gqeberha. Active participation in competitive sport required. Subject to departmental selection. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Arts",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 350,
+      "min_aps_maths_lit": 365,
+      "min_aps_tech_maths": 365,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.99",
+      "notes": "Campus: Gqeberha. General BA (e.g. Anthropology, History, Philosophy, Sociology, Language & Literature, Geography). Language can be any HL or FAL at 60%. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Any one Home or First Additional Language (60%)",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 35
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 55
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Arts in Media, Communication & Culture",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 350,
+      "min_aps_maths_lit": 365,
+      "min_aps_tech_maths": 365,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.100",
+      "notes": "Campus: Gqeberha. Covers advertising, broadcasting, journalism. Language can be any HL or FAL at 60%. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Any one Home or First Additional Language (60%)",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 35
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 55
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Arts in Politics & Economics",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 350,
+      "min_aps_maths_lit": 365,
+      "min_aps_tech_maths": 365,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.103",
+      "notes": "Campus: Gqeberha. Maths 40% OR Maths Lit / Tech Maths 70%. Language can be any HL or FAL at 60%. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Any one Home or First Additional Language (60%)",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Administration in Public Administration",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 350,
+      "min_aps_maths_lit": 365,
+      "min_aps_tech_maths": 365,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.103",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 35
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 55
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Public Management",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 310,
+      "min_aps_maths_lit": 325,
+      "min_aps_tech_maths": 325,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.101",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 35
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 55
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Public Management (Extended Curriculum Programme)",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "diploma",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "diploma",
+      "min_aps": 290,
+      "min_aps_maths_lit": 305,
+      "min_aps_tech_maths": 305,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.101",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 30
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Public Relations Management",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 330,
+      "min_aps_maths_lit": 345,
+      "min_aps_tech_maths": 345,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.98",
+      "notes": "Campus: Gqeberha. Includes 1 year in-service training. May be provisionally admitted on work experience, age and maturity (HoD discretion). Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 30
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Visual Art",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 350,
+      "min_aps_maths_lit": 365,
+      "min_aps_tech_maths": 365,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.90",
+      "notes": "Campus: Gqeberha. Generic first year, then Fashion & Textiles, Fine Art (incl. Ceramic Design), Graphic Design or Photography. Portfolio, interview and placement assessment. Subject to departmental selection. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": []
+    },
+    {
+      "name": "Bachelor of Music",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 350,
+      "min_aps_maths_lit": 365,
+      "min_aps_tech_maths": 365,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.94",
+      "notes": "Campus: Gqeberha. Streams: School Music, Performing Arts, Music Technology, General. Practical Grade 6 and theory Grade 5 standard; audition and theory test. Subject to departmental selection. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": []
+    },
+    {
+      "name": "Bachelor of Music (Extended Curriculum Programme)",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 5,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 330,
+      "min_aps_maths_lit": 345,
+      "min_aps_tech_maths": 345,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.94",
+      "notes": "Campus: Gqeberha. Streams: School Music, Performing Arts, Music Technology, General. Audition and theory test. Subject to departmental selection. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": []
+    },
+    {
+      "name": "Diploma in Music (Curriculum 2)",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 290,
+      "min_aps_maths_lit": 305,
+      "min_aps_tech_maths": 305,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.93",
+      "notes": "Campus: Gqeberha. For students with some prior music learning. Audition; Grade 2 standard for Intermediate or Grade 6 for Advanced First Instrument. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": []
+    },
+    {
+      "name": "Diploma in Music (Curriculum 1)",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 290,
+      "min_aps_maths_lit": 305,
+      "min_aps_tech_maths": 305,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.93",
+      "notes": "Campus: Gqeberha. For adult beginners; no prior music learning needed. Audition required. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": []
+    },
+    {
+      "name": "Bachelor of Laws",
+      "faculty": "Faculty of Law",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 390,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.108",
+      "notes": "Campus: Gqeberha. LLB. English HL 65% or FAL 70%. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 65
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 70
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Laws (Extended Curriculum Programme)",
+      "faculty": "Faculty of Law",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 5,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 370,
+      "min_aps_maths_lit": 385,
+      "min_aps_tech_maths": 385,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.109",
+      "notes": "Campus: Gqeberha. LLB extended. English HL 60% or FAL 65%. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 65
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 45
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Law",
+      "faculty": "Faculty of Law",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 390,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.107",
+      "notes": "Campus: Gqeberha. Followed by two-year post-graduate LLB. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 65
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 70
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Arts in Law",
+      "faculty": "Faculty of Law",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 390,
+      "min_aps_maths_lit": 405,
+      "min_aps_tech_maths": 405,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.107",
+      "notes": "Campus: Gqeberha. Followed by two-year post-graduate LLB. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 65
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 70
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 75
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Law Enforcement",
+      "faculty": "Faculty of Law",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 330,
+      "min_aps_maths_lit": 345,
+      "min_aps_tech_maths": 345,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.106",
+      "notes": "Campus: Gqeberha. Or HCert (Criminal Justice) with 60% average. Does NOT give direct access to LLB, BA (Law) or BCom (Law). Subject to departmental selection. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 55
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Higher Certificate in Law Enforcement",
+      "faculty": "Faculty of Law",
+      "qualification_type": "higher_certificate",
+      "is_extended": false,
+      "duration_years": 1,
+      "nsc_pass_required": "higher_certificate",
+      "min_aps": 310,
+      "min_aps_maths_lit": 325,
+      "min_aps_tech_maths": 325,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.106",
+      "notes": "Campus: Gqeberha. Does NOT give direct access to LLB, BA (Law) or BCom (Law). Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Computer Science",
+      "faculty": "Faculty of Science",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 410,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.117",
+      "notes": "Campus: Gqeberha. Major combinations from Applied Mathematics, Computer Science, Mathematics, Mathematical Statistics, Physics, Computer Fundamentals and Statistics (e.g. Industrial Maths, Computational Physics, Data Science routes). Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Physical Science and Mathematics",
+      "faculty": "Faculty of Science",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 410,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.119",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Biochemistry, Chemistry, Microbiology & Physiology",
+      "faculty": "Faculty of Science",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 410,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.116",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Biochemistry, Chemistry, Microbiology & Physiology (Extended Curriculum Programme)",
+      "faculty": "Faculty of Science",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 370,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.116",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Biological Sciences",
+      "faculty": "Faculty of Science",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 410,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.115",
+      "notes": "Campus: Gqeberha. Botany, Zoology, Marine Biology, Conservation Biology, Restoration Ecology. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Biological Sciences (Extended Curriculum Programme)",
+      "faculty": "Faculty of Science",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 370,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.115",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Environmental Sciences",
+      "faculty": "Faculty of Science",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 410,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.116",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Environmental Sciences (Extended Curriculum Programme)",
+      "faculty": "Faculty of Science",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 370,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.116",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Geosciences (Geology & Geography)",
+      "faculty": "Faculty of Science",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 410,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.117",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Geosciences (Geology & Geography) (Extended Curriculum Programme)",
+      "faculty": "Faculty of Science",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 370,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.117",
+      "notes": "Campus: Gqeberha. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Analytical Chemistry",
+      "faculty": "Faculty of Science",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 350,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.112",
+      "notes": "Campus: Gqeberha. Includes 1 year work-integrated learning. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 55
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Chemical Process Technology",
+      "faculty": "Faculty of Science",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 350,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.113",
+      "notes": "Campus: Gqeberha. Includes 6-12 months WIL. Not suitable if you have had asthma or lung disease. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 55
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Polymer Technology",
+      "faculty": "Faculty of Science",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 350,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.113",
+      "notes": "Campus: Gqeberha. Includes 1 year WIL. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 55
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Agricultural Management",
+      "faculty": "Faculty of Science",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 330,
+      "min_aps_maths_lit": 345,
+      "min_aps_tech_maths": 330,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.112",
+      "notes": "Campuses: Gqeberha and George. Includes 1 year in-service training. Subject to departmental selection. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences, Physical Sciences, Agricultural Sciences or Technical Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 40
+            },
+            {
+              "subject": "Agricultural Sciences",
+              "min_percent": 55
+            },
+            {
+              "subject": "Technical Sciences",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Forestry",
+      "faculty": "Faculty of Science",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 330,
+      "min_aps_maths_lit": 345,
+      "min_aps_tech_maths": 330,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.122",
+      "notes": "Campus: George only. Subject to departmental selection. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences, Physical Sciences, Agricultural Sciences or Technical Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 40
+            },
+            {
+              "subject": "Agricultural Sciences",
+              "min_percent": 55
+            },
+            {
+              "subject": "Technical Sciences",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Nature Conservation",
+      "faculty": "Faculty of Science",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 330,
+      "min_aps_maths_lit": 345,
+      "min_aps_tech_maths": 330,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.123",
+      "notes": "Campus: George only. Subject to departmental selection. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences, Life Sciences or Technical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 40
+            },
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Sciences",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Game Ranch Management",
+      "faculty": "Faculty of Science",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 330,
+      "min_aps_maths_lit": 345,
+      "min_aps_tech_maths": 330,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.112",
+      "notes": "Campus: Gqeberha. Includes 1 year in-service training. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Wood Technology",
+      "faculty": "Faculty of Science",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 330,
+      "min_aps_maths_lit": 345,
+      "min_aps_tech_maths": 330,
+      "source_ref": "NMU Undergraduate Programme Guide 2027 p.123",
+      "notes": "Campus: George only. Quintile 1-3 schools: +7 AS with LO 50%+.",
+      "requirements": [
+        {
+          "description": "Mathematics or Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences or Technical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 40
+            },
+            {
+              "subject": "Technical Sciences",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ambiguities": [
+    {
+      "item": "Score scale",
+      "issue": "NMU uses an Applicant Score out of 600, not APS points",
+      "choice": "min_aps fields hold the AS; each subject scores its percentage"
+    },
+    {
+      "item": "Quintile bonus",
+      "issue": "+7 AS for quintile 1-3 schools with LO 50%+",
+      "choice": "Not modelled (school quintile unknown); noted on every course"
+    },
+    {
+      "item": "Arts and Music AS per maths type",
+      "issue": "BVA, BMus and Music diplomas have no maths requirement but print separate AS per maths type",
+      "choice": "Printed numbers used"
+    },
+    {
+      "item": "Senior Phase / FET BEd",
+      "issue": "Specialisation subjects (e.g. Accounting 60%, Physical Sciences 60%, a language 55%) apply only to the chosen specialisation",
+      "choice": "Kept in notes, not as hard requirements"
+    },
+    {
+      "item": "Left out",
+      "issue": "Advanced Diplomas, PGCEs, HCert Human Settlement Development and Diploma in Operations Management (need employment)",
+      "choice": "Excluded"
+    }
+  ]
+}
