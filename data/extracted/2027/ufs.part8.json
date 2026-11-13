@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Bachelor of Divinity",
+    "faculty": "Faculty of Theology and Religion",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.39",
+    "notes": "Campus: Bloemfontein. Plan BC940301. BDiv focuses on professional ministry. You MUST complete the faculty selection form (link in online application, or email theology@ufs.ac.za) or you will not be considered. First-years write the UFS academic literacy test; if not passed, a development module is required.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  }
+]
