@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Bachelor of Science",
+    "faculty": "School of Science and Technology",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SMU Prospectus 2027 p.29",
+    "notes": "Plus any two other NSC subjects at level 4 (50%) each. No total APS printed. Majors include Chemistry, Biochemistry, Mathematics and Applied Mathematics, Statistics and Operations Research, Computer Science, Physiology, Psychology, Physics, and Biology and Environmental Sciences.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Extended Curriculum Programme)",
+    "faculty": "School of Science and Technology",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SMU Prospectus 2027 p.29",
+    "notes": "Printed as 'BSc-ECP'; four years. Plus any two other NSC subjects at level 4 (50%) each. No total APS printed. Same majors as the BSc.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  }
+]
