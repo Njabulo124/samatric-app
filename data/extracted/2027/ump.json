@@ -1,0 +1,1025 @@
+{
+  "intake_year": 2027,
+  "source_document": "UMP Undergraduate Programmes brochure",
+  "university": {
+    "name": "University of Mpumalanga",
+    "short_name": "UMP",
+    "institution_type": "traditional",
+    "province": "Mpumalanga",
+    "website_url": "https://www.ump.ac.za",
+    "application_url": "https://www.ump.ac.za",
+    "application_fee": 200
+  },
+  "application_periods": [
+    {
+      "label": "General",
+      "opens_on": "2026-06-01",
+      "closes_on": "2026-11-30",
+      "notes": "Undergraduate and Advanced Diploma applications close 30 November 2026. Several programmes consider applications monthly. Non-refundable R200 fee."
+    }
+  ],
+  "aps_rule": {
+    "default_scale": {
+      "name": "NSC standard 7-point"
+    },
+    "subjects_counted": 7,
+    "include_lo": true,
+    "must_count": [],
+    "subject_scales": [
+      {
+        "subject": "Life Orientation",
+        "scale": {
+          "name": "UMP Life Orientation (half)",
+          "bands": [
+            {
+              "min_mark": 80,
+              "max_mark": 100,
+              "points": 3.5
+            },
+            {
+              "min_mark": 70,
+              "max_mark": 79,
+              "points": 3
+            },
+            {
+              "min_mark": 60,
+              "max_mark": 69,
+              "points": 2.5
+            },
+            {
+              "min_mark": 50,
+              "max_mark": 59,
+              "points": 2
+            },
+            {
+              "min_mark": 40,
+              "max_mark": 49,
+              "points": 1.5
+            },
+            {
+              "min_mark": 30,
+              "max_mark": 39,
+              "points": 1
+            },
+            {
+              "min_mark": 0,
+              "max_mark": 29,
+              "points": 0.5
+            }
+          ]
+        }
+      }
+    ],
+    "notes": "Seven NSC subjects, with Life Orientation counted at half its rating."
+  },
+  "faculties": [
+    "Faculty of Agriculture and Natural Sciences",
+    "Faculty of Economics, Development and Business Sciences",
+    "Faculty of Education"
+  ],
+  "courses": [
+    {
+      "name": "Higher Certificate in Event Management",
+      "faculty": "Faculty of Economics, Development and Business Sciences",
+      "qualification_type": "higher_certificate",
+      "is_extended": false,
+      "duration_years": 1,
+      "nsc_pass_required": "higher_certificate",
+      "min_aps": 19,
+      "min_aps_maths_lit": 21,
+      "min_aps_tech_maths": 21,
+      "source_ref": "UMP Undergraduate Programmes brochure p.2",
+      "notes": "120 credits. APS 19 with Mathematics or 21 with Maths Lit or Technical Maths. Diploma/Higher Certificate endorsement. Maths level 2 (30%), or Maths Lit or Tech Maths level 4. Also any three additional vocational subjects at level 2 (30%). NC(V) route: NCV level 4 with recommended Business Studies, Hospitality Studies and Tourism.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics, Mathematical Literacy or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 30
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Hospitality Management",
+      "faculty": "Faculty of Economics, Development and Business Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 24,
+      "min_aps_maths_lit": 25,
+      "min_aps_tech_maths": null,
+      "source_ref": "UMP Undergraduate Programmes brochure p.2",
+      "notes": "360 credits. APS 24 with Mathematics or 25 with Maths Lit. Diploma endorsement. Also 'One Additional Language' and 'Any other Four Subjects' (no levels).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Social Work",
+      "faculty": "Faculty of Economics, Development and Business Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 32,
+      "min_aps_maths_lit": 32,
+      "min_aps_tech_maths": null,
+      "source_ref": "UMP Undergraduate Programmes brochure p.2",
+      "notes": "480 credits. Mathematics level 2 (30%) or Maths Lit level 3 (40%); one APS printed for both.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 30
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Development Studies",
+      "faculty": "Faculty of Economics, Development and Business Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 32,
+      "min_aps_maths_lit": 32,
+      "min_aps_tech_maths": null,
+      "source_ref": "UMP Undergraduate Programmes brochure p.2",
+      "notes": "360 credits. Mathematics level 2 (30%) or Maths Lit level 3 (40%); one APS printed for both. Also 'Geography/History and One Other Social or Commercial Subject' (no level) and 'Sciences: Level 4'; unclear which subjects count as 'Sciences'.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 30
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce (General)",
+      "faculty": "Faculty of Economics, Development and Business Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UMP Undergraduate Programmes brochure p.3",
+      "notes": "360 credits. Mathematics level 4; Mathematical Literacy is not accepted.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Administration",
+      "faculty": "Faculty of Economics, Development and Business Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 32,
+      "min_aps_maths_lit": 32,
+      "min_aps_tech_maths": null,
+      "source_ref": "UMP Undergraduate Programmes brochure p.3",
+      "notes": "360 credits. Mathematics level 2 (30%) or Maths Lit level 3 (40%); one APS printed for both. Also 'Second Language: Level 4' (not named). Students who want Economics as an elective need Mathematics level 4.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 30
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Arts (General)",
+      "faculty": "Faculty of Economics, Development and Business Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 28,
+      "min_aps_maths_lit": 28,
+      "min_aps_tech_maths": null,
+      "source_ref": "UMP Undergraduate Programmes brochure p.3",
+      "notes": "360 credits. Mathematics level 2 (30%) or Maths Lit level 3 (40%); one APS printed for both.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 30
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Laws",
+      "faculty": "Faculty of Economics, Development and Business Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 33,
+      "min_aps_maths_lit": 33,
+      "min_aps_tech_maths": null,
+      "source_ref": "UMP Undergraduate Programmes brochure p.3",
+      "notes": "480 credits. Bachelor endorsement. Also 'Additional Language: Level 4' (not named). Maths level 3 or Maths Lit level 4; one APS printed. Selection happens monthly: applicants who exceed the minimums and have completed their NSC get conditional offers, others who meet them are placed on hold and reconsidered each month. At least 50% of places are reserved for applicants completing the NSC or equivalent.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Higher Certificate in ICT in User Support",
+      "faculty": "Faculty of Agriculture and Natural Sciences",
+      "qualification_type": "higher_certificate",
+      "is_extended": false,
+      "duration_years": 1,
+      "nsc_pass_required": "higher_certificate",
+      "min_aps": 20,
+      "min_aps_maths_lit": 22,
+      "min_aps_tech_maths": null,
+      "source_ref": "UMP Undergraduate Programmes brochure p.4",
+      "notes": "120 credits. APS 20 with Mathematics or 22 with Maths Lit. Diploma and/or Higher Certificate endorsement. Maths level 2 or Maths Lit level 4. Also any other three content subjects at level 2 (30%). NC(V) route: NCV level 4 in Information Technology and/or Computer Science/Studies.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 30
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Agriculture in Plant Production",
+      "faculty": "Faculty of Agriculture and Natural Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 23,
+      "min_aps_maths_lit": 24,
+      "min_aps_tech_maths": null,
+      "source_ref": "UMP Undergraduate Programmes brochure p.4",
+      "notes": "360 credits. APS 23 with Mathematics or 24 with Maths Lit. Printed as 'Agriculture, Geography or Life Science: Level 4'; 'Agriculture' is mapped to Agricultural Sciences. NC(V) route: NCV level 4 in Primary Agriculture with English 50%, Maths 40% or Maths Lit 70%.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Agricultural Sciences, Geography or Life Sciences",
+          "options": [
+            {
+              "subject": "Agricultural Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Geography",
+              "min_percent": 50
+            },
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Nature Conservation",
+      "faculty": "Faculty of Agriculture and Natural Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 30,
+      "min_aps_maths_lit": 30,
+      "min_aps_tech_maths": null,
+      "source_ref": "UMP Undergraduate Programmes brochure p.4",
+      "notes": "360 credits. Mathematics level 2 (30%) or Maths Lit level 3 (40%); one APS printed for both. Recommended (not required): Life Sciences and Geography at level 4. NC(V) route: NCV level 4 in Primary Agriculture with English 50%, Maths 30% or Maths Lit 40%. Students are considered monthly, and those who meet or exceed the minimums are offered places.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 30
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Animal Production",
+      "faculty": "Faculty of Agriculture and Natural Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 24,
+      "min_aps_maths_lit": 27,
+      "min_aps_tech_maths": null,
+      "source_ref": "UMP Undergraduate Programmes brochure p.5",
+      "notes": "360 credits. APS 24 with Mathematics or 27 with Maths Lit. Maths level 3 or Maths Lit level 6. 'Agriculture' is mapped to Agricultural Sciences. NC(V) route: NCV level 4 in Primary Agriculture with English 50%, Maths 40% or Maths Lit 70%.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences or Agricultural Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Agricultural Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Agriculture",
+      "faculty": "Faculty of Agriculture and Natural Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": 30,
+      "min_aps_tech_maths": null,
+      "source_ref": "UMP Undergraduate Programmes brochure p.5",
+      "notes": "480 credits. Printed as 'Life Sciences, Biology or Agriculture: Level 4' (Biology is the old name for Life Sciences; Agriculture is mapped to Agricultural Sciences). Also 'Any other Relevant Subjects: Level 4'. Maths level 4 or Maths Lit level 6; one APS printed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences or Agricultural Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Agricultural Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Forestry",
+      "faculty": "Faculty of Agriculture and Natural Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UMP Undergraduate Programmes brochure p.5",
+      "notes": "NSC or IEB with a Bachelor pass. Printed as a 498-credit qualification.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Two of Life Sciences, Agricultural Sciences, Geography",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Agricultural Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Geography",
+              "min_percent": 50
+            }
+          ],
+          "min_count": 2
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Agriculture in Agricultural Extension and Rural Resource Management",
+      "faculty": "Faculty of Agriculture and Natural Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 26,
+      "min_aps_maths_lit": 28,
+      "min_aps_tech_maths": null,
+      "source_ref": "UMP Undergraduate Programmes brochure p.6",
+      "notes": "360 credits. APS 26 with Mathematics or 28 with Maths Lit. Maths level 4 or Maths Lit level 6. 'Agriculture' is mapped to Agricultural Sciences.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            }
+          ]
+        },
+        {
+          "description": "Agricultural Sciences or Life Sciences",
+          "options": [
+            {
+              "subject": "Agricultural Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Environmental Science",
+      "faculty": "Faculty of Agriculture and Natural Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": 30,
+      "min_aps_tech_maths": null,
+      "source_ref": "UMP Undergraduate Programmes brochure p.6",
+      "notes": "360 credits. Maths level 4 or Maths Lit level 6; one APS printed. South Africans who wrote under another examination board and international students need similar scores in the same or similar subjects. Students with a 360-credit Diploma in an appropriate field (such as conservation) will be considered. Applications are considered monthly, and those who meet or exceed the minimums are offered places.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            }
+          ]
+        },
+        {
+          "description": "Two of Life Sciences, Physical Sciences, Geography",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Geography",
+              "min_percent": 50
+            }
+          ],
+          "min_count": 2
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science",
+      "faculty": "Faculty of Agriculture and Natural Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": 30,
+      "min_aps_tech_maths": null,
+      "source_ref": "UMP Undergraduate Programmes brochure p.6",
+      "notes": "360 credits. Printed as 'Bachelor of Science Degree'. Maths level 4 or Maths Lit level 6; one APS printed. South Africans who wrote under another examination board and international students need similar scores in the same or similar subjects. Students with a 360-credit Diploma in an appropriate field (such as conservation) will be considered. Applications are considered monthly, and those who meet or exceed the minimums are offered places.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences, Physical Sciences or Geography",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Geography",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in ICT in Applications Development",
+      "faculty": "Faculty of Agriculture and Natural Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 24,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UMP Undergraduate Programmes brochure p.7",
+      "notes": "360 credits. Diploma endorsement. Also 'One Additional Language' and 'Any other Four Modules' (no levels).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Information and Communication Technology",
+      "faculty": "Faculty of Agriculture and Natural Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 32,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UMP Undergraduate Programmes brochure p.7",
+      "notes": "360 credits. Printed as 'Bachelor of ICT'. Bachelor endorsement. NC(V) route: NCV level 4 with English 60%, Maths 60% and 70% in four IT-related vocational subjects. Students with a relevant ICT Higher Certificate or Diploma may sometimes articulate into the BICT.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Foundation Phase Teaching",
+      "faculty": "Faculty of Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 26,
+      "min_aps_maths_lit": 27,
+      "min_aps_tech_maths": null,
+      "source_ref": "UMP Undergraduate Programmes brochure p.7",
+      "notes": "480 credits. APS 26 with Mathematics or 27 with Maths Lit. No subject levels printed. APS uses seven subjects with Life Orientation at half its rating. Preliminary admission uses final Grade 11 results; final admission uses Grade 12.",
+      "requirements": []
+    }
+  ],
+  "ambiguities": [
+    {
+      "item": "Faculties",
+      "issue": "The brochure does not print faculties",
+      "choice": "Assigned by subject area to UMP's three faculties (Agriculture and Natural Sciences; Economics, Development and Business Sciences; Education)"
+    },
+    {
+      "item": "APS method",
+      "issue": "Only the BEd box explains the APS (7 subjects, LO at half)",
+      "choice": "Applied to all programmes, as UMP's application guidance describes"
+    },
+    {
+      "item": "Year",
+      "issue": "The brochure has no year",
+      "choice": "Dates and fee from UMP's 2027 application information"
+    }
+  ]
+}
