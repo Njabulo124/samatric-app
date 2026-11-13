@@ -1,0 +1,1807 @@
+{
+  "intake_year": 2027,
+  "source_document": "SPU Undergraduate Prospectus (online pages pp.2-26), cross-checked against the 2026 edition",
+  "university": {
+    "name": "Sol Plaatje University",
+    "short_name": "SPU",
+    "institution_type": "traditional",
+    "province": "Northern Cape",
+    "website_url": "https://www.spu.ac.za",
+    "application_url": "https://applications-prod.spu.ac.za/",
+    "application_fee": 0
+  },
+  "application_periods": [
+    {
+      "label": "General",
+      "opens_on": "2026-04-01",
+      "closes_on": "2026-10-31",
+      "notes": "Online applications are free."
+    }
+  ],
+  "aps_rule": {
+    "default_scale": {
+      "name": "SPU 8-point (0-29% = 1)",
+      "bands": [
+        {
+          "min_mark": 90,
+          "max_mark": 100,
+          "points": 8
+        },
+        {
+          "min_mark": 80,
+          "max_mark": 89,
+          "points": 7
+        },
+        {
+          "min_mark": 70,
+          "max_mark": 79,
+          "points": 6
+        },
+        {
+          "min_mark": 60,
+          "max_mark": 69,
+          "points": 5
+        },
+        {
+          "min_mark": 50,
+          "max_mark": 59,
+          "points": 4
+        },
+        {
+          "min_mark": 40,
+          "max_mark": 49,
+          "points": 3
+        },
+        {
+          "min_mark": 30,
+          "max_mark": 39,
+          "points": 2
+        },
+        {
+          "min_mark": 0,
+          "max_mark": 29,
+          "points": 1
+        }
+      ]
+    },
+    "subjects_counted": 7,
+    "include_lo": true,
+    "must_count": [
+      [
+        "Life Orientation"
+      ]
+    ],
+    "subject_scales": [
+      {
+        "subject": "Mathematics",
+        "scale": {
+          "name": "SPU Mathematics (+2 from 60%, +1 from 40%)",
+          "bands": [
+            {
+              "min_mark": 90,
+              "max_mark": 100,
+              "points": 10
+            },
+            {
+              "min_mark": 80,
+              "max_mark": 89,
+              "points": 9
+            },
+            {
+              "min_mark": 70,
+              "max_mark": 79,
+              "points": 8
+            },
+            {
+              "min_mark": 60,
+              "max_mark": 69,
+              "points": 7
+            },
+            {
+              "min_mark": 50,
+              "max_mark": 59,
+              "points": 5
+            },
+            {
+              "min_mark": 40,
+              "max_mark": 49,
+              "points": 4
+            },
+            {
+              "min_mark": 30,
+              "max_mark": 39,
+              "points": 2
+            },
+            {
+              "min_mark": 0,
+              "max_mark": 29,
+              "points": 1
+            }
+          ]
+        }
+      },
+      {
+        "subject": "English Home Language",
+        "scale": {
+          "name": "SPU Home Language (+2 from 60%, +1 from 40%)",
+          "bands": [
+            {
+              "min_mark": 90,
+              "max_mark": 100,
+              "points": 10
+            },
+            {
+              "min_mark": 80,
+              "max_mark": 89,
+              "points": 9
+            },
+            {
+              "min_mark": 70,
+              "max_mark": 79,
+              "points": 8
+            },
+            {
+              "min_mark": 60,
+              "max_mark": 69,
+              "points": 7
+            },
+            {
+              "min_mark": 50,
+              "max_mark": 59,
+              "points": 5
+            },
+            {
+              "min_mark": 40,
+              "max_mark": 49,
+              "points": 4
+            },
+            {
+              "min_mark": 30,
+              "max_mark": 39,
+              "points": 2
+            },
+            {
+              "min_mark": 0,
+              "max_mark": 29,
+              "points": 1
+            }
+          ]
+        }
+      },
+      {
+        "subject": "Afrikaans Home Language",
+        "scale": {
+          "name": "SPU Home Language (+2 from 60%, +1 from 40%)",
+          "bands": [
+            {
+              "min_mark": 90,
+              "max_mark": 100,
+              "points": 10
+            },
+            {
+              "min_mark": 80,
+              "max_mark": 89,
+              "points": 9
+            },
+            {
+              "min_mark": 70,
+              "max_mark": 79,
+              "points": 8
+            },
+            {
+              "min_mark": 60,
+              "max_mark": 69,
+              "points": 7
+            },
+            {
+              "min_mark": 50,
+              "max_mark": 59,
+              "points": 5
+            },
+            {
+              "min_mark": 40,
+              "max_mark": 49,
+              "points": 4
+            },
+            {
+              "min_mark": 30,
+              "max_mark": 39,
+              "points": 2
+            },
+            {
+              "min_mark": 0,
+              "max_mark": 29,
+              "points": 1
+            }
+          ]
+        }
+      },
+      {
+        "subject": "isiNdebele Home Language",
+        "scale": {
+          "name": "SPU Home Language (+2 from 60%, +1 from 40%)",
+          "bands": [
+            {
+              "min_mark": 90,
+              "max_mark": 100,
+              "points": 10
+            },
+            {
+              "min_mark": 80,
+              "max_mark": 89,
+              "points": 9
+            },
+            {
+              "min_mark": 70,
+              "max_mark": 79,
+              "points": 8
+            },
+            {
+              "min_mark": 60,
+              "max_mark": 69,
+              "points": 7
+            },
+            {
+              "min_mark": 50,
+              "max_mark": 59,
+              "points": 5
+            },
+            {
+              "min_mark": 40,
+              "max_mark": 49,
+              "points": 4
+            },
+            {
+              "min_mark": 30,
+              "max_mark": 39,
+              "points": 2
+            },
+            {
+              "min_mark": 0,
+              "max_mark": 29,
+              "points": 1
+            }
+          ]
+        }
+      },
+      {
+        "subject": "isiXhosa Home Language",
+        "scale": {
+          "name": "SPU Home Language (+2 from 60%, +1 from 40%)",
+          "bands": [
+            {
+              "min_mark": 90,
+              "max_mark": 100,
+              "points": 10
+            },
+            {
+              "min_mark": 80,
+              "max_mark": 89,
+              "points": 9
+            },
+            {
+              "min_mark": 70,
+              "max_mark": 79,
+              "points": 8
+            },
+            {
+              "min_mark": 60,
+              "max_mark": 69,
+              "points": 7
+            },
+            {
+              "min_mark": 50,
+              "max_mark": 59,
+              "points": 5
+            },
+            {
+              "min_mark": 40,
+              "max_mark": 49,
+              "points": 4
+            },
+            {
+              "min_mark": 30,
+              "max_mark": 39,
+              "points": 2
+            },
+            {
+              "min_mark": 0,
+              "max_mark": 29,
+              "points": 1
+            }
+          ]
+        }
+      },
+      {
+        "subject": "isiZulu Home Language",
+        "scale": {
+          "name": "SPU Home Language (+2 from 60%, +1 from 40%)",
+          "bands": [
+            {
+              "min_mark": 90,
+              "max_mark": 100,
+              "points": 10
+            },
+            {
+              "min_mark": 80,
+              "max_mark": 89,
+              "points": 9
+            },
+            {
+              "min_mark": 70,
+              "max_mark": 79,
+              "points": 8
+            },
+            {
+              "min_mark": 60,
+              "max_mark": 69,
+              "points": 7
+            },
+            {
+              "min_mark": 50,
+              "max_mark": 59,
+              "points": 5
+            },
+            {
+              "min_mark": 40,
+              "max_mark": 49,
+              "points": 4
+            },
+            {
+              "min_mark": 30,
+              "max_mark": 39,
+              "points": 2
+            },
+            {
+              "min_mark": 0,
+              "max_mark": 29,
+              "points": 1
+            }
+          ]
+        }
+      },
+      {
+        "subject": "Sepedi Home Language",
+        "scale": {
+          "name": "SPU Home Language (+2 from 60%, +1 from 40%)",
+          "bands": [
+            {
+              "min_mark": 90,
+              "max_mark": 100,
+              "points": 10
+            },
+            {
+              "min_mark": 80,
+              "max_mark": 89,
+              "points": 9
+            },
+            {
+              "min_mark": 70,
+              "max_mark": 79,
+              "points": 8
+            },
+            {
+              "min_mark": 60,
+              "max_mark": 69,
+              "points": 7
+            },
+            {
+              "min_mark": 50,
+              "max_mark": 59,
+              "points": 5
+            },
+            {
+              "min_mark": 40,
+              "max_mark": 49,
+              "points": 4
+            },
+            {
+              "min_mark": 30,
+              "max_mark": 39,
+              "points": 2
+            },
+            {
+              "min_mark": 0,
+              "max_mark": 29,
+              "points": 1
+            }
+          ]
+        }
+      },
+      {
+        "subject": "Sesotho Home Language",
+        "scale": {
+          "name": "SPU Home Language (+2 from 60%, +1 from 40%)",
+          "bands": [
+            {
+              "min_mark": 90,
+              "max_mark": 100,
+              "points": 10
+            },
+            {
+              "min_mark": 80,
+              "max_mark": 89,
+              "points": 9
+            },
+            {
+              "min_mark": 70,
+              "max_mark": 79,
+              "points": 8
+            },
+            {
+              "min_mark": 60,
+              "max_mark": 69,
+              "points": 7
+            },
+            {
+              "min_mark": 50,
+              "max_mark": 59,
+              "points": 5
+            },
+            {
+              "min_mark": 40,
+              "max_mark": 49,
+              "points": 4
+            },
+            {
+              "min_mark": 30,
+              "max_mark": 39,
+              "points": 2
+            },
+            {
+              "min_mark": 0,
+              "max_mark": 29,
+              "points": 1
+            }
+          ]
+        }
+      },
+      {
+        "subject": "Setswana Home Language",
+        "scale": {
+          "name": "SPU Home Language (+2 from 60%, +1 from 40%)",
+          "bands": [
+            {
+              "min_mark": 90,
+              "max_mark": 100,
+              "points": 10
+            },
+            {
+              "min_mark": 80,
+              "max_mark": 89,
+              "points": 9
+            },
+            {
+              "min_mark": 70,
+              "max_mark": 79,
+              "points": 8
+            },
+            {
+              "min_mark": 60,
+              "max_mark": 69,
+              "points": 7
+            },
+            {
+              "min_mark": 50,
+              "max_mark": 59,
+              "points": 5
+            },
+            {
+              "min_mark": 40,
+              "max_mark": 49,
+              "points": 4
+            },
+            {
+              "min_mark": 30,
+              "max_mark": 39,
+              "points": 2
+            },
+            {
+              "min_mark": 0,
+              "max_mark": 29,
+              "points": 1
+            }
+          ]
+        }
+      },
+      {
+        "subject": "Siswati Home Language",
+        "scale": {
+          "name": "SPU Home Language (+2 from 60%, +1 from 40%)",
+          "bands": [
+            {
+              "min_mark": 90,
+              "max_mark": 100,
+              "points": 10
+            },
+            {
+              "min_mark": 80,
+              "max_mark": 89,
+              "points": 9
+            },
+            {
+              "min_mark": 70,
+              "max_mark": 79,
+              "points": 8
+            },
+            {
+              "min_mark": 60,
+              "max_mark": 69,
+              "points": 7
+            },
+            {
+              "min_mark": 50,
+              "max_mark": 59,
+              "points": 5
+            },
+            {
+              "min_mark": 40,
+              "max_mark": 49,
+              "points": 4
+            },
+            {
+              "min_mark": 30,
+              "max_mark": 39,
+              "points": 2
+            },
+            {
+              "min_mark": 0,
+              "max_mark": 29,
+              "points": 1
+            }
+          ]
+        }
+      },
+      {
+        "subject": "Tshivenda Home Language",
+        "scale": {
+          "name": "SPU Home Language (+2 from 60%, +1 from 40%)",
+          "bands": [
+            {
+              "min_mark": 90,
+              "max_mark": 100,
+              "points": 10
+            },
+            {
+              "min_mark": 80,
+              "max_mark": 89,
+              "points": 9
+            },
+            {
+              "min_mark": 70,
+              "max_mark": 79,
+              "points": 8
+            },
+            {
+              "min_mark": 60,
+              "max_mark": 69,
+              "points": 7
+            },
+            {
+              "min_mark": 50,
+              "max_mark": 59,
+              "points": 5
+            },
+            {
+              "min_mark": 40,
+              "max_mark": 49,
+              "points": 4
+            },
+            {
+              "min_mark": 30,
+              "max_mark": 39,
+              "points": 2
+            },
+            {
+              "min_mark": 0,
+              "max_mark": 29,
+              "points": 1
+            }
+          ]
+        }
+      },
+      {
+        "subject": "Xitsonga Home Language",
+        "scale": {
+          "name": "SPU Home Language (+2 from 60%, +1 from 40%)",
+          "bands": [
+            {
+              "min_mark": 90,
+              "max_mark": 100,
+              "points": 10
+            },
+            {
+              "min_mark": 80,
+              "max_mark": 89,
+              "points": 9
+            },
+            {
+              "min_mark": 70,
+              "max_mark": 79,
+              "points": 8
+            },
+            {
+              "min_mark": 60,
+              "max_mark": 69,
+              "points": 7
+            },
+            {
+              "min_mark": 50,
+              "max_mark": 59,
+              "points": 5
+            },
+            {
+              "min_mark": 40,
+              "max_mark": 49,
+              "points": 4
+            },
+            {
+              "min_mark": 30,
+              "max_mark": 39,
+              "points": 2
+            },
+            {
+              "min_mark": 0,
+              "max_mark": 29,
+              "points": 1
+            }
+          ]
+        }
+      },
+      {
+        "subject": "South African Sign Language Home Language",
+        "scale": {
+          "name": "SPU Home Language (+2 from 60%, +1 from 40%)",
+          "bands": [
+            {
+              "min_mark": 90,
+              "max_mark": 100,
+              "points": 10
+            },
+            {
+              "min_mark": 80,
+              "max_mark": 89,
+              "points": 9
+            },
+            {
+              "min_mark": 70,
+              "max_mark": 79,
+              "points": 8
+            },
+            {
+              "min_mark": 60,
+              "max_mark": 69,
+              "points": 7
+            },
+            {
+              "min_mark": 50,
+              "max_mark": 59,
+              "points": 5
+            },
+            {
+              "min_mark": 40,
+              "max_mark": 49,
+              "points": 4
+            },
+            {
+              "min_mark": 30,
+              "max_mark": 39,
+              "points": 2
+            },
+            {
+              "min_mark": 0,
+              "max_mark": 29,
+              "points": 1
+            }
+          ]
+        }
+      },
+      {
+        "subject": "Life Orientation",
+        "scale": {
+          "name": "SPU Life Orientation",
+          "bands": [
+            {
+              "min_mark": 90,
+              "max_mark": 100,
+              "points": 4
+            },
+            {
+              "min_mark": 80,
+              "max_mark": 89,
+              "points": 3
+            },
+            {
+              "min_mark": 70,
+              "max_mark": 79,
+              "points": 2
+            },
+            {
+              "min_mark": 60,
+              "max_mark": 69,
+              "points": 1
+            },
+            {
+              "min_mark": 0,
+              "max_mark": 59,
+              "points": 0
+            }
+          ]
+        }
+      }
+    ],
+    "notes": "All six subjects on the 8-point scale, plus bonus points for Mathematics and the Home Language (+2 from 60%, +1 from 40-59%), plus Life Orientation (1-4 points from 60%)."
+  },
+  "faculties": [
+    "Faculty of Education",
+    "Faculty of Economic and Management Sciences",
+    "Faculty of Humanities",
+    "Faculty of Natural and Applied Sciences"
+  ],
+  "courses": [
+    {
+      "name": "Bachelor of Education in Foundation Phase Teaching",
+      "faculty": "Faculty of Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": 30,
+      "min_aps_tech_maths": null,
+      "source_ref": "SPU Undergraduate Prospectus p.5",
+      "notes": "Campus: Kimberley. Grade R-3. Maths 40% OR Maths Lit 50%.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Afrikaans or Setswana or isiXhosa (HL or FAL)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Intermediate Phase Teaching - Languages, Mathematics, Natural Science and Technology",
+      "faculty": "Faculty of Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "SPU Undergraduate Prospectus p.5",
+      "notes": "Campus: Kimberley. Grade 4-6.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Afrikaans or Setswana or isiXhosa (HL or FAL)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Intermediate Phase Teaching - Languages, Social Sciences and Life Skills",
+      "faculty": "Faculty of Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": 30,
+      "min_aps_tech_maths": 30,
+      "source_ref": "SPU Undergraduate Prospectus p.5",
+      "notes": "Campus: Kimberley. Grade 4-6. No maths requirement printed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Afrikaans or Setswana or isiXhosa (HL or FAL)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Geography or History",
+          "options": [
+            {
+              "subject": "Geography",
+              "min_percent": 50
+            },
+            {
+              "subject": "History",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Senior Phase and FET Teaching - Life Sciences, Natural Sciences and Mathematics",
+      "faculty": "Faculty of Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "SPU Undergraduate Prospectus p.6",
+      "notes": "Campus: Kimberley. Grade 7-12. No additional language required.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Senior Phase and FET Teaching - Languages or Language and History",
+      "faculty": "Faculty of Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": 30,
+      "min_aps_tech_maths": 30,
+      "source_ref": "SPU Undergraduate Prospectus p.6",
+      "notes": "Campus: Kimberley. Grade 7-12. History 50% needed ONLY if you choose History as an elective. No maths requirement printed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Afrikaans or Setswana (HL or FAL)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Senior Phase and FET Teaching - History, Social Sciences and Language",
+      "faculty": "Faculty of Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": 30,
+      "min_aps_tech_maths": 30,
+      "source_ref": "SPU Undergraduate Prospectus p.6",
+      "notes": "Campus: Kimberley. Grade 7-12. No maths requirement printed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Afrikaans or Setswana (HL or FAL)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Geography",
+          "options": [
+            {
+              "subject": "Geography",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "History",
+          "options": [
+            {
+              "subject": "History",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Senior Phase and FET Teaching - Accounting, Economics, Business Studies and Economic and Management Sciences",
+      "faculty": "Faculty of Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": 30,
+      "min_aps_tech_maths": 30,
+      "source_ref": "SPU Undergraduate Prospectus p.7",
+      "notes": "Campus: Kimberley. Grade 7-12. No maths requirement printed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Any two of Accounting, Business Studies, Economics",
+          "options": [
+            {
+              "subject": "Accounting",
+              "min_percent": 50
+            },
+            {
+              "subject": "Business Studies",
+              "min_percent": 50
+            },
+            {
+              "subject": "Economics",
+              "min_percent": 50
+            }
+          ],
+          "min_count": 2
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Retail Business Management",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 25,
+      "min_aps_maths_lit": 25,
+      "min_aps_tech_maths": null,
+      "source_ref": "SPU Undergraduate Prospectus p.12",
+      "notes": "Campus: Kimberley. Maths 40% OR Maths Lit 60%. RPL considered.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Accounting, Business Studies or Economics",
+          "options": [
+            {
+              "subject": "Accounting",
+              "min_percent": 50
+            },
+            {
+              "subject": "Business Studies",
+              "min_percent": 50
+            },
+            {
+              "subject": "Economics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Accounting",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "SPU Undergraduate Prospectus p.13",
+      "notes": "Campus: Kimberley. Maths 60% on its own, OR Maths 50% plus Accounting 40%. Maths Lit not accepted. RPL considered.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics 60%, or Accounting 40% (with Maths 50%)",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            },
+            {
+              "subject": "Accounting",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Economics",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "SPU Undergraduate Prospectus p.14",
+      "notes": "Campus: Kimberley. Maths 60% on its own, OR Maths 50% plus Economics or Business Studies 40%. Maths Lit not accepted. RPL considered.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics 60%, or Economics/Business Studies 40% (with Maths 50%)",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            },
+            {
+              "subject": "Economics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Business Studies",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Higher Certificate in Heritage Studies",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "higher_certificate",
+      "is_extended": false,
+      "duration_years": 1,
+      "nsc_pass_required": "higher_certificate",
+      "min_aps": 25,
+      "min_aps_maths_lit": 25,
+      "min_aps_tech_maths": null,
+      "source_ref": "SPU Undergraduate Prospectus p.16",
+      "notes": "Campus: Kimberley. Maths 30% OR Maths Lit 40%.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 30
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Higher Certificate in Court Interpreting",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "higher_certificate",
+      "is_extended": false,
+      "duration_years": 1,
+      "nsc_pass_required": "higher_certificate",
+      "min_aps": 25,
+      "min_aps_maths_lit": 25,
+      "min_aps_tech_maths": 25,
+      "source_ref": "SPU Undergraduate Prospectus p.17",
+      "notes": "Campus: Kimberley. NCV with appropriate subjects also accepted. Mature-age applicants with industry experience may be approved by the Registrar. RPL considered. No maths requirement printed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "At least one other African language (HL 50% or FAL 60%)",
+          "options": [
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Arts",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": 30,
+      "min_aps_tech_maths": null,
+      "source_ref": "SPU Undergraduate Prospectus p.18",
+      "notes": "Campus: Kimberley. Maths 30% OR Maths Lit 40%. Majors include languages (Afrikaans, English, Setswana), History, Heritage Studies, Geography, Mathematics, Sociology. Geography major needs 'NSC Level 4' (subject not specified). NCV or SPU HCert Heritage/Court Interpreting may be considered.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 30
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Agriculture",
+      "faculty": "Faculty of Natural and Applied Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 25,
+      "min_aps_maths_lit": 25,
+      "min_aps_tech_maths": null,
+      "source_ref": "SPU Undergraduate Prospectus p.20",
+      "notes": "Campus: Kimberley. Maths 40% OR Maths Lit 60%. Mixed farming focus.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences or Agricultural Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 40
+            },
+            {
+              "subject": "Agricultural Sciences",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Information and Communication Technology in Applications Development",
+      "faculty": "Faculty of Natural and Applied Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 25,
+      "min_aps_maths_lit": 25,
+      "min_aps_tech_maths": null,
+      "source_ref": "SPU Undergraduate Prospectus p.21-22",
+      "notes": "Campus: Kimberley. Maths 40% OR Maths Lit 60%. CAT or IT at school highly recommended.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Environmental Science",
+      "faculty": "Faculty of Natural and Applied Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "SPU Undergraduate Prospectus p.24",
+      "notes": "Campus: Kimberley. NQF level 8. Maths Lit not accepted.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science",
+      "faculty": "Faculty of Natural and Applied Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "SPU Undergraduate Prospectus p.25",
+      "notes": "Campus: Kimberley. Specialisations: Mathematical and Computer Sciences, Biological Sciences, Physical Sciences (Chemistry, Geography, Physics). Maths Lit not accepted.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Data Science",
+      "faculty": "Faculty of Natural and Applied Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "SPU Undergraduate Prospectus p.26",
+      "notes": "Campus: Kimberley. Maths Lit not accepted.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ambiguities": [
+    {
+      "item": "Subjects counted",
+      "issue": "Prospectus does not say how many subjects count",
+      "choice": "All 7 NSC subjects (6 plus Life Orientation on its own scale)"
+    },
+    {
+      "item": "Prospectus year",
+      "issue": "Screenshots do not show the cover year",
+      "choice": "Treated as the 2027 edition; requirements match the 2026 edition"
+    },
+    {
+      "item": "Closing date",
+      "issue": "Third-party sites give 31 Oct or 30 Sep 2026",
+      "choice": "31 Oct 2026 (SPU application page as cited by studentroom)"
+    },
+    {
+      "item": "BCom Accounting / Economics",
+      "issue": "Maths 60% OR (Maths 50% AND Accounting/Economics 40%)",
+      "choice": "Two groups: Maths 50% AND (Maths 60% or the commercial subject 40%), which is equivalent"
+    },
+    {
+      "item": "Court Interpreting language",
+      "issue": "'Another African language'",
+      "choice": "Nine official African languages; Afrikaans not included"
+    },
+    {
+      "item": "Higher Certificate in Entrepreneurship",
+      "issue": "In the 2026 prospectus but not in the 2027 screenshots",
+      "choice": "Left out"
+    }
+  ]
+}
