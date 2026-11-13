@@ -341,7 +341,8 @@
     "notes": "Each subject scores its percentage divided by 10 (72% = 7.2); below 40% scores 0. Best 7 subjects, Life Orientation excluded. Degree entry needs at least 26."
   },
   "faculties": [
-    "Faculty of Humanities, Social Sciences and Education"
+    "Faculty of Humanities, Social Sciences and Education",
+    "Faculty of Health Sciences"
   ],
   "courses": [
     {
