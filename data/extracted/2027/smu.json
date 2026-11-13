@@ -1,0 +1,351 @@
+{
+  "intake_year": 2027,
+  "source_document": "SMU Prospectus 2026/2027",
+  "university": {
+    "name": "Sefako Makgatho Health Sciences University",
+    "short_name": "SMU",
+    "institution_type": "traditional",
+    "province": "Gauteng",
+    "website_url": "https://www.smu.ac.za",
+    "application_url": "https://www.smu.ac.za",
+    "application_fee": 300
+  },
+  "application_periods": [
+    {
+      "label": "General",
+      "opens_on": "2026-04-01",
+      "closes_on": "2026-07-31",
+      "notes": "All undergraduate programmes. Late applications are not considered. Maximum two choices. Non-refundable R300 fee."
+    }
+  ],
+  "aps_rule": {
+    "default_scale": {
+      "name": "NSC standard 7-point"
+    },
+    "subjects_counted": 7,
+    "include_lo": true,
+    "must_count": [],
+    "subject_scales": [],
+    "notes": "SMU's printed totals count seven subjects including Life Orientation (Maths, Physical Sciences, Life Sciences, English, two others and LO)."
+  },
+  "faculties": [
+    "School of Medicine"
+  ],
+  "courses": [
+    {
+      "name": "Bachelor of Medicine and Bachelor of Surgery",
+      "faculty": "School of Medicine",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 6,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 38,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "SMU Prospectus 2027 p.13",
+      "notes": "Printed as 'Bachelor of Medicine and Bachelor of Surgery (MBChB)'. Minimum 38 points, with Life Orientation counted. Additional Subject 1 at 5 points (60%) and Additional Subject 2 at 4 points (50%), not named. Programme-specific requirements also apply, admission may be at a much higher level than these minimums, and entry is very competitive (see the SMU website). Duration minimum 6 years, maximum 8.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 70
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 70
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 70
+            }
+          ]
+        },
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 70
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 70
+            }
+          ]
+        },
+        {
+          "description": "Life Orientation",
+          "options": [
+            {
+              "subject": "Life Orientation",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Medicine and Bachelor of Surgery (Extended Curriculum Programme)",
+      "faculty": "School of Medicine",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": null,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 32,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "SMU Prospectus 2027 p.14",
+      "notes": "Only for South African Black learners from Quintile 1 and 2 schools who were not admitted to the six-year MBChB. Printed as 'MBChB - ECP'. Applicants must not have studied at a tertiary institution before. Only 50 places. A one-year foundation programme, then entry into mainstream MBChB; total duration not printed. Minimum 32 points, with Life Orientation counted. Additional Subjects 1 and 2 at 4 points (50%) each, not named.",
+      "requirements": [
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Life Orientation",
+          "options": [
+            {
+              "subject": "Life Orientation",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Emergency Medical Care",
+      "faculty": "School of Medicine",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 2,
+      "nsc_pass_required": "diploma",
+      "min_aps": 18,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "SMU Prospectus 2027 p.14",
+      "notes": "Printed as 'Diploma in Emergency Medical Care (DIP EMC)'. NSC with a Diploma endorsement. Additional (1) and (2) at level 3 (40%) each, not named. Total minimum 18 points; Life Orientation is not counted. Must pass the Medical Fitness and Physical Fitness Evaluations. Old-system (symbol) and National Certificate (Vocational) routes are in the prospectus, not modelled here.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 40
+            }
+          ]
+        }
+      ],
+      "include_lo": false
+    },
+    {
+      "name": "Higher Certificate in Emergency Medical Care",
+      "faculty": "School of Medicine",
+      "qualification_type": "higher_certificate",
+      "is_extended": false,
+      "duration_years": 1,
+      "nsc_pass_required": "higher_certificate",
+      "min_aps": 15,
+      "min_aps_maths_lit": 15,
+      "min_aps_tech_maths": null,
+      "source_ref": "SMU Prospectus 2027 p.15",
+      "notes": "Printed as 'Higher Certificate in Emergency Medical Care (HCERT EMC)'. NSC with a Higher Certificate endorsement. Life Sciences printed as '3 and or /Physical Sciences: 3' (one or both). Additional subject (1) and (2) at level 3 (40%) each, not named. Total minimum 15 points; Life Orientation is not counted. Must pass the Medical Fitness and Physical Fitness Evaluations. Old-system and NC(V) routes are in the prospectus, not modelled here.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences or Physical Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 40
+            },
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 40
+            }
+          ]
+        }
+      ],
+      "include_lo": false
+    },
+    {
+      "name": "Bachelor of Diagnostic Radiography",
+      "faculty": "School of Medicine",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": null,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "SMU Prospectus 2027 p.15",
+      "notes": "Printed as 'Bachelor of Diagnostic Radiography (B RAD)'. NSC for degree purposes. Requires level 4 in Mathematics, Physical Sciences, Life Sciences and English: 'Total minimum admission point score = 16' for those four subjects. 'Remaining subjects: Life Orientation: 3 and others: 6' (not explained further). No overall APS is printed. Duration minimum 4 years, maximum 6. Clinical training at accredited hospitals in Gauteng, Limpopo and North West.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Life Orientation",
+          "options": [
+            {
+              "subject": "Life Orientation",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ambiguities": [
+    {
+      "item": "APS",
+      "issue": "SMU totals include Life Orientation, unlike most universities",
+      "choice": "APS rule counts 7 subjects including LO; EMC programmes exclude LO per their tables"
+    },
+    {
+      "item": "Schools",
+      "issue": "SMU is organised in Schools, not Faculties",
+      "choice": "School names used as printed"
+    }
+  ]
+}

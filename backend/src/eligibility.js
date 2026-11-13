@@ -147,11 +147,18 @@ export function evaluateCourse(course, marks, aps) {
 /**
  * The APS rule for one course. A course can override Life Orientation: includeLo === true means
  * LO is counted as an extra subject on top of the university's normal count (e.g. WSU B.Ed
- * Foundation Phase counts LO as a 7th subject). null/undefined = the university's rule as is.
+ * Foundation Phase counts LO as a 7th subject). includeLo === false removes LO from a university
+ * whose rule counts it (e.g. SMU counts LO, but its Emergency Medical Care totals leave it out).
+ * null/undefined = the university's rule as is.
  */
 export function courseRule(rule, course) {
-  if (course.includeLo !== true || rule.includeLo) return rule;
-  return { ...rule, includeLo: true, subjectsCounted: rule.subjectsCounted + 1 };
+  if (course.includeLo === true && !rule.includeLo) {
+    return { ...rule, includeLo: true, subjectsCounted: rule.subjectsCounted + 1 };
+  }
+  if (course.includeLo === false && rule.includeLo) {
+    return { ...rule, includeLo: false, subjectsCounted: rule.subjectsCounted - 1 };
+  }
+  return rule;
 }
 
 const STATUS_ORDER = { qualifies: 0, check: 1, close: 2, not_eligible: 3 };

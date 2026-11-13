@@ -47,7 +47,7 @@ The API also returns `apsWorking`, the counted subjects with their points and wh
 
 ### Course-level Life Orientation
 
-`courses.include_lo = true` means LO counts as an **extra** subject for that course only, e.g. WSU B.Ed Foundation Phase counts 7 subjects including LO. `null` means the university's rule applies.
+`courses.include_lo = true` means LO counts as an **extra** subject for that course only, e.g. WSU B.Ed Foundation Phase counts 7 subjects including LO. `false` removes LO for that course where the university counts it, e.g. SMU counts LO but its Emergency Medical Care totals do not. `null` means the university's rule applies.
 
 ## Requirement groups ("AND of ORs")
 

@@ -70,3 +70,13 @@ test('evaluateAll applies the LO override per course', () => {
   assert.ok(byName['Foundation Phase'].aps > byName[EMS.name].aps);
   assert.ok(byName['Foundation Phase'].apsWorking.some((c) => c.subject === 'Life Orientation'));
 });
+
+test('course-level LO: false drops LO where the university counts it (SMU EMC)', () => {
+  const rule = { ...RULES.WSU, includeLo: true, subjectsCounted: 7 };
+  const marks = { ...base, 'Life Orientation': 80 };
+  const withLo = computeAps(marks, rule).aps;
+  const without = computeAps(marks, courseRule(rule, { includeLo: false })).aps;
+  assert.equal(withLo - without, 7);
+  assert.equal(courseRule(rule, { includeLo: false }).subjectsCounted, 6);
+  assert.equal(courseRule(rule, { includeLo: null }), rule);
+});
