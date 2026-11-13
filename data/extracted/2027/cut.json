@@ -1,0 +1,2004 @@
+{
+  "intake_year": 2027,
+  "source_document": "CUT programme web pages (www.cut.ac.za/programmes), fetched 13 Nov 2026",
+  "university": {
+    "name": "Central University of Technology, Free State",
+    "short_name": "CUT",
+    "institution_type": "university_of_technology",
+    "province": "Free State",
+    "website_url": "https://www.cut.ac.za",
+    "application_url": "https://www.cut.ac.za/application-process",
+    "application_fee": 0
+  },
+  "application_periods": [
+    {
+      "label": "General",
+      "opens_on": "2026-04-01",
+      "closes_on": "2026-09-30",
+      "notes": "Applications are free. No late or walk-in applications."
+    }
+  ],
+  "aps_rule": {
+    "default_scale": {
+      "name": "CUT 8-point (below 30% = 0)",
+      "bands": [
+        {
+          "min_mark": 90,
+          "max_mark": 100,
+          "points": 8
+        },
+        {
+          "min_mark": 80,
+          "max_mark": 89,
+          "points": 7
+        },
+        {
+          "min_mark": 70,
+          "max_mark": 79,
+          "points": 6
+        },
+        {
+          "min_mark": 60,
+          "max_mark": 69,
+          "points": 5
+        },
+        {
+          "min_mark": 50,
+          "max_mark": 59,
+          "points": 4
+        },
+        {
+          "min_mark": 40,
+          "max_mark": 49,
+          "points": 3
+        },
+        {
+          "min_mark": 30,
+          "max_mark": 39,
+          "points": 2
+        },
+        {
+          "min_mark": 0,
+          "max_mark": 29,
+          "points": 0
+        }
+      ]
+    },
+    "subjects_counted": 7,
+    "include_lo": true,
+    "must_count": [
+      [
+        "Life Orientation"
+      ]
+    ],
+    "subject_scales": [
+      {
+        "subject": "Life Orientation",
+        "scale": {
+          "name": "CUT Life Orientation (max 1 point)",
+          "bands": [
+            {
+              "min_mark": 30,
+              "max_mark": 100,
+              "points": 1
+            },
+            {
+              "min_mark": 0,
+              "max_mark": 29,
+              "points": 0
+            }
+          ]
+        }
+      }
+    ],
+    "notes": "Six subjects on the 8-point scale plus Life Orientation, which counts a maximum of 1 point. General minimum 27; 22-26 may be asked to write a selection test; 21 or below not admitted."
+  },
+  "faculties": [
+    "Faculty of Engineering, Built Environment and Information Technology",
+    "Faculty of Health and Environmental Sciences",
+    "Faculty of Humanities",
+    "Faculty of Management Sciences"
+  ],
+  "courses": [
+    {
+      "name": "Higher Certificate in Construction",
+      "faculty": "Faculty of Engineering, Built Environment and Information Technology",
+      "qualification_type": "higher_certificate",
+      "is_extended": false,
+      "duration_years": 1,
+      "nsc_pass_required": "higher_certificate",
+      "min_aps": 27,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "cut.ac.za/programmes/hcert-construction",
+      "notes": "Campus: Bloemfontein. Code HC_CON. Maths Lit not accepted. APS 23-26 may be considered after a selection test.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Higher Certificate in Information Technology",
+      "faculty": "Faculty of Engineering, Built Environment and Information Technology",
+      "qualification_type": "higher_certificate",
+      "is_extended": false,
+      "duration_years": 1,
+      "nsc_pass_required": "higher_certificate",
+      "min_aps": 27,
+      "min_aps_maths_lit": 27,
+      "min_aps_tech_maths": 27,
+      "source_ref": "cut.ac.za/programmes/hcert-information-technology",
+      "notes": "Campuses: Bloemfontein and Welkom. Code HC_ITC. No subject minimums published (English proficiency required). APS 22-26 may write a selection test.",
+      "requirements": []
+    },
+    {
+      "name": "Higher Certificate in Mathematics for Engineering Technology",
+      "faculty": "Faculty of Engineering, Built Environment and Information Technology",
+      "qualification_type": "higher_certificate",
+      "is_extended": false,
+      "duration_years": 1,
+      "nsc_pass_required": "higher_certificate",
+      "min_aps": 27,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": 27,
+      "source_ref": "cut.ac.za/programmes/hc-mathematics-for-engineering-technology",
+      "notes": "Campus: Bloemfontein. Code HC_MET. No programme APS is published; CUT's general minimum of 27 is used. January intake only.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences or Technical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 30
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Higher Certificate in Renewable Energy Technologies",
+      "faculty": "Faculty of Engineering, Built Environment and Information Technology",
+      "qualification_type": "higher_certificate",
+      "is_extended": false,
+      "duration_years": 1,
+      "nsc_pass_required": "higher_certificate",
+      "min_aps": 27,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "cut.ac.za/programmes/hcert-renewable-energy-technologies",
+      "notes": "Campus: Bloemfontein. Code IEHCRE. Maths Lit not accepted. APS 23-26 may be considered after a selection test.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Computer Networking",
+      "faculty": "Faculty of Engineering, Built Environment and Information Technology",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 27,
+      "min_aps_maths_lit": 27,
+      "min_aps_tech_maths": 27,
+      "source_ref": "cut.ac.za/programmes/dip-computer-networking",
+      "notes": "Campus: Bloemfontein. Code DP_CMN. Maths or Computer Studies 40%, or Maths Lit 60%. Selection programme.",
+      "requirements": [
+        {
+          "description": "Mathematics, Information Technology or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Information Technology",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Computer Networking (Extended Curriculum)",
+      "faculty": "Faculty of Engineering, Built Environment and Information Technology",
+      "qualification_type": "diploma",
+      "is_extended": true,
+      "duration_years": null,
+      "nsc_pass_required": "diploma",
+      "min_aps": 22,
+      "min_aps_maths_lit": 22,
+      "min_aps_tech_maths": 22,
+      "source_ref": "cut.ac.za/programmes/dip-computer-networking",
+      "notes": "Campus: Bloemfontein. For first-time students with APS 22-26. Studies end if core programming modules are failed; max 6 years; no transfer to mainstream.",
+      "requirements": [
+        {
+          "description": "Mathematics, Information Technology or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Information Technology",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Information Technology",
+      "faculty": "Faculty of Engineering, Built Environment and Information Technology",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 27,
+      "min_aps_maths_lit": 27,
+      "min_aps_tech_maths": 27,
+      "source_ref": "cut.ac.za/programmes/dp-information-technology",
+      "notes": "Campuses: Bloemfontein and Welkom. Code DP_ITC. Maths or Computer Studies 40%, or Maths Lit 60%. Selection programme.",
+      "requirements": [
+        {
+          "description": "Mathematics, Information Technology or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Information Technology",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Information Technology (Extended Curriculum)",
+      "faculty": "Faculty of Engineering, Built Environment and Information Technology",
+      "qualification_type": "diploma",
+      "is_extended": true,
+      "duration_years": null,
+      "nsc_pass_required": "diploma",
+      "min_aps": 22,
+      "min_aps_maths_lit": 22,
+      "min_aps_tech_maths": 22,
+      "source_ref": "cut.ac.za/programmes/dp-information-technology",
+      "notes": "Campuses: Bloemfontein and Welkom. For first-time students with APS 22-26. Studies end if core programming modules are failed; max 6 years; no transfer to mainstream.",
+      "requirements": [
+        {
+          "description": "Mathematics, Information Technology or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Information Technology",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Engineering Technology in Electrical Engineering",
+      "faculty": "Faculty of Engineering, Built Environment and Information Technology",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 2,
+      "nsc_pass_required": "diploma",
+      "min_aps": 27,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "cut.ac.za/programmes/dp-engineering-technology-in-electrical-engineer",
+      "notes": "Campus: Bloemfontein. Code DP_ELE. Maths Lit not accepted. Duration as printed on the page (280 credits).",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Engineering Technology in Mechanical Engineering",
+      "faculty": "Faculty of Engineering, Built Environment and Information Technology",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 2,
+      "nsc_pass_required": "diploma",
+      "min_aps": 27,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "cut.ac.za/programmes/dip-eng-tech-mechanical-engineering",
+      "notes": "Campus: Bloemfontein. Code DP_MEC. Maths Lit not accepted. Selection programme. Duration as printed on the page (280 credits).",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Construction in Health and Safety Management",
+      "faculty": "Faculty of Engineering, Built Environment and Information Technology",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 32,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "cut.ac.za/programmes/bachelor-health-and-safety-management",
+      "notes": "Campus: Bloemfontein. Code B_CHSM.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Construction in Construction Management",
+      "faculty": "Faculty of Engineering, Built Environment and Information Technology",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 32,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "cut.ac.za/programmes/bachelors-construction-management",
+      "notes": "Campus: Bloemfontein. Code B_CON.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Construction in Quantity Surveying",
+      "faculty": "Faculty of Engineering, Built Environment and Information Technology",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 32,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "cut.ac.za/programmes/bachelor-quantity-surveying",
+      "notes": "Campus: Bloemfontein. Code B_CQS. Formal selection process.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences or Life Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Engineering Technology in Civil Engineering",
+      "faculty": "Faculty of Engineering, Built Environment and Information Technology",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 32,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "cut.ac.za/programmes/bachelor-eng-tech-civil-engineering",
+      "notes": "Campus: Bloemfontein. Code B_CVLE. Maths Lit not accepted. ECSA-accredited (Candidate Engineering Technologist).",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Engineering Technology in Mechanical Engineering",
+      "faculty": "Faculty of Engineering, Built Environment and Information Technology",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 32,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "cut.ac.za/programmes/bachelor-eng-tech-mechanical-engineering",
+      "notes": "Campus: Bloemfontein. Code B_MEC. Maths Lit not accepted. ECSA-accredited (Candidate Engineering Technologist).",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Engineering Technology in Electrical Engineering",
+      "faculty": "Faculty of Engineering, Built Environment and Information Technology",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 32,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "cut.ac.za/programmes/engineering-technology-in-electrical-engineer",
+      "notes": "Campus: Bloemfontein. Code B_ETE. Maths Lit not accepted. ECSA-accredited (Candidate Engineering Technologist).",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Higher Certificate in Dental Assisting",
+      "faculty": "Faculty of Health and Environmental Sciences",
+      "qualification_type": "higher_certificate",
+      "is_extended": false,
+      "duration_years": 1,
+      "nsc_pass_required": "higher_certificate",
+      "min_aps": 27,
+      "min_aps_maths_lit": 27,
+      "min_aps_tech_maths": 27,
+      "source_ref": "cut.ac.za/programmes/dental-assisting",
+      "notes": "Campus: Bloemfontein. Code HLHCDL. 1 year full-time or 2 years part-time. Physical Sciences must be taken in Grade 12 (no minimum printed; 30% used). No programme APS is published; CUT's general minimum of 27 is used. Merit selection; aptitude test may be required.",
+      "requirements": [
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Agricultural Management",
+      "faculty": "Faculty of Health and Environmental Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 23,
+      "min_aps_maths_lit": 23,
+      "min_aps_tech_maths": 23,
+      "source_ref": "cut.ac.za/programmes/dip-agricultural-management",
+      "notes": "Campus: Bloemfontein. Code D_AGM. Below APS 23 not considered. Page lists one of these subjects at 50% as 'recommended'. Page prints duration as 1 year; 360 credits is a 3-year diploma. Formal selection.",
+      "requirements": [
+        {
+          "description": "Accounting, Mathematics, Business Studies, Economics, Hospitality Studies or Consumer Studies",
+          "options": [
+            {
+              "subject": "Accounting",
+              "min_percent": 50
+            },
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Business Studies",
+              "min_percent": 50
+            },
+            {
+              "subject": "Economics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Hospitality Studies",
+              "min_percent": 50
+            },
+            {
+              "subject": "Consumer Studies",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Somatology",
+      "faculty": "Faculty of Health and Environmental Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 27,
+      "min_aps_maths_lit": 27,
+      "min_aps_tech_maths": 27,
+      "source_ref": "cut.ac.za/programmes/dip-somatology",
+      "notes": "Campus: Bloemfontein. Code DP_SOM. No programme APS is published; CUT's general minimum of 27 is used. Selection may include aptitude test and/or interview. Extended programme for applicants one level short in one subject or APS.",
+      "requirements": [
+        {
+          "description": "Life Sciences or Physical Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Health Sciences in Clinical Technology",
+      "faculty": "Faculty of Health and Environmental Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "cut.ac.za/programmes/bachelor-health-sciences-clinical-tech",
+      "notes": "Campus: Bloemfontein. Code B_CLINT. Selection programme.",
+      "requirements": [
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Life Orientation",
+          "options": [
+            {
+              "subject": "Life Orientation",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Health Sciences in Medical Laboratory Science",
+      "faculty": "Faculty of Health and Environmental Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "cut.ac.za/programmes/bachelor-health-sciences-medical-lab-science",
+      "notes": "Campus: Bloemfontein. Code B_MLS. APS 35+ may get direct admission; 30-34 may be referred for psychometric evaluation. Maths Lit not accepted. Formal selection. Extended programme for applicants one level short in one subject or APS.",
+      "requirements": [
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Life Orientation",
+          "options": [
+            {
+              "subject": "Life Orientation",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Radiography in Diagnostics",
+      "faculty": "Faculty of Health and Environmental Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "cut.ac.za/programmes/radiography-in-diagnostics",
+      "notes": "Campus: Bloemfontein. Code HCBCRD. Formal selection, second round after final NSC results (test or interview). Extended programme for applicants one level short in one subject or APS.",
+      "requirements": [
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Life Orientation",
+          "options": [
+            {
+              "subject": "Life Orientation",
+              "min_percent": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Environmental Health",
+      "faculty": "Faculty of Health and Environmental Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 27,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "cut.ac.za/programmes/bachelor-environmental-health",
+      "notes": "Campus: Bloemfontein. Code B_ENVH. No programme APS is published; CUT's general minimum of 27 is used. Selection may apply. Extended programme for applicants one level short in one subject or APS.",
+      "requirements": [
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Design and Studio Art",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 27,
+      "min_aps_maths_lit": 27,
+      "min_aps_tech_maths": 27,
+      "source_ref": "cut.ac.za/programmes/design-and-studio-art",
+      "notes": "Campus: Bloemfontein. No programme APS is published; CUT's general minimum of 27 is used. Portfolio and interview required; Visual Arts highly recommended. An extended (ECP) version also exists.",
+      "requirements": []
+    },
+    {
+      "name": "Diploma in Language Practice and Media Studies",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 27,
+      "min_aps_maths_lit": 27,
+      "min_aps_tech_maths": 27,
+      "source_ref": "cut.ac.za/programmes/dip-language-practice-and-media-studies",
+      "notes": "Campuses: Bloemfontein and Welkom. Code DP_LPM. No programme APS is published; CUT's general minimum of 27 is used. All applicants write a selection test; places limited.",
+      "requirements": [
+        {
+          "description": "Two official languages at 60%",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 60
+            }
+          ],
+          "min_count": 2
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Foundation Phase Teaching",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 27,
+      "min_aps_maths_lit": 27,
+      "min_aps_tech_maths": 27,
+      "source_ref": "cut.ac.za/programmes/foundation-phase-teaching",
+      "notes": "Campuses: Bloemfontein and Welkom. Code BEDFPT. No programme APS is published; CUT's general minimum of 27 is used. No selection test.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Sesotho, Afrikaans, Setswana, isiXhosa or isiZulu",
+          "options": [
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics, Technical Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Senior Phase and FET Teaching - Computer Science",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 27,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "cut.ac.za/programmes/computer-science",
+      "notes": "Campuses: Bloemfontein and Welkom. Code BEDSFC. No programme APS is published; CUT's general minimum of 27 is used. No selection test.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Senior Phase and FET Teaching - Economic and Management Sciences",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 27,
+      "min_aps_maths_lit": 27,
+      "min_aps_tech_maths": null,
+      "source_ref": "cut.ac.za/programmes/economic-and-management-sciences",
+      "notes": "Campuses: Bloemfontein and Welkom. Code BEDSFE. No programme APS is published; CUT's general minimum of 27 is used. Maths 50% needed if Mathematics is chosen as a major; otherwise Maths Lit 70%.",
+      "requirements": [
+        {
+          "description": "Accounting",
+          "options": [
+            {
+              "subject": "Accounting",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Senior Phase and FET Teaching - Language Education",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 27,
+      "min_aps_maths_lit": 27,
+      "min_aps_tech_maths": 27,
+      "source_ref": "cut.ac.za/programmes/language-education",
+      "notes": "Campuses: Bloemfontein and Welkom. Code BEDSFL. No programme APS is published; CUT's general minimum of 27 is used. No selection test.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Sesotho, Afrikaans, Setswana, isiXhosa or isiZulu",
+          "options": [
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Senior Phase and FET Teaching - Mathematics",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 27,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "cut.ac.za/programmes/mathematics",
+      "notes": "Campuses: Bloemfontein and Welkom. Code BEDSFM. No programme APS is published; CUT's general minimum of 27 is used. No selection test.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Senior Phase and FET Teaching - Natural Sciences",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 27,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "cut.ac.za/programmes/natural-sciences",
+      "notes": "Campuses: Bloemfontein and Welkom. Code BEDSFN. No programme APS is published; CUT's general minimum of 27 is used. No selection test.",
+      "requirements": [
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Senior Phase and FET Teaching - Technology",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 27,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": 27,
+      "source_ref": "cut.ac.za/programmes/BEd-technology",
+      "notes": "Campus: Bloemfontein. Code BEDSFT. No programme APS is published; CUT's general minimum of 27 is used. Engineering Graphics and Design highly recommended. No selection test.",
+      "requirements": [
+        {
+          "description": "Mathematics or Technical Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences or Technical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Technical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Higher Certificate in Community Development Work",
+      "faculty": "Faculty of Management Sciences",
+      "qualification_type": "higher_certificate",
+      "is_extended": false,
+      "duration_years": 1,
+      "nsc_pass_required": "higher_certificate",
+      "min_aps": 26,
+      "min_aps_maths_lit": 26,
+      "min_aps_tech_maths": 26,
+      "source_ref": "cut.ac.za/programmes/hcert-community-development-work",
+      "notes": "Campus: Bloemfontein. Code HCCDWG. Recommended minimum APS 26; below that, formal selection. 1 year full-time or 2 years part-time.",
+      "requirements": []
+    },
+    {
+      "name": "Diploma in Public Management",
+      "faculty": "Faculty of Management Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 27,
+      "min_aps_maths_lit": 27,
+      "min_aps_tech_maths": 27,
+      "source_ref": "cut.ac.za/programmes/dip-public-management",
+      "notes": "Campuses: Bloemfontein and Welkom. Code DP_PMM. Below APS 27 may go through formal selection. Full-time or part-time.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Hospitality Management",
+      "faculty": "Faculty of Management Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 27,
+      "min_aps_maths_lit": 27,
+      "min_aps_tech_maths": 27,
+      "source_ref": "cut.ac.za/programmes/dip-hospitality-management",
+      "notes": "Campus: Bloemfontein. Code DP_HSM. Selection test and interview at the Hotel School. Consumer Studies, Hospitality Studies, Accounting or Business Studies recommended.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Hospitality Management (Extended Curriculum)",
+      "faculty": "Faculty of Management Sciences",
+      "qualification_type": "diploma",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "diploma",
+      "min_aps": 23,
+      "min_aps_maths_lit": 23,
+      "min_aps_tech_maths": 23,
+      "source_ref": "cut.ac.za/programmes/dip-hospitality-management",
+      "notes": "Campus: Bloemfontein. For first-time students with APS 23-26. Must pass all first-year modules to continue; no transfer to mainstream.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Tourism Management",
+      "faculty": "Faculty of Management Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 28,
+      "min_aps_maths_lit": 28,
+      "min_aps_tech_maths": 28,
+      "source_ref": "cut.ac.za/programmes/dip-tourism-management",
+      "notes": "Campus: Bloemfontein. Code DP_TRM. Psychometric/aptitude test and interview for every applicant.",
+      "requirements": []
+    },
+    {
+      "name": "Diploma in Human Resources Management",
+      "faculty": "Faculty of Management Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 27,
+      "min_aps_maths_lit": 27,
+      "min_aps_tech_maths": 27,
+      "source_ref": "cut.ac.za/programmes/dip-human-resources-management",
+      "notes": "Campuses: Bloemfontein and Welkom. Code DP_HRM. APS 22-26 may write a selection test.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Management",
+      "faculty": "Faculty of Management Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 27,
+      "min_aps_maths_lit": 27,
+      "min_aps_tech_maths": 27,
+      "source_ref": "cut.ac.za/programmes/diploma-management",
+      "notes": "Campuses: Bloemfontein and Welkom. Code DP_MGT. APS above 30 preferred. Maths, Physics or Accounting recommended.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Marketing Management",
+      "faculty": "Faculty of Management Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 27,
+      "min_aps_maths_lit": 27,
+      "min_aps_tech_maths": 27,
+      "source_ref": "cut.ac.za/programmes/dip-marketing-management",
+      "notes": "Campuses: Bloemfontein and Welkom. Code DP_MKT. International direction in Bloemfontein only. Selection test may be required.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diploma in Office Management and Technology",
+      "faculty": "Faculty of Management Sciences",
+      "qualification_type": "diploma",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "diploma",
+      "min_aps": 27,
+      "min_aps_maths_lit": 27,
+      "min_aps_tech_maths": 27,
+      "source_ref": "cut.ac.za/programmes/dip-office-management-and-technology",
+      "notes": "Campuses: Bloemfontein and Welkom. Code DP_OMT. APS 27 strictly required.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Management Sciences in Accountancy",
+      "faculty": "Faculty of Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 27,
+      "min_aps_maths_lit": 27,
+      "min_aps_tech_maths": null,
+      "source_ref": "cut.ac.za/programmes/bachelor-management-sciences-in-accountancy",
+      "notes": "Campuses: Bloemfontein and Welkom. Code B_MSAC. Selection tests (may include psychometric) may be required. Laptop required.",
+      "requirements": [
+        {
+          "description": "Accounting",
+          "options": [
+            {
+              "subject": "Accounting",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Management Sciences in Accountancy (Extended Curriculum)",
+      "faculty": "Faculty of Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 5,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 27,
+      "min_aps_maths_lit": 27,
+      "min_aps_tech_maths": null,
+      "source_ref": "cut.ac.za/programmes/bachelor-management-sciences-in-accountancy",
+      "notes": "Campuses: Bloemfontein and Welkom. For first-time students who narrowly miss mainstream requirements. Must pass all foundation modules; no transfer to mainstream.",
+      "requirements": [
+        {
+          "description": "Accounting",
+          "options": [
+            {
+              "subject": "Accounting",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 30
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Management Sciences in Internal Auditing",
+      "faculty": "Faculty of Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 27,
+      "min_aps_maths_lit": 27,
+      "min_aps_tech_maths": null,
+      "source_ref": "cut.ac.za/programmes/bachelor-internal-auditing",
+      "notes": "Campus: Bloemfontein. Code B_MSIA. Selection tests (may include psychometric) may be required. Laptop required.",
+      "requirements": [
+        {
+          "description": "Accounting",
+          "options": [
+            {
+              "subject": "Accounting",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Management Sciences in Internal Auditing (Extended Curriculum)",
+      "faculty": "Faculty of Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 5,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 27,
+      "min_aps_maths_lit": 27,
+      "min_aps_tech_maths": null,
+      "source_ref": "cut.ac.za/programmes/bachelor-internal-auditing",
+      "notes": "Campus: Bloemfontein. For first-time students who narrowly miss mainstream requirements. Must pass all foundation modules; no transfer to mainstream.",
+      "requirements": [
+        {
+          "description": "Accounting",
+          "options": [
+            {
+              "subject": "Accounting",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 30
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ambiguities": [
+    {
+      "item": "Source",
+      "issue": "CUT publishes no 2027 prospectus; requirements are on individual programme web pages",
+      "choice": "Each course's source_ref is its web page"
+    },
+    {
+      "item": "Programmes with no APS printed",
+      "issue": "Several pages (BEd, Somatology, Environmental Health, Dental Assisting, Design, Language Practice) give no programme APS",
+      "choice": "CUT's general minimum of 27 used and noted on the course"
+    },
+    {
+      "item": "Life Orientation points",
+      "issue": "Page says LO gives a maximum of 1 point regardless of percentage",
+      "choice": "1 point for LO at 30%+"
+    },
+    {
+      "item": "Below 30%",
+      "issue": "Scale prints no band below 30%",
+      "choice": "0 points"
+    },
+    {
+      "item": "Vague extended programmes",
+      "issue": "Somatology, Medical Lab Science, Radiography, Environmental Health and Design ECPs give no APS range",
+      "choice": "Mentioned in notes, not loaded as separate courses"
+    }
+  ]
+}
