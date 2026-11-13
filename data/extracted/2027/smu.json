@@ -29,7 +29,8 @@
     "notes": "SMU's printed totals count seven subjects including Life Orientation (Maths, Physical Sciences, Life Sciences, English, two others and LO)."
   },
   "faculties": [
-    "School of Medicine"
+    "School of Medicine",
+    "School of Dentistry"
   ],
   "courses": [
     {

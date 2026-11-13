@@ -1,0 +1,198 @@
+[
+  {
+    "name": "Bachelor of Dental Surgery",
+    "faculty": "School of Dentistry",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 5,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 37,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SMU Prospectus 2027 p.16",
+    "notes": "Printed as 'Bachelor of Dental Surgery (BDS)'. Minimum 37 points, with Life Orientation counted. Additional Subject 1 at 5 points (60%) and Additional Subject 2 at 4 points (50%), not named. A limited number of SMU students with a completed 1st-year BSc, MBChB I or BSc ECP II may be considered for BDS I (two top students; at least three distinctions and a 75% average), as described on p.17. Applicants with other or partial qualifications have different requirements (contact the School of Dentistry, 012 521 4803).",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Dental Therapy",
+    "faculty": "School of Dentistry",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SMU Prospectus 2027 p.17",
+    "notes": "Printed as 'Bachelor of Dental Therapy (BDT)'. Minimum 28 points, with Life Orientation counted. 'Additional 2 Subjects' at 4 points (50%) each, not named. Foreign nationals (SADC countries not offering dentistry) need an SAQA matric exemption certificate; their APS is set by the enrolment committee. Applicants with other or partial qualifications have different requirements (contact the School of Dentistry, 012 521 4803).",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Oral Hygiene",
+    "faculty": "School of Dentistry",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 31,
+    "min_aps_tech_maths": null,
+    "source_ref": "SMU Prospectus 2027 p.17",
+    "notes": "Printed as 'Bachelor of Oral Hygiene (BOH)'. Two tables: Mathematics route total 28; Mathematical Literacy route (Maths Lit level 7, 80%+) total 31. Both totals count Life Orientation. 'Additional 2 Subjects' at 4 points (50%) each, not named. Applicants with other or partial qualifications have different requirements (contact the School of Dentistry, 012 521 4803).",
+    "requirements": [
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 80
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Orientation",
+        "options": [
+          {
+            "subject": "Life Orientation",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  }
+]
