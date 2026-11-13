@@ -1,0 +1,360 @@
+[
+  {
+    "name": "Bachelor of Science in Engineering in Civil Engineering",
+    "faculty": "Faculty of Engineering & the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 420,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.32-37",
+    "notes": "Band C FPS 420 (possible admission; SA applicants in targeted redress categories only) with Maths 80% & Physical Sciences 70%. Band A (guaranteed): FPS 500+ with Maths 80% & Physical Sciences 70%. Band B (likely): WPS 480+ with Maths 80% & Physical Sciences 70%. No English percentage printed for this programme (English still counts in the FPS). NBTs (Mathematics, AL & QL) must be written but are not used for admission in this faculty. All BSc(Eng) students start on the 4-year curriculum; after the first 5 weeks some are advised to move to the 5-year extended (ASPECT) programme with extra Maths/Physics support (no separate application). ECSA-accredited (Washington Accord). New project-linked curriculum since 2025.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 80
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Engineering in Electrical Engineering",
+    "faculty": "Faculty of Engineering & the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 420,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.32-37",
+    "notes": "Band C FPS 420 (possible admission; SA applicants in targeted redress categories only) with Maths 80% & Physical Sciences 75%. Band A (guaranteed): FPS 500+ with Maths 80% & Physical Sciences 75%. Band B (likely): WPS 480+ with Maths 80% & Physical Sciences 75%. No English percentage printed for this programme (English still counts in the FPS). NBTs (Mathematics, AL & QL) must be written but are not used for admission in this faculty. All BSc(Eng) students start on the 4-year curriculum; after the first 5 weeks some are advised to move to the 5-year extended (ASPECT) programme with extra Maths/Physics support (no separate application). ECSA-accredited (Washington Accord).",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 80
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 75
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Engineering in Electrical and Computer Engineering",
+    "faculty": "Faculty of Engineering & the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 420,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.32-37",
+    "notes": "Band C FPS 420 (possible admission; SA applicants in targeted redress categories only) with Maths 80% & Physical Sciences 75%. Band A (guaranteed): FPS 500+ with Maths 80% & Physical Sciences 75%. Band B (likely): WPS 480+ with Maths 80% & Physical Sciences 75%. No English percentage printed for this programme (English still counts in the FPS). NBTs (Mathematics, AL & QL) must be written but are not used for admission in this faculty. All BSc(Eng) students start on the 4-year curriculum; after the first 5 weeks some are advised to move to the 5-year extended (ASPECT) programme with extra Maths/Physics support (no separate application). ECSA-accredited (Washington Accord).",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 80
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 75
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Engineering in Mechatronics",
+    "faculty": "Faculty of Engineering & the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 420,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.32-37",
+    "notes": "Band C FPS 420 (possible admission; SA applicants in targeted redress categories only) with Maths 80% & Physical Sciences 75%. Band A (guaranteed): FPS 500+ with Maths 80% & Physical Sciences 75%. Band B (likely): WPS 480+ with Maths 80% & Physical Sciences 75%. No English percentage printed for this programme (English still counts in the FPS). NBTs (Mathematics, AL & QL) must be written but are not used for admission in this faculty. All BSc(Eng) students start on the 4-year curriculum; after the first 5 weeks some are advised to move to the 5-year extended (ASPECT) programme with extra Maths/Physics support (no separate application). ECSA-accredited (Washington Accord).",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 80
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 75
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Engineering in Chemical Engineering",
+    "faculty": "Faculty of Engineering & the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 420,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.32-37",
+    "notes": "Band C FPS 420 (possible admission; SA applicants in targeted redress categories only) with Maths 80% & Physical Sciences 70%. Band A (guaranteed): FPS 500+ with Maths 80% & Physical Sciences 75%. Band B (likely): WPS 480+ with Maths 80% & Physical Sciences 70%. No English percentage printed for this programme (English still counts in the FPS). NBTs (Mathematics, AL & QL) must be written but are not used for admission in this faculty. All BSc(Eng) students start on the 4-year curriculum; after the first 5 weeks some are advised to move to the 5-year extended (ASPECT) programme with extra Maths/Physics support (no separate application). ECSA-accredited (Washington Accord). Can specialise in biotechnology, chemical sciences or mineralogical sciences.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 80
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Engineering in Mechanical Engineering",
+    "faculty": "Faculty of Engineering & the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 420,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.32-37",
+    "notes": "Band C FPS 420 (possible admission; SA applicants in targeted redress categories only) with Maths 80% & Physical Sciences 75%. Band A (guaranteed): FPS 500+ with Maths 80% & Physical Sciences 75%. Band B (likely): WPS 480+ with Maths 80% & Physical Sciences 75%. No English percentage printed for this programme (English still counts in the FPS). NBTs (Mathematics, AL & QL) must be written but are not used for admission in this faculty. All BSc(Eng) students start on the 4-year curriculum; after the first 5 weeks some are advised to move to the 5-year extended (ASPECT) programme with extra Maths/Physics support (no separate application). ECSA-accredited (Washington Accord).",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 80
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 75
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Engineering in Mechanical and Mechatronic Engineering",
+    "faculty": "Faculty of Engineering & the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 420,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.32-37",
+    "notes": "Band C FPS 420 (possible admission; SA applicants in targeted redress categories only) with Maths 80% & Physical Sciences 75%. Band A (guaranteed): FPS 500+ with Maths 80% & Physical Sciences 75%. Band B (likely): WPS 480+ with Maths 80% & Physical Sciences 75%. No English percentage printed for this programme (English still counts in the FPS). NBTs (Mathematics, AL & QL) must be written but are not used for admission in this faculty. All BSc(Eng) students start on the 4-year curriculum; after the first 5 weeks some are advised to move to the 5-year extended (ASPECT) programme with extra Maths/Physics support (no separate application). ECSA-accredited (Washington Accord).",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 80
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 75
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Geomatics",
+    "faculty": "Faculty of Engineering & the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 390,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.32-37",
+    "notes": "Band C FPS 390 (possible admission; SA applicants in targeted redress categories only) with Maths 65% & Physical Sciences 60%. Band A (guaranteed): FPS 450+ with Maths 75% & Physical Sciences 70%. Band B (likely): WPS 420+ with Maths 65% & Physical Sciences 60%. No English percentage printed for this programme (English still counts in the FPS). NBTs (Mathematics, AL & QL) must be written but are not used for admission in this faculty. Accredited by the South African Geomatics Council; route to professional surveyor after articles.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 65
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Construction Studies",
+    "faculty": "Faculty of Engineering & the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 390,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.32-37",
+    "notes": "Band C FPS 390 (possible admission; SA applicants in targeted redress categories only) with Maths 65% & Physical Sciences 55%. Band A (guaranteed): FPS 450+ with Maths 65% & Physical Sciences 60%. Band B (likely): WPS 420+ with Maths 65% & Physical Sciences 55%. No English percentage printed for this programme (English still counts in the FPS). NBTs (Mathematics, AL & QL) must be written but are not used for admission in this faculty. Accredited by SACQSP, RICS and SACPCMP. Leads to Honours in Quantity Surveying or Construction Management.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 65
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 55
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Property Studies",
+    "faculty": "Faculty of Engineering & the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 390,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.32-37",
+    "notes": "Band C FPS 390 (possible admission; SA applicants in targeted redress categories only) with Maths 65%. Band A (guaranteed): FPS 450+ with Maths 65%. Band B (likely): WPS 420+ with Maths 65%. No English percentage printed for this programme (English still counts in the FPS). NBTs (Mathematics, AL & QL) must be written but are not used for admission in this faculty. Leads to BSc Honours in Property Studies (SACPVP/RICS accredited).",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 65
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Architectural Studies",
+    "faculty": "Faculty of Engineering & the Built Environment",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 348,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UCT Undergraduate Prospectus 2027 p.32-37",
+    "notes": "Band C FPS 348 (possible admission; SA applicants in targeted redress categories only) with Architecture Portfolio Score 50%+. Band A (guaranteed): FPS 450+ and portfolio 75%+. Band B (likely): WPS 408+ and portfolio 68%+. All applicants must submit a portfolio of prescribed creative exercises by 31 Jul 2026 (same as general closing date). English printed as 50% (HL or FAL not specified; 50% applied to both). Leads to BAS Honours and Master of Architecture (professional); graduates may register with SACAP as Candidate Architectural Technologist. NBTs (Mathematics, AL & QL) must be written but are not used for admission in this faculty.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  }
+]

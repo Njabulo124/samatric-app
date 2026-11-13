@@ -345,7 +345,8 @@
     "notes": "Faculty Points Score (FPS): English plus the best 5 other subjects, each scoring its percentage (below 40% scores 0), out of 600. Life Orientation excluded. Required subjects must be among the 5. Science counts Maths and Physical Sciences twice (out of 800); Health Sciences adds NBT scores (out of 900). The weighted score (WPS) adds a disadvantage factor the learner cannot calculate. Technical Maths never replaces Maths; Technical Sciences never replaces Physical Sciences."
   },
   "faculties": [
-    "Faculty of Commerce"
+    "Faculty of Commerce",
+    "Faculty of Engineering & the Built Environment"
   ],
   "courses": [
     {
