@@ -1,0 +1,1043 @@
+{
+  "intake_year": 2027,
+  "source_document": "UL Undergraduate Prospectus 2027",
+  "university": {
+    "name": "University of Limpopo",
+    "short_name": "UL",
+    "institution_type": "traditional",
+    "province": "Limpopo",
+    "website_url": "https://www.ul.ac.za",
+    "application_url": "https://www.ul.ac.za/admissions/undergraduate-studies/",
+    "application_fee": 200
+  },
+  "application_periods": [
+    {
+      "label": "General",
+      "opens_on": "2026-04-01",
+      "closes_on": "2026-09-30",
+      "notes": "Apply online. Non-refundable R200 handling fee (R750 for international applicants). MBChB closed earlier."
+    }
+  ],
+  "aps_rule": {
+    "default_scale": {
+      "name": "NSC standard 7-point"
+    },
+    "subjects_counted": 6,
+    "include_lo": false,
+    "must_count": [],
+    "subject_scales": [],
+    "notes": "Best six 20-credit subjects excluding Life Orientation, NSC 7-point scale. All programmes also need Life Orientation and English at level 3 (40%)."
+  },
+  "faculties": [
+    "Faculty of Humanities"
+  ],
+  "courses": [
+    {
+      "name": "Bachelor of Arts (Criminology and Psychology Stream)",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 23,
+      "min_aps_maths_lit": 25,
+      "min_aps_tech_maths": null,
+      "source_ref": "UL Prospectus 2027 p.1",
+      "notes": "School of Social Sciences. APS 23 with Mathematics, 25 with Maths Lit. 'Additional Language' level 4 is required but no language is named. Also needs three additional subjects at level 4 (50-59%).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Arts (Cultural Studies Stream)",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 23,
+      "min_aps_maths_lit": 25,
+      "min_aps_tech_maths": null,
+      "source_ref": "UL Prospectus 2027 p.1",
+      "notes": "School of Social Sciences. APS 23 with Mathematics, 25 with Maths Lit. 'Additional Language' level 4 is required but no language is named. Also needs three additional subjects at level 4 (50-59%). If an African language is chosen as an elective, the additional language must be Northern Sotho, Tshivenda or Xitsonga.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Arts (Sociology and Anthropology Stream)",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 23,
+      "min_aps_maths_lit": 25,
+      "min_aps_tech_maths": null,
+      "source_ref": "UL Prospectus 2027 p.1",
+      "notes": "School of Social Sciences. APS 23 with Mathematics, 25 with Maths Lit. 'Additional Language' level 4 is required but no language is named. Also needs three additional subjects at level 4 (50-59%).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Arts (Political Studies Stream)",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 25,
+      "min_aps_maths_lit": 25,
+      "min_aps_tech_maths": 25,
+      "source_ref": "UL Prospectus 2027 p.1",
+      "notes": "School of Social Sciences. Only English is listed; no additional language or maths requirement. Header '*(Five(5)) Additional subjects' with an asterisk: additional subjects must contribute to the minimum APS total.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Psychology",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 23,
+      "min_aps_maths_lit": 25,
+      "min_aps_tech_maths": null,
+      "source_ref": "UL Prospectus 2027 p.1",
+      "notes": "School of Social Sciences. APS 23 with Mathematics, 25 with Maths Lit. 'Additional Language' level 4 is required but no language is named. Also needs three additional subjects at level 4 (50-59%). Selection test required on top of the minimum requirements, plus additional requirements (General Admission Requirements, item 7).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Arts (Criminology and Psychology Stream) (Extended Curriculum Programme)",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 22,
+      "min_aps_maths_lit": 24,
+      "min_aps_tech_maths": null,
+      "source_ref": "UL Prospectus 2027 p.1",
+      "notes": "School of Social Sciences. APS 22 with Mathematics, 24 with Maths Lit. 'Additional Language' level 4 is required but no language is named. Also needs three additional subjects at level 4 (50-59%).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 30
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Social Work",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 23,
+      "min_aps_maths_lit": 25,
+      "min_aps_tech_maths": null,
+      "source_ref": "UL Prospectus 2027 p.1",
+      "notes": "School of Social Sciences. APS 23 with Mathematics, 25 with Maths Lit. 'Additional Language' level 4 is required but no language is named. Also needs three additional subjects at level 4 (50-59%). Selection test required on top of the minimum requirements, plus additional requirements (General Admission Requirements, item 7).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Senior Phase and FET Teaching (Languages and Life Orientation)",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 24,
+      "min_aps_maths_lit": 24,
+      "min_aps_tech_maths": 24,
+      "source_ref": "UL Prospectus 2027 p.1",
+      "notes": "School of Education. Additional subjects must contribute to the minimum APS total. Life Orientation level 5 (60-69%) is a subject requirement here. Language column printed as 'Language (Sepedi; Tshivenda; Xitsonga; English)' level 4 without HL/FAL, so both are included. No English level printed; UL's general minimum of 40% used. No maths requirement.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Life Orientation",
+          "options": [
+            {
+              "subject": "Life Orientation",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Language (Sepedi, Tshivenda, Xitsonga or English)",
+          "options": [
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Senior Phase and FET Teaching (Languages and Social Sciences)",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 24,
+      "min_aps_maths_lit": 24,
+      "min_aps_tech_maths": 24,
+      "source_ref": "UL Prospectus 2027 p.1",
+      "notes": "School of Education. Additional subjects must contribute to the minimum APS total. English level 3 (40-49%), OR level 4 (50-59%) to major in English. HL/FAL not specified for the languages, so both are listed; HL and FAL of the same language shouldn't count as two subjects. No maths requirement.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Two of Geography, History, Sepedi, Tshivenda, Xitsonga",
+          "options": [
+            {
+              "subject": "Geography",
+              "min_percent": 50
+            },
+            {
+              "subject": "History",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 50
+            }
+          ],
+          "min_count": 2
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Senior Phase and FET Teaching (Economics and Management Studies)",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 24,
+      "min_aps_maths_lit": 24,
+      "min_aps_tech_maths": 24,
+      "source_ref": "UL Prospectus 2027 p.1",
+      "notes": "School of Education. Additional subjects must contribute to the minimum APS total. No maths requirement.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Two of Accounting, Economics, Business Studies",
+          "options": [
+            {
+              "subject": "Accounting",
+              "min_percent": 50
+            },
+            {
+              "subject": "Economics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Business Studies",
+              "min_percent": 50
+            }
+          ],
+          "min_count": 2
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Senior Phase and FET Teaching (Mathematics, Science and Technology)",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 24,
+      "min_aps_maths_lit": 24,
+      "min_aps_tech_maths": null,
+      "source_ref": "UL Prospectus 2027 p.1",
+      "notes": "School of Education. Additional subjects must contribute to the minimum APS total. Header reads 'Mathematics or *Maths Literacy'; the asterisk is not explained, so confirm Maths Lit with UL for this major. One APS printed.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences or Life Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Foundation Phase Teaching",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 24,
+      "min_aps_maths_lit": 24,
+      "min_aps_tech_maths": null,
+      "source_ref": "UL Prospectus 2027 p.1",
+      "notes": "School of Education. Additional subjects must contribute to the minimum APS total. 'First Language' level 4 (50-59%) required; no language named. No English level printed; 40% used per rule 9. Maths printed as '3 (40-49%) or *4 (50-59%)': the starred 4 is read as Maths Lit (header 'Mathematics or *Maths Literacy'). Selection test required (General Admission Requirements, item 7).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Arts (Languages Stream)",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 25,
+      "min_aps_maths_lit": 25,
+      "min_aps_tech_maths": 25,
+      "source_ref": "UL Prospectus 2027 p.1",
+      "notes": "School of Language and Communication Studies. Printed as English level 4 AND another language (Northern Sotho/Tshivenda/Xitsonga) level 5 (60-69%); Northern Sotho is mapped to the NSC name Sepedi and HL/FAL isn't specified, so both are included. Additional subjects must contribute to the minimum APS total. No maths requirement.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Northern Sotho, Tshivenda or Xitsonga)",
+          "options": [
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Arts (Translation and Linguistics Stream)",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 25,
+      "min_aps_maths_lit": 25,
+      "min_aps_tech_maths": 25,
+      "source_ref": "UL Prospectus 2027 p.1",
+      "notes": "School of Language and Communication Studies. Printed as English level 4 AND another language (Northern Sotho/Tshivenda/Xitsonga) level 5 (60-69%); Northern Sotho is mapped to the NSC name Sepedi and HL/FAL isn't specified, so both are included. Additional subjects must contribute to the minimum APS total. No maths requirement.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Northern Sotho, Tshivenda or Xitsonga)",
+          "options": [
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Arts (Performing Arts Stream)",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 25,
+      "min_aps_maths_lit": 25,
+      "min_aps_tech_maths": 25,
+      "source_ref": "UL Prospectus 2027 p.1",
+      "notes": "School of Language and Communication Studies. Printed as English level 4 AND another language (Northern Sotho/Tshivenda/Xitsonga) level 5 (60-69%); Northern Sotho is mapped to the NSC name Sepedi and HL/FAL isn't specified, so both are included. Additional subjects must contribute to the minimum APS total. No maths requirement.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Northern Sotho, Tshivenda or Xitsonga)",
+          "options": [
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Information Studies",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 25,
+      "min_aps_maths_lit": 25,
+      "min_aps_tech_maths": 25,
+      "source_ref": "UL Prospectus 2027 p.1",
+      "notes": "School of Language and Communication Studies. Printed as English level 4 AND another language (Northern Sotho/Tshivenda/Xitsonga) level 5 (60-69%); Northern Sotho is mapped to the NSC name Sepedi and HL/FAL isn't specified, so both are included. Additional subjects must contribute to the minimum APS total. No maths requirement.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Northern Sotho, Tshivenda or Xitsonga)",
+          "options": [
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Arts in Communication Studies",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 25,
+      "min_aps_maths_lit": 25,
+      "min_aps_tech_maths": 25,
+      "source_ref": "UL Prospectus 2027 p.1",
+      "notes": "School of Language and Communication Studies. Printed as English level 4 AND another language (Northern Sotho/Tshivenda/Xitsonga) level 5 (60-69%); Northern Sotho is mapped to the NSC name Sepedi and HL/FAL isn't specified, so both are included. Additional subjects must contribute to the minimum APS total. No maths requirement.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Northern Sotho, Tshivenda or Xitsonga)",
+          "options": [
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Arts in Media Studies",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 25,
+      "min_aps_maths_lit": 25,
+      "min_aps_tech_maths": 25,
+      "source_ref": "UL Prospectus 2027 p.1",
+      "notes": "School of Language and Communication Studies. Printed as English level 4 AND another language (Northern Sotho/Tshivenda/Xitsonga) level 5 (60-69%); Northern Sotho is mapped to the NSC name Sepedi and HL/FAL isn't specified, so both are included. Additional subjects must contribute to the minimum APS total. No maths requirement.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Northern Sotho, Tshivenda or Xitsonga)",
+          "options": [
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Arts in Contemporary English and Multilingual Studies",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 25,
+      "min_aps_maths_lit": 25,
+      "min_aps_tech_maths": 25,
+      "source_ref": "UL Prospectus 2027 p.1",
+      "notes": "School of Language and Communication Studies. Printed as English level 4 AND another language (Northern Sotho/Tshivenda/Xitsonga) level 5 (60-69%); Northern Sotho is mapped to the NSC name Sepedi and HL/FAL isn't specified, so both are included. Additional subjects must contribute to the minimum APS total. No maths requirement. This row specifies 'English and Northern Sotho only'.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Northern Sotho",
+          "options": [
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 60
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Arts in Media Studies (Extended Curriculum Programme)",
+      "faculty": "Faculty of Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 23,
+      "min_aps_maths_lit": 23,
+      "min_aps_tech_maths": 23,
+      "source_ref": "UL Prospectus 2027 p.1",
+      "notes": "School of Language and Communication Studies. Printed as English level 4 AND another language (Northern Sotho/Tshivenda/Xitsonga) level 4 (50-59%); Northern Sotho is mapped to the NSC name Sepedi and HL/FAL isn't specified, so both are included. Additional subjects must contribute to the minimum APS total. No maths requirement.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Northern Sotho, Tshivenda or Xitsonga)",
+          "options": [
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ambiguities": [
+    {
+      "item": "APS scale",
+      "issue": "Main table is 7-point; a non-NSC conversion table shows 90-100% = 8",
+      "choice": "Main 7-point table used"
+    },
+    {
+      "item": "Closing dates",
+      "issue": "Not printed in the prospectus",
+      "choice": "30 September 2026 general and 30 July 2026 for MBChB, from UL's website"
+    }
+  ]
+}
