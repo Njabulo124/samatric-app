@@ -1,0 +1,4424 @@
+[
+  {
+    "name": "Bachelor of Arts in Humanities",
+    "faculty": "Faculty of Arts and Social Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 378,
+    "min_aps_maths_lit": 378,
+    "min_aps_tech_maths": 378,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.4-6",
+    "notes": "Minimum aggregate 63% (378/600). Fields: Human Thought, Language, Culture and Art; People and Society. Organisational Informatics as a university subject also needs Maths 50% or Maths Lit 70%. Faculty rule: at least 50% in four subjects from the Faculty's list (Accounting, Agricultural Sciences, Business Studies, Consumer Studies, Dramatic Arts, Economics, EGD, Geography, History, IT, Life Sciences, Mathematics, Maths Literacy, Music, Physical Sciences, Religion Studies, Visual Arts, languages).",
+    "requirements": [
+      {
+        "description": "Home Language (any)",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "South African Sign Language Home Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "First Additional Language (any)",
+        "options": [
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Humanities (Extended Curriculum Programme)",
+    "faculty": "Faculty of Arts and Social Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 378,
+    "min_aps_maths_lit": 378,
+    "min_aps_tech_maths": 378,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.4-6",
+    "notes": "Minimum aggregate 63% (378/600). Extended curriculum programme (4 years): selected at the Faculty's discretion. Fields: Human Thought, Language, Culture and Art; People and Society. Organisational Informatics as a university subject also needs Maths 50% or Maths Lit 70%. Faculty rule: at least 50% in four subjects from the Faculty's list (Accounting, Agricultural Sciences, Business Studies, Consumer Studies, Dramatic Arts, Economics, EGD, Geography, History, IT, Life Sciences, Mathematics, Maths Literacy, Music, Physical Sciences, Religion Studies, Visual Arts, languages).",
+    "requirements": [
+      {
+        "description": "Home Language (any)",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "South African Sign Language Home Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "First Additional Language (any)",
+        "options": [
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Language and Culture",
+    "faculty": "Faculty of Arts and Social Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 378,
+    "min_aps_maths_lit": 378,
+    "min_aps_tech_maths": 378,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.4-6",
+    "notes": "Minimum aggregate 63% (378/600).  Faculty rule: at least 50% in four subjects from the Faculty's list (Accounting, Agricultural Sciences, Business Studies, Consumer Studies, Dramatic Arts, Economics, EGD, Geography, History, IT, Life Sciences, Mathematics, Maths Literacy, Music, Physical Sciences, Religion Studies, Visual Arts, languages).",
+    "requirements": [
+      {
+        "description": "Home Language (any)",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "South African Sign Language Home Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "First Additional Language (any)",
+        "options": [
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Language and Culture (Extended Curriculum Programme)",
+    "faculty": "Faculty of Arts and Social Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 378,
+    "min_aps_maths_lit": 378,
+    "min_aps_tech_maths": 378,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.4-6",
+    "notes": "Minimum aggregate 63% (378/600). Extended curriculum programme (4 years): selected at the Faculty's discretion.  Faculty rule: at least 50% in four subjects from the Faculty's list (Accounting, Agricultural Sciences, Business Studies, Consumer Studies, Dramatic Arts, Economics, EGD, Geography, History, IT, Life Sciences, Mathematics, Maths Literacy, Music, Physical Sciences, Religion Studies, Visual Arts, languages).",
+    "requirements": [
+      {
+        "description": "Home Language (any)",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "South African Sign Language Home Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "First Additional Language (any)",
+        "options": [
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Development and the Environment",
+    "faculty": "Faculty of Arts and Social Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 378,
+    "min_aps_maths_lit": 378,
+    "min_aps_tech_maths": 378,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.4-6",
+    "notes": "Minimum aggregate 63% (378/600). Economics as a university subject also needs Maths 60%. Faculty rule: at least 50% in four subjects from the Faculty's list (Accounting, Agricultural Sciences, Business Studies, Consumer Studies, Dramatic Arts, Economics, EGD, Geography, History, IT, Life Sciences, Mathematics, Maths Literacy, Music, Physical Sciences, Religion Studies, Visual Arts, languages).",
+    "requirements": [
+      {
+        "description": "Home Language (any)",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "South African Sign Language Home Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "First Additional Language (any)",
+        "options": [
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Development and the Environment (Extended Curriculum Programme)",
+    "faculty": "Faculty of Arts and Social Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 378,
+    "min_aps_maths_lit": 378,
+    "min_aps_tech_maths": 378,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.4-6",
+    "notes": "Minimum aggregate 63% (378/600). Extended curriculum programme (4 years): selected at the Faculty's discretion. Economics as a university subject also needs Maths 60%. Faculty rule: at least 50% in four subjects from the Faculty's list (Accounting, Agricultural Sciences, Business Studies, Consumer Studies, Dramatic Arts, Economics, EGD, Geography, History, IT, Life Sciences, Mathematics, Maths Literacy, Music, Physical Sciences, Religion Studies, Visual Arts, languages).",
+    "requirements": [
+      {
+        "description": "Home Language (any)",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "South African Sign Language Home Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "First Additional Language (any)",
+        "options": [
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Human Resource Management",
+    "faculty": "Faculty of Arts and Social Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 378,
+    "min_aps_maths_lit": 378,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.4-6",
+    "notes": "Minimum aggregate 63% (378/600).  Faculty rule: at least 50% in four subjects from the Faculty's list (Accounting, Agricultural Sciences, Business Studies, Consumer Studies, Dramatic Arts, Economics, EGD, Geography, History, IT, Life Sciences, Mathematics, Maths Literacy, Music, Physical Sciences, Religion Studies, Visual Arts, languages).",
+    "requirements": [
+      {
+        "description": "Home Language (any)",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "South African Sign Language Home Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "First Additional Language (any)",
+        "options": [
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Human Resource Management (Extended Curriculum Programme)",
+    "faculty": "Faculty of Arts and Social Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 378,
+    "min_aps_maths_lit": 378,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.4-6",
+    "notes": "Minimum aggregate 63% (378/600). Extended curriculum programme (4 years): selected at the Faculty's discretion.  Faculty rule: at least 50% in four subjects from the Faculty's list (Accounting, Agricultural Sciences, Business Studies, Consumer Studies, Dramatic Arts, Economics, EGD, Geography, History, IT, Life Sciences, Mathematics, Maths Literacy, Music, Physical Sciences, Religion Studies, Visual Arts, languages).",
+    "requirements": [
+      {
+        "description": "Home Language (any)",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "South African Sign Language Home Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "First Additional Language (any)",
+        "options": [
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in International Studies",
+    "faculty": "Faculty of Arts and Social Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 378,
+    "min_aps_maths_lit": 378,
+    "min_aps_tech_maths": 378,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.4-6",
+    "notes": "Minimum aggregate 63% (378/600).  Faculty rule: at least 50% in four subjects from the Faculty's list (Accounting, Agricultural Sciences, Business Studies, Consumer Studies, Dramatic Arts, Economics, EGD, Geography, History, IT, Life Sciences, Mathematics, Maths Literacy, Music, Physical Sciences, Religion Studies, Visual Arts, languages).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in International Studies (Extended Curriculum Programme)",
+    "faculty": "Faculty of Arts and Social Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 378,
+    "min_aps_maths_lit": 378,
+    "min_aps_tech_maths": 378,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.4-6",
+    "notes": "Minimum aggregate 63% (378/600). Extended curriculum programme (4 years): selected at the Faculty's discretion.  Faculty rule: at least 50% in four subjects from the Faculty's list (Accounting, Agricultural Sciences, Business Studies, Consumer Studies, Dramatic Arts, Economics, EGD, Geography, History, IT, Life Sciences, Mathematics, Maths Literacy, Music, Physical Sciences, Religion Studies, Visual Arts, languages).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Drama and Theatre Studies",
+    "faculty": "Faculty of Arts and Social Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 390,
+    "min_aps_maths_lit": 390,
+    "min_aps_tech_maths": 390,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.4-6",
+    "notes": "Minimum aggregate 65% (390/600). Auditions and/or interviews at the Drama Department in August. Fields: Acting and Performance Training; Technical and Management Training. Faculty rule: at least 50% in four subjects from the Faculty's list (Accounting, Agricultural Sciences, Business Studies, Consumer Studies, Dramatic Arts, Economics, EGD, Geography, History, IT, Life Sciences, Mathematics, Maths Literacy, Music, Physical Sciences, Religion Studies, Visual Arts, languages).",
+    "requirements": [
+      {
+        "description": "Home Language (any)",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "South African Sign Language Home Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "First Additional Language (any)",
+        "options": [
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Political, Philosophical and Economic Studies",
+    "faculty": "Faculty of Arts and Social Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 378,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.4-6",
+    "notes": "Minimum aggregate 63% (378/600). PPE. Faculty rule: at least 50% in four subjects from the Faculty's list (Accounting, Agricultural Sciences, Business Studies, Consumer Studies, Dramatic Arts, Economics, EGD, Geography, History, IT, Life Sciences, Mathematics, Maths Literacy, Music, Physical Sciences, Religion Studies, Visual Arts, languages).",
+    "requirements": [
+      {
+        "description": "Home Language (any)",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "South African Sign Language Home Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "First Additional Language (any)",
+        "options": [
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Social Work",
+    "faculty": "Faculty of Arts and Social Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 378,
+    "min_aps_maths_lit": 378,
+    "min_aps_tech_maths": 378,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.4-6",
+    "notes": "Minimum aggregate 63% (378/600). 100 places. Faculty rule: at least 50% in four subjects from the Faculty's list (Accounting, Agricultural Sciences, Business Studies, Consumer Studies, Dramatic Arts, Economics, EGD, Geography, History, IT, Life Sciences, Mathematics, Maths Literacy, Music, Physical Sciences, Religion Studies, Visual Arts, languages).",
+    "requirements": [
+      {
+        "description": "Home Language (any)",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "South African Sign Language Home Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "First Additional Language (any)",
+        "options": [
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Visual Arts",
+    "faculty": "Faculty of Arts and Social Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 360,
+    "min_aps_maths_lit": 360,
+    "min_aps_tech_maths": 360,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.4-6",
+    "notes": "Minimum aggregate 60% (360/600). 4 years. 60 places. Prescribed art portfolio due 1 September 2026. Fields: Fine Arts; Jewellery and Metal Design; Visual Communication Design. Faculty rule: at least 50% in four subjects from the Faculty's list (Accounting, Agricultural Sciences, Business Studies, Consumer Studies, Dramatic Arts, Economics, EGD, Geography, History, IT, Life Sciences, Mathematics, Maths Literacy, Music, Physical Sciences, Religion Studies, Visual Arts, languages).",
+    "requirements": [
+      {
+        "description": "Home Language (any)",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "South African Sign Language Home Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "First Additional Language (any)",
+        "options": [
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Music",
+    "faculty": "Faculty of Arts and Social Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 360,
+    "min_aps_maths_lit": 360,
+    "min_aps_tech_maths": 360,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.4-6",
+    "notes": "Minimum aggregate 60% (360/600). Main instrument (or singing) at classical Grade VII practical and Grade V theory; audition and theory test. Mathematics as a university subject needs Maths 70%. Faculty rule: at least 50% in four subjects from the Faculty's list (Accounting, Agricultural Sciences, Business Studies, Consumer Studies, Dramatic Arts, Economics, EGD, Geography, History, IT, Life Sciences, Mathematics, Maths Literacy, Music, Physical Sciences, Religion Studies, Visual Arts, languages).",
+    "requirements": [
+      {
+        "description": "Home Language (any)",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "South African Sign Language Home Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "First Additional Language (any)",
+        "options": [
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Music",
+    "faculty": "Faculty of Arts and Social Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 360,
+    "min_aps_maths_lit": 360,
+    "min_aps_tech_maths": 360,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.4-6",
+    "notes": "Minimum aggregate 60% (360/600). 4 years. Main instrument (or singing) at classical Grade VII practical and Grade V theory; audition and theory test. Fields: Music Education; Musicology; Music Technology; Performance; Composition. Faculty rule: at least 50% in four subjects from the Faculty's list (Accounting, Agricultural Sciences, Business Studies, Consumer Studies, Dramatic Arts, Economics, EGD, Geography, History, IT, Life Sciences, Mathematics, Maths Literacy, Music, Physical Sciences, Religion Studies, Visual Arts, languages).",
+    "requirements": [
+      {
+        "description": "Home Language (any)",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "South African Sign Language Home Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "First Additional Language (any)",
+        "options": [
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 40
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Practical Music",
+    "faculty": "Faculty of Arts and Social Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.5",
+    "notes": "NSC with at least 40% in four subjects (excluding LO). Main instrument (or singing) at classical Grade VII practical and Grade III/IV theory; audition and theory test. No aggregate printed.",
+    "requirements": []
+  },
+  {
+    "name": "Higher Certificate in Music",
+    "faculty": "Faculty of Arts and Social Sciences",
+    "qualification_type": "higher_certificate",
+    "is_extended": false,
+    "duration_years": 1,
+    "nsc_pass_required": "higher_certificate",
+    "min_aps": null,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.5",
+    "notes": "NSC. Main instrument (or singing) at Grade V/VI practical and Grade III/IV theory; audition. No aggregate printed.",
+    "requirements": []
+  },
+  {
+    "name": "Diploma in Sustainable Development",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "diploma",
+    "min_aps": 330,
+    "min_aps_maths_lit": 330,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.6",
+    "notes": "Minimum aggregate 55% (330/600). Maths 50% OR Maths Lit 60%, OR Maths 40% / Maths Lit 50% with 60% for Business Studies, Economics or Accounting. Committee selects on a combined score (NSC average plus departmental application form). Taught in English.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Maths 50% / Maths Lit 60%, or Business Studies, Economics or Accounting 60%",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          },
+          {
+            "subject": "Business Studies",
+            "min_percent": 60
+          },
+          {
+            "subject": "Economics",
+            "min_percent": 60
+          },
+          {
+            "subject": "Accounting",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Economic Sciences",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 390,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.6-7",
+    "notes": "Minimum aggregate 65% (390/600). Focal areas: Econometrics; Economic and Management Consultation; Financial Sector; Transport Economics. Econometrics and Financial Sector need Maths 70% (Actuarial Science 112).",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 70
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Management Sciences",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 390,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.7",
+    "notes": "Minimum aggregate 65% (390/600). Focal areas include Agricultural Economics, Business Analytics, Entrepreneurship, Financial Management, Financial Planning, HRM, Information Systems, Investment, Logistics, Marketing, Public and Development Management. The extended version (aggregate 60%, Maths 50%) is by placement only: you cannot apply for it for 2027.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 70
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Mathematical Sciences",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 420,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.7",
+    "notes": "Minimum aggregate 70% (420/600). Focal areas: Data Science; Financial Risk Management; Operations Research.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 75
+          }
+        ]
+      },
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 70
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in International Business",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 480,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.8",
+    "notes": "Minimum aggregate 80% (480/600). 4 years, strict selection programme; third year includes an international exchange semester. Taught in English.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 70
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Actuarial Science",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 480,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.8",
+    "notes": "Minimum aggregate 80% (480/600). If your Home Language is not English, also English First Additional Language 75%.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 80
+          }
+        ]
+      },
+      {
+        "description": "Home Language (any)",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "South African Sign Language Home Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Industrial Psychology",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 390,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.8",
+    "notes": "Minimum aggregate 65% (390/600).",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 70
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Accounting",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 420,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.8",
+    "notes": "Minimum aggregate 70% (420/600). BAcc: Maths 70% OR Maths 60% with Accounting 70%. First step to Chartered Accountant (SAICA/IRBA). English and Afrikaans first-year groups.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics 70% or Accounting 70%",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          },
+          {
+            "subject": "Accounting",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 70
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Management Accounting",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 390,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.9",
+    "notes": "Minimum aggregate 65% (390/600). CIMA route.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 70
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Financial Accounting",
+    "faculty": "Faculty of Economic and Management Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 390,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.9",
+    "notes": "Minimum aggregate 65% (390/600). ACCA route.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 70
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Foundation Phase Education",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 360,
+    "min_aps_maths_lit": 360,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.9",
+    "notes": "Minimum aggregate 60% (360/600). Grades R-3. Language rule: Home Language 60% in the language you were taught in (English, Afrikaans or isiXhosa) plus one of the other two (HL or FAL) at 50%. 125 places.",
+    "requirements": [
+      {
+        "description": "Language of teaching at school: English, Afrikaans or isiXhosa Home Language 60%",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Two of English, Afrikaans, isiXhosa (HL or FAL) at 50%",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 50
+          }
+        ],
+        "min_count": 2
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Education in Intermediate Phase Education",
+    "faculty": "Faculty of Education",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 360,
+    "min_aps_maths_lit": 360,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.9",
+    "notes": "Minimum aggregate 60% (360/600). Grades 4-7. Language rule: Home Language 60% in the language you were taught in (English, Afrikaans or isiXhosa) plus one of the other two (HL or FAL) at 50%. 125 places. Teaching modules: Natural Sciences needs Life Sciences or Physical Sciences 50%; Social Sciences needs History or Geography 50%.",
+    "requirements": [
+      {
+        "description": "Language of teaching at school: English, Afrikaans or isiXhosa Home Language 60%",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Two of English, Afrikaans, isiXhosa (HL or FAL) at 50%",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 50
+          }
+        ],
+        "min_count": 2
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering in Electrical and Electronic",
+    "faculty": "Faculty of Engineering",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 420,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.10",
+    "notes": "Minimum aggregate 70% (420/600). Language: English HL 50%, OR English FAL 60%, OR English FAL 50% with Afrikaans HL 50% (or Afrikaans Second Additional Language 60%). Selection mark (max 800) = Maths % + Physical Sciences % + 6 x average of best 6 subjects (LO excluded), from Grade 11 for conditional offers. Recent marks of 600-620+ gave a good chance; roughly Maths and average above 75 and Physical Sciences above 65, or Maths 80+ and Physical Sciences 70+ for some programmes.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English HL 50% or FAL 60%, or Afrikaans Home Language 50%",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering in Electrical and Electronic (Extended Curriculum Programme)",
+    "faculty": "Faculty of Engineering",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 5,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 420,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.10",
+    "notes": "Minimum aggregate 70% (420/600). 5 years. Limited places; selection uses the selection mark and socio-economic status, giving preference to applicants from underserved educational backgrounds. Language: English HL 50%, OR English FAL 60%, OR English FAL 50% with Afrikaans HL 50% (or Afrikaans Second Additional Language 60%). Selection mark (max 800) = Maths % + Physical Sciences % + 6 x average of best 6 subjects (LO excluded), from Grade 11 for conditional offers. Recent marks of 600-620+ gave a good chance; roughly Maths and average above 75 and Physical Sciences above 65, or Maths 80+ and Physical Sciences 70+ for some programmes.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English HL 50% or FAL 60%, or Afrikaans Home Language 50%",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering in Electrical and Electronic (Data Engineering)",
+    "faculty": "Faculty of Engineering",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 420,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.10",
+    "notes": "Minimum aggregate 70% (420/600). Language: English HL 50%, OR English FAL 60%, OR English FAL 50% with Afrikaans HL 50% (or Afrikaans Second Additional Language 60%). Selection mark (max 800) = Maths % + Physical Sciences % + 6 x average of best 6 subjects (LO excluded), from Grade 11 for conditional offers. Recent marks of 600-620+ gave a good chance; roughly Maths and average above 75 and Physical Sciences above 65, or Maths 80+ and Physical Sciences 70+ for some programmes.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English HL 50% or FAL 60%, or Afrikaans Home Language 50%",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering in Electrical and Electronic (Data Engineering) (Extended Curriculum Programme)",
+    "faculty": "Faculty of Engineering",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 5,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 420,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.10",
+    "notes": "Minimum aggregate 70% (420/600). 5 years. Limited places; selection uses the selection mark and socio-economic status, giving preference to applicants from underserved educational backgrounds. Language: English HL 50%, OR English FAL 60%, OR English FAL 50% with Afrikaans HL 50% (or Afrikaans Second Additional Language 60%). Selection mark (max 800) = Maths % + Physical Sciences % + 6 x average of best 6 subjects (LO excluded), from Grade 11 for conditional offers. Recent marks of 600-620+ gave a good chance; roughly Maths and average above 75 and Physical Sciences above 65, or Maths 80+ and Physical Sciences 70+ for some programmes.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English HL 50% or FAL 60%, or Afrikaans Home Language 50%",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering in Industrial",
+    "faculty": "Faculty of Engineering",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 420,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.10",
+    "notes": "Minimum aggregate 70% (420/600). Language: English HL 50%, OR English FAL 60%, OR English FAL 50% with Afrikaans HL 50% (or Afrikaans Second Additional Language 60%). Selection mark (max 800) = Maths % + Physical Sciences % + 6 x average of best 6 subjects (LO excluded), from Grade 11 for conditional offers. Recent marks of 600-620+ gave a good chance; roughly Maths and average above 75 and Physical Sciences above 65, or Maths 80+ and Physical Sciences 70+ for some programmes.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English HL 50% or FAL 60%, or Afrikaans Home Language 50%",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering in Industrial (Extended Curriculum Programme)",
+    "faculty": "Faculty of Engineering",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 5,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 420,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.10",
+    "notes": "Minimum aggregate 70% (420/600). 5 years. Limited places; selection uses the selection mark and socio-economic status, giving preference to applicants from underserved educational backgrounds. Language: English HL 50%, OR English FAL 60%, OR English FAL 50% with Afrikaans HL 50% (or Afrikaans Second Additional Language 60%). Selection mark (max 800) = Maths % + Physical Sciences % + 6 x average of best 6 subjects (LO excluded), from Grade 11 for conditional offers. Recent marks of 600-620+ gave a good chance; roughly Maths and average above 75 and Physical Sciences above 65, or Maths 80+ and Physical Sciences 70+ for some programmes.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English HL 50% or FAL 60%, or Afrikaans Home Language 50%",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering in Mechanical",
+    "faculty": "Faculty of Engineering",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 420,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.10",
+    "notes": "Minimum aggregate 70% (420/600). Language: English HL 50%, OR English FAL 60%, OR English FAL 50% with Afrikaans HL 50% (or Afrikaans Second Additional Language 60%). Selection mark (max 800) = Maths % + Physical Sciences % + 6 x average of best 6 subjects (LO excluded), from Grade 11 for conditional offers. Recent marks of 600-620+ gave a good chance; roughly Maths and average above 75 and Physical Sciences above 65, or Maths 80+ and Physical Sciences 70+ for some programmes.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English HL 50% or FAL 60%, or Afrikaans Home Language 50%",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering in Mechanical (Extended Curriculum Programme)",
+    "faculty": "Faculty of Engineering",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 5,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 420,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.10",
+    "notes": "Minimum aggregate 70% (420/600). 5 years. Limited places; selection uses the selection mark and socio-economic status, giving preference to applicants from underserved educational backgrounds. Language: English HL 50%, OR English FAL 60%, OR English FAL 50% with Afrikaans HL 50% (or Afrikaans Second Additional Language 60%). Selection mark (max 800) = Maths % + Physical Sciences % + 6 x average of best 6 subjects (LO excluded), from Grade 11 for conditional offers. Recent marks of 600-620+ gave a good chance; roughly Maths and average above 75 and Physical Sciences above 65, or Maths 80+ and Physical Sciences 70+ for some programmes.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English HL 50% or FAL 60%, or Afrikaans Home Language 50%",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering in Chemical",
+    "faculty": "Faculty of Engineering",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 420,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.10",
+    "notes": "Minimum aggregate 70% (420/600). Language: English HL 50%, OR English FAL 60%, OR English FAL 50% with Afrikaans HL 50% (or Afrikaans Second Additional Language 60%). Selection mark (max 800) = Maths % + Physical Sciences % + 6 x average of best 6 subjects (LO excluded), from Grade 11 for conditional offers. Recent marks of 600-620+ gave a good chance; roughly Maths and average above 75 and Physical Sciences above 65, or Maths 80+ and Physical Sciences 70+ for some programmes.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English HL 50% or FAL 60%, or Afrikaans Home Language 50%",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering in Chemical (Extended Curriculum Programme)",
+    "faculty": "Faculty of Engineering",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 5,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 420,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.10",
+    "notes": "Minimum aggregate 70% (420/600). 5 years. Limited places; selection uses the selection mark and socio-economic status, giving preference to applicants from underserved educational backgrounds. Language: English HL 50%, OR English FAL 60%, OR English FAL 50% with Afrikaans HL 50% (or Afrikaans Second Additional Language 60%). Selection mark (max 800) = Maths % + Physical Sciences % + 6 x average of best 6 subjects (LO excluded), from Grade 11 for conditional offers. Recent marks of 600-620+ gave a good chance; roughly Maths and average above 75 and Physical Sciences above 65, or Maths 80+ and Physical Sciences 70+ for some programmes.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English HL 50% or FAL 60%, or Afrikaans Home Language 50%",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering in Mechatronic",
+    "faculty": "Faculty of Engineering",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 420,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.10",
+    "notes": "Minimum aggregate 70% (420/600). Language: English HL 50%, OR English FAL 60%, OR English FAL 50% with Afrikaans HL 50% (or Afrikaans Second Additional Language 60%). Selection mark (max 800) = Maths % + Physical Sciences % + 6 x average of best 6 subjects (LO excluded), from Grade 11 for conditional offers. Recent marks of 600-620+ gave a good chance; roughly Maths and average above 75 and Physical Sciences above 65, or Maths 80+ and Physical Sciences 70+ for some programmes.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English HL 50% or FAL 60%, or Afrikaans Home Language 50%",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering in Mechatronic (Extended Curriculum Programme)",
+    "faculty": "Faculty of Engineering",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 5,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 420,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.10",
+    "notes": "Minimum aggregate 70% (420/600). 5 years. Limited places; selection uses the selection mark and socio-economic status, giving preference to applicants from underserved educational backgrounds. Language: English HL 50%, OR English FAL 60%, OR English FAL 50% with Afrikaans HL 50% (or Afrikaans Second Additional Language 60%). Selection mark (max 800) = Maths % + Physical Sciences % + 6 x average of best 6 subjects (LO excluded), from Grade 11 for conditional offers. Recent marks of 600-620+ gave a good chance; roughly Maths and average above 75 and Physical Sciences above 65, or Maths 80+ and Physical Sciences 70+ for some programmes.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English HL 50% or FAL 60%, or Afrikaans Home Language 50%",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering in Civil",
+    "faculty": "Faculty of Engineering",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 420,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.10",
+    "notes": "Minimum aggregate 70% (420/600). Language: English HL 50%, OR English FAL 60%, OR English FAL 50% with Afrikaans HL 50% (or Afrikaans Second Additional Language 60%). Selection mark (max 800) = Maths % + Physical Sciences % + 6 x average of best 6 subjects (LO excluded), from Grade 11 for conditional offers. Recent marks of 600-620+ gave a good chance; roughly Maths and average above 75 and Physical Sciences above 65, or Maths 80+ and Physical Sciences 70+ for some programmes.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English HL 50% or FAL 60%, or Afrikaans Home Language 50%",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Engineering in Civil (Extended Curriculum Programme)",
+    "faculty": "Faculty of Engineering",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 5,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 420,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.10",
+    "notes": "Minimum aggregate 70% (420/600). 5 years. Limited places; selection uses the selection mark and socio-economic status, giving preference to applicants from underserved educational backgrounds. Language: English HL 50%, OR English FAL 60%, OR English FAL 50% with Afrikaans HL 50% (or Afrikaans Second Additional Language 60%). Selection mark (max 800) = Maths % + Physical Sciences % + 6 x average of best 6 subjects (LO excluded), from Grade 11 for conditional offers. Recent marks of 600-620+ gave a good chance; roughly Maths and average above 75 and Physical Sciences above 65, or Maths 80+ and Physical Sciences 70+ for some programmes.",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "English HL 50% or FAL 60%, or Afrikaans Home Language 50%",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Laws",
+    "faculty": "Faculty of Law",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 420,
+    "min_aps_maths_lit": 420,
+    "min_aps_tech_maths": 420,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.11",
+    "notes": "Minimum aggregate 70% (420/600). Four-year LLB. 120 places. NBT AQL. Economics as a university subject also needs Maths 60%. NBT must be written before 31 July 2026. Selection: Grade 11 (or Grade 12) results and NBT in an 80:20 ratio.",
+    "requirements": [
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 70
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Law",
+    "faculty": "Faculty of Law",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 420,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.11",
+    "notes": "Minimum aggregate 70% (420/600). 80 places. NBT AQL and MAT. Leads to the 2-year LLB. NBT must be written before 31 July 2026. Selection: Grade 11 (or Grade 12) results and NBT in an 80:20 ratio.",
+    "requirements": [
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 70
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Accounting and Bachelor of Laws",
+    "faculty": "Faculty of Law",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 5,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 480,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.11",
+    "notes": "Minimum aggregate 80% (480/600). BAccLLB, 5 years. 35 places. Maths 70% OR Maths 60% with Accounting 70%. NBT AQL and MAT. NBT must be written before 31 July 2026. Selection: Grade 11 (or Grade 12) results and NBT in an 80:20 ratio.",
+    "requirements": [
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 70
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Mathematics 70% or Accounting 70%",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          },
+          {
+            "subject": "Accounting",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Law",
+    "faculty": "Faculty of Law",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 420,
+    "min_aps_maths_lit": 420,
+    "min_aps_tech_maths": 420,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.11",
+    "notes": "Minimum aggregate 70% (420/600). 55 places. NBT AQL. Leads to the 2-year LLB. Economics as a university subject also needs Maths 60%. NBT must be written before 31 July 2026. Selection: Grade 11 (or Grade 12) results and NBT in an 80:20 ratio.",
+    "requirements": [
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 70
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Medicine and Bachelor of Surgery",
+    "faculty": "Faculty of Medicine and Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 6,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 450,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.12",
+    "notes": "Minimum aggregate 75% (450/600). MBChB, about 280 selected. Registered university students: only SU students considered. Selection on academic and non-academic merit (see the Faculty's selection guidelines).",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Occupational Therapy",
+    "faculty": "Faculty of Medicine and Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 360,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.12",
+    "notes": "Minimum aggregate 60% (360/600). About 50 selected. Selection on academic and non-academic merit (see the Faculty's selection guidelines).",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Physiotherapy",
+    "faculty": "Faculty of Medicine and Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 360,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.12",
+    "notes": "Minimum aggregate 60% (360/600). About 55 selected. Selection on academic and non-academic merit (see the Faculty's selection guidelines).",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Speech-Language and Hearing Therapy",
+    "faculty": "Faculty of Medicine and Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 360,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.12",
+    "notes": "Minimum aggregate 60% (360/600). About 30 selected. At least two of English, Afrikaans and a third South African language (HL or FAL) at 60%. Selection on academic and non-academic merit (see the Faculty's selection guidelines).",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences 50% or Life Sciences 60%",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          },
+          {
+            "subject": "Life Sciences",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Two languages at 60% (English and/or Afrikaans and/or a third SA language)",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "isiNdebele Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "isiXhosa Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "isiZulu Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Sepedi Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Sesotho Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Setswana Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Siswati Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Tshivenda Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Xitsonga Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "isiNdebele First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "isiXhosa First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "isiZulu First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Sepedi First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Sesotho First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Setswana First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Siswati First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Tshivenda First Additional Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "Xitsonga First Additional Language",
+            "min_percent": 60
+          }
+        ],
+        "min_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Nursing",
+    "faculty": "Faculty of Medicine and Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 360,
+    "min_aps_maths_lit": 360,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.12",
+    "notes": "Minimum aggregate 60% (360/600). About 50 selected. Selection on academic and non-academic merit (see the Faculty's selection guidelines).",
+    "requirements": [
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Dietetics",
+    "faculty": "Faculty of Medicine and Health Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 360,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.12",
+    "notes": "Minimum aggregate 60% (360/600). About 35 selected. Selection on academic and non-academic merit (see the Faculty's selection guidelines).",
+    "requirements": [
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Human Life Sciences",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 390,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.13-15",
+    "notes": "Minimum aggregate 65% (390/600). Focal areas: Biology; Biology with Psychology. Maths 70% if you take Mathematics and Physics in first year; 60% if you take Mathematics (Bio) and Physics (Bio). Selection mark = (Maths x 2 + 5 other subjects incl. English or Afrikaans, LO excluded) / 7, from final Grade 11 marks if in Grade 12; the selection threshold is higher than the minimum. A 4-year extended BSc is offered (by invitation only) to applicants from designated groups who miss selection.",
+    "requirements": [
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Molecular Biology and Biotechnology",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 390,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.13-15",
+    "notes": "Minimum aggregate 65% (390/600). Maths 70% if you take Mathematics and Physics in first year; 60% if you take Mathematics (Bio) and Physics (Bio). Selection mark = (Maths x 2 + 5 other subjects incl. English or Afrikaans, LO excluded) / 7, from final Grade 11 marks if in Grade 12; the selection threshold is higher than the minimum. A 4-year extended BSc is offered (by invitation only) to applicants from designated groups who miss selection.",
+    "requirements": [
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Biodiversity and Ecology",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 390,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.13-15",
+    "notes": "Minimum aggregate 65% (390/600). Focal areas: Climate Change Ecology; Plant and Animal Biodiversity; Plants and Microbes. Selection mark = (Maths x 2 + 5 other subjects incl. English or Afrikaans, LO excluded) / 7, from final Grade 11 marks if in Grade 12; the selection threshold is higher than the minimum. A 4-year extended BSc is offered (by invitation only) to applicants from designated groups who miss selection.",
+    "requirements": [
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Sport Science",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 390,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.13-15",
+    "notes": "Minimum aggregate 65% (390/600).  Selection mark = (Maths x 2 + 5 other subjects incl. English or Afrikaans, LO excluded) / 7, from final Grade 11 marks if in Grade 12; the selection threshold is higher than the minimum. A 4-year extended BSc is offered (by invitation only) to applicants from designated groups who miss selection.",
+    "requirements": [
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Chemistry",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 390,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.13-15",
+    "notes": "Minimum aggregate 65% (390/600). Focal areas: Chemistry and Polymer Science; Chemical Biology; Applied and Sustainable Chemistry; Chemistry with Chemical Engineering. Selection mark = (Maths x 2 + 5 other subjects incl. English or Afrikaans, LO excluded) / 7, from final Grade 11 marks if in Grade 12; the selection threshold is higher than the minimum. A 4-year extended BSc is offered (by invitation only) to applicants from designated groups who miss selection.",
+    "requirements": [
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Physics",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 390,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.13-15",
+    "notes": "Minimum aggregate 65% (390/600). Focal areas: Laser Physics (Physical); Laser Physics (Biological); Theoretical Physics. Selection mark = (Maths x 2 + 5 other subjects incl. English or Afrikaans, LO excluded) / 7, from final Grade 11 marks if in Grade 12; the selection threshold is higher than the minimum. A 4-year extended BSc is offered (by invitation only) to applicants from designated groups who miss selection.",
+    "requirements": [
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Earth Science",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 390,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.13-15",
+    "notes": "Minimum aggregate 65% (390/600). Focal areas: Applied Earth Science; Geo-environmental Science. Maths 70% if you take Mathematics and Physics in first year; 60% if you take Mathematics (Bio) and Physics (Bio). Selection mark = (Maths x 2 + 5 other subjects incl. English or Afrikaans, LO excluded) / 7, from final Grade 11 marks if in Grade 12; the selection threshold is higher than the minimum. A 4-year extended BSc is offered (by invitation only) to applicants from designated groups who miss selection.",
+    "requirements": [
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in GeoInformatics",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 390,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.13-15",
+    "notes": "Minimum aggregate 65% (390/600). Maths 70% if you take Computer Science as a university subject. Selection mark = (Maths x 2 + 5 other subjects incl. English or Afrikaans, LO excluded) / 7, from final Grade 11 marks if in Grade 12; the selection threshold is higher than the minimum. A 4-year extended BSc is offered (by invitation only) to applicants from designated groups who miss selection.",
+    "requirements": [
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Mathematical Sciences",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 390,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.13-15",
+    "notes": "Minimum aggregate 65% (390/600). Focal areas: Applied Mathematics; Mathematics; Operations Research. Physical Sciences 50% only if you take Chemistry or Physics at university. Selection mark = (Maths x 2 + 5 other subjects incl. English or Afrikaans, LO excluded) / 7, from final Grade 11 marks if in Grade 12; the selection threshold is higher than the minimum. A 4-year extended BSc is offered (by invitation only) to applicants from designated groups who miss selection.",
+    "requirements": [
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Computer Science",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 390,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.13-15",
+    "notes": "Minimum aggregate 65% (390/600). Focal areas: General Computer Science; Computer Systems; Data Science. Physical Sciences 50% only if you take Chemistry or Physics at university. Selection mark = (Maths x 2 + 5 other subjects incl. English or Afrikaans, LO excluded) / 7, from final Grade 11 marks if in Grade 12; the selection threshold is higher than the minimum. A 4-year extended BSc is offered (by invitation only) to applicants from designated groups who miss selection.",
+    "requirements": [
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science (Interdisciplinary)",
+    "faculty": "Faculty of Science",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 390,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.13-15",
+    "notes": "Minimum aggregate 65% (390/600). Focal areas: Biomedical Mathematical Sciences; Applied Medicinal Chemistry; Bioinformatics and Computational Biology; Biomathematics. Selection mark = (Maths x 2 + 5 other subjects incl. English or Afrikaans, LO excluded) / 7, from final Grade 11 marks if in Grade 12; the selection threshold is higher than the minimum. A 4-year extended BSc is offered (by invitation only) to applicants from designated groups who miss selection.",
+    "requirements": [
+      {
+        "description": "English or Afrikaans",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "Afrikaans First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 70
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Theology",
+    "faculty": "Faculty of Theology",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 360,
+    "min_aps_maths_lit": 360,
+    "min_aps_tech_maths": 360,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.15",
+    "notes": "Minimum aggregate 60% (360/600). Motivational letter from your church denomination/minister required.",
+    "requirements": []
+  },
+  {
+    "name": "Bachelor of Divinity",
+    "faculty": "Faculty of Theology",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 360,
+    "min_aps_maths_lit": 360,
+    "min_aps_tech_maths": 360,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.15",
+    "notes": "Minimum aggregate 60% (360/600). 4 years. First step in ministerial training (DRC/URC). Motivational letter from your church denomination/minister required.",
+    "requirements": []
+  },
+  {
+    "name": "Bachelor of Theology (Extended Curriculum Programme)",
+    "faculty": "Faculty of Theology",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 330,
+    "min_aps_maths_lit": 330,
+    "min_aps_tech_maths": 330,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.15",
+    "notes": "Minimum aggregate 55% (330/600). For aggregates of 55% to below 60%. Interview with the Dean if required; limited places. Motivational letter from your church denomination/minister required.",
+    "requirements": []
+  },
+  {
+    "name": "Bachelor of Divinity (Extended Curriculum Programme)",
+    "faculty": "Faculty of Theology",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 5,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 330,
+    "min_aps_maths_lit": 330,
+    "min_aps_tech_maths": 330,
+    "source_ref": "SU Undergraduate Prospectus 2027 p.15",
+    "notes": "Minimum aggregate 55% (330/600). For aggregates of 55% to below 60%. Interview with the Dean if required; limited places. Motivational letter from your church denomination/minister required.",
+    "requirements": []
+  }
+]

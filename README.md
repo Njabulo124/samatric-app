@@ -38,7 +38,8 @@ A learner enters their matric marks once. The app then:
 | Sol Plaatje University (SPU) | 18 | SPU Undergraduate Prospectus |
 | Nelson Mandela University (NMU) | 119 | NMU Undergraduate Programme Guide 2027; Applicant Score out of 600 |
 | University of Cape Town (UCT) | 94 | UCT Undergraduate Prospectus 2027; Faculty Points Score (Science out of 800) |
-| **Total** | **1,788** | |
+| Stellenbosch University (SU) | 88 | SU 2027 Undergraduate Prospectus; minimum aggregate % stored as a total out of 600 |
+| **Total** | **1,876** | |
 
 ---
 
@@ -156,7 +157,7 @@ From the terminal: `npm run check -- samples/strong-science.json --uni WSU --sho
 
 - [x] Eligibility engine with per-university APS rules
 - [x] Prospectus pipeline with validation and change detection
-- [x] UJ, TUT, UP, UKZN, WSU, UFH, DUT, Wits, MUT, UNIZULU, VUT, NWU, UL, SMU, UNIVEN, UMP, UFS, CUT, SPU, NMU and UCT 2027 data (1,788 courses)
+- [x] UJ, TUT, UP, UKZN, WSU, UFH, DUT, Wits, MUT, UNIZULU, VUT, NWU, UL, SMU, UNIVEN, UMP, UFS, CUT, SPU, NMU, UCT and SU 2027 data (1,876 courses)
 - [ ] Clearer, learner-friendly UI that works well on phones
 - [ ] More universities
 - [ ] NSC pass-type check (Bachelor / Diploma / Higher Certificate)

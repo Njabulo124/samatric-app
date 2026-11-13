@@ -1,6 +1,6 @@
 {
   "intake_year": 2027,
-  "source_document": "Stellenbosch University undergraduate admissions booklet 2027; How to apply 2027",
+  "source_document": "Stellenbosch University 2027 Undergraduate Prospectus (NSC/IEB booklet); How to apply 2027",
   "university": {
     "name": "Stellenbosch University",
     "short_name": "SU",
@@ -535,7 +535,15 @@
     "notes": "SU prints a minimum NSC aggregate % (average of subjects excluding Life Orientation). Stored as a total out of 600 (average % x 6), compared with the sum of the learner's 6 best subjects excluding LO. Every programme is a selection programme: meeting the minimum does not guarantee a place. Engineering and Science also rank on their own selection marks (see course notes)."
   },
   "faculties": [
-    "Faculty of AgriSciences"
+    "Faculty of AgriSciences",
+    "Faculty of Arts and Social Sciences",
+    "Faculty of Economic and Management Sciences",
+    "Faculty of Education",
+    "Faculty of Engineering",
+    "Faculty of Law",
+    "Faculty of Medicine and Health Sciences",
+    "Faculty of Science",
+    "Faculty of Theology"
   ],
   "courses": [
     {
@@ -1687,6 +1695,26 @@
       "item": "AgriSciences extended combination rule",
       "issue": "Maths 55-59% with Physical Sciences 50%+, OR Maths 60%+ with Physical Sciences 45-49%",
       "choice": "Encoded as Maths 55 AND PS 45 AND (Maths 60 OR PS 50); Wood Sciences: Maths 60 AND PS 55 AND (Maths 70 OR PS 60)"
+    },
+    {
+      "item": "Arts faculty rule",
+      "issue": "At least 50% in four subjects from a designated list",
+      "choice": "In notes; not checked"
+    },
+    {
+      "item": "Selection-mark faculties",
+      "issue": "Engineering (out of 800) and Science ((Maths x2 + 5)/7) rank on their own marks",
+      "choice": "Minimum aggregate used as min_aps; selection formulas in notes"
+    },
+    {
+      "item": "Science Maths 60% or 70%",
+      "issue": "Depends on first-year Maths/Physics choice",
+      "choice": "Lower figure (60%) loaded; rule in notes"
+    },
+    {
+      "item": "Not loaded",
+      "issue": "Advanced Diploma in Practical Music, PGCE, 3-year LLB (need prior qualification); BCom Management Sciences ECP (placement only); BSc ECP (by offer only)",
+      "choice": "Mentioned in related notes"
     }
   ]
 }
