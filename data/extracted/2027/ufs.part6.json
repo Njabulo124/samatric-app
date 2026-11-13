@@ -1,0 +1,506 @@
+[
+  {
+    "name": "Bachelor of Agriculture",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 31,
+    "min_aps_tech_maths": null,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.28",
+    "notes": "Campus: Bloemfontein. Programme B5300. Majors (chosen in 2nd year): Agricultural Extension, Animal Production Management, Crop Production, Mixed Farming Management. Maths 40% OR Maths Lit 80% (Maths Lit only if AP is 31+). Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Agriculture - Irrigation Management",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.28",
+    "notes": "Campus: Bloemfontein. Programme B5300, plan BC530172. No asterisk on this major, so Maths Lit is not listed as accepted. Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Agriculture - Agricultural Economics",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.28-29",
+    "notes": "Campus: Bloemfontein. Programme B5350, plan BC530111. Maths Lit NOT accepted for this major. Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Agriculture - Agricultural Management",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 31,
+    "min_aps_tech_maths": null,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.28-29",
+    "notes": "Campus: Bloemfontein. Programme B5350, plan BC530152. Maths 40% OR Maths Lit 80% (Maths Lit only if AP is 31+). Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Agriculture",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.29",
+    "notes": "Campus: Bloemfontein. Programme B5480. Majors: Animal Science, Agrometeorology, Agronomy, Plant Breeding, Plant Pathology, Soil Science. Maths and Physical Sciences compulsory. Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences or Agricultural Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 60
+          },
+          {
+            "subject": "Agricultural Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Architecture",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.30",
+    "notes": "Campus: Bloemfontein. Programme B4391, plan BC430114. Must submit selection form (www.ufs.ac.za/arch-selection) by 31 July 2026; outcome by 30 Nov 2026. Selection programme.",
+    "closes_on": "2026-07-31",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Construction Economics and Management",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.31",
+    "notes": "Campus: Bloemfontein. Full-time, programme B4392, plan BC432443. For future Quantity Surveyors and Construction Managers. Selection programme.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Economics, Business Studies, Accounting or Physical Sciences",
+        "options": [
+          {
+            "subject": "Economics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Business Studies",
+            "min_percent": 50
+          },
+          {
+            "subject": "Accounting",
+            "min_percent": 50
+          },
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Chemical and Physical Sciences - Chemistry and Physics (Qwaqwa)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.32",
+    "notes": "Campus: Qwaqwa. Programme Q4330, plan QC432140. Life Sciences not required. Must pass 1st-semester modules to continue. Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Chemical and Physical Sciences - Chemistry and Botany (Qwaqwa)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.32",
+    "notes": "Campus: Qwaqwa. Programme Q4330, plan QC432120. Must pass 1st-semester modules to continue. Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Geography - Geography and Environmental Geography (Qwaqwa)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.32",
+    "notes": "Campus: Qwaqwa. Programme Q4340, plan QC433359. Physical Sciences not required. Must pass 1st-semester modules to continue. Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Life Sciences",
+        "options": [
+          {
+            "subject": "Life Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Science in Information Technology - Computer Science and Management (Qwaqwa)",
+    "faculty": "Faculty of Natural and Agricultural Sciences",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.33",
+    "notes": "Campus: Qwaqwa. Programme Q4364, plan QC432202. All BSc (IT) programmes are subject to selection. Selection programme.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 60
+          }
+        ]
+      },
+      {
+        "description": "Physical Sciences",
+        "options": [
+          {
+            "subject": "Physical Sciences",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  }
+]
