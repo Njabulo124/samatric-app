@@ -1,0 +1,663 @@
+[
+  {
+    "name": "Bachelor of Administration in Public Administration",
+    "faculty": "Faculty of Management, Commerce and Law",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": 32,
+    "min_aps_tech_maths": 32,
+    "source_ref": "UniVen Prospectus 2027 p.17",
+    "notes": "Code MSBBAD. Printed as 'Bachelor of Admin in Public Administration'. Also 'a moderate achievement level (40-49%) in any three subjects' (unnamed). No maths requirement.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Accounting Sciences",
+    "faculty": "Faculty of Management, Commerce and Law",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 35,
+    "min_aps_maths_lit": null,
+    "min_aps_tech_maths": null,
+    "source_ref": "UniVen Prospectus 2027 p.17",
+    "notes": "Code MSBCAS.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Tourism Management",
+    "faculty": "Faculty of Management, Commerce and Law",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": 32,
+    "min_aps_tech_maths": null,
+    "source_ref": "UniVen Prospectus 2027 p.17",
+    "notes": "Code MSBTRM. Printed as English and Mathematical Literacy at adequate (50-59%), or Mathematics at moderate (40-49%), plus moderate achievement in any two of the listed subjects.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ]
+      },
+      {
+        "description": "Any 2 of: Accounting, Business Studies, Economics, Information Technology, Geography, Tourism",
+        "options": [
+          {
+            "subject": "Accounting",
+            "min_percent": 40
+          },
+          {
+            "subject": "Business Studies",
+            "min_percent": 40
+          },
+          {
+            "subject": "Economics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Information Technology",
+            "min_percent": 40
+          },
+          {
+            "subject": "Geography",
+            "min_percent": 40
+          },
+          {
+            "subject": "Tourism",
+            "min_percent": 40
+          }
+        ],
+        "min_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Accounting",
+    "faculty": "Faculty of Management, Commerce and Law",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": 32,
+    "min_aps_tech_maths": 32,
+    "source_ref": "UniVen Prospectus 2027 p.17",
+    "notes": "Code MSBBCA. Mathematics isn't compulsory (Accounting can replace it). Maths Lit isn't mentioned.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Accounting or Mathematics",
+        "options": [
+          {
+            "subject": "Accounting",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Business Information Systems",
+    "faculty": "Faculty of Management, Commerce and Law",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": 32,
+    "min_aps_tech_maths": null,
+    "source_ref": "UniVen Prospectus 2027 p.17",
+    "notes": "Code MSBIS. Maths at moderate (40-49%) or 75% in Maths Lit, plus moderate achievement in any two of Accounting, Business Studies, Economics, Information Technology or 'Computer Studies'.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Mathematics or Mathematical Literacy",
+        "options": [
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "min_percent": 75
+          }
+        ]
+      },
+      {
+        "description": "Any 2 of: Accounting, Business Studies, Economics, Information Technology",
+        "options": [
+          {
+            "subject": "Accounting",
+            "min_percent": 40
+          },
+          {
+            "subject": "Business Studies",
+            "min_percent": 40
+          },
+          {
+            "subject": "Economics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Information Technology",
+            "min_percent": 40
+          }
+        ],
+        "min_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Business Management",
+    "faculty": "Faculty of Management, Commerce and Law",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": 32,
+    "min_aps_tech_maths": 32,
+    "source_ref": "UniVen Prospectus 2027 p.17",
+    "notes": "Code MSBCBM. Mathematics is one of four options, not compulsory.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Business Studies",
+        "options": [
+          {
+            "subject": "Business Studies",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Any 2 of: Accounting, Economics, Information Technology, Mathematics",
+        "options": [
+          {
+            "subject": "Accounting",
+            "min_percent": 40
+          },
+          {
+            "subject": "Economics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Information Technology",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ],
+        "min_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Cost and Management Accounting",
+    "faculty": "Faculty of Management, Commerce and Law",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": 32,
+    "min_aps_tech_maths": 32,
+    "source_ref": "UniVen Prospectus 2027 p.17",
+    "notes": "Code MSBCMA. Mathematics isn't compulsory (Accounting can replace it).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Accounting or Mathematics",
+        "options": [
+          {
+            "subject": "Accounting",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Economics",
+    "faculty": "Faculty of Management, Commerce and Law",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": 32,
+    "min_aps_tech_maths": 32,
+    "source_ref": "UniVen Prospectus 2027 p.17",
+    "notes": "Code MSBBCE. Mathematics isn't compulsory (Economics can replace it).",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Economics or Mathematics",
+        "options": [
+          {
+            "subject": "Economics",
+            "min_percent": 50
+          },
+          {
+            "subject": "Mathematics",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Any 2 of: Accounting, Business Studies, Information Technology",
+        "options": [
+          {
+            "subject": "Accounting",
+            "min_percent": 40
+          },
+          {
+            "subject": "Business Studies",
+            "min_percent": 40
+          },
+          {
+            "subject": "Information Technology",
+            "min_percent": 40
+          }
+        ],
+        "min_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Human Resource Management",
+    "faculty": "Faculty of Management, Commerce and Law",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": 32,
+    "min_aps_tech_maths": 32,
+    "source_ref": "UniVen Prospectus 2027 p.17",
+    "notes": "Code MSBHR. Mathematics is one of five options, not compulsory.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Any 2 of: Accounting, Business Studies, Economics, Information Technology, Mathematics",
+        "options": [
+          {
+            "subject": "Accounting",
+            "min_percent": 40
+          },
+          {
+            "subject": "Business Studies",
+            "min_percent": 40
+          },
+          {
+            "subject": "Economics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Information Technology",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ],
+        "min_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Commerce in Industrial Psychology",
+    "faculty": "Faculty of Management, Commerce and Law",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 32,
+    "min_aps_maths_lit": 32,
+    "min_aps_tech_maths": 32,
+    "source_ref": "UniVen Prospectus 2027 p.17",
+    "notes": "Code MSBIP. Mathematics is one of five options, not compulsory.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      },
+      {
+        "description": "Any 2 of: Accounting, Business Studies, Economics, Information Technology, Mathematics",
+        "options": [
+          {
+            "subject": "Accounting",
+            "min_percent": 40
+          },
+          {
+            "subject": "Business Studies",
+            "min_percent": 40
+          },
+          {
+            "subject": "Economics",
+            "min_percent": 40
+          },
+          {
+            "subject": "Information Technology",
+            "min_percent": 40
+          },
+          {
+            "subject": "Mathematics",
+            "min_percent": 40
+          }
+        ],
+        "min_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Laws",
+    "faculty": "Faculty of Management, Commerce and Law",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 38,
+    "min_aps_maths_lit": 38,
+    "min_aps_tech_maths": 38,
+    "source_ref": "UniVen Prospectus 2027 p.18",
+    "notes": "Code LWBBL. Law stream. No maths requirement.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Criminal Justice",
+    "faculty": "Faculty of Management, Commerce and Law",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": 3,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 34,
+    "min_aps_maths_lit": 34,
+    "min_aps_tech_maths": 34,
+    "source_ref": "UniVen Prospectus 2027 p.18",
+    "notes": "Code LWBACJ. Law stream. No maths requirement.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Administration (Extended Curriculum Programme)",
+    "faculty": "Faculty of Management, Commerce and Law",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "UniVen Prospectus 2027 p.18",
+    "notes": "Code MSEBAD. For students who don't qualify for the main degree but meet the bachelor's degree requirements (or have matric with university exemption) plus an APS of 28-31 (excluding LO); 28 used. No subject requirements are printed for the extended programmes.",
+    "requirements": []
+  },
+  {
+    "name": "Bachelor of Commerce in Accounting (Extended Curriculum Programme)",
+    "faculty": "Faculty of Management, Commerce and Law",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "UniVen Prospectus 2027 p.18",
+    "notes": "Code MSEBCA. For students who don't qualify for the main degree but meet the bachelor's degree requirements (or have matric with university exemption) plus an APS of 28-31 (excluding LO); 28 used. No subject requirements are printed for the extended programmes.",
+    "requirements": []
+  },
+  {
+    "name": "Bachelor of Commerce in Business Information Systems (Extended Curriculum Programme)",
+    "faculty": "Faculty of Management, Commerce and Law",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "UniVen Prospectus 2027 p.18",
+    "notes": "Code MSEIS. For students who don't qualify for the main degree but meet the bachelor's degree requirements (or have matric with university exemption) plus an APS of 28-31 (excluding LO); 28 used. No subject requirements are printed for the extended programmes.",
+    "requirements": []
+  },
+  {
+    "name": "Bachelor of Commerce in Business Management (Extended Curriculum Programme)",
+    "faculty": "Faculty of Management, Commerce and Law",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "UniVen Prospectus 2027 p.18",
+    "notes": "Code MSECBM. For students who don't qualify for the main degree but meet the bachelor's degree requirements (or have matric with university exemption) plus an APS of 28-31 (excluding LO); 28 used. No subject requirements are printed for the extended programmes.",
+    "requirements": []
+  },
+  {
+    "name": "Bachelor of Commerce in Cost and Management Accounting (Extended Curriculum Programme)",
+    "faculty": "Faculty of Management, Commerce and Law",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "UniVen Prospectus 2027 p.18",
+    "notes": "Code MSECMA. For students who don't qualify for the main degree but meet the bachelor's degree requirements (or have matric with university exemption) plus an APS of 28-31 (excluding LO); 28 used. No subject requirements are printed for the extended programmes.",
+    "requirements": []
+  },
+  {
+    "name": "Bachelor of Commerce in Economics (Extended Curriculum Programme)",
+    "faculty": "Faculty of Management, Commerce and Law",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "UniVen Prospectus 2027 p.18",
+    "notes": "Code MSEBCE. For students who don't qualify for the main degree but meet the bachelor's degree requirements (or have matric with university exemption) plus an APS of 28-31 (excluding LO); 28 used. No subject requirements are printed for the extended programmes.",
+    "requirements": []
+  },
+  {
+    "name": "Bachelor of Commerce in Human Resource Management (Extended Curriculum Programme)",
+    "faculty": "Faculty of Management, Commerce and Law",
+    "qualification_type": "bachelor",
+    "is_extended": true,
+    "duration_years": 4,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 28,
+    "min_aps_maths_lit": 28,
+    "min_aps_tech_maths": 28,
+    "source_ref": "UniVen Prospectus 2027 p.18",
+    "notes": "Code MSEHR. For students who don't qualify for the main degree but meet the bachelor's degree requirements (or have matric with university exemption) plus an APS of 28-31 (excluding LO); 28 used. No subject requirements are printed for the extended programmes.",
+    "requirements": []
+  }
+]
