@@ -1,0 +1,423 @@
+[
+  {
+    "name": "Higher Certificate in Music Performance",
+    "faculty": "Faculty of The Humanities",
+    "qualification_type": "higher_certificate",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "higher_certificate",
+    "min_aps": 20,
+    "min_aps_maths_lit": 20,
+    "min_aps_tech_maths": 20,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.34",
+    "notes": "Campus: Bloemfontein. Plan BC111044. Compulsory audition and musical aptitude test before 30 Sep 2026 on your instrument or in singing. Selection programme.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diploma in Music",
+    "faculty": "Faculty of The Humanities",
+    "qualification_type": "diploma",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "diploma",
+    "min_aps": 25,
+    "min_aps_maths_lit": 25,
+    "min_aps_tech_maths": 25,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.34",
+    "notes": "Campus: Bloemfontein. Plan BC120044. Unisa/ABRSM/Trinity Grade 5 in instrument or voice (or equivalent); Grade 3 Music Theory advised. Compulsory audition and theory test before 30 Sep 2026. Selection programme.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Language Practice",
+    "faculty": "Faculty of The Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.35",
+    "notes": "Campus: Bloemfontein. Plan BC130039. Language rule: any Home Language at 60%+ or any First Additional Language at 65%+; Second Additional Language does not count. Selection programme.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 65
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Governance and Political Transformation",
+    "faculty": "Faculty of The Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.35",
+    "notes": "Campus: Bloemfontein. Plan BC130031. Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Integrated Organisational Communication",
+    "faculty": "Faculty of The Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.35",
+    "notes": "Campus: Bloemfontein. Plan BC130038. English HL 60% OR English FAL 65% (SAL also accepted per prospectus; not modelled) (prospectus prints HL as 'Level 6 (60%)'). Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 65
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Journalism",
+    "faculty": "Faculty of The Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.35",
+    "notes": "Campus: Bloemfontein. Plan BC130035. English HL 60% OR English FAL 65% (SAL also accepted per prospectus; not modelled) (prospectus prints HL as 'Level 6 (60%)'). Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 65
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Fine Arts",
+    "faculty": "Faculty of The Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.35",
+    "notes": "Campus: Bloemfontein. Plan BC140025. Portfolio of creative work and selection form due 30 Sep 2026. Selection programme.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Drama and Theatre Arts",
+    "faculty": "Faculty of The Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.35",
+    "notes": "Campus: Bloemfontein. Plan BC130020. English HL 60% OR English FAL 65% (SAL also accepted per prospectus; not modelled). Drama at school recommended; compulsory audition and interview. Selection programme.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 65
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts",
+    "faculty": "Faculty of The Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.35-37",
+    "notes": "Campuses: Bloemfontein (BC137000) and Qwaqwa (QC137000). BA General: choose two majors (e.g. History, Philosophy, Psychology, Political Science, Criminology, English, languages, Sociology). Geography major needs Maths 40%. Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Languages",
+    "faculty": "Faculty of The Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.35",
+    "notes": "Campus: Bloemfontein. Plan BC137500. Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Music",
+    "faculty": "Faculty of The Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.36",
+    "notes": "Campus: Bloemfontein. Plan BC140544. Music Theory Grade 5 and Music Performance Grade 7 (Unisa/ABRSM/Trinity) or equivalent. Compulsory audition and theory proficiency test before 30 Sep 2026; contact Odeion School of Music (osm@ufs.ac.za). Selection programme.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Arts in Music",
+    "faculty": "Faculty of The Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.36",
+    "notes": "Campus: Bloemfontein. Plan BC130044. Music Theory Grade 5 and Music Performance Grade 7 (Unisa/ABRSM/Trinity) or equivalent. Compulsory audition and theory proficiency test before 30 Sep 2026; contact Odeion School of Music (osm@ufs.ac.za). Selection programme.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Social Sciences",
+    "faculty": "Faculty of The Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.36, 38",
+    "notes": "Campuses: Bloemfontein (BC138000) and Qwaqwa (QC138000). Two majors from Psychology, Sociology, Anthropology, Criminology, Political Science, Industrial Psychology (BC list). Merit selection.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 50
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Social Work",
+    "faculty": "Faculty of The Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 35,
+    "min_aps_maths_lit": 35,
+    "min_aps_tech_maths": 35,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.37",
+    "notes": "Campus: Bloemfontein. Plan BC140250. Direct school leavers and first-choice applicants get preference. Selection programme.",
+    "closes_on": "2026-07-31",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bachelor of Community Development",
+    "faculty": "Faculty of The Humanities",
+    "qualification_type": "bachelor",
+    "is_extended": false,
+    "duration_years": null,
+    "nsc_pass_required": "bachelor",
+    "min_aps": 30,
+    "min_aps_maths_lit": 30,
+    "min_aps_tech_maths": 30,
+    "source_ref": "UFS Undergraduate Prospectus 2027 p.37",
+    "notes": "Campus: Qwaqwa. Plan QC140400. AP 30 OR a Diploma in Vocational Skills with English Level 4. Selection programme.",
+    "requirements": [
+      {
+        "description": "English",
+        "options": [
+          {
+            "subject": "English Home Language",
+            "min_percent": 60
+          },
+          {
+            "subject": "English First Additional Language",
+            "min_percent": 60
+          }
+        ]
+      }
+    ]
+  }
+]

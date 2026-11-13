@@ -497,7 +497,7 @@
         "options": [
           {
             "subject": "Physical Sciences",
-            "min_percent": 60
+            "min_percent": 50
           }
         ]
       }
