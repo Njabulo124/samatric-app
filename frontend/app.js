@@ -202,6 +202,18 @@ function onSheetChange() {
 
 /* ------------------------------------------------------------------ */
 /* Checking                                                            */
+/** Load (or reload) the university list: full names, closing dates, apply links and the filter options. */
+async function loadUniversities() {
+  const universities = await api('/universities');
+  state.universities.clear();
+  for (const u of universities) state.universities.set(u.shortName, u);
+  const filter = $('#filter-uni');
+  const chosen = filter.value;
+  filter.querySelectorAll('option[value]:not([value=""])').forEach((o) => o.remove());
+  filter.append(...universities.map((u) => el('option', { value: u.shortName }, u.name)));
+  filter.value = chosen;
+}
+
 /* ------------------------------------------------------------------ */
 async function check({ reveal = false } = {}) {
   const { marks, errors } = readSheet();
@@ -215,6 +227,10 @@ async function check({ reveal = false } = {}) {
     });
     state.live = true;
     state.intakeYear = state.response.intakeYear;
+    // The page may have loaded before new universities were added: refresh names and closing dates
+    if (Object.keys(state.response.apsByUniversity).some((code) => !state.universities.has(code))) {
+      await loadUniversities();
+    }
     renderResults();
     // On phones the results sit below the marks sheet: bring them into view after a deliberate check
     if (reveal && window.matchMedia('(max-width: 59.99rem)').matches) {
@@ -893,11 +909,9 @@ async function init() {
   window.addEventListener('hashchange', () => { showView(); window.scrollTo(0, 0); });
 
   try {
-    const [subjects, universities, health] = await Promise.all([api('/subjects'), api('/universities'), api('/health')]);
+    const [subjects, health] = await Promise.all([api('/subjects'), api('/health'), loadUniversities()]);
     state.intakeYear = health.intakeYear;
     state.subjects = subjects;
-    for (const u of universities) state.universities.set(u.shortName, u);
-    $('#filter-uni').append(...universities.map((u) => el('option', { value: u.shortName }, u.name)));
   } catch {
     showErrors(['Can\'t reach the SAMATRIC server. Check that it is running, then reload the page.']);
     return;
