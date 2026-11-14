@@ -1,0 +1,1238 @@
+{
+ "intake_year": 2027,
+ "source_document": "RU READY! Rhodes University Undergraduate Prospectus (digital, 18 Mar 2026)",
+ "university": {
+  "name": "Rhodes University",
+  "short_name": "RU",
+  "institution_type": "traditional",
+  "province": "Eastern Cape",
+  "website_url": "https://www.ru.ac.za",
+  "application_url": "https://www.ross.ru.ac.za",
+  "application_fee": null
+ },
+ "application_periods": [
+  {
+   "label": "General",
+   "opens_on": "2026-04-01",
+   "closes_on": "2026-09-30",
+   "notes": "Apply online with the Grade 11 final or Grade 12 Term 2 report. Writing the NBT is recommended."
+  }
+ ],
+ "aps_rule": {
+  "default_scale": {
+   "name": "Rhodes percentage / 10",
+   "bands": [
+    {
+     "min_mark": 0,
+     "max_mark": 0,
+     "points": 0.0
+    },
+    {
+     "min_mark": 1,
+     "max_mark": 1,
+     "points": 0.1
+    },
+    {
+     "min_mark": 2,
+     "max_mark": 2,
+     "points": 0.2
+    },
+    {
+     "min_mark": 3,
+     "max_mark": 3,
+     "points": 0.3
+    },
+    {
+     "min_mark": 4,
+     "max_mark": 4,
+     "points": 0.4
+    },
+    {
+     "min_mark": 5,
+     "max_mark": 5,
+     "points": 0.5
+    },
+    {
+     "min_mark": 6,
+     "max_mark": 6,
+     "points": 0.6
+    },
+    {
+     "min_mark": 7,
+     "max_mark": 7,
+     "points": 0.7
+    },
+    {
+     "min_mark": 8,
+     "max_mark": 8,
+     "points": 0.8
+    },
+    {
+     "min_mark": 9,
+     "max_mark": 9,
+     "points": 0.9
+    },
+    {
+     "min_mark": 10,
+     "max_mark": 10,
+     "points": 1.0
+    },
+    {
+     "min_mark": 11,
+     "max_mark": 11,
+     "points": 1.1
+    },
+    {
+     "min_mark": 12,
+     "max_mark": 12,
+     "points": 1.2
+    },
+    {
+     "min_mark": 13,
+     "max_mark": 13,
+     "points": 1.3
+    },
+    {
+     "min_mark": 14,
+     "max_mark": 14,
+     "points": 1.4
+    },
+    {
+     "min_mark": 15,
+     "max_mark": 15,
+     "points": 1.5
+    },
+    {
+     "min_mark": 16,
+     "max_mark": 16,
+     "points": 1.6
+    },
+    {
+     "min_mark": 17,
+     "max_mark": 17,
+     "points": 1.7
+    },
+    {
+     "min_mark": 18,
+     "max_mark": 18,
+     "points": 1.8
+    },
+    {
+     "min_mark": 19,
+     "max_mark": 19,
+     "points": 1.9
+    },
+    {
+     "min_mark": 20,
+     "max_mark": 20,
+     "points": 2.0
+    },
+    {
+     "min_mark": 21,
+     "max_mark": 21,
+     "points": 2.1
+    },
+    {
+     "min_mark": 22,
+     "max_mark": 22,
+     "points": 2.2
+    },
+    {
+     "min_mark": 23,
+     "max_mark": 23,
+     "points": 2.3
+    },
+    {
+     "min_mark": 24,
+     "max_mark": 24,
+     "points": 2.4
+    },
+    {
+     "min_mark": 25,
+     "max_mark": 25,
+     "points": 2.5
+    },
+    {
+     "min_mark": 26,
+     "max_mark": 26,
+     "points": 2.6
+    },
+    {
+     "min_mark": 27,
+     "max_mark": 27,
+     "points": 2.7
+    },
+    {
+     "min_mark": 28,
+     "max_mark": 28,
+     "points": 2.8
+    },
+    {
+     "min_mark": 29,
+     "max_mark": 29,
+     "points": 2.9
+    },
+    {
+     "min_mark": 30,
+     "max_mark": 30,
+     "points": 3.0
+    },
+    {
+     "min_mark": 31,
+     "max_mark": 31,
+     "points": 3.1
+    },
+    {
+     "min_mark": 32,
+     "max_mark": 32,
+     "points": 3.2
+    },
+    {
+     "min_mark": 33,
+     "max_mark": 33,
+     "points": 3.3
+    },
+    {
+     "min_mark": 34,
+     "max_mark": 34,
+     "points": 3.4
+    },
+    {
+     "min_mark": 35,
+     "max_mark": 35,
+     "points": 3.5
+    },
+    {
+     "min_mark": 36,
+     "max_mark": 36,
+     "points": 3.6
+    },
+    {
+     "min_mark": 37,
+     "max_mark": 37,
+     "points": 3.7
+    },
+    {
+     "min_mark": 38,
+     "max_mark": 38,
+     "points": 3.8
+    },
+    {
+     "min_mark": 39,
+     "max_mark": 39,
+     "points": 3.9
+    },
+    {
+     "min_mark": 40,
+     "max_mark": 40,
+     "points": 4.0
+    },
+    {
+     "min_mark": 41,
+     "max_mark": 41,
+     "points": 4.1
+    },
+    {
+     "min_mark": 42,
+     "max_mark": 42,
+     "points": 4.2
+    },
+    {
+     "min_mark": 43,
+     "max_mark": 43,
+     "points": 4.3
+    },
+    {
+     "min_mark": 44,
+     "max_mark": 44,
+     "points": 4.4
+    },
+    {
+     "min_mark": 45,
+     "max_mark": 45,
+     "points": 4.5
+    },
+    {
+     "min_mark": 46,
+     "max_mark": 46,
+     "points": 4.6
+    },
+    {
+     "min_mark": 47,
+     "max_mark": 47,
+     "points": 4.7
+    },
+    {
+     "min_mark": 48,
+     "max_mark": 48,
+     "points": 4.8
+    },
+    {
+     "min_mark": 49,
+     "max_mark": 49,
+     "points": 4.9
+    },
+    {
+     "min_mark": 50,
+     "max_mark": 50,
+     "points": 5.0
+    },
+    {
+     "min_mark": 51,
+     "max_mark": 51,
+     "points": 5.1
+    },
+    {
+     "min_mark": 52,
+     "max_mark": 52,
+     "points": 5.2
+    },
+    {
+     "min_mark": 53,
+     "max_mark": 53,
+     "points": 5.3
+    },
+    {
+     "min_mark": 54,
+     "max_mark": 54,
+     "points": 5.4
+    },
+    {
+     "min_mark": 55,
+     "max_mark": 55,
+     "points": 5.5
+    },
+    {
+     "min_mark": 56,
+     "max_mark": 56,
+     "points": 5.6
+    },
+    {
+     "min_mark": 57,
+     "max_mark": 57,
+     "points": 5.7
+    },
+    {
+     "min_mark": 58,
+     "max_mark": 58,
+     "points": 5.8
+    },
+    {
+     "min_mark": 59,
+     "max_mark": 59,
+     "points": 5.9
+    },
+    {
+     "min_mark": 60,
+     "max_mark": 60,
+     "points": 6.0
+    },
+    {
+     "min_mark": 61,
+     "max_mark": 61,
+     "points": 6.1
+    },
+    {
+     "min_mark": 62,
+     "max_mark": 62,
+     "points": 6.2
+    },
+    {
+     "min_mark": 63,
+     "max_mark": 63,
+     "points": 6.3
+    },
+    {
+     "min_mark": 64,
+     "max_mark": 64,
+     "points": 6.4
+    },
+    {
+     "min_mark": 65,
+     "max_mark": 65,
+     "points": 6.5
+    },
+    {
+     "min_mark": 66,
+     "max_mark": 66,
+     "points": 6.6
+    },
+    {
+     "min_mark": 67,
+     "max_mark": 67,
+     "points": 6.7
+    },
+    {
+     "min_mark": 68,
+     "max_mark": 68,
+     "points": 6.8
+    },
+    {
+     "min_mark": 69,
+     "max_mark": 69,
+     "points": 6.9
+    },
+    {
+     "min_mark": 70,
+     "max_mark": 70,
+     "points": 7.0
+    },
+    {
+     "min_mark": 71,
+     "max_mark": 71,
+     "points": 7.1
+    },
+    {
+     "min_mark": 72,
+     "max_mark": 72,
+     "points": 7.2
+    },
+    {
+     "min_mark": 73,
+     "max_mark": 73,
+     "points": 7.3
+    },
+    {
+     "min_mark": 74,
+     "max_mark": 74,
+     "points": 7.4
+    },
+    {
+     "min_mark": 75,
+     "max_mark": 75,
+     "points": 7.5
+    },
+    {
+     "min_mark": 76,
+     "max_mark": 76,
+     "points": 7.6
+    },
+    {
+     "min_mark": 77,
+     "max_mark": 77,
+     "points": 7.7
+    },
+    {
+     "min_mark": 78,
+     "max_mark": 78,
+     "points": 7.8
+    },
+    {
+     "min_mark": 79,
+     "max_mark": 79,
+     "points": 7.9
+    },
+    {
+     "min_mark": 80,
+     "max_mark": 80,
+     "points": 8.0
+    },
+    {
+     "min_mark": 81,
+     "max_mark": 81,
+     "points": 8.1
+    },
+    {
+     "min_mark": 82,
+     "max_mark": 82,
+     "points": 8.2
+    },
+    {
+     "min_mark": 83,
+     "max_mark": 83,
+     "points": 8.3
+    },
+    {
+     "min_mark": 84,
+     "max_mark": 84,
+     "points": 8.4
+    },
+    {
+     "min_mark": 85,
+     "max_mark": 85,
+     "points": 8.5
+    },
+    {
+     "min_mark": 86,
+     "max_mark": 86,
+     "points": 8.6
+    },
+    {
+     "min_mark": 87,
+     "max_mark": 87,
+     "points": 8.7
+    },
+    {
+     "min_mark": 88,
+     "max_mark": 88,
+     "points": 8.8
+    },
+    {
+     "min_mark": 89,
+     "max_mark": 89,
+     "points": 8.9
+    },
+    {
+     "min_mark": 90,
+     "max_mark": 90,
+     "points": 9.0
+    },
+    {
+     "min_mark": 91,
+     "max_mark": 91,
+     "points": 9.1
+    },
+    {
+     "min_mark": 92,
+     "max_mark": 92,
+     "points": 9.2
+    },
+    {
+     "min_mark": 93,
+     "max_mark": 93,
+     "points": 9.3
+    },
+    {
+     "min_mark": 94,
+     "max_mark": 94,
+     "points": 9.4
+    },
+    {
+     "min_mark": 95,
+     "max_mark": 95,
+     "points": 9.5
+    },
+    {
+     "min_mark": 96,
+     "max_mark": 96,
+     "points": 9.6
+    },
+    {
+     "min_mark": 97,
+     "max_mark": 97,
+     "points": 9.7
+    },
+    {
+     "min_mark": 98,
+     "max_mark": 98,
+     "points": 9.8
+    },
+    {
+     "min_mark": 99,
+     "max_mark": 99,
+     "points": 9.9
+    },
+    {
+     "min_mark": 100,
+     "max_mark": 100,
+     "points": 10.0
+    }
+   ]
+  },
+  "subjects_counted": 6,
+  "include_lo": false,
+  "must_count": [],
+  "subject_scales": [],
+  "notes": "Each of 6 subjects scores its percentage / 10 (78% = 7.8); Life Orientation isn't counted but needs 50%. 45+ is automatic acceptance; 36-44 may be considered at the Dean's discretion."
+ },
+ "faculties": [
+  "Faculty of Commerce",
+  "Faculty of Humanities",
+  "Faculty of Education",
+  "Faculty of Law",
+  "Faculty of Pharmacy",
+  "Faculty of Science"
+ ],
+ "courses": [
+  {
+   "name": "Bachelor of Business Science",
+   "faculty": "Faculty of Commerce",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 4,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 38,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "RU READY! Undergraduate Prospectus p.13",
+   "notes": "APS 38-44 is Dean's discretion; 45+ gets a provisional offer. Life Orientation needs 50% but isn't counted. Fields: Computer Science, Economics, Information Systems, Management, Quantitative Management.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 70
+      }
+     ]
+    },
+    {
+     "description": "Life Orientation",
+     "options": [
+      {
+       "subject": "Life Orientation",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Commerce",
+   "faculty": "Faculty of Commerce",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 34,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "RU READY! Undergraduate Prospectus p.13",
+   "notes": "APS 34-39 is Dean's discretion; 40+ gets a provisional offer. Life Orientation needs 50% but isn't counted. Fields: Accounting, General Curriculum.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Life Orientation",
+     "options": [
+      {
+       "subject": "Life Orientation",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Economics",
+   "faculty": "Faculty of Commerce",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 34,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "RU READY! Undergraduate Prospectus p.13",
+   "notes": "APS 34-39 is Dean's discretion; 40+ gets a provisional offer. Life Orientation needs 50% but isn't counted. Fields: Business Sciences, Environmental, Mineral and Social Sciences economics.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Life Orientation",
+     "options": [
+      {
+       "subject": "Life Orientation",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Commerce (Extended Studies)",
+   "faculty": "Faculty of Commerce",
+   "qualification_type": "bachelor",
+   "is_extended": true,
+   "duration_years": 4,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 34,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "RU READY! Undergraduate Prospectus p.13",
+   "notes": "Life Orientation needs 50% but isn't counted. APS 34-37. Adds literacy and numeracy courses; for students from disadvantaged backgrounds.",
+   "requirements": [
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Life Orientation",
+     "options": [
+      {
+       "subject": "Life Orientation",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Arts",
+   "faculty": "Faculty of Humanities",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 34,
+   "min_aps_maths_lit": 34,
+   "min_aps_tech_maths": 34,
+   "source_ref": "RU READY! Undergraduate Prospectus p.15",
+   "notes": "APS 34-44 is Dean's discretion; 45+ gets a provisional offer. Life Orientation needs 50% but isn't counted. Majors include Anthropology, Drama, English, Languages, Literature, Politics, Psychology, Sociology.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 60
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 65
+      }
+     ]
+    },
+    {
+     "description": "Life Orientation",
+     "options": [
+      {
+       "subject": "Life Orientation",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Social Science",
+   "faculty": "Faculty of Humanities",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 34,
+   "min_aps_maths_lit": 34,
+   "min_aps_tech_maths": 34,
+   "source_ref": "RU READY! Undergraduate Prospectus p.15",
+   "notes": "APS 34-44 is Dean's discretion; 45+ gets a provisional offer. Life Orientation needs 50% but isn't counted. Majors include Anthropology, Economics, Management, Politics, Psychology, Sociology.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 60
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 65
+      }
+     ]
+    },
+    {
+     "description": "Life Orientation",
+     "options": [
+      {
+       "subject": "Life Orientation",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Fine Arts",
+   "faculty": "Faculty of Humanities",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 4,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 34,
+   "min_aps_maths_lit": 34,
+   "min_aps_tech_maths": 34,
+   "source_ref": "RU READY! Undergraduate Prospectus p.15",
+   "notes": "APS 34-44 is Dean's discretion; 45+ gets a provisional offer. Life Orientation needs 50% but isn't counted. Portfolio may be required.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 60
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 65
+      }
+     ]
+    },
+    {
+     "description": "Life Orientation",
+     "options": [
+      {
+       "subject": "Life Orientation",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Music",
+   "faculty": "Faculty of Humanities",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 4,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 34,
+   "min_aps_maths_lit": 34,
+   "min_aps_tech_maths": 34,
+   "source_ref": "RU READY! Undergraduate Prospectus p.15",
+   "notes": "APS 34-44 is Dean's discretion; 45+ gets a provisional offer. Life Orientation needs 50% but isn't counted. Portfolio/audition may be required.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 60
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 65
+      }
+     ]
+    },
+    {
+     "description": "Life Orientation",
+     "options": [
+      {
+       "subject": "Life Orientation",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Journalism",
+   "faculty": "Faculty of Humanities",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 4,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 34,
+   "min_aps_maths_lit": 34,
+   "min_aps_tech_maths": 34,
+   "source_ref": "RU READY! Undergraduate Prospectus p.15",
+   "notes": "APS 34-44 is Dean's discretion; 45+ gets a provisional offer. Life Orientation needs 50% but isn't counted. Same as a BA or BSS with only Journalism in the fourth year.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 60
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 65
+      }
+     ]
+    },
+    {
+     "description": "Life Orientation",
+     "options": [
+      {
+       "subject": "Life Orientation",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Arts or Social Science (Extended Studies)",
+   "faculty": "Faculty of Humanities",
+   "qualification_type": "bachelor",
+   "is_extended": true,
+   "duration_years": 4,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 34,
+   "min_aps_maths_lit": 34,
+   "min_aps_tech_maths": 34,
+   "source_ref": "RU READY! Undergraduate Prospectus p.15",
+   "notes": "Life Orientation needs 50% but isn't counted. APS 34-37. Limited first-year curriculum (Journalism and Anthropology, or Politics and Sociology); for students from disadvantaged backgrounds.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 60
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 65
+      }
+     ]
+    },
+    {
+     "description": "Life Orientation",
+     "options": [
+      {
+       "subject": "Life Orientation",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Education in Foundation Phase Teaching",
+   "faculty": "Faculty of Education",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 4,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 39,
+   "min_aps_maths_lit": 39,
+   "min_aps_tech_maths": null,
+   "source_ref": "RU READY! Undergraduate Prospectus p.16",
+   "notes": "APS 39-43 is Dean's discretion; 44+ gets a provisional offer. Life Orientation needs 50% but isn't counted.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Life Orientation",
+     "options": [
+      {
+       "subject": "Life Orientation",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Laws",
+   "faculty": "Faculty of Law",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 4,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 40,
+   "min_aps_maths_lit": 40,
+   "min_aps_tech_maths": null,
+   "source_ref": "RU READY! Undergraduate Prospectus p.17",
+   "notes": "APS 40-44 is Dean's discretion; 45+ gets a provisional offer. Life Orientation needs 50% but isn't counted. Limited direct entry; most students start with another degree and switch in second year.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 60
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 70
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Life Orientation",
+     "options": [
+      {
+       "subject": "Life Orientation",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Pharmacy",
+   "faculty": "Faculty of Pharmacy",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 4,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 40,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "RU READY! Undergraduate Prospectus p.18",
+   "notes": "APS 40-44 is Dean's discretion; 45+ gets a provisional offer. Life Orientation needs 50% but isn't counted. Subject minimums shown are for the Dean's-discretion band; a provisional offer (45+) needs 70% in Maths, Life Sciences and Physical Sciences.",
+   "requirements": [
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Life Sciences",
+     "options": [
+      {
+       "subject": "Life Sciences",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Life Orientation",
+     "options": [
+      {
+       "subject": "Life Orientation",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Science",
+   "faculty": "Faculty of Science",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 39,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "RU READY! Undergraduate Prospectus p.19",
+   "notes": "APS 39-44 is Dean's discretion; 45+ gets a provisional offer. Life Orientation needs 50% but isn't counted. Printed layout is ambiguous; read as Maths 50% plus Life Sciences or Physical Sciences 60%.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 60
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 65
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Life Sciences or Physical Sciences",
+     "options": [
+      {
+       "subject": "Life Sciences",
+       "min_percent": 60
+      },
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Life Orientation",
+     "options": [
+      {
+       "subject": "Life Orientation",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Science in Information Systems",
+   "faculty": "Faculty of Science",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 40,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "RU READY! Undergraduate Prospectus p.19",
+   "notes": "APS 40-44 is Dean's discretion; 45+ gets a provisional offer. Life Orientation needs 50% but isn't counted.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 60
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Life Orientation",
+     "options": [
+      {
+       "subject": "Life Orientation",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "ambiguities": [
+  {
+   "item": "Minimum APS",
+   "issue": "Rhodes prints a Dean's-discretion range and a provisional-offer APS",
+   "choice": "min_aps = bottom of the Dean's-discretion range; the offer APS is in notes"
+  },
+  {
+   "item": "Prospectus year",
+   "issue": "File is the 2026-dated RU READY! prospectus; applications open 1 Apr - 30 Sep",
+   "choice": "Used for the 2027 intake (applications in 2026)"
+  },
+  {
+   "item": "Application fee",
+   "issue": "Not printed",
+   "choice": "null"
+  },
+  {
+   "item": "Below 40%",
+   "issue": "No cut-off printed",
+   "choice": "Every mark scores % / 10"
+  },
+  {
+   "item": "Technical Maths",
+   "issue": "Not mentioned",
+   "choice": "Accepted only where no maths subject is required"
+  },
+  {
+   "item": "PGCE",
+   "issue": "Postgraduate (needs a degree)",
+   "choice": "Left out"
+  }
+ ]
+}

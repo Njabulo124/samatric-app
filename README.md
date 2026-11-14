@@ -41,7 +41,8 @@ A learner enters their matric marks once. The app then:
 | Stellenbosch University (SU) | 88 | SU 2027 Undergraduate Prospectus; minimum aggregate % stored as a total out of 600 |
 | University of the Western Cape (UWC) | 39 | UWC General Admissions Criteria for 2027; weighted UWC points |
 | Cape Peninsula University of Technology (CPUT) | 116 | CPUT Prospectus 2027; % / 10, Methods 1-3 |
-| **Total** | **2,031** | |
+| Rhodes University (RU) | 15 | RU READY! Undergraduate Prospectus (Mar 2026); % / 10 |
+| **Total** | **2,046** | |
 
 ---
 
@@ -159,7 +160,7 @@ From the terminal: `npm run check -- samples/strong-science.json --uni WSU --sho
 
 - [x] Eligibility engine with per-university APS rules
 - [x] Prospectus pipeline with validation and change detection
-- [x] UJ, TUT, UP, UKZN, WSU, UFH, DUT, Wits, MUT, UNIZULU, VUT, NWU, UL, SMU, UNIVEN, UMP, UFS, CUT, SPU, NMU, UCT, SU, UWC and CPUT 2027 data (2,031 courses)
+- [x] UJ, TUT, UP, UKZN, WSU, UFH, DUT, Wits, MUT, UNIZULU, VUT, NWU, UL, SMU, UNIVEN, UMP, UFS, CUT, SPU, NMU, UCT, SU, UWC, CPUT and RU 2027 data (2,046 courses)
 - [ ] Clearer, learner-friendly UI that works well on phones
 - [ ] More universities
 - [ ] NSC pass-type check (Bachelor / Diploma / Higher Certificate)
