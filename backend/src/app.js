@@ -50,7 +50,7 @@ const int = (v, def, max) => {
   return Number.isFinite(n) && n >= 0 ? Math.min(n, max) : def;
 };
 
-export function createApp({ getCatalog, ping = async () => {}, staticDir } = {}) {
+export function createApp({ getCatalog, ping = async () => {}, staticDir, applyingFor } = {}) {
   const app = express();
   app.use(express.json({ limit: '20kb' }));
 
@@ -58,7 +58,7 @@ export function createApp({ getCatalog, ping = async () => {}, staticDir } = {})
     try {
       await ping();
       const { intakeYear, courses } = await getCatalog();
-      res.json({ status: 'ok', intakeYear, courses: courses.length });
+      res.json({ status: 'ok', intakeYear, applyingFor: applyingFor ?? intakeYear, courses: courses.length });
     } catch (err) {
       res.status(503).json({ status: 'error', error: 'Database unavailable.' });
     }

@@ -39,6 +39,7 @@ const state = {
   response: null,
   ready: false, // subjects and universities loaded
   intakeYear: null,
+  applyingFor: null,
   status: 'qualifies',
   live: false, // after the first check, edits re-run automatically
 };
@@ -202,6 +203,17 @@ function onSheetChange() {
 
 /* ------------------------------------------------------------------ */
 /* Checking                                                            */
+/** Banner above every view while requirements come from last year's prospectuses. */
+function showProvisionalNotice() {
+  const box = $('#provisional-notice');
+  box.hidden = !provisional();
+  if (box.hidden) return;
+  box.replaceChildren(
+    el('strong', {}, `Waiting for the ${state.applyingFor} prospectuses. `),
+    `Requirements and scores shown are from the ${state.intakeYear} prospectuses, so use them as a guide. `
+    + `We update each university as its ${state.applyingFor} prospectus comes out.`);
+}
+
 /** Load (or reload) the university list: full names, closing dates, apply links and the filter options. */
 async function loadUniversities() {
   const universities = await api('/universities');
@@ -259,7 +271,13 @@ function isPast(iso) {
 }
 
 /** Closing-date sentence and apply-button label for a university. */
+/** True while the data is last year's (new prospectuses not out yet). */
+function provisional() { return state.applyingFor != null && state.intakeYear != null && state.applyingFor > state.intakeYear; }
+
 function applyInfo(code, iso) {
+  if (provisional()) {
+    return { text: `${state.applyingFor} closing date not published yet`, button: `${code} website` };
+  }
   const date = formatDate(iso);
   if (!date) return { text: 'Closing date: check the university website', button: `Apply to ${code}` };
   if (isPast(iso)) {
@@ -915,6 +933,8 @@ async function init() {
   try {
     const [subjects, health] = await Promise.all([api('/subjects'), api('/health'), loadUniversities()]);
     state.intakeYear = health.intakeYear;
+    state.applyingFor = health.applyingFor ?? health.intakeYear;
+    showProvisionalNotice();
     state.subjects = subjects;
   } catch {
     showErrors(['Can\'t reach the SAMATRIC server. Check that it is running, then reload the page.']);

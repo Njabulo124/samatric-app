@@ -642,3 +642,17 @@ a { color: var(--pen); text-underline-offset: 3px; }
 .my-course h3 a:hover { color: var(--pen); text-decoration: underline; }
 .my-course .meta { margin: 0.25rem 0 0; font-size: var(--step--1); color: var(--ink-soft); }
 .my-course-plan { margin: 0.5rem 0 0; font-size: var(--step--1); }
+
+/* Last year's data while the new prospectuses are not out */
+.provisional-notice {
+  max-width: 72rem;
+  width: calc(100% - 2.5rem);
+  margin: 1rem auto 0;
+  padding: 0.75rem 1rem;
+  border-left: 4px solid var(--highlight);
+  background: var(--surface);
+  color: var(--ink);
+  border-radius: 0.5rem;
+  font-size: var(--step--1);
+  line-height: 1.5;
+}

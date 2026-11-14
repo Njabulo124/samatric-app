@@ -38,7 +38,18 @@ const post = (body, raw = false) => fetch(`${base}/api/eligibility`, {
 test('GET /api/health', async () => {
   const res = await fetch(`${base}/api/health`);
   assert.equal(res.status, 200);
-  assert.deepEqual(await res.json(), { status: 'ok', intakeYear: 2027, courses: 2 });
+  assert.deepEqual(await res.json(), { status: 'ok', intakeYear: 2027, applyingFor: 2027, courses: 2 });
+});
+
+test('GET /api/health reports the intake learners are applying for', async () => {
+  const app = createApp({ getCatalog: async () => CATALOG, applyingFor: 2028 });
+  const srv = app.listen(0);
+  await new Promise((r) => srv.once('listening', r));
+  try {
+    const body = await (await fetch(`http://localhost:${srv.address().port}/api/health`)).json();
+    assert.equal(body.intakeYear, 2027);
+    assert.equal(body.applyingFor, 2028);
+  } finally { srv.close(); }
 });
 
 test('GET /api/subjects and /api/universities', async () => {
