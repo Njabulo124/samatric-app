@@ -8,7 +8,9 @@
     "start": "node --env-file=../.env src/server.js",
     "dev": "node --watch --env-file=../.env src/server.js",
     "test": "node --test \"test/*.test.js\"",
-    "check": "node --env-file=../.env src/cli/check.js"
+    "check": "node --env-file=../.env src/cli/check.js",
+    "build:static": "node --env-file=../.env src/cli/build-static.js",
+    "preview:static": "node src/cli/preview-static.js"
   },
   "engines": {
     "node": ">=22"

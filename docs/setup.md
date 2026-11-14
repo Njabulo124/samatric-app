@@ -103,3 +103,21 @@ The frontend is served by the API at http://localhost:5000.
 | `DATABASE_URL not set` | `.env` is missing or not in the repo root. |
 | `unknown subject 'X'` when validating | Use the exact subject name from `database/seeds/01_subjects.sql`. |
 | A tracked file suddenly shows hundreds of deletions | An unsaved editor tab overwrote it. Run `git restore <file>`. |
+
+## Static site (for S3 + CloudFront)
+
+The hosted site needs no server or database: the build exports the course data to a JSON file and
+the page runs the same eligibility engine in the browser (`backend/src/api-core.js`, shared with
+the server).
+
+```powershell
+cd backend
+npm run build:static     # writes ../dist (frontend + engine + data/catalog-<hash>.json)
+npm run preview:static   # serves dist/ on http://localhost:8080, like S3 would
+```
+
+`INTAKE_YEAR` and `APPLYING_FOR` in `.env` decide which data is exported and whether the
+"waiting for the new prospectuses" notice shows. Rebuild after loading new data. `dist/` is not
+committed; upload its contents to the S3 bucket.
+
+Local development is unchanged: `npm start` still serves the page with the live API.

@@ -152,3 +152,14 @@ test('closesFor: a course\'s own date beats faculty and general dates', async ()
   assert.equal(closesFor(uni, 'Faculty of Science', '2026-06-15'), '2026-06-15');
   assert.equal(closesFor(uni, 'Faculty of Science', null), '2026-07-31');
 });
+
+test('api-core runs without Express (the static site uses it in the browser)', async () => {
+  const { createApi } = await import('../src/api-core.js');
+  const api = createApi({ getCatalog: async () => CATALOG, applyingFor: 2028 });
+  assert.equal((await api.handle('GET', '/health')).body.applyingFor, 2028);
+  assert.equal((await api.handle('GET', '/courses/abc')).status, 404);
+  assert.equal((await api.handle('DELETE', '/subjects')).status, 404);
+  const { status, body } = await api.handle('POST', '/eligibility', {}, { marks: SCIENCE_LEARNER });
+  assert.equal(status, 200);
+  assert.ok(body.results.length > 0);
+});

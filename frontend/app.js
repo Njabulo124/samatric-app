@@ -2,6 +2,8 @@
  * SAMATRIC frontend: a small hub with three views (check, search, improve), switched by the
  * URL hash (#check, #search, #improve). Talks to the API on the same origin. No build step.
  */
+import { MODE } from './config.js';
+
 const API = '/api';
 const STORAGE_KEY = 'samatric.marks.v1';
 const ENGLISH = ['English Home Language', 'English First Additional Language'];
@@ -58,10 +60,18 @@ function el(tag, attrs = {}, ...children) {
 }
 
 async function api(path, options) {
-  const res = await fetch(API + path, options);
-  const body = await res.json().catch(() => ({}));
-  if (!res.ok) {
-    const err = new Error(body.errors?.join(' ') ?? body.error ?? `Request failed (${res.status}).`);
+  let status;
+  let body;
+  if (MODE === 'static') {
+    const { staticRequest } = await import('./static-api.js');
+    ({ status, body } = await staticRequest(path, options));
+  } else {
+    const res = await fetch(API + path, options);
+    status = res.status;
+    body = await res.json().catch(() => ({}));
+  }
+  if (status >= 400) {
+    const err = new Error(body.errors?.join(' ') ?? body.error ?? `Request failed (${status}).`);
     err.errors = body.errors;
     throw err;
   }
