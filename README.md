@@ -39,7 +39,8 @@ A learner enters their matric marks once. The app then:
 | Nelson Mandela University (NMU) | 119 | NMU Undergraduate Programme Guide 2027; Applicant Score out of 600 |
 | University of Cape Town (UCT) | 94 | UCT Undergraduate Prospectus 2027; Faculty Points Score (Science out of 800) |
 | Stellenbosch University (SU) | 88 | SU 2027 Undergraduate Prospectus; minimum aggregate % stored as a total out of 600 |
-| **Total** | **1,876** | |
+| University of the Western Cape (UWC) | 39 | UWC General Admissions Criteria for 2027; weighted UWC points |
+| **Total** | **1,915** | |
 
 ---
 
@@ -157,7 +158,7 @@ From the terminal: `npm run check -- samples/strong-science.json --uni WSU --sho
 
 - [x] Eligibility engine with per-university APS rules
 - [x] Prospectus pipeline with validation and change detection
-- [x] UJ, TUT, UP, UKZN, WSU, UFH, DUT, Wits, MUT, UNIZULU, VUT, NWU, UL, SMU, UNIVEN, UMP, UFS, CUT, SPU, NMU, UCT and SU 2027 data (1,876 courses)
+- [x] UJ, TUT, UP, UKZN, WSU, UFH, DUT, Wits, MUT, UNIZULU, VUT, NWU, UL, SMU, UNIVEN, UMP, UFS, CUT, SPU, NMU, UCT, SU and UWC 2027 data (1,915 courses)
 - [ ] Clearer, learner-friendly UI that works well on phones
 - [ ] More universities
 - [ ] NSC pass-type check (Bachelor / Diploma / Higher Certificate)

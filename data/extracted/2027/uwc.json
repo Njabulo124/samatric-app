@@ -1,0 +1,5190 @@
+{
+  "intake_year": 2027,
+  "source_document": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+  "university": {
+    "name": "University of the Western Cape",
+    "short_name": "UWC",
+    "institution_type": "traditional",
+    "province": "Western Cape",
+    "website_url": "https://www.uwc.ac.za",
+    "application_url": "https://www.uwc.ac.za/admission-and-financial-aid/apply/undergraduate-applications",
+    "application_fee": null
+  },
+  "application_periods": [
+    {
+      "label": "General",
+      "opens_on": "2026-04-01",
+      "closes_on": "2026-09-30",
+      "notes": "Applications open 1-2 April 2026 (brochure: 2 April) and close 30 September 2026. Dentistry & Oral Health close 31 August 2026 per UWC's application page. Admission is based on final Grade 12 results (January 2027)."
+    }
+  ],
+  "aps_rule": {
+    "default_scale": {
+      "name": "UWC points: all other subjects (incl. Maths Literacy)",
+      "bands": [
+        {
+          "min_mark": 90,
+          "max_mark": 100,
+          "points": 8
+        },
+        {
+          "min_mark": 80,
+          "max_mark": 89,
+          "points": 7
+        },
+        {
+          "min_mark": 70,
+          "max_mark": 79,
+          "points": 6
+        },
+        {
+          "min_mark": 60,
+          "max_mark": 69,
+          "points": 5
+        },
+        {
+          "min_mark": 50,
+          "max_mark": 59,
+          "points": 4
+        },
+        {
+          "min_mark": 40,
+          "max_mark": 49,
+          "points": 3
+        },
+        {
+          "min_mark": 30,
+          "max_mark": 39,
+          "points": 2
+        },
+        {
+          "min_mark": 20,
+          "max_mark": 29,
+          "points": 1
+        },
+        {
+          "min_mark": 0,
+          "max_mark": 19,
+          "points": 0
+        }
+      ]
+    },
+    "subjects_counted": 7,
+    "include_lo": true,
+    "must_count": [
+      [
+        "English Home Language",
+        "English First Additional Language"
+      ],
+      [
+        "Life Orientation"
+      ]
+    ],
+    "subject_scales": [
+      {
+        "subject": "English Home Language",
+        "scale": {
+          "name": "UWC points: English / Mathematics",
+          "bands": [
+            {
+              "min_mark": 90,
+              "max_mark": 100,
+              "points": 15
+            },
+            {
+              "min_mark": 80,
+              "max_mark": 89,
+              "points": 13
+            },
+            {
+              "min_mark": 70,
+              "max_mark": 79,
+              "points": 11
+            },
+            {
+              "min_mark": 60,
+              "max_mark": 69,
+              "points": 9
+            },
+            {
+              "min_mark": 50,
+              "max_mark": 59,
+              "points": 7
+            },
+            {
+              "min_mark": 40,
+              "max_mark": 49,
+              "points": 5
+            },
+            {
+              "min_mark": 30,
+              "max_mark": 39,
+              "points": 3
+            },
+            {
+              "min_mark": 20,
+              "max_mark": 29,
+              "points": 1
+            },
+            {
+              "min_mark": 0,
+              "max_mark": 19,
+              "points": 0
+            }
+          ]
+        }
+      },
+      {
+        "subject": "English First Additional Language",
+        "scale": {
+          "name": "UWC points: English / Mathematics",
+          "bands": [
+            {
+              "min_mark": 90,
+              "max_mark": 100,
+              "points": 15
+            },
+            {
+              "min_mark": 80,
+              "max_mark": 89,
+              "points": 13
+            },
+            {
+              "min_mark": 70,
+              "max_mark": 79,
+              "points": 11
+            },
+            {
+              "min_mark": 60,
+              "max_mark": 69,
+              "points": 9
+            },
+            {
+              "min_mark": 50,
+              "max_mark": 59,
+              "points": 7
+            },
+            {
+              "min_mark": 40,
+              "max_mark": 49,
+              "points": 5
+            },
+            {
+              "min_mark": 30,
+              "max_mark": 39,
+              "points": 3
+            },
+            {
+              "min_mark": 20,
+              "max_mark": 29,
+              "points": 1
+            },
+            {
+              "min_mark": 0,
+              "max_mark": 19,
+              "points": 0
+            }
+          ]
+        }
+      },
+      {
+        "subject": "Mathematics",
+        "scale": {
+          "name": "UWC points: English / Mathematics",
+          "bands": [
+            {
+              "min_mark": 90,
+              "max_mark": 100,
+              "points": 15
+            },
+            {
+              "min_mark": 80,
+              "max_mark": 89,
+              "points": 13
+            },
+            {
+              "min_mark": 70,
+              "max_mark": 79,
+              "points": 11
+            },
+            {
+              "min_mark": 60,
+              "max_mark": 69,
+              "points": 9
+            },
+            {
+              "min_mark": 50,
+              "max_mark": 59,
+              "points": 7
+            },
+            {
+              "min_mark": 40,
+              "max_mark": 49,
+              "points": 5
+            },
+            {
+              "min_mark": 30,
+              "max_mark": 39,
+              "points": 3
+            },
+            {
+              "min_mark": 20,
+              "max_mark": 29,
+              "points": 1
+            },
+            {
+              "min_mark": 0,
+              "max_mark": 19,
+              "points": 0
+            }
+          ]
+        }
+      },
+      {
+        "subject": "Life Orientation",
+        "scale": {
+          "name": "UWC points: Life Orientation",
+          "bands": [
+            {
+              "min_mark": 90,
+              "max_mark": 100,
+              "points": 3
+            },
+            {
+              "min_mark": 80,
+              "max_mark": 89,
+              "points": 3
+            },
+            {
+              "min_mark": 70,
+              "max_mark": 79,
+              "points": 2
+            },
+            {
+              "min_mark": 60,
+              "max_mark": 69,
+              "points": 2
+            },
+            {
+              "min_mark": 50,
+              "max_mark": 59,
+              "points": 2
+            },
+            {
+              "min_mark": 40,
+              "max_mark": 49,
+              "points": 1
+            },
+            {
+              "min_mark": 30,
+              "max_mark": 39,
+              "points": 1
+            },
+            {
+              "min_mark": 20,
+              "max_mark": 29,
+              "points": 1
+            },
+            {
+              "min_mark": 0,
+              "max_mark": 19,
+              "points": 0
+            }
+          ]
+        }
+      }
+    ],
+    "notes": "UWC weighted points: English and Mathematics up to 15, Life Orientation up to 3, every other subject (Maths Literacy included) up to 8. Six subjects plus Life Orientation."
+  },
+  "faculties": [
+    "Faculty of Community and Health Sciences",
+    "Faculty of Economic and Management Sciences",
+    "Faculty of Arts and Humanities",
+    "Faculty of Natural Sciences",
+    "Faculty of Dentistry",
+    "Faculty of Law",
+    "Faculty of Education"
+  ],
+  "courses": [
+    {
+      "name": "Bachelor of Social Work",
+      "faculty": "Faculty of Community and Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": null,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 34,
+      "min_aps_maths_lit": 34,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 34 UWC points. English HL 50% or FAL 60%; another language 50%.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Community Development",
+      "faculty": "Faculty of Community and Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": null,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": 30,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 30 UWC points. English HL 50% or FAL 60%; another language 50%.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Arts in Sport, Recreation and Exercise Science",
+      "faculty": "Faculty of Community and Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": null,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": 30,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 30 UWC points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Dietetics",
+      "faculty": "Faculty of Community and Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": null,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 33,
+      "min_aps_maths_lit": 33,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 33 UWC points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Sport and Exercise Science",
+      "faculty": "Faculty of Community and Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": null,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 33,
+      "min_aps_maths_lit": 33,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 33 UWC points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Occupational Therapy",
+      "faculty": "Faculty of Community and Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": null,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 33,
+      "min_aps_maths_lit": 33,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 33 UWC points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Physiotherapy",
+      "faculty": "Faculty of Community and Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": null,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 39,
+      "min_aps_maths_lit": 39,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 39 UWC points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Nursing",
+      "faculty": "Faculty of Community and Health Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": null,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": 30,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 30 UWC points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Administration",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": 30,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 30 UWC points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 30 UWC points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Financial Accounting",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 30 UWC points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Information Systems",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 30 UWC points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Accounting",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 30 UWC points. Maths 50% and Accounting 60% (Accounting not required with Maths 60%).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics 60% or Accounting 60%",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            },
+            {
+              "subject": "Accounting",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce (4-year stream)",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": 30,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 30 UWC points. 4-year extended stream. English 40% and another language 40%. No separate points minimum printed; faculty minimum of 30 used.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 30
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Accounting (4-year stream)",
+      "faculty": "Faculty of Economic and Management Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": true,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 30 UWC points. 4-year extended stream. Maths 40% and Accounting 50% (Accounting not required with Maths 50%). English 40% and another language 40%. No separate points minimum printed; faculty minimum of 30 used.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics 50% or Accounting 50%",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Accounting",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Arts",
+      "faculty": "Faculty of Arts and Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": null,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 35,
+      "min_aps_maths_lit": 35,
+      "min_aps_tech_maths": 35,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 35 UWC points. Majors include languages, Anthropology, History, Philosophy, Political Studies, Sociology, Psychology, Women's and Gender Studies and more. English 50% (HL or FAL) and 50% in another subject from the NSC subject list. Majors in Geography and Environmental Studies, Library and Information Science, Psychology and Industrial Psychology need Maths 40% or Maths Lit 50%.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Theology",
+      "faculty": "Faculty of Arts and Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": null,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 35,
+      "min_aps_maths_lit": 35,
+      "min_aps_tech_maths": 35,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 35 UWC points. English 50% (HL or FAL) and 50% in another subject from the NSC subject list. Majors in Geography and Environmental Studies, Library and Information Science, Psychology and Industrial Psychology need Maths 40% or Maths Lit 50%.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Library and Information Studies",
+      "faculty": "Faculty of Arts and Humanities",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": null,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 35,
+      "min_aps_maths_lit": 35,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 35 UWC points. English 50% (HL or FAL) and 50% in another subject from the NSC subject list. Majors in Geography and Environmental Studies, Library and Information Science, Psychology and Industrial Psychology need Maths 40% or Maths Lit 50%.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Environmental and Water Science",
+      "faculty": "Faculty of Natural Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": null,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 33,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 33 UWC points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences or Life Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Biotechnology",
+      "faculty": "Faculty of Natural Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": null,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 33,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 33 UWC points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences or Life Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Biodiversity and Conservation Biology",
+      "faculty": "Faculty of Natural Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": null,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 33,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 33 UWC points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences or Life Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Medical Bioscience",
+      "faculty": "Faculty of Natural Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": null,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 33,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 33 UWC points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Chemical Sciences",
+      "faculty": "Faculty of Natural Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": null,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 33,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 33 UWC points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Applied Geology",
+      "faculty": "Faculty of Natural Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": null,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 33,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 33 UWC points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Physical Science",
+      "faculty": "Faculty of Natural Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": null,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 33,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 33 UWC points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Mathematics and Statistical Sciences",
+      "faculty": "Faculty of Natural Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": null,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 33,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 33 UWC points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences, Life Sciences or Information Technology",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Information Technology",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Science in Computer Science",
+      "faculty": "Faculty of Natural Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": null,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 33,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 33 UWC points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences, Life Sciences or Information Technology",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Information Technology",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Pharmacy",
+      "faculty": "Faculty of Natural Sciences",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 38,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 38 UWC points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Dental Surgery",
+      "faculty": "Faculty of Dentistry",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 5,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 40,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 40 UWC points. UWC's application page gives a Dentistry & Oral Health closing date of 31 August 2026 (the brochure says 30 September for all).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ],
+      "closes_on": "2026-08-31"
+    },
+    {
+      "name": "Bachelor of Oral Health",
+      "faculty": "Faculty of Dentistry",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": null,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 33,
+      "min_aps_maths_lit": 33,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 33 UWC points. UWC's application page gives a Dentistry & Oral Health closing date of 31 August 2026 (the brochure says 30 September for all).",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Life Sciences",
+          "options": [
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ],
+      "closes_on": "2026-08-31"
+    },
+    {
+      "name": "Bachelor of Laws",
+      "faculty": "Faculty of Law",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 37,
+      "min_aps_maths_lit": 37,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 37 UWC points. 4-year LLB.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Commerce in Law",
+      "faculty": "Faculty of Law",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 30,
+      "min_aps_maths_lit": null,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 30 UWC points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Arts in Law",
+      "faculty": "Faculty of Law",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 3,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 37,
+      "min_aps_maths_lit": 37,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 37 UWC points. 3-year programme.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Accounting (FET), Economic and Management Sciences (SP) and Mathematics (SP)",
+      "faculty": "Faculty of Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 33,
+      "min_aps_maths_lit": 33,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 33 UWC points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            }
+          ]
+        },
+        {
+          "description": "Accounting, Business Studies or Economics",
+          "options": [
+            {
+              "subject": "Accounting",
+              "min_percent": 50
+            },
+            {
+              "subject": "Business Studies",
+              "min_percent": 50
+            },
+            {
+              "subject": "Economics",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Mathematics (SP), Mathematical Literacy (SP and FET) and Natural Science (SP)",
+      "faculty": "Faculty of Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 33,
+      "min_aps_maths_lit": 33,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 33 UWC points.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 40
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 40
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            }
+          ]
+        },
+        {
+          "description": "Physical Sciences or Life Sciences",
+          "options": [
+            {
+              "subject": "Physical Sciences",
+              "min_percent": 50
+            },
+            {
+              "subject": "Life Sciences",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Languages (SP and FET) and Life Orientation (SP)",
+      "faculty": "Faculty of Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 33,
+      "min_aps_maths_lit": 33,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 33 UWC points. English HL 50% or FAL 60%, and another language 50%.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Life Orientation",
+          "options": [
+            {
+              "subject": "Life Orientation",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Languages (SP and FET) and Mathematics (SP)",
+      "faculty": "Faculty of Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 33,
+      "min_aps_maths_lit": 33,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 33 UWC points. English HL 50% or FAL 60%, and another language 50%.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 50
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Languages (SP and FET) and Social Sciences (SP)",
+      "faculty": "Faculty of Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 33,
+      "min_aps_maths_lit": 33,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 33 UWC points. English HL 50% or FAL 60%, and another language 50%.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        },
+        {
+          "description": "History or Geography",
+          "options": [
+            {
+              "subject": "History",
+              "min_percent": 50
+            },
+            {
+              "subject": "Geography",
+              "min_percent": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Foundation Phase Teaching",
+      "faculty": "Faculty of Education",
+      "qualification_type": "bachelor",
+      "is_extended": false,
+      "duration_years": 4,
+      "nsc_pass_required": "bachelor",
+      "min_aps": 33,
+      "min_aps_maths_lit": 33,
+      "min_aps_tech_maths": null,
+      "source_ref": "UWC General Admissions Criteria for 2027 (8-panel brochure)",
+      "notes": "Minimum 33 UWC points. English 50% and another language 50%.",
+      "requirements": [
+        {
+          "description": "English",
+          "options": [
+            {
+              "subject": "English Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "English First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Another language (Home or First Additional)",
+          "options": [
+            {
+              "subject": "Afrikaans Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiNdebele Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiZulu Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sepedi Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sesotho Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Setswana Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Siswati Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Tshivenda Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Xitsonga Home Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Afrikaans First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiNdebele First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiXhosa First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "isiZulu First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sepedi First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Sesotho First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Setswana First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Siswati First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Tshivenda First Additional Language",
+              "min_percent": 50
+            },
+            {
+              "subject": "Xitsonga First Additional Language",
+              "min_percent": 50
+            }
+          ]
+        },
+        {
+          "description": "Mathematics or Mathematical Literacy",
+          "options": [
+            {
+              "subject": "Mathematics",
+              "min_percent": 40
+            },
+            {
+              "subject": "Mathematical Literacy",
+              "min_percent": 60
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ambiguities": [
+    {
+      "item": "Subjects counted",
+      "issue": "Brochure gives the points table but not how many subjects count",
+      "choice": "Six subjects plus Life Orientation (all 7 NSC subjects), English always counted"
+    },
+    {
+      "item": "Application fee",
+      "issue": "Not stated in the brochure or on the application page",
+      "choice": "Left blank"
+    },
+    {
+      "item": "Dentistry closing date",
+      "issue": "Brochure: 30 September for all; application page: Dentistry & Oral Health 31 August 2026",
+      "choice": "31 August (earlier date) on BDS and BOH"
+    },
+    {
+      "item": "BCom 4-year stream",
+      "issue": "No separate points minimum printed",
+      "choice": "Faculty minimum of 30 used"
+    },
+    {
+      "item": "Code levels",
+      "issue": "Brochure uses NSC codes",
+      "choice": "Code 2=30%, 3=40%, 4=50%, 5=60%, 6=70%"
+    }
+  ]
+}
