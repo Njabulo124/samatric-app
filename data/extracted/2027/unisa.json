@@ -1,0 +1,2935 @@
+{
+ "intake_year": 2027,
+ "source_document": "UNISA undergraduate qualification pages (unisa.ac.za), read 14 Nov 2026",
+ "university": {
+  "name": "University of South Africa",
+  "short_name": "UNISA",
+  "institution_type": "comprehensive",
+  "province": "Gauteng",
+  "website_url": "https://www.unisa.ac.za",
+  "application_url": "https://www.unisa.ac.za/sites/corporate/default/Apply-for-admission",
+  "application_fee": 160
+ },
+ "application_periods": [
+  {
+   "label": "General",
+   "opens_on": "2026-08-17",
+   "closes_on": "2026-10-09",
+   "notes": "Online only. R160 non-refundable application fee. Admission depends on space."
+  }
+ ],
+ "aps_rule": {
+  "default_scale": {
+   "name": "NSC achievement levels 1-7",
+   "bands": [
+    {
+     "min_mark": 0,
+     "max_mark": 29,
+     "points": 1
+    },
+    {
+     "min_mark": 30,
+     "max_mark": 39,
+     "points": 2
+    },
+    {
+     "min_mark": 40,
+     "max_mark": 49,
+     "points": 3
+    },
+    {
+     "min_mark": 50,
+     "max_mark": 59,
+     "points": 4
+    },
+    {
+     "min_mark": 60,
+     "max_mark": 69,
+     "points": 5
+    },
+    {
+     "min_mark": 70,
+     "max_mark": 79,
+     "points": 6
+    },
+    {
+     "min_mark": 80,
+     "max_mark": 100,
+     "points": 7
+    }
+   ]
+  },
+  "subjects_counted": 6,
+  "include_lo": false,
+  "must_count": [],
+  "subject_scales": [],
+  "notes": "UNISA calls it APS/AS. NSC levels 1-7 of the best 6 subjects, Life Orientation excluded."
+ },
+ "faculties": [
+  "College of Accounting Sciences",
+  "College of Economic and Management Sciences",
+  "College of Law",
+  "College of Agriculture and Environmental Sciences",
+  "College of Science, Engineering and Technology",
+  "College of Human Sciences",
+  "College of Education"
+ ],
+ "courses": [
+  {
+   "name": "Higher Certificate in Accounting Sciences",
+   "faculty": "College of Accounting Sciences",
+   "qualification_type": "higher_certificate",
+   "is_extended": false,
+   "duration_years": 1,
+   "nsc_pass_required": "higher_certificate",
+   "min_aps": 14,
+   "min_aps_maths_lit": 14,
+   "min_aps_tech_maths": 14,
+   "source_ref": "unisa.ac.za qualification 98201",
+   "notes": "Code 98201. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 30
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 30
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Higher Certificate in Archives and Records Management",
+   "faculty": "College of Accounting Sciences",
+   "qualification_type": "higher_certificate",
+   "is_extended": false,
+   "duration_years": 1,
+   "nsc_pass_required": "higher_certificate",
+   "min_aps": 15,
+   "min_aps_maths_lit": 15,
+   "min_aps_tech_maths": 15,
+   "source_ref": "unisa.ac.za qualification 98577",
+   "notes": "Code 98577. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 30
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 30
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Higher Certificate in Banking",
+   "faculty": "College of Economic and Management Sciences",
+   "qualification_type": "higher_certificate",
+   "is_extended": false,
+   "duration_years": 1,
+   "nsc_pass_required": "higher_certificate",
+   "min_aps": 15,
+   "min_aps_maths_lit": 15,
+   "min_aps_tech_maths": 15,
+   "source_ref": "unisa.ac.za qualification 98225",
+   "notes": "Code 98225. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 30
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 30
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Higher Certificate in Economic and Management Sciences",
+   "faculty": "College of Economic and Management Sciences",
+   "qualification_type": "higher_certificate",
+   "is_extended": false,
+   "duration_years": 1,
+   "nsc_pass_required": "higher_certificate",
+   "min_aps": 15,
+   "min_aps_maths_lit": 15,
+   "min_aps_tech_maths": 15,
+   "source_ref": "unisa.ac.za qualification 98237",
+   "notes": "Code 98237. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 30
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 30
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Higher Certificate in Marketing",
+   "faculty": "College of Economic and Management Sciences",
+   "qualification_type": "higher_certificate",
+   "is_extended": false,
+   "duration_years": 1,
+   "nsc_pass_required": "higher_certificate",
+   "min_aps": 15,
+   "min_aps_maths_lit": 15,
+   "min_aps_tech_maths": 15,
+   "source_ref": "unisa.ac.za qualification 98229",
+   "notes": "Code 98229. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 30
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 30
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Higher Certificate in Retailing",
+   "faculty": "College of Economic and Management Sciences",
+   "qualification_type": "higher_certificate",
+   "is_extended": false,
+   "duration_years": 1,
+   "nsc_pass_required": "higher_certificate",
+   "min_aps": 15,
+   "min_aps_maths_lit": 15,
+   "min_aps_tech_maths": 15,
+   "source_ref": "unisa.ac.za qualification 90014",
+   "notes": "Code 90014. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 30
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 30
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Higher Certificate in Tourism Management",
+   "faculty": "College of Economic and Management Sciences",
+   "qualification_type": "higher_certificate",
+   "is_extended": false,
+   "duration_years": 1,
+   "nsc_pass_required": "higher_certificate",
+   "min_aps": 15,
+   "min_aps_maths_lit": 15,
+   "min_aps_tech_maths": 15,
+   "source_ref": "unisa.ac.za qualification 98226",
+   "notes": "Code 98226. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 30
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 30
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Higher Certificate in Life and Environmental Sciences",
+   "faculty": "College of Agriculture and Environmental Sciences",
+   "qualification_type": "higher_certificate",
+   "is_extended": false,
+   "duration_years": 1,
+   "nsc_pass_required": "higher_certificate",
+   "min_aps": 15,
+   "min_aps_maths_lit": 15,
+   "min_aps_tech_maths": 15,
+   "source_ref": "unisa.ac.za qualification 98366",
+   "notes": "Code 98366. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 30
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 30
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Higher Certificate in Music",
+   "faculty": "College of Human Sciences",
+   "qualification_type": "higher_certificate",
+   "is_extended": false,
+   "duration_years": 1,
+   "nsc_pass_required": "higher_certificate",
+   "min_aps": 15,
+   "min_aps_maths_lit": 15,
+   "min_aps_tech_maths": 15,
+   "source_ref": "unisa.ac.za qualification 90194",
+   "notes": "Code 90194. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 30
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 30
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Higher Certificate in Social Auxiliary Work",
+   "faculty": "College of Human Sciences",
+   "qualification_type": "higher_certificate",
+   "is_extended": false,
+   "duration_years": 1,
+   "nsc_pass_required": "higher_certificate",
+   "min_aps": 15,
+   "min_aps_maths_lit": 15,
+   "min_aps_tech_maths": 15,
+   "source_ref": "unisa.ac.za qualification 90011",
+   "notes": "Code 90011. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 30
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 30
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Higher Certificate in Animal Welfare",
+   "faculty": "College of Agriculture and Environmental Sciences",
+   "qualification_type": "higher_certificate",
+   "is_extended": false,
+   "duration_years": 1,
+   "nsc_pass_required": "higher_certificate",
+   "min_aps": 15,
+   "min_aps_maths_lit": 15,
+   "min_aps_tech_maths": 15,
+   "source_ref": "unisa.ac.za qualification 90098",
+   "notes": "Code 90098. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 30
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 30
+      }
+     ]
+    },
+    {
+     "description": "Life Sciences or Agricultural Sciences",
+     "options": [
+      {
+       "subject": "Life Sciences",
+       "min_percent": 30
+      },
+      {
+       "subject": "Agricultural Sciences",
+       "min_percent": 30
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Higher Certificate in Criminal Justice",
+   "faculty": "College of Law",
+   "qualification_type": "higher_certificate",
+   "is_extended": false,
+   "duration_years": 1,
+   "nsc_pass_required": "higher_certificate",
+   "min_aps": 17,
+   "min_aps_maths_lit": 17,
+   "min_aps_tech_maths": 17,
+   "source_ref": "unisa.ac.za qualification 90006",
+   "notes": "Code 90006. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 40
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 40
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Higher Certificate in Law",
+   "faculty": "College of Law",
+   "qualification_type": "higher_certificate",
+   "is_extended": false,
+   "duration_years": 1,
+   "nsc_pass_required": "higher_certificate",
+   "min_aps": 17,
+   "min_aps_maths_lit": 17,
+   "min_aps_tech_maths": 17,
+   "source_ref": "unisa.ac.za qualification 98751",
+   "notes": "Code 98751. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 40
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 40
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Higher Certificate in Mathematics and Statistics",
+   "faculty": "College of Science, Engineering and Technology",
+   "qualification_type": "higher_certificate",
+   "is_extended": false,
+   "duration_years": 1,
+   "nsc_pass_required": "higher_certificate",
+   "min_aps": 15,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 90129",
+   "notes": "Code 90129. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 30
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 30
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Higher Certificate in Physical Sciences",
+   "faculty": "College of Science, Engineering and Technology",
+   "qualification_type": "higher_certificate",
+   "is_extended": false,
+   "duration_years": 1,
+   "nsc_pass_required": "higher_certificate",
+   "min_aps": 15,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 90101",
+   "notes": "Code 90101. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 30
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 30
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Higher Certificate in Supervisory Management",
+   "faculty": "College of Economic and Management Sciences",
+   "qualification_type": "higher_certificate",
+   "is_extended": false,
+   "duration_years": 1,
+   "nsc_pass_required": "higher_certificate",
+   "min_aps": 15,
+   "min_aps_maths_lit": 15,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 90015",
+   "notes": "Code 90015. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 30
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 30
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 30
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 70
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Higher Certificate in Education (Foundation Phase and Intermediate Phase)",
+   "faculty": "College of Education",
+   "qualification_type": "higher_certificate",
+   "is_extended": false,
+   "duration_years": 1,
+   "nsc_pass_required": "higher_certificate",
+   "min_aps": 18,
+   "min_aps_maths_lit": 18,
+   "min_aps_tech_maths": 18,
+   "source_ref": "unisa.ac.za qualification 90093-FIP",
+   "notes": "Code 90093-FIP. Distance learning. Completing the matching stream gives access to the corresponding BEd.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 40
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 40
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Higher Certificate in Education (Senior Phase and Further Education and Training Teaching)",
+   "faculty": "College of Education",
+   "qualification_type": "higher_certificate",
+   "is_extended": false,
+   "duration_years": 1,
+   "nsc_pass_required": "higher_certificate",
+   "min_aps": 18,
+   "min_aps_maths_lit": 18,
+   "min_aps_tech_maths": 18,
+   "source_ref": "unisa.ac.za qualification 90093-SPF",
+   "notes": "Code 90093-SPF. Distance learning. Completing the matching stream gives access to the corresponding BEd.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 40
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 40
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Higher Certificate in Education (Senior Phase Maths and Science Education)",
+   "faculty": "College of Education",
+   "qualification_type": "higher_certificate",
+   "is_extended": false,
+   "duration_years": 1,
+   "nsc_pass_required": "higher_certificate",
+   "min_aps": 18,
+   "min_aps_maths_lit": 18,
+   "min_aps_tech_maths": 18,
+   "source_ref": "unisa.ac.za qualification 90093-SMS",
+   "notes": "Code 90093-SMS. Distance learning. Completing the matching stream gives access to the corresponding BEd.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 40
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 40
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Accounting Sciences",
+   "faculty": "College of Accounting Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 18,
+   "min_aps_maths_lit": 18,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 98200",
+   "notes": "Code 98200. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Administrative Management",
+   "faculty": "College of Economic and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 17,
+   "min_aps_maths_lit": 17,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 98216",
+   "notes": "Code 98216. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 70
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Human Resource Management",
+   "faculty": "College of Economic and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 17,
+   "min_aps_maths_lit": 17,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 98211",
+   "notes": "Code 98211. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 70
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Local Government Finance",
+   "faculty": "College of Economic and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 17,
+   "min_aps_maths_lit": 17,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 90083",
+   "notes": "Code 90083. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 70
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Marketing Management",
+   "faculty": "College of Economic and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 17,
+   "min_aps_maths_lit": 17,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 98202",
+   "notes": "Code 98202. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 70
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Operations Management",
+   "faculty": "College of Economic and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 17,
+   "min_aps_maths_lit": 17,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 90183",
+   "notes": "Code 90183. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 70
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Public Administration and Management",
+   "faculty": "College of Economic and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 17,
+   "min_aps_maths_lit": 17,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 98203",
+   "notes": "Code 98203. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 70
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Small Business Management",
+   "faculty": "College of Economic and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 17,
+   "min_aps_maths_lit": 17,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 90073",
+   "notes": "Code 90073. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 70
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Safety Management",
+   "faculty": "College of Economic and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 17,
+   "min_aps_maths_lit": 17,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 90107",
+   "notes": "Code 90107. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 70
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Explosives Management",
+   "faculty": "College of Law",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 17,
+   "min_aps_maths_lit": 17,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 98222",
+   "notes": "Code 98222. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 70
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Tourism Management",
+   "faculty": "College of Economic and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 17,
+   "min_aps_maths_lit": 17,
+   "min_aps_tech_maths": 17,
+   "source_ref": "unisa.ac.za qualification 98223",
+   "notes": "Code 98223. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Corrections Management",
+   "faculty": "College of Law",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 18,
+   "min_aps_maths_lit": 18,
+   "min_aps_tech_maths": 18,
+   "source_ref": "unisa.ac.za qualification 98218",
+   "notes": "Code 98218. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Law",
+   "faculty": "College of Law",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 18,
+   "min_aps_maths_lit": 18,
+   "min_aps_tech_maths": 18,
+   "source_ref": "unisa.ac.za qualification 98750",
+   "notes": "Code 98750. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Policing",
+   "faculty": "College of Law",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 18,
+   "min_aps_maths_lit": 18,
+   "min_aps_tech_maths": 18,
+   "source_ref": "unisa.ac.za qualification 98220",
+   "notes": "Code 98220. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Security Management",
+   "faculty": "College of Law",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 18,
+   "min_aps_maths_lit": 18,
+   "min_aps_tech_maths": 18,
+   "source_ref": "unisa.ac.za qualification 98221",
+   "notes": "Code 98221. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Public Relations",
+   "faculty": "College of Human Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 18,
+   "min_aps_maths_lit": 18,
+   "min_aps_tech_maths": 18,
+   "source_ref": "unisa.ac.za qualification 90077",
+   "notes": "Code 90077. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Early Childhood Care and Education",
+   "faculty": "College of Education",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 18,
+   "min_aps_maths_lit": 18,
+   "min_aps_tech_maths": 18,
+   "source_ref": "unisa.ac.za qualification 90187",
+   "notes": "Code 90187. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 40
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 40
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Agricultural Management",
+   "faculty": "College of Agriculture and Environmental Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 18,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 90097",
+   "notes": "Code 90097. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences, Life Sciences or Agricultural Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 40
+      },
+      {
+       "subject": "Life Sciences",
+       "min_percent": 40
+      },
+      {
+       "subject": "Agricultural Sciences",
+       "min_percent": 40
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Ornamental Horticulture",
+   "faculty": "College of Agriculture and Environmental Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 18,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 98025-HOR",
+   "notes": "Code 98025-HOR. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences, Life Sciences or Agricultural Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 40
+      },
+      {
+       "subject": "Life Sciences",
+       "min_percent": 40
+      },
+      {
+       "subject": "Agricultural Sciences",
+       "min_percent": 40
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Chemical Engineering",
+   "faculty": "College of Science, Engineering and Technology",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 18,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 18,
+   "source_ref": "unisa.ac.za qualification 90130",
+   "notes": "Code 90130. Distance learning. Rating 4 (50%) in Maths or Tech Maths, English and Physical or Technical Science; Maths Lit not accepted.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences or Technical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Civil Engineering",
+   "faculty": "College of Science, Engineering and Technology",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 18,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 18,
+   "source_ref": "unisa.ac.za qualification 90137",
+   "notes": "Code 90137. Distance learning. Rating 4 (50%) in Maths or Tech Maths, English and Physical or Technical Science; Maths Lit not accepted.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences or Technical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Electrical Engineering",
+   "faculty": "College of Science, Engineering and Technology",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 18,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 18,
+   "source_ref": "unisa.ac.za qualification 90138",
+   "notes": "Code 90138. Distance learning. Rating 4 (50%) in Maths or Tech Maths, English and Physical or Technical Science; Maths Lit not accepted.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences or Technical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Industrial Engineering",
+   "faculty": "College of Science, Engineering and Technology",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 18,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 18,
+   "source_ref": "unisa.ac.za qualification 90136",
+   "notes": "Code 90136. Distance learning. Rating 4 (50%) in Maths or Tech Maths, English and Physical or Technical Science; Maths Lit not accepted.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences or Technical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Mechanical Engineering",
+   "faculty": "College of Science, Engineering and Technology",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 18,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 18,
+   "source_ref": "unisa.ac.za qualification 90132",
+   "notes": "Code 90132. Distance learning. Rating 4 (50%) in Maths or Tech Maths, English and Physical or Technical Science; Maths Lit not accepted.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences or Technical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Mining Engineering",
+   "faculty": "College of Science, Engineering and Technology",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 18,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 18,
+   "source_ref": "unisa.ac.za qualification 90140",
+   "notes": "Code 90140. Distance learning. Rating 4 (50%) in Maths or Tech Maths, English and Physical or Technical Science; Maths Lit not accepted. Also needs an Engineering and Technology or Computer subject.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences or Technical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Pulp and Paper Technology",
+   "faculty": "College of Science, Engineering and Technology",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 18,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 18,
+   "source_ref": "unisa.ac.za qualification 90141",
+   "notes": "Code 90141. Distance learning. Rating 4 (50%) in Maths or Tech Maths, English and Physical or Technical Science; Maths Lit not accepted.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences or Technical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Commerce",
+   "faculty": "College of Economic and Management Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 21,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 98314-GEN",
+   "notes": "Code 98314-GEN. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Commerce in Business Informatics",
+   "faculty": "College of Economic and Management Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 21,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 98300-BIS",
+   "notes": "Code 98300-BIS. Distance learning. Major-specific page not read; uses the general BCom (98314) requirements.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Commerce in Business Management",
+   "faculty": "College of Economic and Management Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 21,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 98310-BSM",
+   "notes": "Code 98310-BSM. Distance learning. Major-specific page not read; uses the general BCom (98314) requirements.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Commerce in Economics",
+   "faculty": "College of Economic and Management Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 21,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 98305-ECS",
+   "notes": "Code 98305-ECS. Distance learning. Major-specific page not read; uses the general BCom (98314) requirements.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Commerce in Economics (Quantitative Economics)",
+   "faculty": "College of Economic and Management Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 21,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 98305-QEC",
+   "notes": "Code 98305-QEC. Distance learning. Major-specific page not read; uses the general BCom (98314) requirements.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Commerce in Entrepreneurship",
+   "faculty": "College of Economic and Management Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 21,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 90106-ENT",
+   "notes": "Code 90106-ENT. Distance learning. Major-specific page not read; uses the general BCom (98314) requirements.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Commerce in Financial Management",
+   "faculty": "College of Economic and Management Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 21,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 98306-FMN",
+   "notes": "Code 98306-FMN. Distance learning. Major-specific page not read; uses the general BCom (98314) requirements.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Commerce in Human Resource Management",
+   "faculty": "College of Economic and Management Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 21,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 98307-HRM",
+   "notes": "Code 98307-HRM. Distance learning. Major-specific page not read; uses the general BCom (98314) requirements.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Commerce in Industrial and Organisational Psychology",
+   "faculty": "College of Economic and Management Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 21,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 98308-IOP",
+   "notes": "Code 98308-IOP. Distance learning. Major-specific page not read; uses the general BCom (98314) requirements.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Commerce in Law",
+   "faculty": "College of Economic and Management Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 21,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 90123-LAW",
+   "notes": "Code 90123-LAW. Distance learning. Major-specific page not read; uses the general BCom (98314) requirements.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Commerce in Marketing Management",
+   "faculty": "College of Economic and Management Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 21,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 98301-MKT",
+   "notes": "Code 98301-MKT. Distance learning. Major-specific page not read; uses the general BCom (98314) requirements.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Commerce in Public Procurement Management",
+   "faculty": "College of Economic and Management Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 21,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 98767-PPM",
+   "notes": "Code 98767-PPM. Distance learning. Major-specific page not read; uses the general BCom (98314) requirements.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Commerce in Quantitative Management",
+   "faculty": "College of Economic and Management Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 21,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 98311-QMA",
+   "notes": "Code 98311-QMA. Distance learning. Major-specific page not read; uses the general BCom (98314) requirements.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Commerce in Supply Chain and Operations Management",
+   "faculty": "College of Economic and Management Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 21,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 98766-SCM",
+   "notes": "Code 98766-SCM. Distance learning. Major-specific page not read; uses the general BCom (98314) requirements.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Commerce in Tourism Management",
+   "faculty": "College of Economic and Management Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 21,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 98312-TRT",
+   "notes": "Code 98312-TRT. Distance learning. Major-specific page not read; uses the general BCom (98314) requirements.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Commerce in Transport and Logistics",
+   "faculty": "College of Economic and Management Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 21,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 98313-TRL",
+   "notes": "Code 98313-TRL. Distance learning. Major-specific page not read; uses the general BCom (98314) requirements.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Business Administration",
+   "faculty": "College of Economic and Management Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 21,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 98316-BBA",
+   "notes": "Code 98316-BBA. Distance learning. Maths level read from the SC equivalent (C on SG).",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Administration",
+   "faculty": "College of Economic and Management Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 21,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 98315-BAD",
+   "notes": "Code 98315-BAD. Distance learning. APS not shown in the text read; CEMS degrees use 21.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Accounting Sciences in Financial Accounting",
+   "faculty": "College of Accounting Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 21,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 98302-FA1",
+   "notes": "Code 98302-FA1. Distance learning. NSC maths level read from the SC equivalent (D on HG / C on SG).",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Accounting Sciences in Internal Auditing",
+   "faculty": "College of Accounting Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 21,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 98303-AUI",
+   "notes": "Code 98303-AUI. Distance learning. NSC maths level read from the SC equivalent (D on HG / C on SG).",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Accounting Sciences in Management Accounting",
+   "faculty": "College of Accounting Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 21,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 98304-MA1",
+   "notes": "Code 98304-MA1. Distance learning. NSC maths level read from the SC equivalent (D on HG / C on SG).",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Accounting Sciences in Taxation",
+   "faculty": "College of Accounting Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 21,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "unisa.ac.za qualification 98318-TAX",
+   "notes": "Code 98318-TAX. Distance learning. NSC maths level read from the SC equivalent (D on HG / C on SG).",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Laws",
+   "faculty": "College of Law",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 4,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 20,
+   "min_aps_maths_lit": 20,
+   "min_aps_tech_maths": 20,
+   "source_ref": "unisa.ac.za qualification 98680",
+   "notes": "Code 98680. Distance learning. No maths requirement.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Arts in Criminology",
+   "faculty": "College of Law",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 20,
+   "min_aps_maths_lit": 20,
+   "min_aps_tech_maths": 20,
+   "source_ref": "unisa.ac.za qualification 98681",
+   "notes": "Code 98681. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Arts",
+   "faculty": "College of Human Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 20,
+   "min_aps_maths_lit": 20,
+   "min_aps_tech_maths": 20,
+   "source_ref": "unisa.ac.za qualification 99311",
+   "notes": "Code 99311. Distance learning. Covers the ~216 BA major combinations (99311 streams), which share these requirements.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Arts in Policy Studies",
+   "faculty": "College of Human Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 20,
+   "min_aps_maths_lit": 20,
+   "min_aps_tech_maths": 20,
+   "source_ref": "unisa.ac.za qualification 99303",
+   "notes": "Code 99303. Distance learning. Language requirement as for the other BA degrees.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Theology",
+   "faculty": "College of Human Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 20,
+   "min_aps_maths_lit": 20,
+   "min_aps_tech_maths": 20,
+   "source_ref": "unisa.ac.za qualification 90160",
+   "notes": "Code 90160. Distance learning.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Social Work",
+   "faculty": "College of Human Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 4,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 21,
+   "min_aps_maths_lit": 21,
+   "min_aps_tech_maths": 21,
+   "source_ref": "unisa.ac.za qualification 90088",
+   "notes": "Code 90088. Distance learning. Also needs at least 60% in any four other content subjects. Police clearance required.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 60
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 60
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Science",
+   "faculty": "College of Science, Engineering and Technology",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 20,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 20,
+   "source_ref": "unisa.ac.za qualification 98801",
+   "notes": "Code 98801. Distance learning. Covers the BSc major combinations (98801 streams). Physical/Technical Science 50% applies only if the chosen curriculum has Physics or Chemistry modules.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Science in Computing",
+   "faculty": "College of Science, Engineering and Technology",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 20,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 20,
+   "source_ref": "unisa.ac.za qualification 98906-COM",
+   "notes": "Code 98906-COM. Distance learning. Physical/Technical Science 50% applies only if the chosen curriculum has Physics or Chemistry modules.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Science in Agricultural Science",
+   "faculty": "College of Agriculture and Environmental Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 4,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 20,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 20,
+   "source_ref": "unisa.ac.za qualification 90082",
+   "notes": "Code 90082. Distance learning. Streams: Agricultural Business and Management, Animal Science, Plant Science. Physical/Technical Science 50% applies only if the chosen curriculum has Physics or Chemistry modules.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Education in Foundation Phase Teaching",
+   "faculty": "College of Education",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 4,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 23,
+   "min_aps_maths_lit": 23,
+   "min_aps_tech_maths": 23,
+   "source_ref": "unisa.ac.za qualification 90102",
+   "notes": "Code 90102. Distance learning. Subject-combination streams may add requirements.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Education in Senior Phase and Further Education and Training Teaching",
+   "faculty": "College of Education",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 4,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 23,
+   "min_aps_maths_lit": 23,
+   "min_aps_tech_maths": 23,
+   "source_ref": "unisa.ac.za qualification 90104",
+   "notes": "Code 90104. Distance learning. Subject-combination streams may add requirements.",
+   "requirements": [
+    {
+     "description": "Language of teaching and learning (English)",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "ambiguities": [
+  {
+   "item": "Coverage",
+   "issue": "Many stream pages are blocked to the reader",
+   "choice": "Loaded only qualifications whose APS/AS and NSC rule were read; the rest are listed as pending"
+  },
+  {
+   "item": "BCom majors",
+   "issue": "Individual major pages not read",
+   "choice": "Each major uses the general BCom rule (APS 21, language 50%, Maths 50%)"
+  },
+  {
+   "item": "Language of teaching and learning",
+   "issue": "UNISA's LoLT is English",
+   "choice": "English HL or FAL"
+  },
+  {
+   "item": "Science subjects",
+   "issue": "Physical Science only required if Physics/Chemistry modules are taken",
+   "choice": "Not enforced; noted on the course"
+  },
+  {
+   "item": "APS scale",
+   "issue": "UNISA does not print its APS/AS method on these pages",
+   "choice": "Standard NSC levels 1-7, best 6, LO excluded"
+  }
+ ]
+}

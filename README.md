@@ -42,7 +42,8 @@ A learner enters their matric marks once. The app then:
 | University of the Western Cape (UWC) | 39 | UWC General Admissions Criteria for 2027; weighted UWC points |
 | Cape Peninsula University of Technology (CPUT) | 116 | CPUT Prospectus 2027; % / 10, Methods 1-3 |
 | Rhodes University (RU) | 15 | RU READY! Undergraduate Prospectus (Mar 2026); % / 10 |
-| **Total** | **2,046** | |
+| University of South Africa (UNISA) | 78 | UNISA qualification pages (partial: blocked stream pages pending) |
+| **Total** | **2,124** | |
 
 ---
 
@@ -160,7 +161,7 @@ From the terminal: `npm run check -- samples/strong-science.json --uni WSU --sho
 
 - [x] Eligibility engine with per-university APS rules
 - [x] Prospectus pipeline with validation and change detection
-- [x] UJ, TUT, UP, UKZN, WSU, UFH, DUT, Wits, MUT, UNIZULU, VUT, NWU, UL, SMU, UNIVEN, UMP, UFS, CUT, SPU, NMU, UCT, SU, UWC, CPUT and RU 2027 data (2,046 courses)
+- [x] UJ, TUT, UP, UKZN, WSU, UFH, DUT, Wits, MUT, UNIZULU, VUT, NWU, UL, SMU, UNIVEN, UMP, UFS, CUT, SPU, NMU, UCT, SU, UWC, CPUT, RU and UNISA 2027 data (2,124 courses)
 - [ ] Clearer, learner-friendly UI that works well on phones
 - [ ] More universities
 - [ ] NSC pass-type check (Bachelor / Diploma / Higher Certificate)
