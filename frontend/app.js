@@ -16,7 +16,7 @@ const GROUP_LABELS = {
 const STATUS_TEXT = {
   qualifies: 'courses you qualify for',
   close: 'courses you are close to',
-  check: 'courses where you meet the minimums (no APS cut-off published)',
+  check: 'courses where you meet the minimums (no score cut-off published)',
   not_eligible: 'courses you don\'t qualify for yet',
 };
 const VIEWS = ['check', 'search', 'improve', 'course'];
@@ -276,6 +276,9 @@ function countBy(results, uni, status) {
   return results.filter((r) => r.university === uni && r.status === status).length;
 }
 
+/** What a university calls its admission score (UCT "FPS", NMU "AS"); "APS" by default. */
+function scoreLabel(code) { return state.universities.get(code)?.scoreLabel ?? 'APS'; }
+
 function plural(n, word) { return `${n} ${word}${n === 1 ? '' : 's'}`; }
 
 /** One card per university: APS, how many courses fit, and how to apply. */
@@ -304,7 +307,7 @@ function renderUniCards() {
     return el('article', { class: 'uni-card' },
       el('div', { class: 'uni-card-top' },
         el('h3', {}, uni?.name ?? code),
-        el('p', { class: 'uni-aps' }, el('strong', {}, aps), el('span', {}, 'your APS'))),
+        el('p', { class: 'uni-aps' }, el('strong', {}, aps), el('span', {}, `your ${scoreLabel(code)}`))),
       el('p', { class: 'uni-counts' },
         el('span', { class: 'n-yes' }, plural(yes, 'course')), ' you qualify for',
         close ? [', ', el('span', { class: 'n-close' }, `${close} more`), ' almost there'] : null),
@@ -315,7 +318,7 @@ function renderUniCards() {
           : null,
         show),
       el('details', {},
-        el('summary', {}, 'How your APS is worked out'),
+        el('summary', {}, `How your ${scoreLabel(code)} is worked out`),
         el('p', {}, working(counted, 'always counted'),
           '. Life Orientation is not counted unless the university says so.')));
   });
@@ -325,7 +328,7 @@ function renderUniCards() {
   const extra = Object.keys(marks).filter((s) => s !== LO).length > 6;
   $('#aps-note').hidden = !extra;
   $('#aps-note').textContent = 'You have more than six subjects. Each course counts the subjects it requires first, '
-    + 'then your best others, so a course can show a different APS from the one above.';
+    + 'then your best others, so a course can show a different score from the one above.';
 }
 
 function syncFacultyOptions() {
@@ -368,7 +371,7 @@ function gapRulers(r) {
   if (r.gaps.aps > 0) {
     const max = Math.max(42, r.requiredAps);
     items.push(el('div', {},
-      el('div', { class: 'gap-label' }, el('span', {}, `APS: you have ${r.aps}, need ${r.requiredAps}`),
+      el('div', { class: 'gap-label' }, el('span', {}, `${scoreLabel(r.university)}: you have ${r.aps}, need ${r.requiredAps}`),
         el('b', {}, `${r.gaps.aps} ${r.gaps.aps === 1 ? 'point' : 'points'} to go`)),
       ruler(r.aps, r.requiredAps, max)));
   }
@@ -390,7 +393,7 @@ function formatDate(iso) {
 function courseItem(r) {
   const uni = state.universities.get(r.university);
   const badge = r.requiredAps == null
-    ? el('div', { class: 'aps-badge' }, el('strong', {}, r.aps), 'your APS')
+    ? el('div', { class: 'aps-badge' }, el('strong', {}, r.aps), `your ${scoreLabel(r.university)}`)
     : el('div', { class: 'aps-badge' }, el('strong', {}, r.aps), `of ${r.requiredAps} needed`);
 
   const body = [];
@@ -408,7 +411,7 @@ function courseItem(r) {
   }
   const uniAps = state.response.apsByUniversity[r.university]?.aps;
   if (r.apsWorking && r.aps !== uniAps) {
-    foot.push(el('details', {}, el('summary', {}, 'How this course\'s APS is worked out'),
+    foot.push(el('details', {}, el('summary', {}, `How this course's ${scoreLabel(r.university)} is worked out`),
       el('p', {}, working(r.apsWorking, 'required by this course'),
         '. Required subjects are counted first, then your best other subjects.')));
   }
@@ -463,10 +466,11 @@ function statusBadge(status) {
 }
 
 function apsNeededText(c) {
-  if (c.minAps != null) return `APS ${c.minAps}`;
-  if (c.minApsMathsLit != null) return `APS ${c.minApsMathsLit} (Maths Lit)`;
-  if (c.minApsTechMaths != null) return `APS ${c.minApsTechMaths} (Tech Maths)`;
-  return 'APS not stated';
+  const label = scoreLabel(c.universityShortName);
+  if (c.minAps != null) return `${label} ${c.minAps}`;
+  if (c.minApsMathsLit != null) return `${label} ${c.minApsMathsLit} (Maths Lit)`;
+  if (c.minApsTechMaths != null) return `${label} ${c.minApsTechMaths} (Tech Maths)`;
+  return `${label} not stated`;
 }
 
 function qualText(c) {
@@ -587,7 +591,7 @@ function apsFacts(c) {
 
 function courseWorking(r) {
   if (!r?.apsWorking) return null;
-  return el('details', {}, el('summary', {}, 'How your APS for this course is worked out'),
+  return el('details', {}, el('summary', {}, `How your ${scoreLabel(r.university)} for this course is worked out`),
     el('p', {}, working(r.apsWorking, 'required by this course'),
       '. Required subjects are counted first, then your best other subjects.'));
 }
@@ -612,7 +616,7 @@ function yourChances(c, r, plan) {
         ' and come back to see if you qualify, and what to improve if you don\'t yet.'));
   }
   const items = [el('div', { class: 'chances-head' }, statusBadge(r.status),
-    el('span', { class: 'chances-aps' }, r.requiredAps == null ? `Your APS: ${r.aps}` : `Your APS: ${r.aps} of ${r.requiredAps}`))];
+    el('span', { class: 'chances-aps' }, r.requiredAps == null ? `Your ${scoreLabel(c.universityShortName)}: ${r.aps}` : `Your ${scoreLabel(c.universityShortName)}: ${r.aps} of ${r.requiredAps}`))];
   if (r.status === 'close') items.push(gapRulers(r));
   else if (r.reasons.length && r.status !== 'qualifies') items.push(el('ul', { class: 'reasons' }, r.reasons.map((x) => el('li', {}, x))));
 
@@ -654,7 +658,7 @@ async function openCourse(id) {
     yourChances(c, r, plan),
 
     el('section', {},
-      el('h2', {}, 'APS needed'),
+      el('h2', {}, `${scoreLabel(c.universityShortName)} needed`),
       el('ul', { class: 'facts' }, apsFacts(c)),
       c.apsRule ? el('p', { class: 'muted small' },
         `${c.universityShortName} counts your best ${c.apsRule.subjectsCounted} subjects`,
@@ -843,7 +847,7 @@ async function renderImprove() {
         el('h3', {}, el('a', { href: `#course/${p.courseId}` }, p.name)),
         saveButton(p.courseId, p.name)),
       el('p', { class: 'meta' }, statusBadge(p.status), ` ${uni?.name ?? p.university}. `,
-        p.requiredAps == null ? `Your APS ${p.currentAps}` : `Your APS ${p.currentAps}, needs ${p.requiredAps}`),
+        p.requiredAps == null ? `Your ${scoreLabel(p.university)} ${p.currentAps}` : `Your ${scoreLabel(p.university)} ${p.currentAps}, needs ${p.requiredAps}`),
       el('p', { class: 'my-course-plan' }, p.summary),
       p.reachable && p.changes.length
         ? el('ul', { class: 'plan-list' }, p.changes.map((ch) =>

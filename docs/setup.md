@@ -47,6 +47,7 @@ psql -U postgres -d samatric -f database/migrations/003_min_count_and_course_lo.
 psql -U postgres -d samatric -f database/migrations/004_course_closes_on.sql
 psql -U postgres -d samatric -f database/migrations/005_course_aps_weights.sql
 psql -U postgres -d samatric -f database/migrations/006_course_aps_subjects_counted.sql
+psql -U postgres -d samatric -f database/migrations/007_aps_rule_score_label.sql
 ```
 
 ### Start over

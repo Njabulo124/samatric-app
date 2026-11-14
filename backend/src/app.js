@@ -39,6 +39,7 @@ function ruleView(rule) {
     subjectsCounted: rule.subjectsCounted,
     includeLo: rule.includeLo,
     mustCount: rule.mustCount ?? [],
+    scoreLabel: rule.scoreLabel ?? 'APS',
     bands: rule.defaultBands,
   };
 }

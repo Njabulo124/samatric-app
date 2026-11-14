@@ -138,15 +138,16 @@ def load(doc: ProspectusExtract, conn, prune: bool) -> dict:
         rule_id = cur.execute(
             """
             INSERT INTO aps_rules (university_id, intake_year, default_scale_id, subjects_counted, include_lo,
-                                   must_count, notes)
-            VALUES (%s, %s, %s, %s, %s, %s, %s)
+                                   must_count, score_label, notes)
+            VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
             ON CONFLICT (university_id, intake_year) DO UPDATE SET
                 default_scale_id = EXCLUDED.default_scale_id, subjects_counted = EXCLUDED.subjects_counted,
-                include_lo = EXCLUDED.include_lo, must_count = EXCLUDED.must_count, notes = EXCLUDED.notes
+                include_lo = EXCLUDED.include_lo, must_count = EXCLUDED.must_count,
+                score_label = EXCLUDED.score_label, notes = EXCLUDED.notes
             RETURNING rule_id
             """,
             (uni_id, year, default_scale_id, rule.subjects_counted, rule.include_lo,
-             Jsonb(rule.must_count), rule.notes),
+             Jsonb(rule.must_count), rule.score_label, rule.notes),
         ).fetchone()[0]
         cur.execute("DELETE FROM aps_rule_subject_scales WHERE rule_id = %s", (rule_id,))
         for ss in rule.subject_scales:

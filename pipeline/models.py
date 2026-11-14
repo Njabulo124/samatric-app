@@ -99,6 +99,7 @@ class ApsRule(StrictModel):
     # Subjects always counted in the APS. Each slot lists alternatives (e.g. English HL or FAL);
     # the learner's best subject per slot is counted first, then the best of the rest.
     must_count: list[list[str]] = []
+    score_label: Optional[str] = Field(default=None, max_length=20)  # UCT "FPS"; None = "APS"
     subject_scales: list[SubjectScale] = []
     notes: Optional[str] = None
 
