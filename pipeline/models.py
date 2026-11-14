@@ -112,7 +112,7 @@ class RequirementOption(StrictModel):
 
 
 class RequirementGroup(StrictModel):
-    description: str
+    description: str = Field(max_length=150)  # requirement_groups.description is VARCHAR(150)
     # The group passes when at least min_count options are met (1 = any one option).
     # e.g. "2 of Accounting / Business Studies / Economics" -> min_count 2 with three options.
     min_count: int = Field(default=1, ge=1)
@@ -153,6 +153,7 @@ class Course(StrictModel):
     closes_on: Optional[date] = None
     # Subjects weighted in this course's score; None = no weighting
     aps_weights: Optional[list[ApsWeight]] = None
+    aps_subjects_counted: Optional[int] = Field(default=None, ge=1, le=9)  # None = university rule
     source_ref: Optional[str] = None
     notes: Optional[str] = None
     requirements: list[RequirementGroup] = []

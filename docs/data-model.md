@@ -51,6 +51,8 @@ The API also returns `apsWorking`, the counted subjects with their points and wh
 
 `courses.aps_weights` subjects counted more than once in this course's score, e.g. UCT Science `[{"subjects": ["Mathematics"], "weight": 2}, {"subjects": ["Physical Sciences", "Information Technology", "Life Sciences"], "weight": 2}]`. `subjects` are alternatives in priority order; the first one the learner counts gets the weight. NULL = no weighting.
 
+`courses.aps_subjects_counted` how many subjects make up this course's score when it differs from the university rule, e.g. CPUT Method 2 (Maths x2, Physical Sciences x2, English and one more) counts 4. NULL = the university rule.
+
 ## Requirement groups ("AND of ORs")
 
 Every group must pass. A group passes when **at least `min_count`** of its options are met.

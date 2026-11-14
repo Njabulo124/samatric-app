@@ -170,6 +170,10 @@ export function courseRule(rule, course) {
   }
   // Course-level subject weights (UCT Science counts Maths and Physical Sciences twice)
   if (course.apsWeights?.length) r = { ...r, weights: course.apsWeights };
+  // Course-level subject count (CPUT Method 2 counts 4 subjects); LO, if counted, stays on top
+  if (course.apsSubjectsCounted) {
+    r = { ...r, subjectsCounted: course.apsSubjectsCounted + (r.includeLo ? 1 : 0) };
+  }
   return r;
 }
 

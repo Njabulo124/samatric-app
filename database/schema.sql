@@ -116,6 +116,7 @@ CREATE TABLE courses (
     include_lo         BOOLEAN,                          -- NULL = university rule; TRUE = LO counted as an extra subject
     closes_on          DATE,                             -- NULL = faculty or general closing date applies
     aps_weights        JSONB,                            -- e.g. [{"subjects": ["Mathematics"], "weight": 2}]; NULL = none
+    aps_subjects_counted SMALLINT CHECK (aps_subjects_counted BETWEEN 1 AND 9), -- NULL = university rule
     prospectus_year    SMALLINT NOT NULL,                -- intake year the data applies to
     source_ref         TEXT,                             -- prospectus page / URL for traceability
     notes              TEXT,

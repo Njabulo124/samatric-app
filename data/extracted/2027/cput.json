@@ -1,0 +1,7582 @@
+{
+ "intake_year": 2027,
+ "source_document": "CPUT Prospectus 2027 (University Qualifications, View Online PDF)",
+ "university": {
+  "name": "Cape Peninsula University of Technology",
+  "short_name": "CPUT",
+  "institution_type": "university_of_technology",
+  "province": "Western Cape",
+  "website_url": "https://www.cput.ac.za",
+  "application_url": "https://www.cput.ac.za/study/apply",
+  "application_fee": 0
+ },
+ "application_periods": [
+  {
+   "label": "General",
+   "opens_on": "2026-05-11",
+   "closes_on": "2026-09-30",
+   "notes": "Online applications are free. Some Health and Education programmes close earlier."
+  }
+ ],
+ "aps_rule": {
+  "default_scale": {
+   "name": "CPUT percentage / 10",
+   "bands": [
+    {
+     "min_mark": 0,
+     "max_mark": 0,
+     "points": 0.0
+    },
+    {
+     "min_mark": 1,
+     "max_mark": 1,
+     "points": 0.1
+    },
+    {
+     "min_mark": 2,
+     "max_mark": 2,
+     "points": 0.2
+    },
+    {
+     "min_mark": 3,
+     "max_mark": 3,
+     "points": 0.3
+    },
+    {
+     "min_mark": 4,
+     "max_mark": 4,
+     "points": 0.4
+    },
+    {
+     "min_mark": 5,
+     "max_mark": 5,
+     "points": 0.5
+    },
+    {
+     "min_mark": 6,
+     "max_mark": 6,
+     "points": 0.6
+    },
+    {
+     "min_mark": 7,
+     "max_mark": 7,
+     "points": 0.7
+    },
+    {
+     "min_mark": 8,
+     "max_mark": 8,
+     "points": 0.8
+    },
+    {
+     "min_mark": 9,
+     "max_mark": 9,
+     "points": 0.9
+    },
+    {
+     "min_mark": 10,
+     "max_mark": 10,
+     "points": 1.0
+    },
+    {
+     "min_mark": 11,
+     "max_mark": 11,
+     "points": 1.1
+    },
+    {
+     "min_mark": 12,
+     "max_mark": 12,
+     "points": 1.2
+    },
+    {
+     "min_mark": 13,
+     "max_mark": 13,
+     "points": 1.3
+    },
+    {
+     "min_mark": 14,
+     "max_mark": 14,
+     "points": 1.4
+    },
+    {
+     "min_mark": 15,
+     "max_mark": 15,
+     "points": 1.5
+    },
+    {
+     "min_mark": 16,
+     "max_mark": 16,
+     "points": 1.6
+    },
+    {
+     "min_mark": 17,
+     "max_mark": 17,
+     "points": 1.7
+    },
+    {
+     "min_mark": 18,
+     "max_mark": 18,
+     "points": 1.8
+    },
+    {
+     "min_mark": 19,
+     "max_mark": 19,
+     "points": 1.9
+    },
+    {
+     "min_mark": 20,
+     "max_mark": 20,
+     "points": 2.0
+    },
+    {
+     "min_mark": 21,
+     "max_mark": 21,
+     "points": 2.1
+    },
+    {
+     "min_mark": 22,
+     "max_mark": 22,
+     "points": 2.2
+    },
+    {
+     "min_mark": 23,
+     "max_mark": 23,
+     "points": 2.3
+    },
+    {
+     "min_mark": 24,
+     "max_mark": 24,
+     "points": 2.4
+    },
+    {
+     "min_mark": 25,
+     "max_mark": 25,
+     "points": 2.5
+    },
+    {
+     "min_mark": 26,
+     "max_mark": 26,
+     "points": 2.6
+    },
+    {
+     "min_mark": 27,
+     "max_mark": 27,
+     "points": 2.7
+    },
+    {
+     "min_mark": 28,
+     "max_mark": 28,
+     "points": 2.8
+    },
+    {
+     "min_mark": 29,
+     "max_mark": 29,
+     "points": 2.9
+    },
+    {
+     "min_mark": 30,
+     "max_mark": 30,
+     "points": 3.0
+    },
+    {
+     "min_mark": 31,
+     "max_mark": 31,
+     "points": 3.1
+    },
+    {
+     "min_mark": 32,
+     "max_mark": 32,
+     "points": 3.2
+    },
+    {
+     "min_mark": 33,
+     "max_mark": 33,
+     "points": 3.3
+    },
+    {
+     "min_mark": 34,
+     "max_mark": 34,
+     "points": 3.4
+    },
+    {
+     "min_mark": 35,
+     "max_mark": 35,
+     "points": 3.5
+    },
+    {
+     "min_mark": 36,
+     "max_mark": 36,
+     "points": 3.6
+    },
+    {
+     "min_mark": 37,
+     "max_mark": 37,
+     "points": 3.7
+    },
+    {
+     "min_mark": 38,
+     "max_mark": 38,
+     "points": 3.8
+    },
+    {
+     "min_mark": 39,
+     "max_mark": 39,
+     "points": 3.9
+    },
+    {
+     "min_mark": 40,
+     "max_mark": 40,
+     "points": 4.0
+    },
+    {
+     "min_mark": 41,
+     "max_mark": 41,
+     "points": 4.1
+    },
+    {
+     "min_mark": 42,
+     "max_mark": 42,
+     "points": 4.2
+    },
+    {
+     "min_mark": 43,
+     "max_mark": 43,
+     "points": 4.3
+    },
+    {
+     "min_mark": 44,
+     "max_mark": 44,
+     "points": 4.4
+    },
+    {
+     "min_mark": 45,
+     "max_mark": 45,
+     "points": 4.5
+    },
+    {
+     "min_mark": 46,
+     "max_mark": 46,
+     "points": 4.6
+    },
+    {
+     "min_mark": 47,
+     "max_mark": 47,
+     "points": 4.7
+    },
+    {
+     "min_mark": 48,
+     "max_mark": 48,
+     "points": 4.8
+    },
+    {
+     "min_mark": 49,
+     "max_mark": 49,
+     "points": 4.9
+    },
+    {
+     "min_mark": 50,
+     "max_mark": 50,
+     "points": 5.0
+    },
+    {
+     "min_mark": 51,
+     "max_mark": 51,
+     "points": 5.1
+    },
+    {
+     "min_mark": 52,
+     "max_mark": 52,
+     "points": 5.2
+    },
+    {
+     "min_mark": 53,
+     "max_mark": 53,
+     "points": 5.3
+    },
+    {
+     "min_mark": 54,
+     "max_mark": 54,
+     "points": 5.4
+    },
+    {
+     "min_mark": 55,
+     "max_mark": 55,
+     "points": 5.5
+    },
+    {
+     "min_mark": 56,
+     "max_mark": 56,
+     "points": 5.6
+    },
+    {
+     "min_mark": 57,
+     "max_mark": 57,
+     "points": 5.7
+    },
+    {
+     "min_mark": 58,
+     "max_mark": 58,
+     "points": 5.8
+    },
+    {
+     "min_mark": 59,
+     "max_mark": 59,
+     "points": 5.9
+    },
+    {
+     "min_mark": 60,
+     "max_mark": 60,
+     "points": 6.0
+    },
+    {
+     "min_mark": 61,
+     "max_mark": 61,
+     "points": 6.1
+    },
+    {
+     "min_mark": 62,
+     "max_mark": 62,
+     "points": 6.2
+    },
+    {
+     "min_mark": 63,
+     "max_mark": 63,
+     "points": 6.3
+    },
+    {
+     "min_mark": 64,
+     "max_mark": 64,
+     "points": 6.4
+    },
+    {
+     "min_mark": 65,
+     "max_mark": 65,
+     "points": 6.5
+    },
+    {
+     "min_mark": 66,
+     "max_mark": 66,
+     "points": 6.6
+    },
+    {
+     "min_mark": 67,
+     "max_mark": 67,
+     "points": 6.7
+    },
+    {
+     "min_mark": 68,
+     "max_mark": 68,
+     "points": 6.8
+    },
+    {
+     "min_mark": 69,
+     "max_mark": 69,
+     "points": 6.9
+    },
+    {
+     "min_mark": 70,
+     "max_mark": 70,
+     "points": 7.0
+    },
+    {
+     "min_mark": 71,
+     "max_mark": 71,
+     "points": 7.1
+    },
+    {
+     "min_mark": 72,
+     "max_mark": 72,
+     "points": 7.2
+    },
+    {
+     "min_mark": 73,
+     "max_mark": 73,
+     "points": 7.3
+    },
+    {
+     "min_mark": 74,
+     "max_mark": 74,
+     "points": 7.4
+    },
+    {
+     "min_mark": 75,
+     "max_mark": 75,
+     "points": 7.5
+    },
+    {
+     "min_mark": 76,
+     "max_mark": 76,
+     "points": 7.6
+    },
+    {
+     "min_mark": 77,
+     "max_mark": 77,
+     "points": 7.7
+    },
+    {
+     "min_mark": 78,
+     "max_mark": 78,
+     "points": 7.8
+    },
+    {
+     "min_mark": 79,
+     "max_mark": 79,
+     "points": 7.9
+    },
+    {
+     "min_mark": 80,
+     "max_mark": 80,
+     "points": 8.0
+    },
+    {
+     "min_mark": 81,
+     "max_mark": 81,
+     "points": 8.1
+    },
+    {
+     "min_mark": 82,
+     "max_mark": 82,
+     "points": 8.2
+    },
+    {
+     "min_mark": 83,
+     "max_mark": 83,
+     "points": 8.3
+    },
+    {
+     "min_mark": 84,
+     "max_mark": 84,
+     "points": 8.4
+    },
+    {
+     "min_mark": 85,
+     "max_mark": 85,
+     "points": 8.5
+    },
+    {
+     "min_mark": 86,
+     "max_mark": 86,
+     "points": 8.6
+    },
+    {
+     "min_mark": 87,
+     "max_mark": 87,
+     "points": 8.7
+    },
+    {
+     "min_mark": 88,
+     "max_mark": 88,
+     "points": 8.8
+    },
+    {
+     "min_mark": 89,
+     "max_mark": 89,
+     "points": 8.9
+    },
+    {
+     "min_mark": 90,
+     "max_mark": 90,
+     "points": 9.0
+    },
+    {
+     "min_mark": 91,
+     "max_mark": 91,
+     "points": 9.1
+    },
+    {
+     "min_mark": 92,
+     "max_mark": 92,
+     "points": 9.2
+    },
+    {
+     "min_mark": 93,
+     "max_mark": 93,
+     "points": 9.3
+    },
+    {
+     "min_mark": 94,
+     "max_mark": 94,
+     "points": 9.4
+    },
+    {
+     "min_mark": 95,
+     "max_mark": 95,
+     "points": 9.5
+    },
+    {
+     "min_mark": 96,
+     "max_mark": 96,
+     "points": 9.6
+    },
+    {
+     "min_mark": 97,
+     "max_mark": 97,
+     "points": 9.7
+    },
+    {
+     "min_mark": 98,
+     "max_mark": 98,
+     "points": 9.8
+    },
+    {
+     "min_mark": 99,
+     "max_mark": 99,
+     "points": 9.9
+    },
+    {
+     "min_mark": 100,
+     "max_mark": 100,
+     "points": 10.0
+    }
+   ]
+  },
+  "subjects_counted": 6,
+  "include_lo": false,
+  "must_count": [],
+  "subject_scales": [],
+  "notes": "APS = sum of subject percentages / 10, Life Orientation never counts. Method 1: best 6 subjects. Method 2 (Engineering): Maths x2 + Physical Sciences x2 + English + next best subject. Method 3 (Accountancy): Maths x2 + Accounting x2 + English + 3 next best."
+ },
+ "faculties": [
+  "Faculty of Applied Sciences",
+  "Faculty of Business and Management Sciences",
+  "Faculty of Education",
+  "Faculty of Health and Wellness Sciences",
+  "Faculty of Informatics and Design",
+  "Faculty of Engineering and the Built Environment"
+ ],
+ "courses": [
+  {
+   "name": "Diploma in Agriculture",
+   "faculty": "Faculty of Applied Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 30,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 31,
+   "source_ref": "CPUT Prospectus 2027 p.7",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Life Sciences or Physical Sciences at 50%.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Life Sciences or Physical Sciences",
+     "options": [
+      {
+       "subject": "Life Sciences",
+       "min_percent": 50
+      },
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Agriculture (Extended Curriculum)",
+   "faculty": "Faculty of Applied Sciences",
+   "qualification_type": "diploma",
+   "is_extended": true,
+   "duration_years": 4,
+   "nsc_pass_required": "diploma",
+   "min_aps": 28,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 29,
+   "source_ref": "CPUT Prospectus 2027 p.7",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Life Sciences or Physical Sciences at 50%. ECP: subject to space.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Life Sciences or Physical Sciences",
+     "options": [
+      {
+       "subject": "Life Sciences",
+       "min_percent": 50
+      },
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Agricultural Management",
+   "faculty": "Faculty of Applied Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 30,
+   "min_aps_maths_lit": 32,
+   "min_aps_tech_maths": 31,
+   "source_ref": "CPUT Prospectus 2027 p.7",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Life Sciences or Physical Sciences at 50%.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Life Sciences or Physical Sciences",
+     "options": [
+      {
+       "subject": "Life Sciences",
+       "min_percent": 50
+      },
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Agricultural Management (Extended Curriculum)",
+   "faculty": "Faculty of Applied Sciences",
+   "qualification_type": "diploma",
+   "is_extended": true,
+   "duration_years": 4,
+   "nsc_pass_required": "diploma",
+   "min_aps": 28,
+   "min_aps_maths_lit": 30,
+   "min_aps_tech_maths": 29,
+   "source_ref": "CPUT Prospectus 2027 p.7",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Life Sciences or Physical Sciences at 50%. ECP: subject to space.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Life Sciences or Physical Sciences",
+     "options": [
+      {
+       "subject": "Life Sciences",
+       "min_percent": 50
+      },
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Analytical Chemistry",
+   "faculty": "Faculty of Applied Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 30,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 31,
+   "source_ref": "CPUT Prospectus 2027 p.7",
+   "notes": "APS Method 1 (best 6 subjects' % / 10).",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Analytical Chemistry (Extended Curriculum)",
+   "faculty": "Faculty of Applied Sciences",
+   "qualification_type": "diploma",
+   "is_extended": true,
+   "duration_years": 4,
+   "nsc_pass_required": "diploma",
+   "min_aps": 28,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 29,
+   "source_ref": "CPUT Prospectus 2027 p.7",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). ECP may admit 45%+ in Maths or Physical Sciences if the other is 50%+.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Biotechnology",
+   "faculty": "Faculty of Applied Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 30,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 31,
+   "source_ref": "CPUT Prospectus 2027 p.7",
+   "notes": "APS Method 1 (best 6 subjects' % / 10).",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Life Sciences",
+     "options": [
+      {
+       "subject": "Life Sciences",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Biotechnology (Extended Curriculum)",
+   "faculty": "Faculty of Applied Sciences",
+   "qualification_type": "diploma",
+   "is_extended": true,
+   "duration_years": 4,
+   "nsc_pass_required": "diploma",
+   "min_aps": 28,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 29,
+   "source_ref": "CPUT Prospectus 2027 p.7",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). ECP may admit 45%+ in Maths, Physical Sciences or Life Sciences if the other three are 50%+.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Life Sciences",
+     "options": [
+      {
+       "subject": "Life Sciences",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Consumer Science: Food and Nutrition",
+   "faculty": "Faculty of Applied Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 28,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 29,
+   "source_ref": "CPUT Prospectus 2027 p.7",
+   "notes": "APS Method 1 (best 6 subjects' % / 10).",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Consumer Science: Food and Nutrition (Extended Curriculum)",
+   "faculty": "Faculty of Applied Sciences",
+   "qualification_type": "diploma",
+   "is_extended": true,
+   "duration_years": 4,
+   "nsc_pass_required": "diploma",
+   "min_aps": 26,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 27,
+   "source_ref": "CPUT Prospectus 2027 p.7",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). ECP may admit 45%+ in Maths or Physical Sciences if the other three are 50%+.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Environmental Management",
+   "faculty": "Faculty of Applied Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 28,
+   "min_aps_maths_lit": 30,
+   "min_aps_tech_maths": 29,
+   "source_ref": "CPUT Prospectus 2027 p.7",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Plus any other 2 subjects at 40% (not LO). The table also prints Physical Sciences 40%, but the requirement text lists Geography or Life Sciences, so that is used.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Geography or Life Sciences",
+     "options": [
+      {
+       "subject": "Geography",
+       "min_percent": 50
+      },
+      {
+       "subject": "Life Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Environmental Management (Extended Curriculum)",
+   "faculty": "Faculty of Applied Sciences",
+   "qualification_type": "diploma",
+   "is_extended": true,
+   "duration_years": 4,
+   "nsc_pass_required": "diploma",
+   "min_aps": 26,
+   "min_aps_maths_lit": 28,
+   "min_aps_tech_maths": 27,
+   "source_ref": "CPUT Prospectus 2027 p.7",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Plus any other 2 subjects at 40% (not LO). The table also prints Physical Sciences 40%, but the requirement text lists Geography or Life Sciences, so that is used.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Geography or Life Sciences",
+     "options": [
+      {
+       "subject": "Geography",
+       "min_percent": 50
+      },
+      {
+       "subject": "Life Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Environmental Health",
+   "faculty": "Faculty of Applied Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 4,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 32,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 33,
+   "source_ref": "CPUT Prospectus 2027 p.7",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Plus any other two subjects at 50% (not LO).",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Life Sciences",
+     "options": [
+      {
+       "subject": "Life Sciences",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Environmental Health (Extended Curriculum)",
+   "faculty": "Faculty of Applied Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": true,
+   "duration_years": 4,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 30,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 31,
+   "source_ref": "CPUT Prospectus 2027 p.7",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Plus any other two subjects at 50% (not LO).",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Life Sciences",
+     "options": [
+      {
+       "subject": "Life Sciences",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Food Science and Technology",
+   "faculty": "Faculty of Applied Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": null,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 32,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 33,
+   "source_ref": "CPUT Prospectus 2027 p.7",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Plus any two other subjects (not languages) at 40%+. No ECP.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Life Sciences",
+     "options": [
+      {
+       "subject": "Life Sciences",
+       "min_percent": 40
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Marine Science",
+   "faculty": "Faculty of Applied Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 30,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 31,
+   "source_ref": "CPUT Prospectus 2027 p.7",
+   "notes": "APS Method 1 (best 6 subjects' % / 10).",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Marine Science (Extended Curriculum)",
+   "faculty": "Faculty of Applied Sciences",
+   "qualification_type": "diploma",
+   "is_extended": true,
+   "duration_years": 4,
+   "nsc_pass_required": "diploma",
+   "min_aps": 28,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 29,
+   "source_ref": "CPUT Prospectus 2027 p.7",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). ECP may admit 45%+ in Maths or Physical Sciences if the other is 50%+.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Nature Conservation",
+   "faculty": "Faculty of Applied Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 30,
+   "min_aps_maths_lit": 32,
+   "min_aps_tech_maths": 31,
+   "source_ref": "CPUT Prospectus 2027 p.7",
+   "notes": "APS Method 1 (best 6 subjects' % / 10).",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Life Sciences",
+     "options": [
+      {
+       "subject": "Life Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Nature Conservation (Extended Curriculum)",
+   "faculty": "Faculty of Applied Sciences",
+   "qualification_type": "diploma",
+   "is_extended": true,
+   "duration_years": 4,
+   "nsc_pass_required": "diploma",
+   "min_aps": 28,
+   "min_aps_maths_lit": 30,
+   "min_aps_tech_maths": 29,
+   "source_ref": "CPUT Prospectus 2027 p.7",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). ECP: subject to space.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Life Sciences",
+     "options": [
+      {
+       "subject": "Life Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Mathematical Sciences",
+   "faculty": "Faculty of Applied Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 28,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 29,
+   "source_ref": "CPUT Prospectus 2027 p.7",
+   "notes": "APS Method 1 (best 6 subjects' % / 10).",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences, Accounting, Business Studies, Economics or Geography",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      },
+      {
+       "subject": "Accounting",
+       "min_percent": 50
+      },
+      {
+       "subject": "Business Studies",
+       "min_percent": 50
+      },
+      {
+       "subject": "Economics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Geography",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Mathematical Sciences (Extended Curriculum)",
+   "faculty": "Faculty of Applied Sciences",
+   "qualification_type": "diploma",
+   "is_extended": true,
+   "duration_years": 4,
+   "nsc_pass_required": "diploma",
+   "min_aps": 26,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 27,
+   "source_ref": "CPUT Prospectus 2027 p.7",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). ECP: subject to space.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences, Accounting, Business Studies, Economics or Geography",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 40
+      },
+      {
+       "subject": "Accounting",
+       "min_percent": 40
+      },
+      {
+       "subject": "Business Studies",
+       "min_percent": 40
+      },
+      {
+       "subject": "Economics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Geography",
+       "min_percent": 40
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Horticulture",
+   "faculty": "Faculty of Applied Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 30,
+   "min_aps_maths_lit": 32,
+   "min_aps_tech_maths": 31,
+   "source_ref": "CPUT Prospectus 2027 p.7",
+   "notes": "APS Method 1 (best 6 subjects' % / 10).",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Life Sciences",
+     "options": [
+      {
+       "subject": "Life Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Horticulture (Extended Curriculum)",
+   "faculty": "Faculty of Applied Sciences",
+   "qualification_type": "diploma",
+   "is_extended": true,
+   "duration_years": 4,
+   "nsc_pass_required": "diploma",
+   "min_aps": 28,
+   "min_aps_maths_lit": 30,
+   "min_aps_tech_maths": 29,
+   "source_ref": "CPUT Prospectus 2027 p.7",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Subject to space; Foundation Programme possible with Life Sciences 40%.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Life Sciences",
+     "options": [
+      {
+       "subject": "Life Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Landscape Architecture",
+   "faculty": "Faculty of Applied Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 30,
+   "min_aps_maths_lit": 32,
+   "min_aps_tech_maths": 31,
+   "source_ref": "CPUT Prospectus 2027 p.7",
+   "notes": "APS Method 1 (best 6 subjects' % / 10).",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Life Sciences",
+     "options": [
+      {
+       "subject": "Life Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Landscape Architecture (Extended Curriculum)",
+   "faculty": "Faculty of Applied Sciences",
+   "qualification_type": "diploma",
+   "is_extended": true,
+   "duration_years": 4,
+   "nsc_pass_required": "diploma",
+   "min_aps": 28,
+   "min_aps_maths_lit": 30,
+   "min_aps_tech_maths": 29,
+   "source_ref": "CPUT Prospectus 2027 p.7",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Subject to space; Foundation Programme possible with Life Sciences 40%.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Life Sciences",
+     "options": [
+      {
+       "subject": "Life Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Accountancy",
+   "faculty": "Faculty of Business and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 38,
+   "min_aps_maths_lit": 38,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.9",
+   "notes": "APS Method 3: (Maths x2 + Accounting x2 + English + 3 next best subjects) / 10. Maths and Accounting marks are doubled in the APS. The faculty prioritises Choice 1 applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics, Mathematical Literacy or Accounting",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 60
+      },
+      {
+       "subject": "Accounting",
+       "min_percent": 50
+      }
+     ]
+    }
+   ],
+   "aps_weights": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "weight": 2
+    },
+    {
+     "subjects": [
+      "Accounting"
+     ],
+     "weight": 2
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Accountancy (Extended Curriculum)",
+   "faculty": "Faculty of Business and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": true,
+   "duration_years": 4,
+   "nsc_pass_required": "diploma",
+   "min_aps": 35,
+   "min_aps_maths_lit": 35,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.9",
+   "notes": "APS Method 3: (Maths x2 + Accounting x2 + English + 3 next best subjects) / 10. Maths and Accounting marks are doubled in the APS. The faculty prioritises Choice 1 applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics, Mathematical Literacy or Accounting",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 50
+      },
+      {
+       "subject": "Accounting",
+       "min_percent": 40
+      }
+     ]
+    }
+   ],
+   "aps_weights": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "weight": 2
+    },
+    {
+     "subjects": [
+      "Accounting"
+     ],
+     "weight": 2
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Entrepreneurship",
+   "faculty": "Faculty of Business and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 26,
+   "min_aps_maths_lit": 26,
+   "min_aps_tech_maths": 26,
+   "source_ref": "CPUT Prospectus 2027 p.9",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Technical Maths at 60% considered. The faculty prioritises Choice 1 applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 30
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "One of: Business Studies, Economics, Accounting, Consumer Studies",
+     "options": [
+      {
+       "subject": "Business Studies",
+       "min_percent": 50
+      },
+      {
+       "subject": "Economics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Accounting",
+       "min_percent": 50
+      },
+      {
+       "subject": "Consumer Studies",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Entrepreneurship (Extended Curriculum)",
+   "faculty": "Faculty of Business and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": true,
+   "duration_years": 4,
+   "nsc_pass_required": "diploma",
+   "min_aps": 22,
+   "min_aps_maths_lit": 22,
+   "min_aps_tech_maths": 22,
+   "source_ref": "CPUT Prospectus 2027 p.9",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Technical Maths at 60% considered. The faculty prioritises Choice 1 applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 30
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "One of: Business Studies, Economics, Accounting, Consumer Studies",
+     "options": [
+      {
+       "subject": "Business Studies",
+       "min_percent": 50
+      },
+      {
+       "subject": "Economics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Accounting",
+       "min_percent": 50
+      },
+      {
+       "subject": "Consumer Studies",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Banking",
+   "faculty": "Faculty of Business and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 24,
+   "min_aps_maths_lit": 26,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.9",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Graduate Centre for Management; contact classes. Printed options: ICT and Accounting, Economics, Business Studies, Consumer Studies, Management Practice, Financial Management or Marketing at NQF level 4. Part-time students need a letter of full-time employment, preferably in banking. The faculty prioritises Choice 1 applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "One of: Accounting, Economics, Business Studies, Consumer Studies",
+     "options": [
+      {
+       "subject": "Accounting",
+       "min_percent": 50
+      },
+      {
+       "subject": "Economics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Business Studies",
+       "min_percent": 50
+      },
+      {
+       "subject": "Consumer Studies",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Business Informatics",
+   "faculty": "Faculty of Business and Management Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": null,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 25,
+   "min_aps_maths_lit": 27,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.9",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Graduate Centre for Management. NC(V) route available. The faculty prioritises Choice 1 applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Human Resources Management",
+   "faculty": "Faculty of Business and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 26,
+   "min_aps_maths_lit": 28,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.9",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Part-time applicants need a letter of full-time employment, preferably in HR. The faculty prioritises Choice 1 applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 30
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "One related subject, any mark",
+     "options": [
+      {
+       "subject": "Economics",
+       "min_percent": 0
+      },
+      {
+       "subject": "Business Studies",
+       "min_percent": 0
+      },
+      {
+       "subject": "Accounting",
+       "min_percent": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Human Resources Management (Extended Curriculum)",
+   "faculty": "Faculty of Business and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": true,
+   "duration_years": 4,
+   "nsc_pass_required": "diploma",
+   "min_aps": 24,
+   "min_aps_maths_lit": 26,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.9",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Part-time applicants need a letter of full-time employment, preferably in HR. The faculty prioritises Choice 1 applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 30
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "One related subject, any mark",
+     "options": [
+      {
+       "subject": "Economics",
+       "min_percent": 0
+      },
+      {
+       "subject": "Business Studies",
+       "min_percent": 0
+      },
+      {
+       "subject": "Accounting",
+       "min_percent": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Management",
+   "faculty": "Faculty of Business and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 28,
+   "min_aps_maths_lit": 30,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.9",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Part-time applicants need a letter of full-time employment and preferably supervisory experience. The faculty prioritises Choice 1 applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 30
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "One related subject, any mark",
+     "options": [
+      {
+       "subject": "Economics",
+       "min_percent": 0
+      },
+      {
+       "subject": "Business Studies",
+       "min_percent": 0
+      },
+      {
+       "subject": "Accounting",
+       "min_percent": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Management (Extended Curriculum)",
+   "faculty": "Faculty of Business and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": true,
+   "duration_years": 4,
+   "nsc_pass_required": "diploma",
+   "min_aps": 24,
+   "min_aps_maths_lit": 26,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.9",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Part-time applicants need a letter of full-time employment and preferably supervisory experience. The faculty prioritises Choice 1 applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 30
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "One related subject, any mark",
+     "options": [
+      {
+       "subject": "Economics",
+       "min_percent": 0
+      },
+      {
+       "subject": "Business Studies",
+       "min_percent": 0
+      },
+      {
+       "subject": "Accounting",
+       "min_percent": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Business and Information Administration",
+   "faculty": "Faculty of Business and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 26,
+   "min_aps_maths_lit": 28,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.9",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Part-time applicants must be employed (preferably in admin) and submit a CV and employment letter. The faculty prioritises Choice 1 applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 30
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "One related subject, any mark",
+     "options": [
+      {
+       "subject": "Business Studies",
+       "min_percent": 0
+      },
+      {
+       "subject": "Economics",
+       "min_percent": 0
+      },
+      {
+       "subject": "Accounting",
+       "min_percent": 0
+      },
+      {
+       "subject": "Computer Applications Technology",
+       "min_percent": 0
+      },
+      {
+       "subject": "Information Technology",
+       "min_percent": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Business and Information Administration (Extended Curriculum)",
+   "faculty": "Faculty of Business and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": true,
+   "duration_years": 4,
+   "nsc_pass_required": "diploma",
+   "min_aps": 24,
+   "min_aps_maths_lit": 26,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.9",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Part-time applicants must be employed (preferably in admin) and submit a CV and employment letter. The faculty prioritises Choice 1 applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 30
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "One related subject, any mark",
+     "options": [
+      {
+       "subject": "Business Studies",
+       "min_percent": 0
+      },
+      {
+       "subject": "Economics",
+       "min_percent": 0
+      },
+      {
+       "subject": "Accounting",
+       "min_percent": 0
+      },
+      {
+       "subject": "Computer Applications Technology",
+       "min_percent": 0
+      },
+      {
+       "subject": "Information Technology",
+       "min_percent": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Tourism Management",
+   "faculty": "Faculty of Business and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 28,
+   "min_aps_maths_lit": 30,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.9",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Motivation letter required. The faculty prioritises Choice 1 applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 30
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "One related subject, any mark",
+     "options": [
+      {
+       "subject": "Tourism",
+       "min_percent": 0
+      },
+      {
+       "subject": "Economics",
+       "min_percent": 0
+      },
+      {
+       "subject": "Hospitality Studies",
+       "min_percent": 0
+      },
+      {
+       "subject": "Business Studies",
+       "min_percent": 0
+      },
+      {
+       "subject": "Accounting",
+       "min_percent": 0
+      },
+      {
+       "subject": "Consumer Studies",
+       "min_percent": 0
+      },
+      {
+       "subject": "History",
+       "min_percent": 0
+      },
+      {
+       "subject": "Geography",
+       "min_percent": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Tourism Management (Extended Curriculum)",
+   "faculty": "Faculty of Business and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": true,
+   "duration_years": 4,
+   "nsc_pass_required": "diploma",
+   "min_aps": 24,
+   "min_aps_maths_lit": 26,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.9",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Motivation letter required. The faculty prioritises Choice 1 applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 30
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "One related subject, any mark",
+     "options": [
+      {
+       "subject": "Tourism",
+       "min_percent": 0
+      },
+      {
+       "subject": "Economics",
+       "min_percent": 0
+      },
+      {
+       "subject": "Hospitality Studies",
+       "min_percent": 0
+      },
+      {
+       "subject": "Business Studies",
+       "min_percent": 0
+      },
+      {
+       "subject": "Accounting",
+       "min_percent": 0
+      },
+      {
+       "subject": "Consumer Studies",
+       "min_percent": 0
+      },
+      {
+       "subject": "History",
+       "min_percent": 0
+      },
+      {
+       "subject": "Geography",
+       "min_percent": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Events Management",
+   "faculty": "Faculty of Business and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 28,
+   "min_aps_maths_lit": 30,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.9",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Motivation letter required. Considered beyond Choice 1.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 30
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "One related subject, any mark",
+     "options": [
+      {
+       "subject": "Tourism",
+       "min_percent": 0
+      },
+      {
+       "subject": "Economics",
+       "min_percent": 0
+      },
+      {
+       "subject": "Hospitality Studies",
+       "min_percent": 0
+      },
+      {
+       "subject": "Business Studies",
+       "min_percent": 0
+      },
+      {
+       "subject": "Accounting",
+       "min_percent": 0
+      },
+      {
+       "subject": "Computer Applications Technology",
+       "min_percent": 0
+      },
+      {
+       "subject": "Information Technology",
+       "min_percent": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Events Management (Extended Curriculum)",
+   "faculty": "Faculty of Business and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": true,
+   "duration_years": 4,
+   "nsc_pass_required": "diploma",
+   "min_aps": 24,
+   "min_aps_maths_lit": 26,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.9",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Motivation letter required. Considered beyond Choice 1.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 30
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "One related subject, any mark",
+     "options": [
+      {
+       "subject": "Tourism",
+       "min_percent": 0
+      },
+      {
+       "subject": "Economics",
+       "min_percent": 0
+      },
+      {
+       "subject": "Hospitality Studies",
+       "min_percent": 0
+      },
+      {
+       "subject": "Business Studies",
+       "min_percent": 0
+      },
+      {
+       "subject": "Accounting",
+       "min_percent": 0
+      },
+      {
+       "subject": "Computer Applications Technology",
+       "min_percent": 0
+      },
+      {
+       "subject": "Information Technology",
+       "min_percent": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Marketing",
+   "faculty": "Faculty of Business and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 26,
+   "min_aps_maths_lit": 28,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.9",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Part-time applicants must be employed full-time with marketing experience. The faculty prioritises Choice 1 applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 30
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "One of: Business Studies, Accounting, Economics",
+     "options": [
+      {
+       "subject": "Business Studies",
+       "min_percent": 50
+      },
+      {
+       "subject": "Accounting",
+       "min_percent": 50
+      },
+      {
+       "subject": "Economics",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Marketing (Extended Curriculum)",
+   "faculty": "Faculty of Business and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": true,
+   "duration_years": 4,
+   "nsc_pass_required": "diploma",
+   "min_aps": 24,
+   "min_aps_maths_lit": 26,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.9",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Part-time applicants must be employed full-time with marketing experience. The faculty prioritises Choice 1 applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 30
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "One of: Business Studies, Accounting, Economics",
+     "options": [
+      {
+       "subject": "Business Studies",
+       "min_percent": 50
+      },
+      {
+       "subject": "Accounting",
+       "min_percent": 50
+      },
+      {
+       "subject": "Economics",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Operations Management",
+   "faculty": "Faculty of Business and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 28,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.9",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Mathematics required (Maths Lit not accepted). The faculty prioritises Choice 1 applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Public Administration",
+   "faculty": "Faculty of Business and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 28,
+   "min_aps_maths_lit": 28,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.9",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Part-time applicants should preferably work in the public sector. The faculty prioritises Choice 1 applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 30
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "One of: Economics, Business Studies, Accounting",
+     "options": [
+      {
+       "subject": "Economics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Business Studies",
+       "min_percent": 40
+      },
+      {
+       "subject": "Accounting",
+       "min_percent": 40
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Public Administration (Extended Curriculum)",
+   "faculty": "Faculty of Business and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": true,
+   "duration_years": 4,
+   "nsc_pass_required": "diploma",
+   "min_aps": 24,
+   "min_aps_maths_lit": 24,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.9",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). The faculty prioritises Choice 1 applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 30
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 40
+      }
+     ]
+    },
+    {
+     "description": "One of: Economics, Business Studies, Accounting",
+     "options": [
+      {
+       "subject": "Economics",
+       "min_percent": 30
+      },
+      {
+       "subject": "Business Studies",
+       "min_percent": 30
+      },
+      {
+       "subject": "Accounting",
+       "min_percent": 30
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Retail Business Management",
+   "faculty": "Faculty of Business and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 26,
+   "min_aps_maths_lit": 26,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.9",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). An NSC with 3+ years' retail experience is also considered. The faculty prioritises Choice 1 applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 30
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Sport and Leisure Management",
+   "faculty": "Faculty of Business and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 25,
+   "min_aps_maths_lit": 27,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.9",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Applicants complete a Non-Academic Review form for Sport Management. The faculty prioritises Choice 1 applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 30
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Sport and Leisure Management (Extended Curriculum)",
+   "faculty": "Faculty of Business and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": true,
+   "duration_years": 4,
+   "nsc_pass_required": "diploma",
+   "min_aps": 23,
+   "min_aps_maths_lit": 25,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.9",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Applicants complete a Non-Academic Review form for Sport Management. The faculty prioritises Choice 1 applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 30
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Hospitality and Hotel Management",
+   "faculty": "Faculty of Business and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 26,
+   "min_aps_maths_lit": 28,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.9",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Cape Town Hotel School. Work experience recommended. The faculty prioritises Choice 1 applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 30
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "One related subject, any mark",
+     "options": [
+      {
+       "subject": "Accounting",
+       "min_percent": 0
+      },
+      {
+       "subject": "Consumer Studies",
+       "min_percent": 0
+      },
+      {
+       "subject": "Business Studies",
+       "min_percent": 0
+      },
+      {
+       "subject": "Hospitality Studies",
+       "min_percent": 0
+      },
+      {
+       "subject": "Life Sciences",
+       "min_percent": 0
+      },
+      {
+       "subject": "Tourism",
+       "min_percent": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Hospitality and Food and Beverage Management",
+   "faculty": "Faculty of Business and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 26,
+   "min_aps_maths_lit": 28,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.9",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Cape Town Hotel School. Work experience recommended. The faculty prioritises Choice 1 applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 30
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "One related subject, any mark",
+     "options": [
+      {
+       "subject": "Accounting",
+       "min_percent": 0
+      },
+      {
+       "subject": "Consumer Studies",
+       "min_percent": 0
+      },
+      {
+       "subject": "Business Studies",
+       "min_percent": 0
+      },
+      {
+       "subject": "Hospitality Studies",
+       "min_percent": 0
+      },
+      {
+       "subject": "Life Sciences",
+       "min_percent": 0
+      },
+      {
+       "subject": "Tourism",
+       "min_percent": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Hospitality Management and Professional Cookery",
+   "faculty": "Faculty of Business and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 26,
+   "min_aps_maths_lit": 28,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.9",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Cape Town Hotel School. Work experience recommended. The faculty prioritises Choice 1 applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 30
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "One related subject, any mark",
+     "options": [
+      {
+       "subject": "Accounting",
+       "min_percent": 0
+      },
+      {
+       "subject": "Consumer Studies",
+       "min_percent": 0
+      },
+      {
+       "subject": "Business Studies",
+       "min_percent": 0
+      },
+      {
+       "subject": "Hospitality Studies",
+       "min_percent": 0
+      },
+      {
+       "subject": "Life Sciences",
+       "min_percent": 0
+      },
+      {
+       "subject": "Tourism",
+       "min_percent": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Real Estate",
+   "faculty": "Faculty of Business and Management Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 26,
+   "min_aps_maths_lit": 26,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.9",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Full-time requirement; distance students must work in real estate (RPL route available). The faculty prioritises Choice 1 applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 30
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "One of: Economics, Business Studies, Accounting",
+     "options": [
+      {
+       "subject": "Economics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Business Studies",
+       "min_percent": 50
+      },
+      {
+       "subject": "Accounting",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Paralegal Studies",
+   "faculty": "Faculty of Business and Management Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": null,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 30,
+   "min_aps_maths_lit": 30,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.9",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Applied Legal Studies. The faculty prioritises Choice 1 applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Another official language (not English), HL or FAL",
+     "options": [
+      {
+       "subject": "Afrikaans Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Afrikaans First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "isiNdebele Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "isiNdebele First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "isiXhosa Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "isiXhosa First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "isiZulu Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "isiZulu First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Sepedi Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Sepedi First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Sesotho Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Sesotho First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Setswana Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Setswana First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Siswati Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Siswati First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Tshivenda Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Tshivenda First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Xitsonga Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Xitsonga First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bachelor of Education in Foundation Phase Teaching",
+   "faculty": "Faculty of Education",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 4,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 32,
+   "min_aps_maths_lit": 32,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.10",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Bachelor's pass. Mowbray campus teaches in English, Wellington in Afrikaans. Selection uses Grade 11 results, may include admission exams and interviews. Faculty prioritises Choice 1.",
+   "requirements": [
+    {
+     "description": "Home Language: Afrikaans, English or isiXhosa",
+     "options": [
+      {
+       "subject": "Afrikaans Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "isiXhosa Home Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "First Additional Language: Afrikaans, English or isiXhosa",
+     "options": [
+      {
+       "subject": "Afrikaans First Additional Language",
+       "min_percent": 40
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 40
+      },
+      {
+       "subject": "isiXhosa First Additional Language",
+       "min_percent": 40
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 60
+      }
+     ]
+    }
+   ],
+   "closes_on": "2026-08-31"
+  },
+  {
+   "name": "Bachelor of Education in Intermediate Phase Teaching",
+   "faculty": "Faculty of Education",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 4,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 32,
+   "min_aps_maths_lit": 32,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.10",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Bachelor's pass. Technology-related subjects also count for the 2-3 elective subjects. Mowbray campus teaches in English, Wellington in Afrikaans. Selection uses Grade 11 results, may include admission exams and interviews. Faculty prioritises Choice 1.",
+   "requirements": [
+    {
+     "description": "Home Language: Afrikaans, English or isiXhosa",
+     "options": [
+      {
+       "subject": "Afrikaans Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "isiXhosa Home Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "First Additional Language: Afrikaans, English or isiXhosa",
+     "options": [
+      {
+       "subject": "Afrikaans First Additional Language",
+       "min_percent": 40
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 40
+      },
+      {
+       "subject": "isiXhosa First Additional Language",
+       "min_percent": 40
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Two of: Dramatic Arts, Geography, History, Life Sciences, Music, Physical Sciences, Visual Arts",
+     "options": [
+      {
+       "subject": "Dramatic Arts",
+       "min_percent": 50
+      },
+      {
+       "subject": "Geography",
+       "min_percent": 50
+      },
+      {
+       "subject": "History",
+       "min_percent": 50
+      },
+      {
+       "subject": "Life Sciences",
+       "min_percent": 50
+      },
+      {
+       "subject": "Music",
+       "min_percent": 50
+      },
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      },
+      {
+       "subject": "Visual Arts",
+       "min_percent": 50
+      }
+     ],
+     "min_count": 2
+    }
+   ],
+   "closes_on": "2026-08-31"
+  },
+  {
+   "name": "Bachelor of Education in Senior Phase and FET Teaching",
+   "faculty": "Faculty of Education",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 4,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 32,
+   "min_aps_maths_lit": 32,
+   "min_aps_tech_maths": 32,
+   "source_ref": "CPUT Prospectus 2027 p.10",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Any 3 subjects at 50%; to choose Maths, Maths Lit, Accounting, Physical Sciences or Life Sciences as an elective you need 50% in it. Bachelor's pass. Mowbray campus teaches in English, Wellington in Afrikaans. Selection uses Grade 11 results, may include admission exams and interviews. Faculty prioritises Choice 1.",
+   "requirements": [
+    {
+     "description": "Home Language: Afrikaans, English or isiXhosa",
+     "options": [
+      {
+       "subject": "Afrikaans Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "isiXhosa Home Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "First Additional Language: Afrikaans, English or isiXhosa",
+     "options": [
+      {
+       "subject": "Afrikaans First Additional Language",
+       "min_percent": 40
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 40
+      },
+      {
+       "subject": "isiXhosa First Additional Language",
+       "min_percent": 40
+      }
+     ]
+    }
+   ],
+   "closes_on": "2026-08-31"
+  },
+  {
+   "name": "Diploma in Grade R Teaching",
+   "faculty": "Faculty of Education",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": null,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.10",
+   "notes": "Part-time (Mowbray and Wellington). Needs a diploma pass and/or an ECD Level 4/5 qualification, plus evidence of working in a Grade R class at a WCED-registered centre or school. No APS published.",
+   "requirements": [],
+   "closes_on": "2026-08-31"
+  },
+  {
+   "name": "Diploma in Early Childhood Care and Education",
+   "faculty": "Faculty of Education",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": null,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.10",
+   "notes": "Mowbray only (Friday afternoons and Saturday mornings). Needs a diploma pass or Level 4/5 Early Childhood Diploma, plus evidence of working with children aged 0-4 at a WCED-registered centre. No APS published.",
+   "requirements": [],
+   "closes_on": "2026-08-31"
+  },
+  {
+   "name": "Bachelor of Health Sciences in Medical Laboratory Sciences",
+   "faculty": "Faculty of Health and Wellness Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 4,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 38,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.11",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Preference goes to higher APS; faculty prioritises first-choice applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Life Sciences",
+     "options": [
+      {
+       "subject": "Life Sciences",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ],
+   "closes_on": "2026-06-30"
+  },
+  {
+   "name": "Bachelor of Health Sciences in Medical Laboratory Sciences (Extended Curriculum)",
+   "faculty": "Faculty of Health and Wellness Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": true,
+   "duration_years": 5,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 30,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.11",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). APS 30-37. Level 3 (min 48%) in Maths or Physical Sciences may be considered, subject to space. Preference goes to higher APS; faculty prioritises first-choice applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Life Sciences",
+     "options": [
+      {
+       "subject": "Life Sciences",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ],
+   "closes_on": "2026-06-30"
+  },
+  {
+   "name": "Higher Certificate in Dental Assisting",
+   "faculty": "Faculty of Health and Wellness Sciences",
+   "qualification_type": "higher_certificate",
+   "is_extended": false,
+   "duration_years": 1,
+   "nsc_pass_required": "higher_certificate",
+   "min_aps": 25,
+   "min_aps_maths_lit": 25,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.11",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Preference goes to higher APS; faculty prioritises first-choice applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 40
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 40
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 30
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 40
+      }
+     ]
+    },
+    {
+     "description": "Life Sciences",
+     "options": [
+      {
+       "subject": "Life Sciences",
+       "min_percent": 40
+      }
+     ]
+    }
+   ],
+   "closes_on": "2026-06-30"
+  },
+  {
+   "name": "Higher Certificate in Emergency Medical Care",
+   "faculty": "Faculty of Health and Wellness Sciences",
+   "qualification_type": "higher_certificate",
+   "is_extended": false,
+   "duration_years": 1,
+   "nsc_pass_required": "higher_certificate",
+   "min_aps": 26,
+   "min_aps_maths_lit": 26,
+   "min_aps_tech_maths": 26,
+   "source_ref": "CPUT Prospectus 2027 p.11",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Selection interview, medical, physical and environmental assessment. Preference goes to higher APS; faculty prioritises first-choice applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 40
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 40
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 70
+      }
+     ]
+    },
+    {
+     "description": "Life Sciences or Physical Sciences",
+     "options": [
+      {
+       "subject": "Life Sciences",
+       "min_percent": 40
+      },
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 40
+      }
+     ]
+    }
+   ],
+   "closes_on": "2026-07-31"
+  },
+  {
+   "name": "Diploma in Emergency Care",
+   "faculty": "Faculty of Health and Wellness Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 2,
+   "nsc_pass_required": "diploma",
+   "min_aps": 28,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.11",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Selection interview, medical, physical and environmental assessment. Preference goes to higher APS; faculty prioritises first-choice applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 40
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 40
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      }
+     ]
+    },
+    {
+     "description": "Life Sciences",
+     "options": [
+      {
+       "subject": "Life Sciences",
+       "min_percent": 40
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 40
+      }
+     ]
+    }
+   ],
+   "closes_on": "2026-07-31"
+  },
+  {
+   "name": "Bachelor of Emergency Medical Care",
+   "faculty": "Faculty of Health and Wellness Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 4,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 35,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.11",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Selection interview, medical, physical and environmental assessment. Preference goes to higher APS; faculty prioritises first-choice applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Life Sciences",
+     "options": [
+      {
+       "subject": "Life Sciences",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ],
+   "closes_on": "2026-07-31"
+  },
+  {
+   "name": "Bachelor of Emergency Medical Care (Extended Curriculum)",
+   "faculty": "Faculty of Health and Wellness Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": true,
+   "duration_years": 5,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 30,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.11",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). APS 30-34. Subject to space, 47-49% in one of English, Maths, Life Sciences or Physical Sciences may be considered. Preference goes to higher APS; faculty prioritises first-choice applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Life Sciences",
+     "options": [
+      {
+       "subject": "Life Sciences",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ],
+   "closes_on": "2026-07-31"
+  },
+  {
+   "name": "Diploma in Somatology",
+   "faculty": "Faculty of Health and Wellness Sciences",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 24,
+   "min_aps_maths_lit": 25,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.11",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Hepatitis inoculation required once accepted. Preference goes to higher APS; faculty prioritises first-choice applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Life Sciences",
+     "options": [
+      {
+       "subject": "Life Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ],
+   "closes_on": "2026-07-31"
+  },
+  {
+   "name": "Bachelor of Nursing",
+   "faculty": "Faculty of Health and Wellness Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 4,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 30,
+   "min_aps_maths_lit": 30,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.11",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Online interview for selected applicants. Preference goes to higher APS; faculty prioritises first-choice applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Life Sciences or Physical Sciences",
+     "options": [
+      {
+       "subject": "Life Sciences",
+       "min_percent": 50
+      },
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ],
+   "closes_on": "2026-06-30"
+  },
+  {
+   "name": "Bachelor of Nursing (Extended Curriculum)",
+   "faculty": "Faculty of Health and Wellness Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": true,
+   "duration_years": 5,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 27,
+   "min_aps_maths_lit": 27,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.11",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). APS 27-29. Online interview for selected applicants. Preference goes to higher APS; faculty prioritises first-choice applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Life Sciences or Physical Sciences",
+     "options": [
+      {
+       "subject": "Life Sciences",
+       "min_percent": 50
+      },
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ],
+   "closes_on": "2026-06-30"
+  },
+  {
+   "name": "Bachelor of Health Sciences in Opticianry",
+   "faculty": "Faculty of Health and Wellness Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": null,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 32,
+   "min_aps_maths_lit": 32,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.11",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Preference goes to higher APS; faculty prioritises first-choice applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Life Sciences",
+     "options": [
+      {
+       "subject": "Life Sciences",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ],
+   "closes_on": "2026-07-31"
+  },
+  {
+   "name": "Bachelor of Science in Diagnostic Radiography",
+   "faculty": "Faculty of Health and Wellness Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 4,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 30,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.11",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Max 65 candidates a year. Online digital health screening questionnaire. Preference goes to higher APS; faculty prioritises first-choice applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Life Sciences or Physical Sciences",
+     "options": [
+      {
+       "subject": "Life Sciences",
+       "min_percent": 50
+      },
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ],
+   "closes_on": "2026-06-30"
+  },
+  {
+   "name": "Bachelor of Science in Diagnostic Ultrasound",
+   "faculty": "Faculty of Health and Wellness Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 4,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 30,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.11",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Max 12 candidates a year. Online digital health screening questionnaire. Preference goes to higher APS; faculty prioritises first-choice applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Life Sciences or Physical Sciences",
+     "options": [
+      {
+       "subject": "Life Sciences",
+       "min_percent": 50
+      },
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ],
+   "closes_on": "2026-06-30"
+  },
+  {
+   "name": "Bachelor of Science in Radiation Therapy",
+   "faculty": "Faculty of Health and Wellness Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 4,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 30,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.11",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Max 14 candidates a year. Online digital health screening questionnaire. Preference goes to higher APS; faculty prioritises first-choice applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Life Sciences or Physical Sciences",
+     "options": [
+      {
+       "subject": "Life Sciences",
+       "min_percent": 50
+      },
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ],
+   "closes_on": "2026-06-30"
+  },
+  {
+   "name": "Bachelor of Science in Nuclear Medicine Technology",
+   "faculty": "Faculty of Health and Wellness Sciences",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 4,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 30,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": null,
+   "source_ref": "CPUT Prospectus 2027 p.11",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Max 7 candidates a year; Life Sciences and Physical Sciences both compulsory. Online digital health screening questionnaire. Preference goes to higher APS; faculty prioritises first-choice applications.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Life Sciences",
+     "options": [
+      {
+       "subject": "Life Sciences",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ],
+   "closes_on": "2026-06-30"
+  },
+  {
+   "name": "Diploma in Architectural Technology",
+   "faculty": "Faculty of Informatics and Design",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 30,
+   "min_aps_maths_lit": 32,
+   "min_aps_tech_maths": 30,
+   "source_ref": "CPUT Prospectus 2027 p.13",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Tech Maths is accepted for TVET students; the Maths APS applies.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 70
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Architectural Technology (Extended Curriculum)",
+   "faculty": "Faculty of Informatics and Design",
+   "qualification_type": "diploma",
+   "is_extended": true,
+   "duration_years": 4,
+   "nsc_pass_required": "diploma",
+   "min_aps": 26,
+   "min_aps_maths_lit": 28,
+   "min_aps_tech_maths": 26,
+   "source_ref": "CPUT Prospectus 2027 p.13",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Tech Maths is accepted for TVET students; the Maths APS applies.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 60
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Interior Design",
+   "faculty": "Faculty of Informatics and Design",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 30,
+   "min_aps_maths_lit": 32,
+   "min_aps_tech_maths": 30,
+   "source_ref": "CPUT Prospectus 2027 p.13",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Tech Maths is accepted for TVET students; the Maths APS applies.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 70
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Interior Design (Extended Curriculum)",
+   "faculty": "Faculty of Informatics and Design",
+   "qualification_type": "diploma",
+   "is_extended": true,
+   "duration_years": 4,
+   "nsc_pass_required": "diploma",
+   "min_aps": 26,
+   "min_aps_maths_lit": 28,
+   "min_aps_tech_maths": 26,
+   "source_ref": "CPUT Prospectus 2027 p.13",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Tech Maths is accepted for TVET students; the Maths APS applies.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 60
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Fashion",
+   "faculty": "Faculty of Informatics and Design",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 28,
+   "min_aps_maths_lit": 28,
+   "min_aps_tech_maths": 28,
+   "source_ref": "CPUT Prospectus 2027 p.13",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Tech Maths is accepted for TVET students; the Maths APS applies.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 60
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Visual Communication Design",
+   "faculty": "Faculty of Informatics and Design",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 28,
+   "min_aps_maths_lit": 28,
+   "min_aps_tech_maths": 28,
+   "source_ref": "CPUT Prospectus 2027 p.13",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Tech Maths is accepted for TVET students; the Maths APS applies.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 60
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Product Design",
+   "faculty": "Faculty of Informatics and Design",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 28,
+   "min_aps_maths_lit": 28,
+   "min_aps_tech_maths": 28,
+   "source_ref": "CPUT Prospectus 2027 p.13",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Tech Maths is accepted for TVET students; the Maths APS applies.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 60
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Jewellery Design and Manufacture",
+   "faculty": "Faculty of Informatics and Design",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 28,
+   "min_aps_maths_lit": 28,
+   "min_aps_tech_maths": 28,
+   "source_ref": "CPUT Prospectus 2027 p.13",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Tech Maths is accepted for TVET students; the Maths APS applies.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 60
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Film Production",
+   "faculty": "Faculty of Informatics and Design",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 30,
+   "min_aps_maths_lit": 30,
+   "min_aps_tech_maths": 30,
+   "source_ref": "CPUT Prospectus 2027 p.13",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). No maths requirement.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 60
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 60
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Photography",
+   "faculty": "Faculty of Informatics and Design",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 30,
+   "min_aps_maths_lit": 30,
+   "min_aps_tech_maths": 30,
+   "source_ref": "CPUT Prospectus 2027 p.13",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). No maths requirement.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Journalism",
+   "faculty": "Faculty of Informatics and Design",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 28,
+   "min_aps_maths_lit": 30,
+   "min_aps_tech_maths": 28,
+   "source_ref": "CPUT Prospectus 2027 p.13",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Tech Maths is accepted for TVET students; the Maths APS applies.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 60
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Another official language (not English), HL or FAL",
+     "options": [
+      {
+       "subject": "Afrikaans Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Afrikaans First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "isiNdebele Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "isiNdebele First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "isiXhosa Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "isiXhosa First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "isiZulu Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "isiZulu First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Sepedi Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Sepedi First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Sesotho Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Sesotho First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Setswana Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Setswana First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Siswati Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Siswati First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Tshivenda Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Tshivenda First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Xitsonga Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Xitsonga First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Public Relations and Communication",
+   "faculty": "Faculty of Informatics and Design",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 28,
+   "min_aps_maths_lit": 30,
+   "min_aps_tech_maths": 28,
+   "source_ref": "CPUT Prospectus 2027 p.13",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Tech Maths is accepted for TVET students; the Maths APS applies.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 60
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Another official language (not English), HL or FAL",
+     "options": [
+      {
+       "subject": "Afrikaans Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Afrikaans First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "isiNdebele Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "isiNdebele First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "isiXhosa Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "isiXhosa First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "isiZulu Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "isiZulu First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Sepedi Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Sepedi First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Sesotho Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Sesotho First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Setswana Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Setswana First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Siswati Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Siswati First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Tshivenda Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Tshivenda First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Xitsonga Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Xitsonga First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 30
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Applications Development",
+   "faculty": "Faculty of Informatics and Design",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 28,
+   "min_aps_maths_lit": 30,
+   "min_aps_tech_maths": 28,
+   "source_ref": "CPUT Prospectus 2027 p.13",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Tech Maths is accepted for TVET students; the Maths APS applies.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 60
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Communication Networks",
+   "faculty": "Faculty of Informatics and Design",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 28,
+   "min_aps_maths_lit": 30,
+   "min_aps_tech_maths": 28,
+   "source_ref": "CPUT Prospectus 2027 p.13",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Tech Maths is accepted for TVET students; the Maths APS applies.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 60
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Multimedia Applications",
+   "faculty": "Faculty of Informatics and Design",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 28,
+   "min_aps_maths_lit": 30,
+   "min_aps_tech_maths": 28,
+   "source_ref": "CPUT Prospectus 2027 p.13",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Tech Maths is accepted for TVET students; the Maths APS applies.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 60
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Higher Certificate in Information and Communication Technology",
+   "faculty": "Faculty of Informatics and Design",
+   "qualification_type": "higher_certificate",
+   "is_extended": false,
+   "duration_years": 1,
+   "nsc_pass_required": "higher_certificate",
+   "min_aps": 24,
+   "min_aps_maths_lit": 26,
+   "min_aps_tech_maths": 24,
+   "source_ref": "CPUT Prospectus 2027 p.13",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Tech Maths is accepted for TVET students; the Maths APS applies.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 60
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Urban and Regional Planning",
+   "faculty": "Faculty of Informatics and Design",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 28,
+   "min_aps_maths_lit": 30,
+   "min_aps_tech_maths": 28,
+   "source_ref": "CPUT Prospectus 2027 p.13",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Tech Maths is accepted for TVET students; the Maths APS applies.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Another official language (not English), HL or FAL",
+     "options": [
+      {
+       "subject": "Afrikaans Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Afrikaans First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "isiNdebele Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "isiNdebele First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "isiXhosa Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "isiXhosa First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "isiZulu Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "isiZulu First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Sepedi Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Sepedi First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Sesotho Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Sesotho First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Setswana Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Setswana First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Siswati Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Siswati First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Tshivenda Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Tshivenda First Additional Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Xitsonga Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "Xitsonga First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "One of: Geography, Economics, Business Studies, Tourism",
+     "options": [
+      {
+       "subject": "Geography",
+       "min_percent": 50
+      },
+      {
+       "subject": "Economics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Business Studies",
+       "min_percent": 50
+      },
+      {
+       "subject": "Tourism",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Chemical Engineering",
+   "faculty": "Faculty of Engineering and the Built Environment",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 30,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 30,
+   "source_ref": "CPUT Prospectus 2027 p.15",
+   "notes": "APS Method 2: (Maths x2 + Physical Sciences x2 + English + next best subject) / 10. Maths Lit not accepted. Physical Sciences required (not Technical Sciences).",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ],
+   "aps_weights": [
+    {
+     "subjects": [
+      "Mathematics",
+      "Technical Mathematics"
+     ],
+     "weight": 2
+    },
+    {
+     "subjects": [
+      "Physical Sciences",
+      "Technical Sciences"
+     ],
+     "weight": 2
+    }
+   ],
+   "aps_subjects_counted": 4
+  },
+  {
+   "name": "Diploma in Chemical Engineering (Extended Curriculum)",
+   "faculty": "Faculty of Engineering and the Built Environment",
+   "qualification_type": "diploma",
+   "is_extended": true,
+   "duration_years": 4,
+   "nsc_pass_required": "diploma",
+   "min_aps": 27,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 27,
+   "source_ref": "CPUT Prospectus 2027 p.15",
+   "notes": "APS Method 2: (Maths x2 + Physical Sciences x2 + English + next best subject) / 10. APS 27-29. Maths Lit not accepted. ECP subject to space: English 50%, Maths and Physical Sciences one at 50% and the other at 40% (min 45%), or Tech Maths/Tech Sciences one at 60% and the other at 50% (min 55%). APS 23-26 waitlisted. Physical Sciences required (not Technical Sciences).",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ],
+   "aps_weights": [
+    {
+     "subjects": [
+      "Mathematics",
+      "Technical Mathematics"
+     ],
+     "weight": 2
+    },
+    {
+     "subjects": [
+      "Physical Sciences",
+      "Technical Sciences"
+     ],
+     "weight": 2
+    }
+   ],
+   "aps_subjects_counted": 4
+  },
+  {
+   "name": "Bachelor of Engineering Technology in Chemical Engineering",
+   "faculty": "Faculty of Engineering and the Built Environment",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 36,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 36,
+   "source_ref": "CPUT Prospectus 2027 p.15",
+   "notes": "APS Method 2: (Maths x2 + Physical Sciences x2 + English + next best subject) / 10. Maths Lit not accepted. Physical Sciences required (not Technical Sciences).",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 60
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 60
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 60
+      }
+     ]
+    }
+   ],
+   "aps_weights": [
+    {
+     "subjects": [
+      "Mathematics",
+      "Technical Mathematics"
+     ],
+     "weight": 2
+    },
+    {
+     "subjects": [
+      "Physical Sciences",
+      "Technical Sciences"
+     ],
+     "weight": 2
+    }
+   ],
+   "aps_subjects_counted": 4
+  },
+  {
+   "name": "Diploma in Civil Engineering",
+   "faculty": "Faculty of Engineering and the Built Environment",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 30,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 30,
+   "source_ref": "CPUT Prospectus 2027 p.15",
+   "notes": "APS Method 2: (Maths x2 + Physical Sciences x2 + English + next best subject) / 10. Maths Lit not accepted.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences or Technical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Sciences",
+       "min_percent": 60
+      }
+     ]
+    }
+   ],
+   "aps_weights": [
+    {
+     "subjects": [
+      "Mathematics",
+      "Technical Mathematics"
+     ],
+     "weight": 2
+    },
+    {
+     "subjects": [
+      "Physical Sciences",
+      "Technical Sciences"
+     ],
+     "weight": 2
+    }
+   ],
+   "aps_subjects_counted": 4
+  },
+  {
+   "name": "Diploma in Civil Engineering (Extended Curriculum)",
+   "faculty": "Faculty of Engineering and the Built Environment",
+   "qualification_type": "diploma",
+   "is_extended": true,
+   "duration_years": 4,
+   "nsc_pass_required": "diploma",
+   "min_aps": 27,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 27,
+   "source_ref": "CPUT Prospectus 2027 p.15",
+   "notes": "APS Method 2: (Maths x2 + Physical Sciences x2 + English + next best subject) / 10. APS 27-29. Maths Lit not accepted. ECP subject to space: English 50%, Maths and Physical Sciences one at 50% and the other at 40% (min 45%), or Tech Maths/Tech Sciences one at 60% and the other at 50% (min 55%). APS 23-26 waitlisted.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences or Technical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Sciences",
+       "min_percent": 60
+      }
+     ]
+    }
+   ],
+   "aps_weights": [
+    {
+     "subjects": [
+      "Mathematics",
+      "Technical Mathematics"
+     ],
+     "weight": 2
+    },
+    {
+     "subjects": [
+      "Physical Sciences",
+      "Technical Sciences"
+     ],
+     "weight": 2
+    }
+   ],
+   "aps_subjects_counted": 4
+  },
+  {
+   "name": "Diploma in Geomatics",
+   "faculty": "Faculty of Engineering and the Built Environment",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 30,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 30,
+   "source_ref": "CPUT Prospectus 2027 p.15",
+   "notes": "APS Method 2: (Maths x2 + Physical Sciences x2 + English + next best subject) / 10. Maths Lit not accepted. Combines surveying and cartography.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences or Technical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Sciences",
+       "min_percent": 60
+      }
+     ]
+    }
+   ],
+   "aps_weights": [
+    {
+     "subjects": [
+      "Mathematics",
+      "Technical Mathematics"
+     ],
+     "weight": 2
+    },
+    {
+     "subjects": [
+      "Physical Sciences",
+      "Technical Sciences"
+     ],
+     "weight": 2
+    }
+   ],
+   "aps_subjects_counted": 4
+  },
+  {
+   "name": "Bachelor of Engineering Technology in Civil Engineering",
+   "faculty": "Faculty of Engineering and the Built Environment",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 36,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 36,
+   "source_ref": "CPUT Prospectus 2027 p.15",
+   "notes": "APS Method 2: (Maths x2 + Physical Sciences x2 + English + next best subject) / 10. Maths Lit not accepted.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 60
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 60
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences or Technical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 60
+      },
+      {
+       "subject": "Technical Sciences",
+       "min_percent": 60
+      }
+     ]
+    }
+   ],
+   "aps_weights": [
+    {
+     "subjects": [
+      "Mathematics",
+      "Technical Mathematics"
+     ],
+     "weight": 2
+    },
+    {
+     "subjects": [
+      "Physical Sciences",
+      "Technical Sciences"
+     ],
+     "weight": 2
+    }
+   ],
+   "aps_subjects_counted": 4
+  },
+  {
+   "name": "Bachelor of Geomatics",
+   "faculty": "Faculty of Engineering and the Built Environment",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 36,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 36,
+   "source_ref": "CPUT Prospectus 2027 p.15",
+   "notes": "APS Method 2: (Maths x2 + Physical Sciences x2 + English + next best subject) / 10. Maths Lit not accepted.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 60
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 60
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences or Technical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 60
+      },
+      {
+       "subject": "Technical Sciences",
+       "min_percent": 60
+      }
+     ]
+    }
+   ],
+   "aps_weights": [
+    {
+     "subjects": [
+      "Mathematics",
+      "Technical Mathematics"
+     ],
+     "weight": 2
+    },
+    {
+     "subjects": [
+      "Physical Sciences",
+      "Technical Sciences"
+     ],
+     "weight": 2
+    }
+   ],
+   "aps_subjects_counted": 4
+  },
+  {
+   "name": "Diploma in Clothing and Textile Technology",
+   "faculty": "Faculty of Engineering and the Built Environment",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 26,
+   "min_aps_maths_lit": 28,
+   "min_aps_tech_maths": 26,
+   "source_ref": "CPUT Prospectus 2027 p.15",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). The only Engineering programme that accepts Maths Lit. Online selection test.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics or Mathematical Literacy",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 40
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      },
+      {
+       "subject": "Mathematical Literacy",
+       "min_percent": 50
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Construction",
+   "faculty": "Faculty of Engineering and the Built Environment",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 25,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 25,
+   "source_ref": "CPUT Prospectus 2027 p.15",
+   "notes": "APS Method 1 (best 6 subjects' % / 10). Maths Lit not accepted. APS from NSC ratings (Method 1 used). ECP APS 23-24. Recommended: one of Accounting, Business Studies, Economics, Civil Technology, EGD, CAT, IT, Physical Sciences or Technical Sciences at 40%.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diploma in Engineering Technology in Electrical Engineering",
+   "faculty": "Faculty of Engineering and the Built Environment",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 30,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 30,
+   "source_ref": "CPUT Prospectus 2027 p.15",
+   "notes": "APS Method 2: (Maths x2 + Physical Sciences x2 + English + next best subject) / 10. Maths Lit not accepted. Recommended: one of CAT, IT or Electrical Technology at 50%.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences or Technical Sciences or Electrical Technology",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Sciences",
+       "min_percent": 60
+      },
+      {
+       "subject": "Electrical Technology",
+       "min_percent": 50
+      }
+     ]
+    }
+   ],
+   "aps_weights": [
+    {
+     "subjects": [
+      "Mathematics",
+      "Technical Mathematics"
+     ],
+     "weight": 2
+    },
+    {
+     "subjects": [
+      "Physical Sciences",
+      "Technical Sciences",
+      "Electrical Technology"
+     ],
+     "weight": 2
+    }
+   ],
+   "aps_subjects_counted": 4
+  },
+  {
+   "name": "Diploma in Engineering Technology in Electrical Engineering (Extended Curriculum)",
+   "faculty": "Faculty of Engineering and the Built Environment",
+   "qualification_type": "diploma",
+   "is_extended": true,
+   "duration_years": 4,
+   "nsc_pass_required": "diploma",
+   "min_aps": 27,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 27,
+   "source_ref": "CPUT Prospectus 2027 p.15",
+   "notes": "APS Method 2: (Maths x2 + Physical Sciences x2 + English + next best subject) / 10. APS 27-29. Maths Lit not accepted. ECP subject to space: English 50%, Maths and Physical Sciences one at 50% and the other at 40% (min 45%), or Tech Maths/Tech Sciences one at 60% and the other at 50% (min 55%). APS 23-26 waitlisted. Recommended: one of CAT, IT or Electrical Technology at 50%.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences or Technical Sciences or Electrical Technology",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Sciences",
+       "min_percent": 60
+      },
+      {
+       "subject": "Electrical Technology",
+       "min_percent": 50
+      }
+     ]
+    }
+   ],
+   "aps_weights": [
+    {
+     "subjects": [
+      "Mathematics",
+      "Technical Mathematics"
+     ],
+     "weight": 2
+    },
+    {
+     "subjects": [
+      "Physical Sciences",
+      "Technical Sciences",
+      "Electrical Technology"
+     ],
+     "weight": 2
+    }
+   ],
+   "aps_subjects_counted": 4
+  },
+  {
+   "name": "Bachelor of Engineering Technology in Electrical Engineering",
+   "faculty": "Faculty of Engineering and the Built Environment",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 36,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 36,
+   "source_ref": "CPUT Prospectus 2027 p.15",
+   "notes": "APS Method 2: (Maths x2 + Physical Sciences x2 + English + next best subject) / 10. Maths Lit not accepted. Recommended: one of CAT, IT or Electrical Technology at 60%.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 60
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 60
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences or Technical Sciences or Electrical Technology",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 60
+      },
+      {
+       "subject": "Technical Sciences",
+       "min_percent": 60
+      },
+      {
+       "subject": "Electrical Technology",
+       "min_percent": 60
+      }
+     ]
+    }
+   ],
+   "aps_weights": [
+    {
+     "subjects": [
+      "Mathematics",
+      "Technical Mathematics"
+     ],
+     "weight": 2
+    },
+    {
+     "subjects": [
+      "Physical Sciences",
+      "Technical Sciences",
+      "Electrical Technology"
+     ],
+     "weight": 2
+    }
+   ],
+   "aps_subjects_counted": 4
+  },
+  {
+   "name": "Diploma in Engineering Technology in Computer Engineering",
+   "faculty": "Faculty of Engineering and the Built Environment",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 30,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 30,
+   "source_ref": "CPUT Prospectus 2027 p.15",
+   "notes": "APS Method 2: (Maths x2 + Physical Sciences x2 + English + next best subject) / 10. Maths Lit not accepted. Recommended: one of CAT, IT or Electrical Technology at 50%.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences or Technical Sciences or Electrical Technology",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Sciences",
+       "min_percent": 60
+      },
+      {
+       "subject": "Electrical Technology",
+       "min_percent": 50
+      }
+     ]
+    }
+   ],
+   "aps_weights": [
+    {
+     "subjects": [
+      "Mathematics",
+      "Technical Mathematics"
+     ],
+     "weight": 2
+    },
+    {
+     "subjects": [
+      "Physical Sciences",
+      "Technical Sciences",
+      "Electrical Technology"
+     ],
+     "weight": 2
+    }
+   ],
+   "aps_subjects_counted": 4
+  },
+  {
+   "name": "Diploma in Engineering Technology in Computer Engineering (Extended Curriculum)",
+   "faculty": "Faculty of Engineering and the Built Environment",
+   "qualification_type": "diploma",
+   "is_extended": true,
+   "duration_years": 4,
+   "nsc_pass_required": "diploma",
+   "min_aps": 27,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 27,
+   "source_ref": "CPUT Prospectus 2027 p.15",
+   "notes": "APS Method 2: (Maths x2 + Physical Sciences x2 + English + next best subject) / 10. APS 27-29. Maths Lit not accepted. ECP subject to space: English 50%, Maths and Physical Sciences one at 50% and the other at 40% (min 45%), or Tech Maths/Tech Sciences one at 60% and the other at 50% (min 55%). APS 23-26 waitlisted. Recommended: one of CAT, IT or Electrical Technology at 50%.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences or Technical Sciences or Electrical Technology",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Sciences",
+       "min_percent": 60
+      },
+      {
+       "subject": "Electrical Technology",
+       "min_percent": 50
+      }
+     ]
+    }
+   ],
+   "aps_weights": [
+    {
+     "subjects": [
+      "Mathematics",
+      "Technical Mathematics"
+     ],
+     "weight": 2
+    },
+    {
+     "subjects": [
+      "Physical Sciences",
+      "Technical Sciences",
+      "Electrical Technology"
+     ],
+     "weight": 2
+    }
+   ],
+   "aps_subjects_counted": 4
+  },
+  {
+   "name": "Bachelor of Engineering Technology in Computer Engineering",
+   "faculty": "Faculty of Engineering and the Built Environment",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 36,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 36,
+   "source_ref": "CPUT Prospectus 2027 p.15",
+   "notes": "APS Method 2: (Maths x2 + Physical Sciences x2 + English + next best subject) / 10. Maths Lit not accepted. Recommended: one of CAT, IT or Electrical Technology at 60%.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 60
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 60
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences or Technical Sciences or Electrical Technology",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 60
+      },
+      {
+       "subject": "Technical Sciences",
+       "min_percent": 60
+      },
+      {
+       "subject": "Electrical Technology",
+       "min_percent": 60
+      }
+     ]
+    }
+   ],
+   "aps_weights": [
+    {
+     "subjects": [
+      "Mathematics",
+      "Technical Mathematics"
+     ],
+     "weight": 2
+    },
+    {
+     "subjects": [
+      "Physical Sciences",
+      "Technical Sciences",
+      "Electrical Technology"
+     ],
+     "weight": 2
+    }
+   ],
+   "aps_subjects_counted": 4
+  },
+  {
+   "name": "Diploma in Industrial Engineering",
+   "faculty": "Faculty of Engineering and the Built Environment",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 30,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 30,
+   "source_ref": "CPUT Prospectus 2027 p.15",
+   "notes": "APS Method 2: (Maths x2 + Physical Sciences x2 + English + next best subject) / 10. Maths Lit not accepted. Recommended: Mechanical Technology at 40%.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences or Technical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Sciences",
+       "min_percent": 60
+      }
+     ]
+    }
+   ],
+   "aps_weights": [
+    {
+     "subjects": [
+      "Mathematics",
+      "Technical Mathematics"
+     ],
+     "weight": 2
+    },
+    {
+     "subjects": [
+      "Physical Sciences",
+      "Technical Sciences"
+     ],
+     "weight": 2
+    }
+   ],
+   "aps_subjects_counted": 4
+  },
+  {
+   "name": "Diploma in Industrial Engineering (Extended Curriculum)",
+   "faculty": "Faculty of Engineering and the Built Environment",
+   "qualification_type": "diploma",
+   "is_extended": true,
+   "duration_years": 4,
+   "nsc_pass_required": "diploma",
+   "min_aps": 27,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 27,
+   "source_ref": "CPUT Prospectus 2027 p.15",
+   "notes": "APS Method 2: (Maths x2 + Physical Sciences x2 + English + next best subject) / 10. APS 27-29. Maths Lit not accepted. ECP subject to space: English 50%, Maths and Physical Sciences one at 50% and the other at 40% (min 45%), or Tech Maths/Tech Sciences one at 60% and the other at 50% (min 55%). APS 23-26 waitlisted. Recommended: Mechanical Technology at 40%.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences or Technical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Sciences",
+       "min_percent": 60
+      }
+     ]
+    }
+   ],
+   "aps_weights": [
+    {
+     "subjects": [
+      "Mathematics",
+      "Technical Mathematics"
+     ],
+     "weight": 2
+    },
+    {
+     "subjects": [
+      "Physical Sciences",
+      "Technical Sciences"
+     ],
+     "weight": 2
+    }
+   ],
+   "aps_subjects_counted": 4
+  },
+  {
+   "name": "Diploma in Mechanical Engineering",
+   "faculty": "Faculty of Engineering and the Built Environment",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 30,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 30,
+   "source_ref": "CPUT Prospectus 2027 p.15",
+   "notes": "APS Method 2: (Maths x2 + Physical Sciences x2 + English + next best subject) / 10. Maths Lit not accepted. Recommended: one of Electrical Technology, EGD or Mechanical Technology at 40%.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences or Technical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Sciences",
+       "min_percent": 60
+      }
+     ]
+    }
+   ],
+   "aps_weights": [
+    {
+     "subjects": [
+      "Mathematics",
+      "Technical Mathematics"
+     ],
+     "weight": 2
+    },
+    {
+     "subjects": [
+      "Physical Sciences",
+      "Technical Sciences"
+     ],
+     "weight": 2
+    }
+   ],
+   "aps_subjects_counted": 4
+  },
+  {
+   "name": "Diploma in Mechanical Engineering (Extended Curriculum)",
+   "faculty": "Faculty of Engineering and the Built Environment",
+   "qualification_type": "diploma",
+   "is_extended": true,
+   "duration_years": 4,
+   "nsc_pass_required": "diploma",
+   "min_aps": 27,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 27,
+   "source_ref": "CPUT Prospectus 2027 p.15",
+   "notes": "APS Method 2: (Maths x2 + Physical Sciences x2 + English + next best subject) / 10. APS 27-29. Maths Lit not accepted. ECP subject to space: English 50%, Maths and Physical Sciences one at 50% and the other at 40% (min 45%), or Tech Maths/Tech Sciences one at 60% and the other at 50% (min 55%). APS 23-26 waitlisted. Recommended: one of Electrical Technology, EGD or Mechanical Technology at 40%.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences or Technical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Sciences",
+       "min_percent": 60
+      }
+     ]
+    }
+   ],
+   "aps_weights": [
+    {
+     "subjects": [
+      "Mathematics",
+      "Technical Mathematics"
+     ],
+     "weight": 2
+    },
+    {
+     "subjects": [
+      "Physical Sciences",
+      "Technical Sciences"
+     ],
+     "weight": 2
+    }
+   ],
+   "aps_subjects_counted": 4
+  },
+  {
+   "name": "Diploma in Mechanical Engineering (Mechatronics)",
+   "faculty": "Faculty of Engineering and the Built Environment",
+   "qualification_type": "diploma",
+   "is_extended": false,
+   "duration_years": 3,
+   "nsc_pass_required": "diploma",
+   "min_aps": 30,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 30,
+   "source_ref": "CPUT Prospectus 2027 p.15",
+   "notes": "APS Method 2: (Maths x2 + Physical Sciences x2 + English + next best subject) / 10. Maths Lit not accepted. Recommended: one of Electrical Technology, EGD or Mechanical Technology at 50%.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences or Technical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Sciences",
+       "min_percent": 60
+      }
+     ]
+    }
+   ],
+   "aps_weights": [
+    {
+     "subjects": [
+      "Mathematics",
+      "Technical Mathematics"
+     ],
+     "weight": 2
+    },
+    {
+     "subjects": [
+      "Physical Sciences",
+      "Technical Sciences"
+     ],
+     "weight": 2
+    }
+   ],
+   "aps_subjects_counted": 4
+  },
+  {
+   "name": "Bachelor of Marine Engineering",
+   "faculty": "Faculty of Engineering and the Built Environment",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": null,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 36,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 36,
+   "source_ref": "CPUT Prospectus 2027 p.15",
+   "notes": "APS Method 2: (Maths x2 + Physical Sciences x2 + English + next best subject) / 10. Maritime Studies. Maths Lit not accepted. Eyesight and medical tests by an approved SAMSA medical practitioner.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 60
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences or Technical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 60
+      },
+      {
+       "subject": "Technical Sciences",
+       "min_percent": 60
+      }
+     ]
+    }
+   ],
+   "aps_weights": [
+    {
+     "subjects": [
+      "Mathematics",
+      "Technical Mathematics"
+     ],
+     "weight": 2
+    },
+    {
+     "subjects": [
+      "Physical Sciences",
+      "Technical Sciences"
+     ],
+     "weight": 2
+    }
+   ],
+   "aps_subjects_counted": 4
+  },
+  {
+   "name": "Bachelor of Marine Engineering (Extended Curriculum)",
+   "faculty": "Faculty of Engineering and the Built Environment",
+   "qualification_type": "bachelor",
+   "is_extended": true,
+   "duration_years": null,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 31,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 31,
+   "source_ref": "CPUT Prospectus 2027 p.15",
+   "notes": "APS Method 2: (Maths x2 + Physical Sciences x2 + English + next best subject) / 10. Maritime Studies. APS 31-35; 28-30 waitlisted. Maths Lit not accepted. Eyesight and medical tests by an approved SAMSA medical practitioner.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences or Technical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ],
+   "aps_weights": [
+    {
+     "subjects": [
+      "Mathematics",
+      "Technical Mathematics"
+     ],
+     "weight": 2
+    },
+    {
+     "subjects": [
+      "Physical Sciences",
+      "Technical Sciences"
+     ],
+     "weight": 2
+    }
+   ],
+   "aps_subjects_counted": 4
+  },
+  {
+   "name": "Bachelor of Nautical Science",
+   "faculty": "Faculty of Engineering and the Built Environment",
+   "qualification_type": "bachelor",
+   "is_extended": false,
+   "duration_years": null,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 36,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 36,
+   "source_ref": "CPUT Prospectus 2027 p.15",
+   "notes": "APS Method 2: (Maths x2 + Physical Sciences x2 + English + next best subject) / 10. Maritime Studies. Maths Lit not accepted. Eyesight and medical tests by an approved SAMSA medical practitioner.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 60
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 60
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences or Technical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 60
+      },
+      {
+       "subject": "Technical Sciences",
+       "min_percent": 60
+      }
+     ]
+    }
+   ],
+   "aps_weights": [
+    {
+     "subjects": [
+      "Mathematics",
+      "Technical Mathematics"
+     ],
+     "weight": 2
+    },
+    {
+     "subjects": [
+      "Physical Sciences",
+      "Technical Sciences"
+     ],
+     "weight": 2
+    }
+   ],
+   "aps_subjects_counted": 4
+  },
+  {
+   "name": "Bachelor of Nautical Science (Extended Curriculum)",
+   "faculty": "Faculty of Engineering and the Built Environment",
+   "qualification_type": "bachelor",
+   "is_extended": true,
+   "duration_years": null,
+   "nsc_pass_required": "bachelor",
+   "min_aps": 31,
+   "min_aps_maths_lit": null,
+   "min_aps_tech_maths": 31,
+   "source_ref": "CPUT Prospectus 2027 p.15",
+   "notes": "APS Method 2: (Maths x2 + Physical Sciences x2 + English + next best subject) / 10. Maritime Studies. APS 31-35; 28-30 waitlisted. Maths Lit not accepted. Eyesight and medical tests by an approved SAMSA medical practitioner.",
+   "requirements": [
+    {
+     "description": "English",
+     "options": [
+      {
+       "subject": "English Home Language",
+       "min_percent": 50
+      },
+      {
+       "subject": "English First Additional Language",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Mathematics or Technical Mathematics",
+     "options": [
+      {
+       "subject": "Mathematics",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Mathematics",
+       "min_percent": 50
+      }
+     ]
+    },
+    {
+     "description": "Physical Sciences or Technical Sciences",
+     "options": [
+      {
+       "subject": "Physical Sciences",
+       "min_percent": 50
+      },
+      {
+       "subject": "Technical Sciences",
+       "min_percent": 50
+      }
+     ]
+    }
+   ],
+   "aps_weights": [
+    {
+     "subjects": [
+      "Mathematics",
+      "Technical Mathematics"
+     ],
+     "weight": 2
+    },
+    {
+     "subjects": [
+      "Physical Sciences",
+      "Technical Sciences"
+     ],
+     "weight": 2
+    }
+   ],
+   "aps_subjects_counted": 4
+  }
+ ],
+ "ambiguities": [
+  {
+   "item": "APS method per course",
+   "issue": "Only Applied Sciences, Accountancy and Engineering print a method",
+   "choice": "Method 1 used where none is printed (Business, Education, Health, Informatics & Design)"
+  },
+  {
+   "item": "Method 2 subject count",
+   "issue": "Method 2 counts 4 subjects, not 6",
+   "choice": "aps_subjects_counted = 4 with Maths/Tech Maths and Physical/Tech Sciences weighted x2"
+  },
+  {
+   "item": "Levels",
+   "issue": "Tables print NSC levels",
+   "choice": "Level 2=30%, 3=40%, 4=50%, 5=60%, 6=70%"
+  },
+  {
+   "item": "'No rating required' subjects",
+   "issue": "Some Business diplomas need one of a list of subjects at any mark",
+   "choice": "min_percent 0"
+  },
+  {
+   "item": "Tech Maths APS",
+   "issue": "Informatics & Design and Engineering print no Tech Maths APS",
+   "choice": "Maths APS used"
+  },
+  {
+   "item": "Not offered",
+   "issue": "BHSc Dental Technology is not accepting 2027 applications (SADTC issue)",
+   "choice": "Left out"
+  }
+ ]
+}

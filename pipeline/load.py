@@ -168,7 +168,8 @@ def load(doc: ProspectusExtract, conn, prune: bool) -> dict:
             values = (uni_id, faculty_ids.get(c.faculty), c.name, c.qualification_type, c.is_extended,
                       c.duration_years, c.nsc_pass_required, c.min_aps, c.min_aps_maths_lit,
                       c.min_aps_tech_maths, year, c.source_ref, c.notes, c.include_lo, c.closes_on,
-                      json.dumps([w.model_dump() for w in c.aps_weights]) if c.aps_weights else None)
+                      json.dumps([w.model_dump() for w in c.aps_weights]) if c.aps_weights else None,
+                      c.aps_subjects_counted)
             existing = cur.execute(
                 "SELECT course_id FROM courses WHERE university_id = %s AND name = %s AND prospectus_year = %s",
                 (uni_id, c.name, year),
@@ -179,8 +180,8 @@ def load(doc: ProspectusExtract, conn, prune: bool) -> dict:
                     """
                     INSERT INTO courses (university_id, faculty_id, name, qualification_type, is_extended,
                         duration_years, nsc_pass_required, min_aps, min_aps_maths_lit, min_aps_tech_maths,
-                        prospectus_year, source_ref, notes, include_lo, closes_on, aps_weights)
-                    VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s::jsonb)
+                        prospectus_year, source_ref, notes, include_lo, closes_on, aps_weights, aps_subjects_counted)
+                    VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s::jsonb, %s)
                     RETURNING course_id
                     """,
                     values,
@@ -196,14 +197,14 @@ def load(doc: ProspectusExtract, conn, prune: bool) -> dict:
                 UPDATE courses SET faculty_id = %s, qualification_type = %s, is_extended = %s,
                     duration_years = %s, nsc_pass_required = %s, min_aps = %s, min_aps_maths_lit = %s,
                     min_aps_tech_maths = %s, source_ref = %s, notes = %s, include_lo = %s, closes_on = %s,
-                    aps_weights = %s::jsonb, is_active = TRUE
+                    aps_weights = %s::jsonb, aps_subjects_counted = %s, is_active = TRUE
                 WHERE course_id = %s
                   AND (faculty_id, qualification_type, is_extended, duration_years, nsc_pass_required,
                        min_aps, min_aps_maths_lit, min_aps_tech_maths, source_ref, notes, include_lo, closes_on,
-                       aps_weights, is_active)
+                       aps_weights, aps_subjects_counted, is_active)
                       IS DISTINCT FROM
                       (%s::int, %s::varchar, %s::bool, %s::numeric, %s::varchar,
-                       %s::smallint, %s::smallint, %s::smallint, %s::text, %s::text, %s::bool, %s::date, %s::jsonb, TRUE)
+                       %s::smallint, %s::smallint, %s::smallint, %s::text, %s::text, %s::bool, %s::date, %s::jsonb, %s::smallint, TRUE)
                 RETURNING course_id
                 """,
                 values[1:2] + values[3:10] + values[11:] + (course_id,) + values[1:2] + values[3:10] + values[11:],
