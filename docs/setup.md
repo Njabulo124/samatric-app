@@ -121,3 +121,14 @@ npm run preview:static   # serves dist/ on http://localhost:8080, like S3 would
 committed; upload its contents to the S3 bucket.
 
 Local development is unchanged: `npm start` still serves the page with the live API.
+
+### Deploying the static site
+
+```powershell
+aws login --profile samatric      # once per session; signs in through the browser
+.\scripts\deploy.ps1              # build, upload to S3, refresh CloudFront
+```
+
+The script sets each file's type and caching itself, removes files that are no longer in `dist/`,
+and tells CloudFront to fetch the new version. The bucket and site address are parameters at the
+top of `scripts/deploy.ps1`.
